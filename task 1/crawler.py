@@ -3,6 +3,7 @@ import requests
 import time
 import bs4
 from urllib.parse import urljoin, urlparse
+from config import *
 
 class Crawler:
     def __init__(self, start_url: str):
@@ -14,9 +15,9 @@ class Crawler:
         self.index_lines = []
 
     def crawl(self):
-        os.makedirs("pages", exist_ok=True)
+        os.makedirs(OUTPUT_DIR, exist_ok=True)
 
-        while self.queue and self.page_id < 100:
+        while self.queue and self.page_id < MAX_PAGES:
             url = self.queue.pop(0)
 
             if url in self.visited:
@@ -36,7 +37,7 @@ class Crawler:
                 html = response.text
 
                 filename = f"{self.page_id}.txt"
-                filepath = os.path.join("pages", filename)
+                filepath = os.path.join(OUTPUT_DIR, filename)
 
                 with open(filepath, 'w', encoding="utf-8") as f:
                     f.write(html)
@@ -47,13 +48,13 @@ class Crawler:
                 self.page_id += 1
 
                 self.parse_urls(url, html)
-                time.sleep(2)
+                time.sleep(DELAY)
 
             except Exception as e:
                 print(f"Error: {e}")
                 continue
 
-        with open("index.txt", "w", encoding="utf-8") as f:
+        with open(INDEX_FILE, "w", encoding="utf-8") as f:
             f.writelines(self.index_lines)
 
         print("\nDone!")
@@ -68,5 +69,23 @@ class Crawler:
 
             if full_url not in self.visited:
                 self.queue.append(full_url)
+
+    def is_valid_url(self, url: str):
+        parsed = urlparse(url)
+
+        if parsed.scheme not in ("http", "https"):
+            return False
+
+        if ALLOWED_DOMAIN not in parsed.netloc:
+            return False
+
+        if any(url.endswith(ext) for ext in [
+            ".jpg", ".png", ".gif", ".svg",
+            ".css", ".js", ".pdf", ".zip"
+        ]):
+            return False
+
+        return True
+
 
         
