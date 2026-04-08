@@ -1,0 +1,2632 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-disabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-disabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-not-available skin-theme-clientpref-thumb-standard" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Dark Souls - Wikidata</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-disabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-disabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-not-available skin-theme-clientpref-thumb-standard";var cookie=document.cookie.match(/(?:^|; )wikidatawikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"46f11b21-f86a-419b-b987-01c1e9f616c9","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Q99431276","wgTitle":"Q99431276","wgCurRevisionId":2469995702,"wgRevisionId":2469995702,"wgArticleId":97375166,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel":"wikibase-item","wgRelevantPageName":"Q99431276","wgRelevantArticleId":97375166,"wgTempUserName":null,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgNoticeProject":"wikidata","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":30000,"wbUserPreferredContentLanguages":["en"],"wbUserSpecifiedLanguages":[],"wbCopyright":{"version":"wikibase-1","messageHtml":"By clicking \"publish\", you agree to the \u003Ca href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\" class=\"extiw\" title=\"wikimedia:Terms of Use\"\u003Eterms of use\u003C/a\u003E, and you irrevocably agree to release your contribution under the \u003Ca rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/publicdomain/zero/1.0/\"\u003ECreative Commons CC0 License\u003C/a\u003E."},"wbBadgeItems":{"Q17437798":"wb-badge-goodarticle","Q17437796":"wb-badge-featuredarticle","Q17559452":"wb-badge-recommendedarticle","Q17506997":"wb-badge-featuredlist","Q17580674":"wb-badge-featuredportal","Q20748091":"wb-badge-notproofread","Q20748094":"wb-badge-problematic","Q20748092":"wb-badge-proofread","Q20748093":"wb-badge-validated","Q28064618":"wb-badge-digitaldocument","Q51759403":"wb-badge-goodlist","Q70893996":"wb-badge-redirect-sitelink","Q70894304":"wb-badge-redirect-intentional-sitelink"},"wbMultiLingualStringLimit":250,"wbTaintedReferencesEnabled":true,"wbIsEditView":true,"wbEntityId":"Q99431276","wgEditSubmitButtonLabelPublish":true,"wgVisualEditorPageIsDisambiguation":false,"wgULSPosition":"personal","wgULSisCompactLinksEnabled":true,"wgVector2022LanguageInHeader":false,"wgULSisLanguageSelectorEmpty":false,"wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"wgTestKitchenUserExperiments":{"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[]}};
+RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","wikibase.alltargets":"ready","wikibase.desktop":"ready","jquery.wikibase.toolbar.styles":"ready","ext.wikimediamessages.styles":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.pt":"ready","wikibase.vector.scopedTypeaheadSearchStyles":"ready","ext.wikidata-org.badges":"ready"};RLPAGEMODULES=["wikibase.entityPage.entityLoaded","wikibase.ui.entityViewInit","ext.parsermigration.survey","site","mediawiki.page.ready","jquery.makeCollapsible","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.AuthorityControl","ext.gadget.SiteIdToInterwiki","ext.gadget.ProtectionIndicators","ext.gadget.imagelinks","ext.gadget.formWizard","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.bootstrap","ext.visualEditor.desktopArticleTarget.init","ext.citoid.wikibase.init","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.wikimediaEvents.wikibase","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","wikibase.databox.fromWikidata","propertySuggester.suggestions","wikibase.quality.constraints.suggestions","wikibase.quality.constraints.gadget","ext.checkUser.clientHints","ext.quicksurveys.init","ext.campaignEvents.postEdit","ext.testKitchen"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.uls.pt%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikidata-org.badges%7Cext.wikimediamessages.styles%7Cjquery.makeCollapsible.styles%7Cjquery.wikibase.toolbar.styles%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles%7Cwikibase.alltargets%2Cdesktop%7Cwikibase.vector.scopedTypeaheadSearchStyles&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.46.0-wmf.22">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:title" content="Dark Souls">
+<meta name="description" content="video game series">
+<meta property="og:description" content="video game series">
+<meta property="og:type" content="summary">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Dark_Souls_logo_black.svg/1280px-Dark_Souls_logo_black.svg.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="148">
+<meta name="viewport" content="width=1120">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" href="https://www.wikidata.org/wiki/Special:EntityData/Q99431276.json" type="application/json">
+<link rel="alternate" href="https://www.wikidata.org/wiki/Special:EntityData/Q99431276.php" type="application/vnd.php.serialized">
+<link rel="alternate" href="https://www.wikidata.org/wiki/Special:EntityData/Q99431276.n3" type="text/n3">
+<link rel="alternate" href="https://www.wikidata.org/wiki/Special:EntityData/Q99431276.ttl" type="text/turtle">
+<link rel="alternate" href="https://www.wikidata.org/wiki/Special:EntityData/Q99431276.nt" type="application/n-triples">
+<link rel="alternate" href="https://www.wikidata.org/wiki/Special:EntityData/Q99431276.rdf" type="application/rdf+xml">
+<link rel="alternate" href="https://www.wikidata.org/wiki/Special:EntityData/Q99431276.jsonld" type="application/ld+json">
+<link rel="alternate" type="application/x-wiki" title="Edit" href="/w/index.php?title=Q99431276&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikidata.png">
+<link rel="icon" href="/static/favicon/wikidata.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/rest.php/v1/search" title="Wikidata (en)">
+<link rel="EditURI" type="application/rsd+xml" href="//www.wikidata.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://www.wikidata.org/wiki/Q99431276">
+<link rel="license" href="/wiki/Wikidata:Copyright">
+<link rel="alternate" type="application/atom+xml" title="Wikidata Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="auth.wikimedia.org">
+</head>
+<body class="skin--responsive skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Q99431276 rootpage-Q99431276 skin-vector-2022 action-view wb-entitypage wb-itempage wb-itempage-Q99431276">
+<div id="mw-aria-live-region" class="mw-aria-live-region" aria-live="polite"></div><a class="mw-jump-link" href="#bodyContent">Jump to content</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header no-font-mode-scale">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Site">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  title="Main menu" >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Main menu"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">Main menu</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Main menu</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">hide</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Navigation
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Wikidata:Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Special:MyLanguage/Project:Community_portal" title="About the project, what you can do, where to find things"><span>Community portal</span></a></li><li id="n-villagepump" class="mw-list-item"><a href="/wiki/Wikidata:Project_chat"><span>Project chat</span></a></li><li id="n-special-newitem" class="mw-list-item"><a href="/wiki/Special:NewItem"><span>Create a new Item</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-wikibase-randomitem" class="mw-list-item"><a href="/wiki/Special:Random/Main" title="[x]" accesskey="x"><span>Random Item</span></a></li><li id="n-wikibase-queryservice" class="mw-list-item"><a href="//query.wikidata.org/"><span>Query Service</span></a></li><li id="n-nearby-pages-title" class="mw-list-item"><a href="/wiki/Special:Nearby"><span>Nearby</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/Special:MyLanguage/Help:Contents" title="The place to find out"><span>Help</span></a></li><li id="n-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-wikibase-lexeme-lexicographical-data" class="vector-menu mw-portlet mw-portlet-wikibase-lexeme-lexicographical-data"  >
+	<div class="vector-menu-heading">
+		Lexicographical data
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-special-newlexeme" class="mw-list-item"><a href="/wiki/Special:NewLexeme"><span>Create a new Lexeme</span></a></li><li id="n-recentchanges-lexemes" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:RecentChanges?namespace=146%3B147"><span>Recent changes</span></a></li><li id="n-wikibase-lexeme-randomlexeme" class="mw-list-item"><a href="/wiki/Special:Random/Lexeme"><span>Random Lexeme</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Wikidata:Main_Page" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikidatawiki.svg" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container skin-invert">
+		<img class="mw-logo-wordmark" alt="Wikidata" src="/static/images/mobile/copyright/wikidatawiki-wordmark.svg" style="width: 8.125em; height: 1.0625em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box">
+	<a href="/wiki/Special:Search" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" title="Search Wikidata [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Search</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input mw-searchInput" autocomplete="off"
+							 type="search" name="search" placeholder="Search Wikidata" aria-label="Search Wikidata" autocapitalize="none" spellcheck="false" title="Search Wikidata [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Special:Search">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Search</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links vector-user-links-wide" aria-label="Personal tools">
+	<div class="vector-user-links-main">
+	
+<div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="ca-uls" class="mw-list-item active user-links-collapsible-item"><a data-mw-interface  href="#" class="uls-trigger cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet"><span class="vector-icon mw-ui-icon-wikimedia-language mw-ui-icon-wikimedia-wikimedia-language"></span>
+
+<span>English</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-userpage" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	<nav class="vector-appearance-landmark" aria-label="Appearance">
+		
+<div id="vector-appearance-dropdown" class="vector-dropdown "  title="Change the appearance of the page&#039;s font size, width, and color" >
+	<input type="checkbox" id="vector-appearance-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-appearance-dropdown" class="vector-dropdown-checkbox "  aria-label="Appearance"  >
+	<label id="vector-appearance-dropdown-label" for="vector-appearance-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-appearance mw-ui-icon-wikimedia-appearance"></span>
+
+<span class="vector-dropdown-label-text">Appearance</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+			<div id="vector-appearance-unpinned-container" class="vector-unpinned-container">
+				
+			</div>
+		
+	</div>
+</div>
+
+	</nav>
+	
+<div id="p-vector-user-menu-notifications" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-sitesupport-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=www.wikidata.org&amp;uselang=en" class=""><span>Donate</span></a>
+</li>
+<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="/w/index.php?title=Special:CreateAccount&amp;returnto=Q99431276" title="You are encouraged to create an account and log in; however, it is not mandatory" class=""><span>Create account</span></a>
+</li>
+<li id="pt-login-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="/w/index.php?title=Special:UserLogin&amp;returnto=Q99431276" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o" class=""><span>Log in</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div>
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out user-links-collapsible-item"  title="More options" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Personal tools"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">Personal tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="User menu" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-sitesupport" class="user-links-collapsible-item mw-list-item"><a href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=www.wikidata.org&amp;uselang=en"><span class="vector-icon mw-ui-icon-heart mw-ui-icon-wikimedia-heart"></span> <span>Donate</span></a></li><li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Q99431276" title="You are encouraged to create an account and log in; however, it is not mandatory"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Create account</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Q99431276" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Log in</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<div class="vector-column-start">
+			<div class="vector-main-menu-container">
+		<div id="mw-navigation">
+			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Site">
+				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+				</div>
+		</nav>
+		</div>
+	</div>
+</div>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body">
+				<header class="mw-body-header vector-page-titlebar no-font-mode-scale">
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="wikibase-title ">
+<span class="wikibase-title-label">Dark Souls</span>
+<span class="wikibase-title-id">(Q99431276)</span>
+</span></h1>
+						<div class="mw-indicators">
+		</div>
+</header>
+				<div class="vector-page-toolbar vector-feature-custom-font-size-clientpref--excluded">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Namespaces">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Q99431276" title="View the item [c]" accesskey="c"><span>Item</span></a></li><li id="ca-talk" class="new vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Talk:Q99431276&amp;action=edit&amp;redlink=1" rel="discussion" class="new" title="Discussion about the content page (page does not exist) [t]" accesskey="t"><span>Discussion</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="vector-variants-dropdown" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="vector-variants-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-variants-dropdown" class="vector-dropdown-checkbox " aria-label="Change language variant"   >
+	<label id="vector-variants-dropdown-label" for="vector-variants-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">English</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Views">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Q99431276"><span>Read</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Q99431276&amp;action=history" title="Past revisions of this page [h]" accesskey="h"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Page tools">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Tools"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Tools</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">hide</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="More options" >
+	<div class="vector-menu-heading">
+		Actions
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/Q99431276"><span>Read</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Q99431276&amp;action=history"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		General
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/Q99431276" title="A list of all wiki pages that link here [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/Q99431276" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Q99431276&amp;oldid=2469995702" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Q99431276&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Q99431276&amp;id=2469995702&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=Special:UrlShortener&amp;url=https%3A%2F%2Fwww.wikidata.org%2Fwiki%2FQ99431276"><span>Get shortened URL</span></a></li><li id="t-wb-concept-uri" class="mw-list-item"><a href="http://www.wikidata.org/entity/Q99431276" title="URI that identifies the concept described by this Item"><span>Concept URI</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export"  >
+	<div class="vector-menu-heading">
+		Print/export
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-create_a_book" class="mw-list-item"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Q99431276"><span>Create a book</span></a></li><li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Q99431276&amp;action=show-download-screen"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Q99431276&amp;printable=yes" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects emptyPortlet"  >
+	<div class="vector-menu-heading">
+		In other projects
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end no-font-mode-scale">
+					<div class="vector-sticky-pinned-container">
+						<div class="wp25eastereggs-vector-sitenotice-landmark"></div>
+						<nav class="vector-page-tools-landmark" aria-label="Page tools">
+							<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+				
+							</div>
+		</nav>
+						<nav class="vector-appearance-landmark" aria-label="Appearance">
+							<div id="vector-appearance-pinned-container" class="vector-pinned-container">
+				<div id="vector-appearance" class="vector-appearance vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-appearance-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="appearance-pinned"
+	data-pinnable-element-id="vector-appearance"
+	data-pinned-container-id="vector-appearance-pinned-container"
+	data-unpinned-container-id="vector-appearance-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Appearance</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-appearance.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-appearance.unpin">hide</button>
+</div>
+
+
+</div>
+
+							</div>
+		</nav>
+					</div>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+					
+						<div id="siteSub" class="noprint">From Wikidata</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content"><div id="wb-item-Q99431276" class="wikibase-entityview wb-item" lang="en" dir="ltr">
+<div class="wikibase-entityview-main"><div class="wikibase-entitytermsview">
+<div class="wikibase-entitytermsview-heading">
+<div class="wikibase-entitytermsview-heading-description ">video game series</div><div class="wikibase-entitytermsview-heading-aliases "><ul class="wikibase-entitytermsview-aliases"><li class="wikibase-entitytermsview-aliases-alias" data-aliases-separator="|">DS</li></ul></div>
+</div>
+<span class="wikibase-toolbar-container"><span class="wikibase-toolbar-item wikibase-toolbar "><span class="wikibase-toolbar-item wikibase-toolbar-button wikibase-toolbar-button-edit"><a href="/wiki/Special:SetLabelDescriptionAliases/Q99431276/en" title=""><span class="wb-icon"></span>edit</a></span></span></span>
+<div class="wikibase-entitytermsview-entitytermsforlanguagelistview "><table class="wikibase-entitytermsforlanguagelistview">
+<thead class="wikibase-entitytermsforlanguagelistview-header">
+<tr class="wikibase-entitytermsforlanguagelistview-header-row">
+<th scope="col" class="wikibase-entitytermsforlanguagelistview-cell wikibase-entitytermsforlanguagelistview-language">Language</th>
+<th scope="col" class="wikibase-entitytermsforlanguagelistview-cell wikibase-entitytermsforlanguagelistview-label">Label</th>
+<th scope="col" class="wikibase-entitytermsforlanguagelistview-cell wikibase-entitytermsforlanguagelistview-description">Description</th>
+<th scope="col" class="wikibase-entitytermsforlanguagelistview-cell wikibase-entitytermsforlanguagelistview-aliases">Also known as</th>
+</tr>
+</thead>
+<tbody class="wikibase-entitytermsforlanguagelistview-listview"><tr class="wikibase-entitytermsforlanguageview wikibase-entitytermsforlanguageview-mul" >
+<th class="wikibase-entitytermsforlanguageview-language">default for all languages</th>
+<td class="wikibase-entitytermsforlanguageview-label"><div class="wikibase-labelview " dir="ltr" lang="mul"><div class="wikibase-labelview-container"><span class="wikibase-labelview-text">Dark Souls</span></div></div></td>
+<td class="wikibase-entitytermsforlanguageview-description"><div class="wikibase-descriptionview wikibase-descriptionview--mul wb-empty" dir="auto" lang="en">
+<div class="wikibase-descriptionview-container">
+<span class="wikibase-descriptionview-text">
+<abbr title="It is not possible to set a default description for all languages"><span aria-hidden="true">–</span></abbr>
+</span>
+</div>
+</div></td>
+<td class="wikibase-entitytermsforlanguageview-aliases"><div class="wikibase-aliasesview wb-empty">
+<ul class="wikibase-aliasesview-list" dir="" lang="mul"></ul>
+
+</div></td>
+
+</tr><tr class="wikibase-entitytermsforlanguageview wikibase-entitytermsforlanguageview-en" >
+<th class="wikibase-entitytermsforlanguageview-language">English</th>
+<td class="wikibase-entitytermsforlanguageview-label"><div class="wikibase-labelview " dir="ltr" lang="en"><div class="wikibase-labelview-container"><span class="wikibase-labelview-text">Dark Souls</span></div></div></td>
+<td class="wikibase-entitytermsforlanguageview-description"><div class="wikibase-descriptionview " dir="ltr" lang="en"><div class="wikibase-descriptionview-container"><span class="wikibase-descriptionview-text">video game series</span></div></div></td>
+<td class="wikibase-entitytermsforlanguageview-aliases"><div class="wikibase-aliasesview ">
+<ul class="wikibase-aliasesview-list" dir="ltr" lang="en"><li class="wikibase-aliasesview-list-item">DS</li></ul>
+
+</div></td>
+
+</tr></tbody>
+</table></div>
+</div><div id="toc"></div><h2 class="wb-section-heading section-heading wikibase-statements" dir="auto" id="claims">Statements</h2><div class="wikibase-statementgrouplistview"><div class="wikibase-listview"><div class="wikibase-statementgroupview" id="P31" data-property-id="P31">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P31" href="/wiki/Property:P31">instance of</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="Q99431276$630c9412-489e-1792-1324-4b7c3e0c4db6" class="wikibase-statementview wikibase-statement-Q99431276$630c9412-489e-1792-1324-4b7c3e0c4db6 wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-28e85ae78b1fad0af0f87f70f08c5f9c3dbbc52f">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q7058673" href="/wiki/Q7058673">video game series</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">0 references</div>
+<div class="wikibase-statementview-references "></div>
+</div>
+</div><div id="Q99431276$00fa97cf-46f4-be58-ac2f-b0712a7201d8" class="wikibase-statementview wikibase-statement-Q99431276$00fa97cf-46f4-be58-ac2f-b0712a7201d8 wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-2a4f7710201f86b2c983e72610b0671d8e5ae6dd">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q559618" href="/wiki/Q559618">fictional universe</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">0 references</div>
+<div class="wikibase-statementview-references "></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div><div class="wikibase-statementgroupview" id="P154" data-property-id="P154">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P154" href="/wiki/Property:P154">logo image</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="Q99431276$6d49f5da-4877-5025-a8f6-408c3424f601" class="wikibase-statementview wikibase-statement-Q99431276$6d49f5da-4877-5025-a8f6-408c3424f601 wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-226b0abfb54770227a44034c5c0b06fdedde4c89">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><div class="thumb"><a class="image" href="https://commons.wikimedia.org/wiki/File:Dark_Souls_logo_black.svg"><span><img src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Dark_Souls_logo_black.svg/250px-Dark_Souls_logo_black.svg.png" decoding="async" width="250" height="31" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Dark_Souls_logo_black.svg/500px-Dark_Souls_logo_black.svg.png 2x" data-file-width="512" data-file-height="63"></span></a></div><div class="commons-media-caption"><a href="https://commons.wikimedia.org/wiki/File:Dark_Souls_logo_black.svg">Dark Souls logo black.svg</a><br>512 × 63; 8 KB</div></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">0 references</div>
+<div class="wikibase-statementview-references "></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div><div class="wikibase-statementgroupview" id="P136" data-property-id="P136">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P136" href="/wiki/Property:P136">genre</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="Q99431276$06A0095B-1EB0-4EF0-B1C9-65014E725D2A" class="wikibase-statementview wikibase-statement-Q99431276$06A0095B-1EB0-4EF0-B1C9-65014E725D2A wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-0833acca9130da6ae25da706d712df5329df6639">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q1422746" href="/wiki/Q1422746">action role-playing game</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">0 references</div>
+<div class="wikibase-statementview-references "></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div><div class="wikibase-statementgroupview" id="P170" data-property-id="P170">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P170" href="/wiki/Property:P170">creator</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="Q99431276$8CB561A3-B1B9-4A25-8CDC-1FB62A213ECA" class="wikibase-statementview wikibase-statement-Q99431276$8CB561A3-B1B9-4A25-8CDC-1FB62A213ECA wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-727619b311d951c5753cc105032ef49a9719aa92">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q11454590" href="/wiki/Q11454590">Hidetaka Miyazaki</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">0 references</div>
+<div class="wikibase-statementview-references "></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div><div class="wikibase-statementgroupview" id="P178" data-property-id="P178">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P178" href="/wiki/Property:P178">developer</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="Q99431276$77FDB407-E089-4D86-BEF1-DDE91DCE9DE1" class="wikibase-statementview wikibase-statement-Q99431276$77FDB407-E089-4D86-BEF1-DDE91DCE9DE1 wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-14e8cef5b41a1002cdb22f2cea7608d45d6e9095">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q2414469" href="/wiki/Q2414469">FromSoftware</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">0 references</div>
+<div class="wikibase-statementview-references "></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div><div class="wikibase-statementgroupview" id="P123" data-property-id="P123">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P123" href="/wiki/Property:P123">publisher</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="Q99431276$06A44FCB-86FC-4BFF-A88B-098E253ADCAE" class="wikibase-statementview wikibase-statement-Q99431276$06A44FCB-86FC-4BFF-A88B-098E253ADCAE wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-34ce44d98d546b9e26d01b1fff75449bd522f979">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q1194689" href="/wiki/Q1194689">Bandai Namco Entertainment</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">0 references</div>
+<div class="wikibase-statementview-references "></div>
+</div>
+</div><div id="Q99431276$E0285019-F378-4C58-8BA6-5EBB7A0B3290" class="wikibase-statementview wikibase-statement-Q99431276$E0285019-F378-4C58-8BA6-5EBB7A0B3290 wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-f4895f7c7c5652d254c200650399b0e6d62c7ece">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q2414469" href="/wiki/Q2414469">FromSoftware</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">0 references</div>
+<div class="wikibase-statementview-references "></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div><div class="wikibase-statementgroupview" id="P86" data-property-id="P86">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P86" href="/wiki/Property:P86">composer</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="Q99431276$1C78342A-3778-4640-84BB-B2E8D7928901" class="wikibase-statementview wikibase-statement-Q99431276$1C78342A-3778-4640-84BB-B2E8D7928901 wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-5eebdeaddabe8bba36751bd7923a87888e8a8b3c">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q1192606" href="/wiki/Q1192606">Motoi Sakuraba</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">0 references</div>
+<div class="wikibase-statementview-references "></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div><div class="wikibase-statementgroupview" id="P2664" data-property-id="P2664">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P2664" href="/wiki/Property:P2664">units sold</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="Q99431276$94c9b07f-43d8-88f1-43eb-ddb48649a62e" class="wikibase-statementview wikibase-statement-Q99431276$94c9b07f-43d8-88f1-43eb-ddb48649a62e wb-preferred">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-preferred" title="Preferred rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-70b16bf169a003204a8d9443ca9c9ef7b4829888">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak">33,400,000</div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"><div class="wikibase-listview"><div class="wikibase-snaklistview">
+<div class="wikibase-snaklistview-listview"><div class="wikibase-snakview wikibase-snakview-091ba3fc681ad10ed3e7ad2797da1487df7236ad">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"><a title="Property:P585" href="/wiki/Property:P585">point in time</a></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak">March 2022</div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+</div></div></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">1 reference</div>
+<div class="wikibase-statementview-references wikibase-initially-collapsed"><div class="wikibase-listview"><div class="wikibase-referenceview wikibase-referenceview-241f025fa74a58ddeb04542c6707ec0570109387">
+<div class="wikibase-referenceview-heading"></div>
+<div class="wikibase-referenceview-listview"><div class="wikibase-snaklistview">
+<div class="wikibase-snaklistview-listview"><div class="wikibase-snakview wikibase-snakview-b4c07fcfd3a1fcf2e8e78bbbb172dac97c4c36d2">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"><a title="Property:P854" href="/wiki/Property:P854">reference URL</a></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a rel="nofollow" class="external free" href="https://www.bandainamco.co.jp/files/ir/integrated/pdf/2022EN_fact.pdf">https://www.bandainamco.co.jp/files/ir/integrated/pdf/2022EN_fact.pdf</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+</div><div class="wikibase-snaklistview">
+<div class="wikibase-snaklistview-listview"><div class="wikibase-snakview wikibase-snakview-a67bafd87df10255e9dc17b1049a19be591f3ef6">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"><a title="Property:P813" href="/wiki/Property:P813">retrieved</a></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak">9 May 2023</div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+</div></div>
+</div></div></div>
+</div>
+</div><div id="Q99431276$01893e6e-48c8-d3f8-95cc-021f0a637d06" class="wikibase-statementview wikibase-statement-Q99431276$01893e6e-48c8-d3f8-95cc-021f0a637d06 wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-eac7d02891418b5129c1427926ffd4bf9d97bd3e">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak">13,000,000</div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"><div class="wikibase-listview"><div class="wikibase-snaklistview">
+<div class="wikibase-snaklistview-listview"><div class="wikibase-snakview wikibase-snakview-17b6ee7eb604656898edab2a4a4b80c79333385d">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"><a title="Property:P585" href="/wiki/Property:P585">point in time</a></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak">10 May 2016</div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+</div></div></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">1 reference</div>
+<div class="wikibase-statementview-references wikibase-initially-collapsed"><div class="wikibase-listview"><div class="wikibase-referenceview wikibase-referenceview-8b34945ea2218b57e4e6448bf39131da5e24eae2">
+<div class="wikibase-referenceview-heading"></div>
+<div class="wikibase-referenceview-listview"><div class="wikibase-snaklistview">
+<div class="wikibase-snaklistview-listview"><div class="wikibase-snakview wikibase-snakview-69f5b2e6dfedc9b887782da1670bc696421d0882">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"><a title="Property:P854" href="/wiki/Property:P854">reference URL</a></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a rel="nofollow" class="external free" href="https://www.gematsu.com/2016/05/dark-souls-iii-tops-three-million-shipments-dark-souls-series-tops-13-million">https://www.gematsu.com/2016/05/dark-souls-iii-tops-three-million-shipments-dark-souls-series-tops-13-million</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+</div></div>
+</div></div></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div><div class="wikibase-statementgroupview" id="P527" data-property-id="P527">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P527" href="/wiki/Property:P527">has part(s)</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="Q99431276$3475deaf-47ea-83f4-9b14-bf5a4084aec2" class="wikibase-statementview wikibase-statement-Q99431276$3475deaf-47ea-83f4-9b14-bf5a4084aec2 wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-0e92a7c884ff7435171108179600cb25e3388034">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q1166232" href="/wiki/Q1166232">Dark Souls</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"><div class="wikibase-listview"><div class="wikibase-snaklistview">
+<div class="wikibase-snaklistview-listview"><div class="wikibase-snakview wikibase-snakview-2a1ced1dca90648ea7e306acbadd74fc81a10722">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"><a title="Property:P1545" href="/wiki/Property:P1545">series ordinal</a></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak">1</div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+</div></div></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">0 references</div>
+<div class="wikibase-statementview-references "></div>
+</div>
+</div><div id="Q99431276$7aff6bd6-4fa5-1c0f-d919-b5eaa6b83123" class="wikibase-statementview wikibase-statement-Q99431276$7aff6bd6-4fa5-1c0f-d919-b5eaa6b83123 wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-4b308a6d5396f8e4d21f4ecde57a5d0fb40e1abe">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q55728812" href="/wiki/Q55728812">Dark Souls: Remastered</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"><div class="wikibase-listview"><div class="wikibase-snaklistview">
+<div class="wikibase-snaklistview-listview"><div class="wikibase-snakview wikibase-snakview-4d3a5fec315f1395de37b9ea8e46e5837ebecfd0">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"><a title="Property:P3831" href="/wiki/Property:P3831">object of statement has role</a></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q30013662" href="/wiki/Q30013662">last</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+</div><div class="wikibase-snaklistview">
+<div class="wikibase-snaklistview-listview"><div class="wikibase-snakview wikibase-snakview-cbff8d4b3b7b35f905ef3147a7a6cb88845a774f">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"><a title="Property:P1545" href="/wiki/Property:P1545">series ordinal</a></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak">4</div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+</div></div></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">0 references</div>
+<div class="wikibase-statementview-references "></div>
+</div>
+</div><div id="Q99431276$56209e7e-4adc-a4e4-066c-acbd3aedfa40" class="wikibase-statementview wikibase-statement-Q99431276$56209e7e-4adc-a4e4-066c-acbd3aedfa40 wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-e3df52d29a1dfeca361a51d3d36393ed26de8e1d">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q3702740" href="/wiki/Q3702740">Dark Souls II</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"><div class="wikibase-listview"><div class="wikibase-snaklistview">
+<div class="wikibase-snaklistview-listview"><div class="wikibase-snakview wikibase-snakview-7241753c62a310cf84895620ea82250dcea65835">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"><a title="Property:P1545" href="/wiki/Property:P1545">series ordinal</a></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak">2</div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+</div></div></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">0 references</div>
+<div class="wikibase-statementview-references "></div>
+</div>
+</div><div id="Q99431276$c62a0cd5-4edd-2e5d-3654-0bac1bbf0914" class="wikibase-statementview wikibase-statement-Q99431276$c62a0cd5-4edd-2e5d-3654-0bac1bbf0914 wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-5896280c21706c86b9f4aba7e71108a07fc84723">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q20112508" href="/wiki/Q20112508">Dark Souls III</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"><div class="wikibase-listview"><div class="wikibase-snaklistview">
+<div class="wikibase-snaklistview-listview"><div class="wikibase-snakview wikibase-snakview-0e979f28bf306fefdcd352b4eb8dee5da2153a6d">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"><a title="Property:P1545" href="/wiki/Property:P1545">series ordinal</a></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak">3</div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+</div></div></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">0 references</div>
+<div class="wikibase-statementview-references "></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div><div class="wikibase-statementgroupview" id="P1889" data-property-id="P1889">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P1889" href="/wiki/Property:P1889">different from</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="Q99431276$c288ac39-43dc-abab-b824-a675cd6507f4" class="wikibase-statementview wikibase-statement-Q99431276$c288ac39-43dc-abab-b824-a675cd6507f4 wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-927d2d6a61bdc0e41b123f54e4f607f67b7a98f1">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q20874570" href="/wiki/Q20874570" lang="mul">Souls</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">0 references</div>
+<div class="wikibase-statementview-references "></div>
+</div>
+</div><div id="Q99431276$b34ba8c6-4be6-dfc3-873d-340bbf640d3d" class="wikibase-statementview wikibase-statement-Q99431276$b34ba8c6-4be6-dfc3-873d-340bbf640d3d wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-fb0fa12c314b4c96a494ecaca229fa173de16630">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q1166232" href="/wiki/Q1166232">Dark Souls</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">0 references</div>
+<div class="wikibase-statementview-references "></div>
+</div>
+</div><div id="Q99431276$91575804-42a3-c278-1adc-e8920518a952" class="wikibase-statementview wikibase-statement-Q99431276$91575804-42a3-c278-1adc-e8920518a952 wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-f415c085ac91be55f91a8862dc69a2cdffefccae">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q1762557" href="/wiki/Q1762557">Dark Souls</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">0 references</div>
+<div class="wikibase-statementview-references "></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div><div class="wikibase-statementgroupview" id="P373" data-property-id="P373">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P373" href="/wiki/Property:P373">Commons category</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="Q99431276$6e0c29d3-40c5-d60f-23fd-985776f1dc67" class="wikibase-statementview wikibase-statement-Q99431276$6e0c29d3-40c5-d60f-23fd-985776f1dc67 wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-c589713d0ae832117644bba49d94199a68692729">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak">Dark Souls (series)</div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">0 references</div>
+<div class="wikibase-statementview-references "></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div><div class="wikibase-statementgroupview" id="P910" data-property-id="P910">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P910" href="/wiki/Property:P910">topic's main category</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="Q99431276$c9d6fad8-4df8-705d-61b9-126325c473b7" class="wikibase-statementview wikibase-statement-Q99431276$c9d6fad8-4df8-705d-61b9-126325c473b7 wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-87a42684588951d43ffaa42dfbac8ee2b3612ce7">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q20491248" href="/wiki/Q20491248">Category:Dark Souls</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">0 references</div>
+<div class="wikibase-statementview-references "></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div></div></div><h2 class="wb-section-heading section-heading wikibase-statements wikibase-statements-identifiers" dir="auto" id="identifiers">Identifiers</h2><div class="wikibase-statementgrouplistview"><div class="wikibase-listview"><div class="wikibase-statementgroupview" id="P12952" data-property-id="P12952">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P12952" href="/wiki/Property:P12952">Altar of Gaming franchise ID</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="Q99431276$5158F260-27D2-43A6-A179-4F07F09309AE" class="wikibase-statementview wikibase-statement-Q99431276$5158F260-27D2-43A6-A179-4F07F09309AE wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-e3ca63d2d5c5cd13e136a76f93f2386f7cda8142">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a class="wb-external-id external" href="https://altarofgaming.com/franchise/dark-souls" rel="nofollow">dark-souls</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">0 references</div>
+<div class="wikibase-statementview-references "></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div><div class="wikibase-statementgroupview" id="P8419" data-property-id="P8419">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P8419" href="/wiki/Property:P8419">Archive of Our Own tag</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="Q99431276$0F4E3FE9-5E4E-482B-84C8-76C7202D3A72" class="wikibase-statementview wikibase-statement-Q99431276$0F4E3FE9-5E4E-482B-84C8-76C7202D3A72 wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-0b04b85a7d36a3def48111b6a65aa3573178b8c4">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a class="wb-external-id external" href="https://wikidata-externalid-url.toolforge.org/?p=8419&amp;url_prefix=https://archiveofourown.org/tags/&amp;id=Dark%20Souls%20%28Video%20Games%29" rel="nofollow">Dark Souls (Video Games)</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"><div class="wikibase-listview"><div class="wikibase-snaklistview">
+<div class="wikibase-snaklistview-listview"><div class="wikibase-snakview wikibase-snakview-2676d76a32e544ce99d8cfe832a8ec77039a8f2e">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"><a title="Property:P1552" href="/wiki/Property:P1552">has characteristic</a></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q105265074" href="/wiki/Q105265074">canonical tag</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+</div><div class="wikibase-snaklistview">
+<div class="wikibase-snaklistview-listview"><div class="wikibase-snakview wikibase-snakview-8d253d0aa2a99569829d70d981b9a9cdc92881ab">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"><a title="Property:P3831" href="/wiki/Property:P3831">object of statement has role</a></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q110914098" href="/wiki/Q110914098">fandom tag</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+</div></div></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">0 references</div>
+<div class="wikibase-statementview-references "></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div><div class="wikibase-statementgroupview" id="P13236" data-property-id="P13236">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P13236" href="/wiki/Property:P13236">Danbooru tag</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="Q99431276$61225139-3B51-494A-B028-2D338A632C8F" class="wikibase-statementview wikibase-statement-Q99431276$61225139-3B51-494A-B028-2D338A632C8F wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-7cd5bfcb2f848a32f3e24205c398edef3167efed">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a class="wb-external-id external" href="https://safebooru.donmai.us/wiki_pages/dark_souls_%28series%29" rel="nofollow">dark_souls_(series)</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">0 references</div>
+<div class="wikibase-statementview-references "></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div><div class="wikibase-statementgroupview" id="P4073" data-property-id="P4073">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P4073" href="/wiki/Property:P4073">Fandom wiki ID</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="Q99431276$eb674067-4675-d67e-4970-4eab126ab3ce" class="wikibase-statementview wikibase-statement-Q99431276$eb674067-4675-d67e-4970-4eab126ab3ce wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-bfa29d6f3c3be1ac644795a8003d4095e76f011b">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a class="wb-external-id external" href="https://community.fandom.com/wiki/w:c:darksouls" rel="nofollow">darksouls</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"><div class="wikibase-listview"><div class="wikibase-snaklistview">
+<div class="wikibase-snaklistview-listview"><div class="wikibase-snakview wikibase-snakview-daf1c4fcb58181b02dff9cc89deb084004ddae4b">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"><a title="Property:P407" href="/wiki/Property:P407">language of work or name</a></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q1860" href="/wiki/Q1860">English</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+</div></div></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">0 references</div>
+<div class="wikibase-statementview-references "></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div><div class="wikibase-statementgroupview" id="P6472" data-property-id="P6472">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P6472" href="/wiki/Property:P6472">GameFAQs franchise ID</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="Q99431276$26cd1d77-4820-592d-5a0b-d4e3640d2cf1" class="wikibase-statementview wikibase-statement-Q99431276$26cd1d77-4820-592d-5a0b-d4e3640d2cf1 wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-15b9ded1d0e8042f8faf53bee6e986d9c795845d">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a class="wb-external-id external" href="https://gamefaqs.gamespot.com/games/franchise/1391-" rel="nofollow">1391</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">0 references</div>
+<div class="wikibase-statementview-references "></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div><div class="wikibase-statementgroupview" id="P9835" data-property-id="P9835">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P9835" href="/wiki/Property:P9835">Igromania series ID</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="Q99431276$CCA6E3CE-898F-4FBD-B9DB-8673A2B2D022" class="wikibase-statementview wikibase-statement-Q99431276$CCA6E3CE-898F-4FBD-B9DB-8673A2B2D022 wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-dd2d0ecca818ae3c833e9d544d06a6f151caba95">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a class="wb-external-id external" href="https://www.igromania.ru/game/series/367/-.html" rel="nofollow">367</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">1 reference</div>
+<div class="wikibase-statementview-references wikibase-initially-collapsed"><div class="wikibase-listview"><div class="wikibase-referenceview wikibase-referenceview-e8cc1c4132742b3f4be3621f25ffc6b44d49c7fa">
+<div class="wikibase-referenceview-heading"></div>
+<div class="wikibase-referenceview-listview"><div class="wikibase-snaklistview">
+<div class="wikibase-snaklistview-listview"><div class="wikibase-snakview wikibase-snakview-a2c2fcf0f859033ac824a76029a8382842a83432">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"><a title="Property:P854" href="/wiki/Property:P854">reference URL</a></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a rel="nofollow" class="external free" href="https://www.igromania.ru/game/series/367/Dark_Souls.html">https://www.igromania.ru/game/series/367/Dark_Souls.html</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+</div><div class="wikibase-snaklistview">
+<div class="wikibase-snaklistview-listview"><div class="wikibase-snakview wikibase-snakview-d2e6ea64ceec4c5351e91860849dba47e6c26b6f">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"><a title="Property:P1476" href="/wiki/Property:P1476">title</a></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><span lang="ru" class="wb-monolingualtext-value">Серия игр Dark Souls</span> <span class="wb-monolingualtext-language-name" dir="auto">(Russian)</span></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+</div><div class="wikibase-snaklistview">
+<div class="wikibase-snaklistview-listview"><div class="wikibase-snakview wikibase-snakview-d291ddb7cd77c94a7bd709a8395934147e0864fc">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"><a title="Property:P407" href="/wiki/Property:P407">language of work or name</a></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q7737" href="/wiki/Q7737">Russian</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+</div><div class="wikibase-snaklistview">
+<div class="wikibase-snaklistview-listview"><div class="wikibase-snakview wikibase-snakview-4e500b64c836bab7f8abb5ef15e8dd96de79bebd">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"><a title="Property:P1433" href="/wiki/Property:P1433">published in</a></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q4197757" href="/wiki/Q4197757" lang="mul">Igromania</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+</div><div class="wikibase-snaklistview">
+<div class="wikibase-snaklistview-listview"><div class="wikibase-snakview wikibase-snakview-0af976d6f36a73b481e56b9a17523e06cd642ca4">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"><a title="Property:P813" href="/wiki/Property:P813">retrieved</a></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak">29 August 2021</div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+</div></div>
+</div></div></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div><div class="wikibase-statementgroupview" id="P11690" data-property-id="P11690">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P11690" href="/wiki/Property:P11690">MobyGames group ID</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="Q99431276$13724cec-355a-47ac-82a2-fbc8ab163185" class="wikibase-statementview wikibase-statement-Q99431276$13724cec-355a-47ac-82a2-fbc8ab163185 wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-aa984021b1da04846925e075207c47008aada796">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a class="wb-external-id external" href="https://www.mobygames.com/group/10078/" rel="nofollow">10078</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">0 references</div>
+<div class="wikibase-statementview-references "></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div><div class="wikibase-statementgroupview" id="P5360" data-property-id="P5360">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P5360" href="/wiki/Property:P5360">MobyGames group ID (former scheme)</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="Q99431276$7d2646ff-4ca4-ebc0-4da6-714721b6c786" class="wikibase-statementview wikibase-statement-Q99431276$7d2646ff-4ca4-ebc0-4da6-714721b6c786 wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-83338d8a6ab42de2d3254ebdc96a3bbcc11819c7">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a class="wb-external-id external" href="https://www.mobygames.com/game-group/dark-souls-series" rel="nofollow">dark-souls-series</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">0 references</div>
+<div class="wikibase-statementview-references "></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div><div class="wikibase-statementgroupview" id="P5737" data-property-id="P5737">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P5737" href="/wiki/Property:P5737">Moegirlpedia ID</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="Q99431276$9655DD70-04C0-477E-BEA1-D0184B00FD71" class="wikibase-statementview wikibase-statement-Q99431276$9655DD70-04C0-477E-BEA1-D0184B00FD71 wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-a6124d4775def9b0027f7b4cb70a853a1d733bb5">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a class="wb-external-id external" href="https://zh.moegirl.org.cn/%E9%BB%91%E6%9A%97%E4%B9%8B%E9%AD%82%E7%B3%BB%E5%88%97" rel="nofollow">黑暗之魂系列</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"><div class="wikibase-listview"><div class="wikibase-snaklistview">
+<div class="wikibase-snaklistview-listview"><div class="wikibase-snakview wikibase-snakview-3e24d1d12c3bb6185bac3bf24b6b9889c015a1ad">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"><a title="Property:P9675" href="/wiki/Property:P9675">MediaWiki page ID</a></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak">157109</div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+</div><div class="wikibase-snaklistview">
+<div class="wikibase-snaklistview-listview"><div class="wikibase-snakview wikibase-snakview-3b33ca235f16338704ecefe35d73712fbf0377a5">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"><a title="Property:P407" href="/wiki/Property:P407">language of work or name</a></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q7850" href="/wiki/Q7850">Chinese</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+</div></div></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">0 references</div>
+<div class="wikibase-statementview-references "></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div><div class="wikibase-statementgroupview" id="P3417" data-property-id="P3417">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P3417" href="/wiki/Property:P3417">Quora topic ID</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="Q99431276$D8CB5C61-2453-43D2-9A6E-F2CC5E64EF94" class="wikibase-statementview wikibase-statement-Q99431276$D8CB5C61-2453-43D2-9A6E-F2CC5E64EF94 wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-03a54b66946e6d6cb7ad40811026ef74f17ca4a2">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a class="wb-external-id external" href="https://www.quora.com/topic/Dark-Souls-video-game-series" rel="nofollow">Dark-Souls-video-game-series</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">0 references</div>
+<div class="wikibase-statementview-references "></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div><div class="wikibase-statementgroupview" id="P12082" data-property-id="P12082">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P12082" href="/wiki/Property:P12082">StopGame series ID</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="Q99431276$B3FECD0F-8CFB-478B-8043-3BA2A945171F" class="wikibase-statementview wikibase-statement-Q99431276$B3FECD0F-8CFB-478B-8043-3BA2A945171F wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-efa6bff374481c90e85407706cfd3862d3e4d3a9">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a class="wb-external-id external" href="https://stopgame.ru/game-series/125" rel="nofollow">125</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">1 reference</div>
+<div class="wikibase-statementview-references wikibase-initially-collapsed"><div class="wikibase-listview"><div class="wikibase-referenceview wikibase-referenceview-d8c0be8f4a60ad7efd922612790bafa1cc37eee5">
+<div class="wikibase-referenceview-heading"></div>
+<div class="wikibase-referenceview-listview"><div class="wikibase-snaklistview">
+<div class="wikibase-snaklistview-listview"><div class="wikibase-snakview wikibase-snakview-efa6bff374481c90e85407706cfd3862d3e4d3a9">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"><a title="Property:P12082" href="/wiki/Property:P12082">StopGame series ID</a></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a class="wb-external-id external" href="https://stopgame.ru/game-series/125" rel="nofollow">125</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+</div><div class="wikibase-snaklistview">
+<div class="wikibase-snaklistview-listview"><div class="wikibase-snakview wikibase-snakview-d288e7dc5f6369ca8d4daa5c380aadc41088b636">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"><a title="Property:P1476" href="/wiki/Property:P1476">title</a></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><span lang="ru" class="wb-monolingualtext-value">Игры серии Dark Souls</span> <span class="wb-monolingualtext-language-name" dir="auto">(Russian)</span></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+</div><div class="wikibase-snaklistview">
+<div class="wikibase-snaklistview-listview"><div class="wikibase-snakview wikibase-snakview-d291ddb7cd77c94a7bd709a8395934147e0864fc">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"><a title="Property:P407" href="/wiki/Property:P407">language of work or name</a></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q7737" href="/wiki/Q7737">Russian</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+</div><div class="wikibase-snaklistview">
+<div class="wikibase-snaklistview-listview"><div class="wikibase-snakview wikibase-snakview-374481c3b37b9e2b0bb8a690232f96e048db30dd">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"><a title="Property:P248" href="/wiki/Property:P248">stated in</a></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q72406450" href="/wiki/Q72406450">StopGame</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+</div><div class="wikibase-snaklistview">
+<div class="wikibase-snaklistview-listview"><div class="wikibase-snakview wikibase-snakview-e6984c04b5d438d645d5643870dfea962eff90ea">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"><a title="Property:P813" href="/wiki/Property:P813">retrieved</a></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak">12 October 2023</div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+</div></div>
+</div></div></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div><div class="wikibase-statementgroupview" id="P4342" data-property-id="P4342">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P4342" href="/wiki/Property:P4342">Great Norwegian Encyclopedia ID</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="Q99431276$52CABC60-633E-4557-80DC-AEA020927B0F" class="wikibase-statementview wikibase-statement-Q99431276$52CABC60-633E-4557-80DC-AEA020927B0F wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-abb67757ef4501511a8f6449792ec699d3379543">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a class="wb-external-id external" href="https://wikidata-externalid-url.toolforge.org/?p=4342&amp;url_prefix=https://snl.no/&amp;id=Dark_Souls" rel="nofollow">Dark_Souls</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">0 references</div>
+<div class="wikibase-statementview-references "></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div><div class="wikibase-statementgroupview" id="P3984" data-property-id="P3984">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P3984" href="/wiki/Property:P3984">subreddit</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="Q99431276$C1C52AF8-25BB-4140-B37D-A3FE64E15C31" class="wikibase-statementview wikibase-statement-Q99431276$C1C52AF8-25BB-4140-B37D-A3FE64E15C31 wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-eb10997bad998c78caac638047d010b61774d44f">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a class="wb-external-id external" href="https://www.reddit.com/r/ImaginaryDarkSouls/" rel="nofollow">ImaginaryDarkSouls</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">0 references</div>
+<div class="wikibase-statementview-references "></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div><div class="wikibase-statementgroupview" id="P10586" data-property-id="P10586">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P10586" href="/wiki/Property:P10586">Trovo ID</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="Q99431276$075F60DD-674F-40FF-A48B-83A3EDE5D98A" class="wikibase-statementview wikibase-statement-Q99431276$075F60DD-674F-40FF-A48B-83A3EDE5D98A wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-eb320c7675f3f28a581bf71aae7493b631b2ec7c">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a class="wb-external-id external" href="https://trovo.live/games/DarkSouls" rel="nofollow">DarkSouls</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">0 references</div>
+<div class="wikibase-statementview-references "></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div><div class="wikibase-statementgroupview" id="P7562" data-property-id="P7562">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P7562" href="/wiki/Property:P7562">UVL group ID</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="Q99431276$4946281E-7A39-4C4C-A954-F94A8058C67C" class="wikibase-statementview wikibase-statement-Q99431276$4946281E-7A39-4C4C-A954-F94A8058C67C wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-d2af3e4ac37c9f9dc99b2f9f52c809b546040f40">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a class="wb-external-id external" href="https://www.uvlist.net/groups/info/darksouls-series" rel="nofollow">darksouls-series</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">0 references</div>
+<div class="wikibase-statementview-references "></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div><div class="wikibase-statementgroupview" id="P13062" data-property-id="P13062">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P13062" href="/wiki/Property:P13062">VG247 series ID</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="Q99431276$BB384738-7B7D-4F85-8DAB-F0DFAAAF3E75" class="wikibase-statementview wikibase-statement-Q99431276$BB384738-7B7D-4F85-8DAB-F0DFAAAF3E75 wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-aef1ffc635b65132ec385bb99f168e1c4b88a7a6">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a class="wb-external-id external" href="https://www.vg247.com/video-game-franchises/dark-souls" rel="nofollow">dark-souls</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">0 references</div>
+<div class="wikibase-statementview-references "></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div><div class="wikibase-statementgroupview" id="P13354" data-property-id="P13354">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P13354" href="/wiki/Property:P13354">VGC game ID</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="Q99431276$E02CAA4A-1F2E-41DA-B900-00633B184A6A" class="wikibase-statementview wikibase-statement-Q99431276$E02CAA4A-1F2E-41DA-B900-00633B184A6A wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-1c6b1688e982d6e5b13bd6b64194224c5b0f2e55">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a class="wb-external-id external" href="https://www.videogameschronicle.com/?post_type=games&amp;p=2087" rel="nofollow">2087</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">1 reference</div>
+<div class="wikibase-statementview-references wikibase-initially-collapsed"><div class="wikibase-listview"><div class="wikibase-referenceview wikibase-referenceview-ec1de00627757a4f31965506d8b4b8fadca0899c">
+<div class="wikibase-referenceview-heading"></div>
+<div class="wikibase-referenceview-listview"><div class="wikibase-snaklistview">
+<div class="wikibase-snaklistview-listview"><div class="wikibase-snakview wikibase-snakview-1c6b1688e982d6e5b13bd6b64194224c5b0f2e55">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"><a title="Property:P13354" href="/wiki/Property:P13354">VGC game ID</a></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a class="wb-external-id external" href="https://www.videogameschronicle.com/?post_type=games&amp;p=2087" rel="nofollow">2087</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+</div><div class="wikibase-snaklistview">
+<div class="wikibase-snaklistview-listview"><div class="wikibase-snakview wikibase-snakview-b95e8c48a90c2eab82dfb69e72be2979a2b7b65c">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"><a title="Property:P248" href="/wiki/Property:P248">stated in</a></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q108734192" href="/wiki/Q108734192">Video Games Chronicle</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+</div><div class="wikibase-snaklistview">
+<div class="wikibase-snaklistview-listview"><div class="wikibase-snakview wikibase-snakview-3da45d0dd2fb67245e57e19c8835f86913e9b7b0">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"><a title="Property:P813" href="/wiki/Property:P813">retrieved</a></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak">9 March 2025</div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+</div></div>
+</div></div></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div><div class="wikibase-statementgroupview" id="P13291" data-property-id="P13291">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P13291" href="/wiki/Property:P13291">Video Game History Foundation Library subject ID</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="Q99431276$C1D2B1F6-8443-41F3-B511-EE122495C78D" class="wikibase-statementview wikibase-statement-Q99431276$C1D2B1F6-8443-41F3-B511-EE122495C78D wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-2d24a14369c34c710494c80fc19e122fbdca6bcc">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a class="wb-external-id external" href="https://library.gamehistory.org/subjects/232" rel="nofollow">232</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">0 references</div>
+<div class="wikibase-statementview-references "></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div><div class="wikibase-statementgroupview" id="P11459" data-property-id="P11459">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P11459" href="/wiki/Property:P11459">VideoGameGeek series/franchise ID</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="Q99431276$A4147A48-8038-42B3-8E2F-45331D30C03D" class="wikibase-statementview wikibase-statement-Q99431276$A4147A48-8038-42B3-8E2F-45331D30C03D wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-9ef3e7747e2ba8427a162e0bff19a719ae32cf8e">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a class="wb-external-id external" href="https://videogamegeek.com/videogamefranchise/18058" rel="nofollow">18058</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">1 reference</div>
+<div class="wikibase-statementview-references wikibase-initially-collapsed"><div class="wikibase-listview"><div class="wikibase-referenceview wikibase-referenceview-def86ade0d84dd87c8aed8d10a3a9d2bfe96da2f">
+<div class="wikibase-referenceview-heading"></div>
+<div class="wikibase-referenceview-listview"><div class="wikibase-snaklistview">
+<div class="wikibase-snaklistview-listview"><div class="wikibase-snakview wikibase-snakview-9ef3e7747e2ba8427a162e0bff19a719ae32cf8e">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"><a title="Property:P11459" href="/wiki/Property:P11459">VideoGameGeek series/franchise ID</a></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a class="wb-external-id external" href="https://videogamegeek.com/videogamefranchise/18058" rel="nofollow">18058</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+</div><div class="wikibase-snaklistview">
+<div class="wikibase-snaklistview-listview"><div class="wikibase-snakview wikibase-snakview-9fb8c33de10e8e783a86fccef2cbe4c5b240b90b">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"><a title="Property:P248" href="/wiki/Property:P248">stated in</a></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q74864565" href="/wiki/Q74864565">VideoGameGeek</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+</div><div class="wikibase-snaklistview">
+<div class="wikibase-snaklistview-listview"><div class="wikibase-snakview wikibase-snakview-43d10596f7e11eaca13e261241c4676dfcb8232c">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"><a title="Property:P813" href="/wiki/Property:P813">retrieved</a></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak">4 January 2023</div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+</div></div>
+</div></div></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div><div class="wikibase-statementgroupview" id="P8672" data-property-id="P8672">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P8672" href="/wiki/Property:P8672">X topic ID</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="Q99431276$880B67BB-5669-4BF6-A0E2-78F1EAC7F74D" class="wikibase-statementview wikibase-statement-Q99431276$880B67BB-5669-4BF6-A0E2-78F1EAC7F74D wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-677aa3e167f5fdcaf412754caf33cfaae215ae04">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a class="wb-external-id external" href="https://x.com/i/topics/10044774920" rel="nofollow">10044774920</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"><div class="wikibase-listview"><div class="wikibase-snaklistview">
+<div class="wikibase-snaklistview-listview"><div class="wikibase-snakview wikibase-snakview-9e4eb56ecbe74650e4f5a08b94b3bdbb6f22e350">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"><a title="Property:P1810" href="/wiki/Property:P1810">subject named as</a></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak">Dark Souls</div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+</div></div></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">1 reference</div>
+<div class="wikibase-statementview-references wikibase-initially-collapsed"><div class="wikibase-listview"><div class="wikibase-referenceview wikibase-referenceview-751960851fa235edaddbc9b689395740c56c71e1">
+<div class="wikibase-referenceview-heading"></div>
+<div class="wikibase-referenceview-listview"><div class="wikibase-snaklistview">
+<div class="wikibase-snaklistview-listview"><div class="wikibase-snakview wikibase-snakview-cd432ccb4c173858e960ad05696c85162d5669ba">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"><a title="Property:P1065" href="/wiki/Property:P1065">archive URL</a></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a rel="nofollow" class="external free" href="https://web.archive.org/web/20210221120801/https://twitter.com/i/api/1.1/onboarding/task.json?flow_name=topics_selector">https://web.archive.org/web/20210221120801/https://twitter.com/i/api/1.1/onboarding/task.json?flow_name=topics_selector</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+</div><div class="wikibase-snaklistview">
+<div class="wikibase-snaklistview-listview"><div class="wikibase-snakview wikibase-snakview-2f6cd8fdfa49e076c77e12f032eca37d5dbd8aea">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"><a title="Property:P2960" href="/wiki/Property:P2960">archive date</a></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak">21 February 2021</div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+</div></div>
+</div></div></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div><div class="wikibase-statementgroupview" id="P14020" data-property-id="P14020">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P14020" href="/wiki/Property:P14020">‎VGChartz ID</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="Q99431276$5CEB0B42-C472-4DE6-B7DE-AE1A888089C4" class="wikibase-statementview wikibase-statement-Q99431276$5CEB0B42-C472-4DE6-B7DE-AE1A888089C4 wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-6c02376df61bec9ddab8648a0f7fb11ae818557e">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a class="wb-external-id external" href="https://www.vgchartz.com/game/231093/" rel="nofollow">231093</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">1 reference</div>
+<div class="wikibase-statementview-references wikibase-initially-collapsed"><div class="wikibase-listview"><div class="wikibase-referenceview wikibase-referenceview-8598b30d43905fb103260e1d7a5e67f660f5af09">
+<div class="wikibase-referenceview-heading"></div>
+<div class="wikibase-referenceview-listview"><div class="wikibase-snaklistview">
+<div class="wikibase-snaklistview-listview"><div class="wikibase-snakview wikibase-snakview-a8762e3c3e7941c3a430f8fb365e0d6dfbb2f45f">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"><a title="Property:P248" href="/wiki/Property:P248">stated in</a></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q2432060" href="/wiki/Q2432060" lang="mul">VGChartz</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+</div><div class="wikibase-snaklistview">
+<div class="wikibase-snaklistview-listview"><div class="wikibase-snakview wikibase-snakview-b2d2b5d230a41f2824025593b3b187b0862c1719">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"><a title="Property:P813" href="/wiki/Property:P813">retrieved</a></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak">28 December 2025</div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+</div></div>
+</div></div></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div></div></div></div>
+<div class="wikibase-entityview-side"><div class="wikibase-pageImage">
+<div class="help">
+<span class="wb-help-field-hint wikibase-toolbar-item wikibase-wbtooltip" title="This image is taken from the statements of this Item. You can adjust the image by changing the statement.">&nbsp;</span>
+</div>
+</div><h2 class="wb-section-heading section-heading wikibase-sitelinks" dir="auto" id="sitelinks">Sitelinks</h2><div class="wikibase-sitelinkgrouplistview"><div class="wikibase-listview"><div class="wikibase-sitelinkgroupview mw-collapsible" data-wb-sitelinks-group="wikipedia">
+<div class="wikibase-sitelinkgroupview-heading-section">
+<div class="mw-collapsible-toggle-placeholder"></div>
+<div class="wikibase-sitelinkgroupview-heading-container">
+<h3 class="wb-sitelinks-heading" dir="auto" id="sitelinks-wikipedia">Wikipedia<span class="wikibase-sitelinkgroupview-counter">(14 entries)</span></h3>
+<span class="wikibase-toolbar-container"><span class="wikibase-toolbar-item wikibase-toolbar "><span class="wikibase-toolbar-item wikibase-toolbar-button wikibase-toolbar-button-edit"><a href="/wiki/Special:SetSiteLink/Q99431276" title=""><span class="wb-icon"></span>edit</a></span></span></span>
+</div>
+</div>
+<div class="mw-collapsible-content">
+<div class="wikibase-sitelinklistview">
+<ul class="wikibase-sitelinklistview-listview"><li class="wikibase-sitelinkview wikibase-sitelinkview-cswiki" data-wb-siteid="cswiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-cswiki" title="Czech">cswiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-cswiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="cs"><a href="https://cs.wikipedia.org/wiki/Dark_Souls" hreflang="cs" title="Dark Souls">Dark Souls</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-dewiki" data-wb-siteid="dewiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-dewiki" title="German">dewiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-dewiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="de"><a href="https://de.wikipedia.org/wiki/Dark_Souls_(Computerspielreihe)" hreflang="de" title="Dark Souls (Computerspielreihe)">Dark Souls (Computerspielreihe)</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-enwiki" data-wb-siteid="enwiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-enwiki" title="English">enwiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-enwiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="en"><a href="https://en.wikipedia.org/wiki/Dark_Souls" hreflang="en" title="Dark Souls">Dark Souls</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-eswiki" data-wb-siteid="eswiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-eswiki" title="Spanish">eswiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-eswiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="es"><a href="https://es.wikipedia.org/wiki/Dark_Souls" hreflang="es" title="Dark Souls">Dark Souls</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-fawiki" data-wb-siteid="fawiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-fawiki" title="Persian">fawiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-fawiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="fa"><a href="https://fa.wikipedia.org/wiki/%D8%AF%D8%A7%D8%B1%DA%A9_%D8%B3%D9%88%D9%84%D8%B2" hreflang="fa" title="دارک سولز">دارک سولز</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-frwiki" data-wb-siteid="frwiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-frwiki" title="French">frwiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-frwiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="fr"><a href="https://fr.wikipedia.org/wiki/Dark_Souls" hreflang="fr" title="Dark Souls">Dark Souls</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-kowiki" data-wb-siteid="kowiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-kowiki" title="Korean">kowiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-kowiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="ko"><a href="https://ko.wikipedia.org/wiki/%EB%8B%A4%ED%81%AC_%EC%86%8C%EC%9A%B8" hreflang="ko" title="다크 소울">다크 소울</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-nowiki" data-wb-siteid="nowiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-nowiki" title="Norwegian">nowiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-nowiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="no"><a href="https://no.wikipedia.org/wiki/Dark_Souls" hreflang="no" title="Dark Souls">Dark Souls</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-plwiki" data-wb-siteid="plwiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-plwiki" title="Polish">plwiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-plwiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="pl"><a href="https://pl.wikipedia.org/wiki/Dark_Souls_(seria)" hreflang="pl" title="Dark Souls (seria)">Dark Souls (seria)</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-ptwiki" data-wb-siteid="ptwiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-ptwiki" title="Portuguese">ptwiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-ptwiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="pt"><a href="https://pt.wikipedia.org/wiki/Dark_Souls_(s%C3%A9rie)" hreflang="pt" title="Dark Souls (série)">Dark Souls (série)</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-ruwiki" data-wb-siteid="ruwiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-ruwiki" title="Russian">ruwiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-ruwiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="ru"><a href="https://ru.wikipedia.org/wiki/Dark_Souls" hreflang="ru" title="Dark Souls">Dark Souls</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-trwiki" data-wb-siteid="trwiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-trwiki" title="Turkish">trwiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-trwiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="tr"><a href="https://tr.wikipedia.org/wiki/Dark_Souls" hreflang="tr" title="Dark Souls">Dark Souls</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-ukwiki" data-wb-siteid="ukwiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-ukwiki" title="Ukrainian">ukwiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-ukwiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="uk"><a href="https://uk.wikipedia.org/wiki/Dark_Souls_(%D1%81%D0%B5%D1%80%D1%96%D1%8F_%D0%B2%D1%96%D0%B4%D0%B5%D0%BE%D1%96%D0%B3%D0%BE%D1%80)" hreflang="uk" title="Dark Souls (серія відеоігор)">Dark Souls (серія відеоігор)</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-uzwiki" data-wb-siteid="uzwiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-uzwiki" title="Uzbek">uzwiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-uzwiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="uz"><a href="https://uz.wikipedia.org/wiki/Dark_Souls" hreflang="uz" title="Dark Souls">Dark Souls</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li></ul>
+</div>
+</div>
+</div><div class="wikibase-sitelinkgroupview" data-wb-sitelinks-group="wikibooks">
+<div class="wikibase-sitelinkgroupview-heading-section">
+<div class="mw-collapsible-toggle-placeholder"></div>
+<div class="wikibase-sitelinkgroupview-heading-container">
+<h3 class="wb-sitelinks-heading" dir="auto" id="sitelinks-wikibooks">Wikibooks<span class="wikibase-sitelinkgroupview-counter">(0 entries)</span></h3>
+<span class="wikibase-toolbar-container"><span class="wikibase-toolbar-item wikibase-toolbar "><span class="wikibase-toolbar-item wikibase-toolbar-button wikibase-toolbar-button-edit"><a href="/wiki/Special:SetSiteLink/Q99431276" title=""><span class="wb-icon"></span>edit</a></span></span></span>
+</div>
+</div>
+<div class="mw-collapsible-content">
+<div class="wikibase-sitelinklistview">
+<ul class="wikibase-sitelinklistview-listview"></ul>
+</div>
+</div>
+</div><div class="wikibase-sitelinkgroupview" data-wb-sitelinks-group="wikinews">
+<div class="wikibase-sitelinkgroupview-heading-section">
+<div class="mw-collapsible-toggle-placeholder"></div>
+<div class="wikibase-sitelinkgroupview-heading-container">
+<h3 class="wb-sitelinks-heading" dir="auto" id="sitelinks-wikinews">Wikinews<span class="wikibase-sitelinkgroupview-counter">(0 entries)</span></h3>
+<span class="wikibase-toolbar-container"><span class="wikibase-toolbar-item wikibase-toolbar "><span class="wikibase-toolbar-item wikibase-toolbar-button wikibase-toolbar-button-edit"><a href="/wiki/Special:SetSiteLink/Q99431276" title=""><span class="wb-icon"></span>edit</a></span></span></span>
+</div>
+</div>
+<div class="mw-collapsible-content">
+<div class="wikibase-sitelinklistview">
+<ul class="wikibase-sitelinklistview-listview"></ul>
+</div>
+</div>
+</div><div class="wikibase-sitelinkgroupview" data-wb-sitelinks-group="wikiquote">
+<div class="wikibase-sitelinkgroupview-heading-section">
+<div class="mw-collapsible-toggle-placeholder"></div>
+<div class="wikibase-sitelinkgroupview-heading-container">
+<h3 class="wb-sitelinks-heading" dir="auto" id="sitelinks-wikiquote">Wikiquote<span class="wikibase-sitelinkgroupview-counter">(1 entry)</span></h3>
+<span class="wikibase-toolbar-container"><span class="wikibase-toolbar-item wikibase-toolbar "><span class="wikibase-toolbar-item wikibase-toolbar-button wikibase-toolbar-button-edit"><a href="/wiki/Special:SetSiteLink/Q99431276" title=""><span class="wb-icon"></span>edit</a></span></span></span>
+</div>
+</div>
+<div class="mw-collapsible-content">
+<div class="wikibase-sitelinklistview">
+<ul class="wikibase-sitelinklistview-listview"><li class="wikibase-sitelinkview wikibase-sitelinkview-zhwikiquote" data-wb-siteid="zhwikiquote">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-zhwikiquote" title="Chinese">zhwikiquote</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-zhwikiquote"><span class="wikibase-sitelinkview-page" dir="auto" lang="zh"><a href="https://zh.wikiquote.org/wiki/%E9%BB%91%E6%9A%97%E4%B9%8B%E9%AD%82" hreflang="zh" title="黑暗之魂">黑暗之魂</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li></ul>
+</div>
+</div>
+</div><div class="wikibase-sitelinkgroupview" data-wb-sitelinks-group="wikisource">
+<div class="wikibase-sitelinkgroupview-heading-section">
+<div class="mw-collapsible-toggle-placeholder"></div>
+<div class="wikibase-sitelinkgroupview-heading-container">
+<h3 class="wb-sitelinks-heading" dir="auto" id="sitelinks-wikisource">Wikisource<span class="wikibase-sitelinkgroupview-counter">(0 entries)</span></h3>
+<span class="wikibase-toolbar-container"><span class="wikibase-toolbar-item wikibase-toolbar "><span class="wikibase-toolbar-item wikibase-toolbar-button wikibase-toolbar-button-edit"><a href="/wiki/Special:SetSiteLink/Q99431276" title=""><span class="wb-icon"></span>edit</a></span></span></span>
+</div>
+</div>
+<div class="mw-collapsible-content">
+<div class="wikibase-sitelinklistview">
+<ul class="wikibase-sitelinklistview-listview"></ul>
+</div>
+</div>
+</div><div class="wikibase-sitelinkgroupview" data-wb-sitelinks-group="wikiversity">
+<div class="wikibase-sitelinkgroupview-heading-section">
+<div class="mw-collapsible-toggle-placeholder"></div>
+<div class="wikibase-sitelinkgroupview-heading-container">
+<h3 class="wb-sitelinks-heading" dir="auto" id="sitelinks-wikiversity">Wikiversity<span class="wikibase-sitelinkgroupview-counter">(0 entries)</span></h3>
+<span class="wikibase-toolbar-container"><span class="wikibase-toolbar-item wikibase-toolbar "><span class="wikibase-toolbar-item wikibase-toolbar-button wikibase-toolbar-button-edit"><a href="/wiki/Special:SetSiteLink/Q99431276" title=""><span class="wb-icon"></span>edit</a></span></span></span>
+</div>
+</div>
+<div class="mw-collapsible-content">
+<div class="wikibase-sitelinklistview">
+<ul class="wikibase-sitelinklistview-listview"></ul>
+</div>
+</div>
+</div><div class="wikibase-sitelinkgroupview" data-wb-sitelinks-group="wikivoyage">
+<div class="wikibase-sitelinkgroupview-heading-section">
+<div class="mw-collapsible-toggle-placeholder"></div>
+<div class="wikibase-sitelinkgroupview-heading-container">
+<h3 class="wb-sitelinks-heading" dir="auto" id="sitelinks-wikivoyage">Wikivoyage<span class="wikibase-sitelinkgroupview-counter">(0 entries)</span></h3>
+<span class="wikibase-toolbar-container"><span class="wikibase-toolbar-item wikibase-toolbar "><span class="wikibase-toolbar-item wikibase-toolbar-button wikibase-toolbar-button-edit"><a href="/wiki/Special:SetSiteLink/Q99431276" title=""><span class="wb-icon"></span>edit</a></span></span></span>
+</div>
+</div>
+<div class="mw-collapsible-content">
+<div class="wikibase-sitelinklistview">
+<ul class="wikibase-sitelinklistview-listview"></ul>
+</div>
+</div>
+</div><div class="wikibase-sitelinkgroupview" data-wb-sitelinks-group="wiktionary">
+<div class="wikibase-sitelinkgroupview-heading-section">
+<div class="mw-collapsible-toggle-placeholder"></div>
+<div class="wikibase-sitelinkgroupview-heading-container">
+<h3 class="wb-sitelinks-heading" dir="auto" id="sitelinks-wiktionary">Wiktionary<span class="wikibase-sitelinkgroupview-counter">(0 entries)</span></h3>
+<span class="wikibase-toolbar-container"><span class="wikibase-toolbar-item wikibase-toolbar "><span class="wikibase-toolbar-item wikibase-toolbar-button wikibase-toolbar-button-edit"><a href="/wiki/Special:SetSiteLink/Q99431276" title=""><span class="wb-icon"></span>edit</a></span></span></span>
+</div>
+</div>
+<div class="mw-collapsible-content">
+<div class="wikibase-sitelinklistview">
+<ul class="wikibase-sitelinklistview-listview"></ul>
+</div>
+</div>
+</div><div class="wikibase-sitelinkgroupview" data-wb-sitelinks-group="special">
+<div class="wikibase-sitelinkgroupview-heading-section">
+<div class="mw-collapsible-toggle-placeholder"></div>
+<div class="wikibase-sitelinkgroupview-heading-container">
+<h3 class="wb-sitelinks-heading" dir="auto" id="sitelinks-special">Multilingual sites<span class="wikibase-sitelinkgroupview-counter">(0 entries)</span></h3>
+<span class="wikibase-toolbar-container"><span class="wikibase-toolbar-item wikibase-toolbar "><span class="wikibase-toolbar-item wikibase-toolbar-button wikibase-toolbar-button-edit"><a href="/wiki/Special:SetSiteLink/Q99431276" title=""><span class="wb-icon"></span>edit</a></span></span></span>
+</div>
+</div>
+<div class="mw-collapsible-content">
+<div class="wikibase-sitelinklistview">
+<ul class="wikibase-sitelinklistview-listview"></ul>
+</div>
+</div>
+</div></div></div></div>
+</div>
+<!-- Saved in parser cache with key wikidatawiki:pcache:97375166:|#|:idhash:termboxVersion=1!wb=3!wbMobile=0 and timestamp 20260406230524 and revision id 2469995702. Rendering was triggered because: page_view
+ -->
+<noscript><img src="https://www.wikidata.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&amp;type=1x1&amp;usesul3=1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://www.wikidata.org/w/index.php?title=Q99431276&amp;oldid=2469995702">https://www.wikidata.org/w/index.php?title=Q99431276&amp;oldid=2469995702</a>"</div></div>
+					<div id="catlinks" class="catlinks catlinks-allhidden" data-mw-interface=""></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> This page was last edited on 6 March 2026, at 23:32.</li>
+	<li id="footer-info-copyright">All structured data from the main, Property, Lexeme, and EntitySchema namespaces is available under the <a rel="nofollow" class="external text" href="//creativecommons.org/publicdomain/zero/1.0/">Creative Commons CC0 License</a>; text in the other namespaces is available under the <a rel="nofollow" class="external text" href="//creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike License</a>; additional terms may apply. By using this site, you agree to the <a class="external text" href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use">Terms of Use</a> and <a class="external text" href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">Privacy Policy</a>.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Special:MyLanguage/Project:Introduction">About Wikidata</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Special:MyLanguage/Project:General_disclaimer">Disclaimers</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">Code of Conduct</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/www.wikidata.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookie statement</a></li>
+	<li id="footer-places-mobileview"><a href="//www.wikidata.org/w/index.php?title=Q99431276&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-data-access"><a href="/wiki/Special:MyLanguage/Wikidata:Data_access">Data access</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://www.wikimedia.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/static/images/footer/wikimedia-button.svg" width="84" height="29"><img src="/static/images/footer/wikimedia.svg" width="25" height="25" alt="Wikimedia Foundation" lang="en" loading="lazy"></picture></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/w/resources/assets/poweredby_mediawiki.svg" width="88" height="31"><img src="/w/resources/assets/mediawiki_compact.svg" alt="Powered by MediaWiki" lang="en" width="25" height="25" loading="lazy"></picture></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-header-container vector-sticky-header-container no-font-mode-scale">
+	<div id="vector-sticky-header" class="vector-sticky-header">
+		<div class="vector-sticky-header-start">
+			<div class="vector-sticky-header-icon-start vector-button-flush-left" aria-hidden="true">
+				<button class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-sticky-header-search-toggle" tabindex="-1" data-event-name="ui.vector-sticky-search-form.icon"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Search</span>
+			</button>
+		</div>
+			
+		<div role="search" class="vector-search-box-vue vector-search-box">
+			<div class="vector-typeahead-search-container">
+				<div class="cdx-typeahead-search">
+					<form action="/w/index.php" id="vector-sticky-search-form" class="cdx-search-input cdx-search-input--has-end-button">
+						<div  class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+							<div class="cdx-text-input cdx-text-input--has-start-icon">
+								<input
+									class="cdx-text-input__input mw-searchInput" autocomplete="off"
+									
+									type="search" name="search" placeholder="Search Wikidata">
+								<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+							</div>
+							<input type="hidden" name="title" value="Special:Search">
+						</div>
+						<button class="cdx-button cdx-search-input__end-button">Search</button>
+					</form>
+				</div>
+			</div>
+		</div>
+		<div class="vector-sticky-header-context-bar">
+				<div class="vector-sticky-header-context-bar-primary" aria-hidden="true" ><span class="wikibase-title ">
+<span class="wikibase-title-label">Dark Souls</span>
+<span class="wikibase-title-id">(Q99431276)</span>
+</span></div>
+			</div>
+		</div>
+		<div class="vector-sticky-header-end" aria-hidden="true">
+			<div class="vector-sticky-header-icons">
+				<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-talk-sticky-header" tabindex="-1" data-event-name="talk-sticky-header"><span class="vector-icon mw-ui-icon-speechBubbles mw-ui-icon-wikimedia-speechBubbles"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-subject-sticky-header" tabindex="-1" data-event-name="subject-sticky-header"><span class="vector-icon mw-ui-icon-article mw-ui-icon-wikimedia-article"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-history-sticky-header" tabindex="-1" data-event-name="history-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-history mw-ui-icon-wikimedia-wikimedia-history"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only mw-watchlink" id="ca-watchstar-sticky-header" tabindex="-1" data-event-name="watch-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-star mw-ui-icon-wikimedia-wikimedia-star"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-edit-sticky-header" tabindex="-1" data-event-name="wikitext-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-wikiText mw-ui-icon-wikimedia-wikimedia-wikiText"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-ve-edit-sticky-header" tabindex="-1" data-event-name="ve-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-edit mw-ui-icon-wikimedia-wikimedia-edit"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-viewsource-sticky-header" tabindex="-1" data-event-name="ve-edit-protected-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-editLock mw-ui-icon-wikimedia-wikimedia-editLock"></span>
+
+<span></span>
+			</a>
+		</div>
+			<div class="vector-sticky-header-buttons">
+				<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive" id="ca-addsection-sticky-header" tabindex="-1" data-event-name="addsection-sticky-header"><span class="vector-icon mw-ui-icon-speechBubbleAdd-progressive mw-ui-icon-wikimedia-speechBubbleAdd-progressive"></span>
+
+<span>Add topic</span>
+			</a>
+		</div>
+			<div class="vector-sticky-header-icon-end">
+				<div class="vector-user-links">
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="mw-portlet mw-portlet-dock-bottom emptyPortlet" id="p-dock-bottom">
+	<ul>
+		
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-7f5cfbd5b7-5z7cn","wgBackendResponseTime":112});});</script>
+</body>
+</html>

@@ -1,0 +1,753 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-disabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-not-available skin-theme-clientpref-thumb-standard" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Editing Dark Souls - Wikipedia</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-disabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-not-available skin-theme-clientpref-thumb-standard";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":true,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"e50a152c-a2da-4cda-84c0-ed20d44dfbe1","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Dark_Souls","wgTitle":"Dark Souls","wgCurRevisionId":1342822556,"wgRevisionId":0,"wgArticleId":47094971,"wgIsArticle":false,"wgIsRedirect":false,"wgAction":"edit","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Dark_Souls","wgRelevantArticleId":47094971,"wgTempUserName":null,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgConfirmEditCaptchaNeededForGenericEdit":"fancy captcha","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":50000,"cm5-from-extension":true,"wgEditMessage":"editing","wgEditSubmitButtonLabelPublish":true,"wgVisualEditorPageIsDisambiguation":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGESuggestedEditsTaskTypes":{"taskTypes":["copyedit","link-recommendation"],"unavailableTaskTypes":[]},"wgGETopicsMatchModeEnabled":false,"wgGELevelingUpEnabledForUser":false,"wgTestKitchenUserExperiments":{"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[]}};
+RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.wikiEditor.styles":"ready","mediawiki.action.edit.styles":"ready","mediawiki.codex.messagebox.styles":"ready","mediawiki.editfont.styles":"ready","mediawiki.interface.helpers.styles":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","codex-styles":"ready","ext.confirmEdit.fancyCaptcha.styles":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","ext.charinsert.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready"};RLPAGEMODULES=["ext.cite.wikiEditor","ext.wikiEditor","ext.wikiEditor.realtimepreview","ext.CodeMirror.WikiEditor","ext.templateData.templateDiscovery","ext.TemplateWizard","ext.math.editpage","ext.disambiguator","mediawiki.action.edit","mediawiki.action.edit.editWarning","ext.confirmEdit.fancyCaptcha","wikibase.client.action.edit.collapsibleFooter","mediawiki.action.edit.collapsibleFooter","site","mediawiki.page.ready","skins.vector.js","ext.centralNotice.geoIP","ext.charinsert","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.bootstrap","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.cx.eventlogging.campaigns","wikibase.databox.fromWikidata","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession","ext.testKitchen"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=codex-styles%7Cext.charinsert.styles%7Cext.confirmEdit.fancyCaptcha.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.action.edit.styles%7Cmediawiki.codex.messagebox.styles%7Cmediawiki.editfont.styles%7Cmediawiki.interface.helpers.styles%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles&amp;only=styles&amp;skin=vector-2022">
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.wikiEditor.styles&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.46.0-wmf.22">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="noindex,nofollow,max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=1120">
+<meta property="og:title" content="Editing Dark Souls - Wikipedia">
+<meta property="og:type" content="website">
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Dark_Souls&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/rest.php/v1/search" title="Wikipedia (en)">
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Dark_Souls">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom">
+<link rel="dns-prefetch" href="auth.wikimedia.org">
+</head>
+<body class="skin--responsive skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Dark_Souls rootpage-Dark_Souls skin-vector-2022 action-edit">
+<div id="mw-aria-live-region" class="mw-aria-live-region" aria-live="polite"></div><a class="mw-jump-link" href="#bodyContent">Jump to content</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header no-font-mode-scale">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Site">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  title="Main menu" >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Main menu"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">Main menu</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Main menu</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">hide</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Navigation
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-contents" class="mw-list-item"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia"><span>Contents</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Current_events" title="Articles related to current events"><span>Current events</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x"><span>Random article</span></a></li><li id="n-aboutsite" class="mw-list-item"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works"><span>About Wikipedia</span></a></li><li id="n-contactpage" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia"><span>Contact us</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-interaction" class="vector-menu mw-portlet mw-portlet-interaction"  >
+	<div class="vector-menu-heading">
+		Contribute
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-help" class="mw-list-item"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia"><span>Help</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia"><span>Learn to edit</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors"><span>Community portal</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_upload_wizard" title="Add images or other media for use on Wikipedia"><span>Upload file</span></a></li><li id="n-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Main_Page" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/enwiki-25.svg" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container skin-invert">
+		<img class="mw-logo-wordmark" alt="Wikipedia" src="/static/images/mobile/copyright/wikipedia-wordmark-en-25.svg" style="width: 8.75em; height: 1.375em;">
+		<img class="mw-logo-tagline" alt="The Free Encyclopedia" src="/static/images/mobile/copyright/wikipedia-tagline-en-25.svg" width="140" height="11" style="width: 8.75em; height: 0.6875em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:Search" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" title="Search Wikipedia [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Search</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input mw-searchInput" autocomplete="off"
+							 type="search" name="search" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="none" spellcheck="false" title="Search Wikipedia [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Special:Search">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Search</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links vector-user-links-wide" aria-label="Personal tools">
+	<div class="vector-user-links-main">
+	
+<div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-userpage" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	<nav class="vector-appearance-landmark" aria-label="Appearance">
+		
+<div id="vector-appearance-dropdown" class="vector-dropdown "  title="Change the appearance of the page&#039;s font size, width, and color" >
+	<input type="checkbox" id="vector-appearance-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-appearance-dropdown" class="vector-dropdown-checkbox "  aria-label="Appearance"  >
+	<label id="vector-appearance-dropdown-label" for="vector-appearance-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-appearance mw-ui-icon-wikimedia-appearance"></span>
+
+<span class="vector-dropdown-label-text">Appearance</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+			<div id="vector-appearance-unpinned-container" class="vector-unpinned-container">
+				
+			</div>
+		
+	</div>
+</div>
+
+	</nav>
+	
+<div id="p-vector-user-menu-notifications" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-sitesupport-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=en.wikipedia.org&amp;uselang=en" class=""><span>Donate</span></a>
+</li>
+<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="/w/index.php?title=Special:CreateAccount&amp;returnto=Dark+Souls&amp;returntoquery=action%3Dedit" title="You are encouraged to create an account and log in; however, it is not mandatory" class=""><span>Create account</span></a>
+</li>
+<li id="pt-login-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="/w/index.php?title=Special:UserLogin&amp;returnto=Dark+Souls&amp;returntoquery=action%3Dedit" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o" class=""><span>Log in</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div>
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out user-links-collapsible-item"  title="Log in and more options" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Personal tools"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">Personal tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="User menu" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-sitesupport" class="user-links-collapsible-item mw-list-item"><a href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=en.wikipedia.org&amp;uselang=en"><span class="vector-icon mw-ui-icon-heart mw-ui-icon-wikimedia-heart"></span> <span>Donate</span></a></li><li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Dark+Souls&amp;returntoquery=action%3Dedit" title="You are encouraged to create an account and log in; however, it is not mandatory"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Create account</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Dark+Souls&amp;returntoquery=action%3Dedit" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Log in</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<div class="vector-column-start">
+			<div class="vector-main-menu-container">
+		<div id="mw-navigation">
+			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Site">
+				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+				</div>
+		</nav>
+		</div>
+	</div>
+</div>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body">
+				<header class="mw-body-header vector-page-titlebar no-font-mode-scale">
+					<h1 id="firstHeading" class="firstHeading mw-first-heading">Editing <span id="firstHeadingTitle"><span lang="en" dir="ltr"><span class="mw-page-title-main">Dark Souls</span></span></span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="This article is only available in this language. Add the article for other languages"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-0" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">Add languages</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="uls-after-portlet-link"></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar vector-feature-custom-font-size-clientpref--excluded">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Namespaces">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Dark_Souls" title="View the content page [c]" accesskey="c"><span>Article</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/Talk:Dark_Souls" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="vector-variants-dropdown" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="vector-variants-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-variants-dropdown" class="vector-dropdown-checkbox " aria-label="Change language variant"   >
+	<label id="vector-variants-dropdown-label" for="vector-variants-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">English</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Views">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="vector-tab-noicon mw-list-item"><a href="/wiki/Dark_Souls"><span>Read</span></a></li><li id="ca-edit" class="selected vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Dark_Souls&amp;action=edit" title="Edit this page"><span>Edit</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Dark_Souls&amp;action=history" title="Past revisions of this page [h]" accesskey="h"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Page tools">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Tools"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Tools</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">hide</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="More options" >
+	<div class="vector-menu-heading">
+		Actions
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="vector-more-collapsible-item mw-list-item"><a href="/wiki/Dark_Souls"><span>Read</span></a></li><li id="ca-more-edit" class="selected vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Dark_Souls&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Dark_Souls&amp;action=history"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		General
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/Dark_Souls" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/Dark_Souls" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Dark_Souls&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=Special:UrlShortener&amp;url=https%3A%2F%2Fen.wikipedia.org%2Fw%2Findex.php%3Ftitle%3DDark_Souls%26action%3Dedit"><span>Get shortened URL</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects"  >
+	<div class="vector-menu-heading">
+		In other projects
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-wikibase" class="wb-otherproject-link wb-otherproject-wikibase-dataitem mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q99431276" title="Structured data on this page hosted by Wikidata [g]" accesskey="g"><span>Wikidata item</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end no-font-mode-scale">
+					<div class="vector-sticky-pinned-container">
+						<div class="wp25eastereggs-vector-sitenotice-landmark"></div>
+						<nav class="vector-page-tools-landmark" aria-label="Page tools">
+							<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+				
+							</div>
+		</nav>
+						<nav class="vector-appearance-landmark" aria-label="Appearance">
+							<div id="vector-appearance-pinned-container" class="vector-pinned-container">
+				<div id="vector-appearance" class="vector-appearance vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-appearance-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="appearance-pinned"
+	data-pinnable-element-id="vector-appearance"
+	data-pinned-container-id="vector-appearance-pinned-container"
+	data-unpinned-container-id="vector-appearance-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Appearance</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-appearance.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-appearance.unpin">hide</button>
+</div>
+
+
+</div>
+
+							</div>
+		</nav>
+					</div>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		</div>
+
+						
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content"><div class="mw-editnotice mw-editnotice-namespace mw-editnotice-0"><div id="editnotice-area" class="editnotice-area mw-parser-output" style="clear: both;">
+<div class="editnotice-link" style="clear: both; float: right; margin: 0px 0.8em; padding: 0; line-height: 1em;"> <small> <a href="/wiki/Template:Editnotices/Page/Dark_Souls" title="Template:Editnotices/Page/Dark Souls">Page notice</a></small> </div>
+  <div class="editnotice-page" style="clear: both; width: 100%;"> <style data-mw-deduplicate="TemplateStyles:r1317217782">.mw-parser-output .fmbox{clear:both;margin:0.2em 0;border:1px solid #a2a9b1;background-color:var(--background-color-interactive-subtle,#f8f9fa);box-sizing:border-box;color:var(--color-base,#202122)}.mw-parser-output .fmbox-warning{border:1px solid #bb7070;background-color:#ffdbdb}.mw-parser-output .fmbox-editnotice{background-color:transparent}.mw-parser-output .fmbox .mbox-text{padding:0.35em 1em;flex:1 1 100%}.mw-parser-output .fmbox .mbox-image,.mw-parser-output .fmbox .mbox-imageright{padding:4px 2px;text-align:center;flex:none}.mw-parser-output .mbox-invalid-type{text-align:center}@media(min-width:480px){.mw-parser-output .fmbox{display:flex;align-items:center}.mw-parser-output .fmbox .mbox-image{padding-left:1em}.mw-parser-output .fmbox .mbox-imageright{padding-right:1em}}@media screen{html.skin-theme-clientpref-night .mw-parser-output .fmbox-warning{background-color:#300}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .fmbox-warning{background-color:#300}}</style><style data-mw-deduplicate="TemplateStyles:r1317631415">@media screen and (max-width:479px){.mw-parser-output .editnotice .mbox-image,.mw-parser-output .editnotice .mbox-text,.mw-parser-output .editnotice .mbox-imageright,.mw-parser-output .editnotice-header,.mw-parser-output .editnotice-header span{font-size:100%!important}.mw-parser-output .editnotice .mbox-image img.mw-file-element,.mw-parser-output .editnotice .mbox-imageright img.mw-file-element{height:auto;width:auto;max-height:40px}}</style><div class="fmbox fmbox-editnotice editnotice"><div class="mbox-image"><span typeof="mw:File"><a href="/wiki/File:Stop_hand_nuvola.svg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/en/thumb/f/f1/Stop_hand_nuvola.svg/40px-Stop_hand_nuvola.svg.png" decoding="async" width="40" height="40" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f1/Stop_hand_nuvola.svg/120px-Stop_hand_nuvola.svg.png 2x" data-file-width="240" data-file-height="240" /></a></span></div><div class="mbox-text"><div class="editnotice-header" style="font-weight: bold;">A note about <i><a href="/wiki/Demon%27s_Souls" title="Demon&#39;s Souls">Demon's Souls</a></i></div>
+Per talk page consensus, this article should be about games and related media that are explicitly part of the <i>Dark Souls</i> franchise. <i><a href="/wiki/Demon%27s_Souls" title="Demon&#39;s Souls">Demon's Souls</a></i>, which takes up a separate franchise, should <i>not</i> be treated as a <i>Dark Souls</i> installment.</div></div> </div><div style="clear: both;"></div></div></div><div class="cdx-message--warning mw-anon-edit-warning cdx-message cdx-message--block"><span class="cdx-message__icon"></span><div class="cdx-message__content"><div style="text-align: center;"><span style="color:#d33; font-weight:bold;">You are not logged in.</span> Once you make an edit, a <a href="/wiki/Wikipedia:Temporary_accounts" title="Wikipedia:Temporary accounts">temporary account</a>, furnished only with a very basic level of privacy, will be assigned to you automatically and will expire within 90 days. If you <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Special:UserLogin&amp;returnto=Dark_Souls&amp;returntoquery=action%3Dedit">log in</a> or <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&amp;returnto=Dark_Souls&amp;returntoquery=action%3Dedit">create an account</a>, your edits will instead be attributed to a username, and you will be able to receive notifications about your edits for as long as you wish, among <a href="/wiki/Wikipedia:Why_create_an_account%3F" title="Wikipedia:Why create an account?">other benefits</a>.</div></div></div><div class='editpage-head-copywarn'>
+<div class="center"><span typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/1/1d/Information_icon4.svg/20px-Information_icon4.svg.png" decoding="async" width="20" height="20" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/1/1d/Information_icon4.svg/40px-Information_icon4.svg.png 2x" data-file-width="620" data-file-height="620" /></span></span> Content that <a href="/wiki/Wikipedia:Copyright_violations" title="Wikipedia:Copyright violations">violates any copyrights</a> will be deleted. Encyclopedic content must be <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verifiable</a> through <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">citations to reliable sources</a>.</div>
+</div><div id="wikiPreview" class="ontop" style="display: none;"></div><form class="mw-editform" id="editform" name="editform" method="post" action="/w/index.php?title=Dark_Souls&amp;action=submit" enctype="multipart/form-data" data-mw-editform-type="initial"><input type="hidden" value="ℳ𝒲♥𝓊𝓃𝒾𝒸ℴ𝒹ℯ" name="wpUnicodeCheck"><div id="antispam-container" style="display: none;"><label for="wpAntispam">Anti-spam check.
+Do <strong>not</strong> fill this in!</label><input name="wpAntispam" id="wpAntispam"></div><input id="wikieditorUsed" type="hidden" name="wikieditorUsed"><input id="editingStatsId" type="hidden" value="3813aa22c96febee74e4134608aa1fea" name="editingStatsId"><input type="hidden" name="wpSection"><input type="hidden" value="20260408132637" name="wpStarttime"><input type="hidden" value="20260310213715" name="wpEdittime"><input type="hidden" value="1342822556" name="editRevId"><input id="wpScrolltop" type="hidden" name="wpScrolltop"><input type="hidden" value="d41d8cd98f00b204e9800998ecf8427e" name="wpAutoSummary"><input type="hidden" value="0" name="oldid"><input type="hidden" value="1342822556" name="parentRevId"><input type="hidden" value="text/x-wiki" name="format"><input type="hidden" value="wikitext" name="model"><textarea aria-label="Wikitext source editor" tabindex="1" class="mw-editfont-monospace" accesskey="," id="wpTextbox1" cols="80" rows="25" lang="en" dir="ltr" name="wpTextbox1">{{short description|Video game series}}
+{{About|the video game series|the first entry|Dark Souls (video game){{!}}''Dark Souls'' (video game)|the 2011 Norwegian film|Dark Souls (film){{!}}''Dark Souls'' (film)|the 2007 video game|Bleach: Dark Souls{{!}}''Bleach: Dark Souls''}}
+{{Use mdy dates|date=July 2024}}
+{{Infobox video game series
+|title = Dark Souls
+|image = Dark Souls logo black.svg
+|alt=Logo of the ''Dark Souls'' series
+|genre = [[Action role-playing]]
+|developer = [[FromSoftware]]
+|publisher = [[Bandai Namco Entertainment]]{{vgr|JP|[[FromSoftware]]}}
+|creator = [[Hidetaka Miyazaki]]
+|composer = {{ubl|[[Motoi Sakuraba]]|Yuka Kitamura}}
+|platforms = [[PlayStation 3]], [[Xbox 360]], [[Windows]], [[PlayStation 4]], [[Xbox One]], [[Nintendo Switch]]
+|first release version = ''[[Dark Souls (video game)|Dark Souls]]''
+|first release date = September 22, 2011
+|latest release version = ''[[Dark Souls: Remastered]]''
+|latest release date = May 24, 2018
+}}
+
+{{nihongo foot|'''''Dark Souls'''''|ダークソウル|Dākusōru|group=lower-alpha|lead=yes}} is a [[dark fantasy]] [[action role-playing game]] series developed by [[FromSoftware]] and published by [[Bandai Namco Entertainment]]. Created by [[Hidetaka Miyazaki]], the series began with the release of ''[[Dark Souls (video game)|Dark Souls]]'' (2011) and has seen two sequels, ''[[Dark Souls II]]'' (2014) and ''[[Dark Souls III]]'' (2016). It has received critical acclaim, with its high [[difficulty level|level of difficulty]] being among its most discussed aspects, while the first ''Dark Souls'' is often cited as one of the [[greatest games of all time]]. The series had shipped over 39 million copies worldwide {{as of|2025|lc=y}}.&lt;ref name="BandaiNamco">{{cite web |title=Fact Book 2025 |date=2025 |publisher=[[Bandai Namco Group]] |page=6 |url=https://www.bandainamco.co.jp/en/ir/library/assets/pdf/2025/factbook2025_en.pdf |access-date=October 29, 2025}}&lt;/ref> Other FromSoftware games, including ''[[Demon's Souls]]'', ''[[Bloodborne]]'', ''[[Sekiro: Shadows Die Twice]]'', and ''[[Elden Ring]]'', share several related concepts and led to the creation of the [[Soulslike]] subgenre.
+
+{{TOC limit}}
+
+==Setting==
+The games take place within the land of Lordran, Drangleic, and Lothric, respectively, where the player's character fights against knights, dragons, phantoms, demons, and other monstrous or supernatural entities. The accretion, loss, and recovery of souls are central to the narrative and gameplay of ''Dark Souls'' games. These games are linked through their setting and an overarching cyclic narrative centering around fire, and are linked through common themes and elements, including interactions with phantoms and battles with demons. At the end of each game, characters may reignite the "first flame" or allow it to fade, recurring a choice others have made before.
+
+==Gameplay==
+{{See also|Soulslike}}
+The ''Dark Souls'' games are played in a [[third-person (video games)|third-person]] perspective, and focus on exploring interconnected environments while fighting enemies with weapons and magic. Players battle [[boss (video games)|bosses]] to progress through the story, while interacting with [[non-playable character]]s. The protagonist of each ''Dark Souls'' game can have a varying gender, appearance, name, and starting class via [[character creation]]. Players can choose between classes, including knights, barbarians, thieves, and mages. Each class has its own starting equipment and [[Skill (role-playing games)|abilities]] that can be tailored to the player's experience and choices as they progress. The player gains souls from gameplay battles which act as both [[experience points]] to level up and as currency to buy [[Item (gaming)|items]]. Souls gained are usually proportional to the difficulty of fighting certain enemies; the more difficult an enemy, the more souls the player will gain from defeating it.
+
+One of the core mechanics of the series is the use of how it handles progress, death, and player improvement. [[Bonfire (Dark Souls)|Bonfires]] serve as a checkpoint within the series, restoring all health and other critical resources when used, but also respawning most enemies and obstacles, making repeated trips back to safety untenable for forward progress. Upon losing all of their [[health points]] and [[Life (gaming)|dying]], players lose their souls and appear back at the bonfire where they last rested. If the player can return to their point of death, their bloodstain, without dying again, they can regain all lost souls.&lt;ref name="BloodstainGR">{{Cite news|url=https://www.gamesradar.com/how-fromsoft-took-the-action-rpg-to-a-new-level-by-putting-faith-in-dark-souls-players/|title=How FromSoft took the action-RPG to a new level by putting faith in Dark Souls' players|work=gamesradar|access-date=February 21, 2018|language=en|archive-url=https://web.archive.org/web/20180222043837/https://www.gamesradar.com/how-fromsoft-took-the-action-rpg-to-a-new-level-by-putting-faith-in-dark-souls-players/|archive-date=February 22, 2018|url-status=live}}&lt;/ref> If the player dies again before reaching their bloodstain, the souls are permanently gone.&lt;ref name="BloodstainGR"/> Notably, using a bonfire manually and respawning at one after death have identical effects, save for the player losing their currency at their place of death, which can be retrieved with no penalty. In this way the player is encouraged to not fear death, as no progress is lost so long as they can learn from their mistakes.{{cn|date=May 2024}} As the player retraces their steps after death, they will naturally defeat more enemies, gaining more souls and allowing their character to gain experience alongside the player themselves.
+
+Online interaction in the ''Dark Souls'' games is integrated into the single-player experience. Throughout areas of the game, players can briefly see the actions of other players as ghosts in the same area that may show hidden passages or switches. When a player dies, a bloodstain can be left in other players game world and when activated can show a ghost playing out their final moments, indicating how that person died and potentially helping other players online to avoid the same fate in advance. Players can leave messages on the ground that can help other players with tips and warnings. Multiplayer can be engaged in both [[player versus player]] combat and [[Cooperative video game|cooperative gameplay]] using invasion or summoning mechanics.&lt;ref name="gspot_ds_review" />&lt;ref name="polygon_ds2_review" /> Players can also rely on covenants, which serve as "factions" that can allow players to delve further into the multiplayer experience.
+
+==Games==
+{{Video game timeline
+| 2011 = ''[[Dark Souls (video game)|'''Dark Souls''']]''
+| 2014 = ''[[Dark Souls II|'''Dark Souls II''']]''
+| 2016 = ''[[Dark Souls III|'''Dark Souls III''']]''
+| 2018 = ''[[Dark Souls (video game)|Dark Souls: Remastered]]''
+
+
+}}
+
+===''Dark Souls''===
+{{Main|Dark Souls (video game)}}
+''Dark Souls'' is the first game in the series; it is considered a [[spiritual successor]] to ''[[Demon's Souls]]'' (2009).&lt;ref name="eurog_retrospective" />&lt;ref>{{cite web|last1=Matulef|first1=Jeffrey|title=Demon's Souls still feels fresher than its "Dark" successors|url=http://www.eurogamer.net/articles/2014-09-30-why-demons-souls-still-feels-fresher-than-its-dark-successors|website=Eurogamer|date=October 3, 2014|publisher=dx.net|access-date=May 8, 2016|archive-url=https://web.archive.org/web/20160426182657/http://www.eurogamer.net/articles/2014-09-30-why-demons-souls-still-feels-fresher-than-its-dark-successors|archive-date=April 26, 2016|url-status=live}}&lt;/ref> FromSoftware wanted to develop a sequel to ''Demon's Souls'', but Sony's ownership of the intellectual property prevented them from doing so on other platforms.&lt;ref name="lee et al">{{cite journal | title = Relationships among video games: Existing standards and new definitions | author = Jin Ha Lee |first2=Rachel Ivy |last2=Clarke |first3=Simone |last3=Sacchi |first4=Jacob |last4=Jett | journal = Proceedings of the Association for Information Science and Technology | volume = 51 | issue = 1 | year = 2014 | pages = 1–11 | doi = 10.1002/meet.2014.14505101035 | doi-access = free }}&lt;/ref> It was released in 2011 for PlayStation 3 and [[Xbox 360]].&lt;ref>{{cite web | url=http://uk.ign.com/articles/2011/05/11/dark-souls-release-date-revealed | title=Dark Souls Release Date Revealed | work=[[IGN]] | publisher=[[Ziff Davis]] | first=Colin | last=Moriarty | date=May 11, 2011 | access-date=July 6, 2015 | archive-date=April 16, 2023 | archive-url=https://web.archive.org/web/20230416082746/https://www.ign.com/articles/2011/05/11/dark-souls-release-date-revealed | url-status=live }}&lt;/ref> In 2012, ''Dark Souls: Prepare to Die Edition'' was released for [[Windows]], PlayStation 3, and Xbox 360, featuring the base game and the ''Artorias of the Abyss'' [[downloadable content]].&lt;ref>{{cite web | url=http://uk.ign.com/articles/2012/05/31/new-dark-souls-content-coming-to-consoles-3 | title=New Dark Souls Content Coming to Consoles | work=[[IGN]] | publisher=[[Ziff Davis]] | first=Charles | last=Onyett | date=May 31, 2012 | access-date=July 6, 2015 | archive-url=https://web.archive.org/web/20190821000055/https://uk.ign.com/articles/2012/05/31/new-dark-souls-content-coming-to-consoles-3 | archive-date=August 21, 2019 | url-status=live }}&lt;/ref> The game takes place in the fictional kingdom of Lordran. Players assume the role of a cursed human character who escapes from the [[Northern Undead Asylum]] and sets out to discover the fate of undead humans like themselves. The plot of ''Dark Souls'' is primarily told through environmental details, in-game item [[flavor text]], and dialogue with [[non-playable character]]s (NPCs). Players must piece together clues in order to understand the story, rather than being told the story through more traditional means, such as through [[cutscene]]s. ''Dark Souls'' and its predecessor ''Demon's Souls'' garnered recognition due to the series' high level of difficulty.&lt;ref name="gspot_ds_review">{{cite web | url=http://www.gamespot.com/reviews/dark-souls-review/1900-6337624/ | title=Dark Souls Review | work=[[GameSpot]] | publisher=[[CBS Interactive]] | first=Kevin | last=VanOrd | date=October 3, 2011 | access-date=July 6, 2015 | archive-url=https://web.archive.org/web/20150626053846/http://www.gamespot.com/reviews/dark-souls-review/1900-6337624/ | archive-date=June 26, 2015 | url-status=live }}&lt;/ref>&lt;ref>Houghton, David. (March 5, 2014). [http://www.gamesradar.com/why-dark-souls-friendliest-most-benevolent-game-its-generation/ "Why Dark Souls is the friendliest, most benevolent game of its generation"] {{Webarchive|url=https://web.archive.org/web/20180629155430/https://www.gamesradar.com/why-dark-souls-friendliest-most-benevolent-game-its-generation/ |date=June 29, 2018 }}. ''GamesRadar''. Retrieved July 19, 2015.&lt;/ref>&lt;ref>Harrison, William. (October 10, 2011). [https://venturebeat.com/community/2011/10/10/dark-souls-isnt-hard-gamers-are-just-stupid-and-impatient/ "Dark Souls isn't hard, gamers are just stupid and impatient"] {{Webarchive|url=https://web.archive.org/web/20180629131607/https://venturebeat.com/community/2011/10/10/dark-souls-isnt-hard-gamers-are-just-stupid-and-impatient/ |date=June 29, 2018 }}. ''Venture Beat''. Retrieved July 19, 2015.&lt;/ref>&lt;ref>{{cite web|last1=North|first1=Dale|title=Non-review: Why I couldn't finish Demon's Souls|url=http://www.destructoid.com/non-review-why-i-couldn-t-finish-demon-s-souls-151008.phtml|website=Destructoid|date=October 5, 2009|access-date=October 31, 2015|archive-url=https://web.archive.org/web/20150912024514/http://www.destructoid.com/non-review-why-i-couldn-t-finish-demon-s-souls-151008.phtml|archive-date=September 12, 2015|url-status=live}}&lt;/ref>&lt;ref>{{cite web|last=Wilson|first=Ewan|date=22 September 2021|title=Ten years on, 'Dark Souls' is still corralling us through its hostile world|work=NME|url=https://www.nme.com/features/ten-years-on-dark-souls-is-still-corralling-us-through-its-hostile-world-3052179|archive-url=https://web.archive.org/web/20241224034017/https://www.nme.com/features/ten-years-on-dark-souls-is-still-corralling-us-through-its-hostile-world-3052179|archive-date=24 December 2024|access-date=24 December 2024}}&lt;/ref> A version featuring some graphical and gameplay enhancements, ''[[Dark Souls: Remastered]]'', was released in May 2018.&lt;ref>{{cite web |first=Sherif |last=Saed |title=Dark Souls Remastered announced for PC, PS4, Xbox One with 4K and 60fps |url=https://www.vg247.com/2018/01/11/dark-souls-remastered-announced-for-pc-ps4-xbox-one-with-4k-and-60fps/ |website=[[VG247]] |date=January 11, 2018 |access-date=January 14, 2018 |archive-url=https://web.archive.org/web/20180114060757/https://www.vg247.com/2018/01/11/dark-souls-remastered-announced-for-pc-ps4-xbox-one-with-4k-and-60fps/ |archive-date=January 14, 2018 |url-status=live }}&lt;/ref>
+
+===''Dark Souls II''===
+{{Main|Dark Souls II}}
+''[[Dark Souls II]]'' was first announced in late 2012 during the [[Spike Video Game Awards]]. This is the only game in the series where director Hidetaka Miyazaki did not reprise his role, although he was still involved in supervision.&lt;ref name="vg247 - dec2012">{{cite web|url=http://www.vg247.com/2012/12/15/dark-souls-2-a-direct-sequel-to-first-title-may-not-make-2013/|title=Dark Souls 2 a direct sequel to first title, may not make 2013|website=[[VG247]]|date=December 15, 2012|access-date=December 16, 2012|archive-date=December 17, 2012|archive-url=https://web.archive.org/web/20121217034254/http://www.vg247.com/2012/12/15/dark-souls-2-a-direct-sequel-to-first-title-may-not-make-2013/|url-status=live}}&lt;/ref>&lt;ref>{{cite web|last1=Matulef|first1=Jeffrey|title=Miyazaki won't be directly involved in Dark Souls 2, doesn't want too many sequels|url=http://www.eurogamer.net/articles/2013-01-29-miyazaki-wont-be-directly-involved-in-dark-souls-2-doesnt-want-too-many-sequels|website=EuroGamer|date=January 29, 2013|access-date=July 27, 2015|archive-url=https://web.archive.org/web/20150827042930/http://www.eurogamer.net/articles/2013-01-29-miyazaki-wont-be-directly-involved-in-dark-souls-2-doesnt-want-too-many-sequels|archive-date=August 27, 2015|url-status=live}}&lt;/ref> It was released in 2014 for Windows, PlayStation 3, and Xbox 360.&lt;ref name="eurog_ds2_date">{{cite web | url=http://www.eurogamer.net/articles/2014-03-06-dark-souls-2-pc-release-date-confirmed | title=Dark Souls 2 PC release date confirmed | work=[[Eurogamer]] | publisher=Gamer Network | first=Wesley | last=Yin-Poole | date=March 6, 2014 | access-date=July 6, 2015 | archive-url=https://web.archive.org/web/20150706183901/http://www.eurogamer.net/articles/2014-03-06-dark-souls-2-pc-release-date-confirmed | archive-date=July 6, 2015 | url-status=live }}&lt;/ref> In 2015, an updated version featuring ''[[The Lost Crowns]]'' downloadable content was released for Windows, PlayStation 3, Xbox 360, [[PlayStation 4]], and [[Xbox One]], under the title ''Dark Souls II: Scholar of the First Sin''&lt;ref>{{cite web | url=http://uk.ign.com/articles/2014/12/29/dark-souls-2-scholar-of-the-first-sin-director-reveals-new-details | title=Dark Souls 2: Scholar of the First Sin Director Reveals New Details | work=[[IGN]] | publisher=[[Ziff Davis]] | first=Jenna | last=Pitcher | date=December 29, 2014 | access-date=July 6, 2015 | archive-date=April 16, 2023 | archive-url=https://web.archive.org/web/20230416082643/https://www.ign.com/articles/2014/12/29/dark-souls-2-scholar-of-the-first-sin-director-reveals-new-details | url-status=live }}&lt;/ref> - with the latter two platforms receiving retail releases.&lt;ref>{{cite web|url=http://www.polygon.com/2014/11/25/7278217/dark-souls-2-ps4-xbox-one-release-date|title=Dark Souls 2 coming to PlayStation 4 and Xbox One in 2015|author=mikemcwhertor|work=Polygon|date=November 25, 2014|access-date=July 27, 2015|archive-url=https://web.archive.org/web/20150712085846/http://www.polygon.com/2014/11/25/7278217/dark-souls-2-ps4-xbox-one-release-date|archive-date=July 12, 2015|url-status=live}}&lt;/ref> The game takes place in the kingdom of Drangleic, where the player must find a cure for the undead curse.&lt;ref name="polygon_ds2_review">{{cite web | url=http://www.polygon.com/2014/3/11/5492096/dark-souls-2-review | title=Dark Souls 2 Review: not the end | work=[[Polygon (website)|Polygon]] | publisher=[[Vox Media]] | first=Philip | last=Kollar | date=March 11, 2014 | access-date=July 6, 2015 | archive-url=https://web.archive.org/web/20150705234756/http://www.polygon.com/2014/3/11/5492096/dark-souls-2-review | archive-date=July 5, 2015 | url-status=live }}&lt;/ref> Although set in the same universe as the previous game, there is no direct story connection to ''Dark Souls''.&lt;ref name="polygon_ds2">{{cite web | url=http://www.polygon.com/2012/12/19/3783452/dark-souls-2-staff-discuss-the-vga-trailer-and-what-having-real | title=Dark Souls 2 developer: If Dark Souls was set in the North Pole, this one would be in the South Pole | work=[[Polygon (website)|Polygon]] | publisher=[[Vox Media]] | first=Kevin | last=Gifford | date=December 19, 2012 | access-date=July 6, 2015 | archive-url=https://web.archive.org/web/20150707165522/http://www.polygon.com/2012/12/19/3783452/dark-souls-2-staff-discuss-the-vga-trailer-and-what-having-real | archive-date=July 7, 2015 | url-status=live }}&lt;/ref>
+
+===''Dark Souls III''===
+{{Main|Dark Souls III}}
+''Dark Souls III'' was released in 2016 for Windows, PlayStation 4, and Xbox One.&lt;ref name="polygon_ds3">{{cite web | url=http://www.polygon.com/2015/6/15/8782845/dark-souls-3-announced-e3-2015-from-software | title=Dark Souls 3 confirmed, coming early 2016 | work=[[Polygon (website)|Polygon]] | publisher=[[Vox Media]] | first=Michael | last=McWhertor | date=June 15, 2015 | access-date=July 6, 2015 | archive-url=https://web.archive.org/web/20150924182414/http://www.polygon.com/2015/6/15/8782845/dark-souls-3-announced-e3-2015-from-software | archive-date=September 24, 2015 | url-status=live }}&lt;/ref> The gameplay is paced faster than previous ''Souls'' installments,&lt;ref>{{cite web|last1=Mahardy|first1=Mike|title=Dark Souls III is Faster, Smoother, and More Fluid Than its Predecessors|url=http://www.gamespot.com/articles/dark-souls-iii-is-faster-smoother-and-more-fluid-t/1100-6429464/|publisher=Gamespot|access-date=September 21, 2015|archive-url=https://web.archive.org/web/20150919054802/http://www.gamespot.com/articles/dark-souls-iii-is-faster-smoother-and-more-fluid-t/1100-6429464/|archive-date=September 19, 2015|url-status=live}}&lt;/ref> which was attributed in part to the gameplay of ''[[Bloodborne]]''.&lt;ref>{{cite web|url=http://www.polygon.com/2015/7/20/9002955/dark-souls-3-bloodborne-combat-influences|title=Dark Souls 3's combat is faster in a post-Bloodborne world|website=Polygon|date=July 20, 2015|access-date=October 4, 2015|archive-url=https://web.archive.org/web/20151005080408/http://www.polygon.com/2015/7/20/9002955/dark-souls-3-bloodborne-combat-influences|archive-date=October 5, 2015|url-status=live}}&lt;/ref> The game takes place in the kingdom of Lothric, where the player must end the cycle of linking the Flame. In 2017, the complete version containing the base game and both expansions (''Ashes of Ariandel'' and ''The Ringed City'') was released, under the title ''Dark Souls III: The Fire Fades Edition''. ''Dark Souls III'' was both critically and commercially successful, with critics calling it a worthy and fitting conclusion to the series. It sold over 10 million copies by 2020, making it the fastest-selling game in Bandai Namco's history at the time&lt;ref>{{cite web |last1=Talbot |first1=Carrie |title=Dark Souls 3 sales hits the ten million mark – and the series tops 27 million |url=https://www.pcgamesn.com/dark-souls-3/sales |website=PCGamesN |date=May 19, 2020 |access-date=May 19, 2020 |archive-date=May 14, 2022 |archive-url=https://web.archive.org/web/20220514213022/https://www.pcgamesn.com/dark-souls-3/sales |url-status=live }}&lt;/ref>&lt;ref>{{Cite web |last=Porter |first=Matt |date=April 18, 2016 |title=Dark Souls 3 Is Bandai Namco's Fastest-Selling Game Ever |url=https://www.ign.com/articles/2016/04/18/dark-souls-3-is-bandai-namcos-fastest-selling-game-ever |access-date=August 16, 2022 |website=IGN |language=en |archive-date=August 16, 2022 |archive-url=https://web.archive.org/web/20220816211330/https://www.ign.com/articles/2016/04/18/dark-souls-3-is-bandai-namcos-fastest-selling-game-ever |url-status=live }}&lt;/ref> (until the record was beaten by ''Elden Ring'').&lt;ref name="Bankhurst">{{Cite web |last=Bankhurst |first=Adam |date=March 16, 2022 |title=Elden Ring Has Already Sold 12 Million Copies Worldwide |url=https://www.ign.com/articles/elden-ring-has-already-sold-12-million-copies-worldwide |url-status=live |archive-url=https://web.archive.org/web/20220316213048/https://www.ign.com/articles/elden-ring-has-already-sold-12-million-copies-worldwide |archive-date=March 16, 2022 |access-date=March 16, 2022 |website=IGN}}&lt;/ref> In 2015, Miyazaki said that ''Dark Souls III'' would likely be the last of the series, with FromSoftware choosing to move onto new games of unrelated IPs in the future.&lt;ref>{{cite web|last1=Hussain|first1=Tamoor|title=Dark Souls 3 Interview: "It Wouldn't Be Right to Continue Creating Souls"|url=http://www.gamespot.com/articles/dark-souls-3-interview-it-wouldnt-be-right-to-cont/1100-6432425/|website=GameSpot|access-date=March 26, 2016|archive-url=https://web.archive.org/web/20151122053418/http://www.gamespot.com/articles/dark-souls-3-interview-it-wouldnt-be-right-to-cont/1100-6432425/|archive-date=November 22, 2015|url-status=live}}&lt;/ref>
+
+==Other media==
+[[File:Cover art for the first Dark Souls comic.jpg|upright|thumb|Cover art for the first issue of the ''Dark Souls'' comic book]]
+A [[comic book]] by [[Titan Comics]] based on the series debuted alongside the release of ''Dark Souls III'' in 2016.&lt;ref>{{cite web|last1=Schedeen|first1=Jesse|title=DARK SOULS COMIC BOOK COMING IN APRIL 2016|url=http://www.ign.com/articles/2016/01/19/dark-souls-comic-book-coming-in-april-2016|website=IGN|date=January 19, 2016 |publisher=Ziff Davis|access-date=January 21, 2016|archive-url=https://web.archive.org/web/20160120182254/http://www.ign.com/articles/2016/01/19/dark-souls-comic-book-coming-in-april-2016|archive-date=January 20, 2016|url-status=live}}&lt;/ref> A [[Kickstarter]] campaign for a licensed board game by Steamforged Games, ''[[Dark Souls: The Board Game]]'', was also announced around the same time.&lt;ref>{{cite magazine|last1=Prescott|first1=Shaun|title=The Dark Souls series is getting a board game|url=http://www.pcgamer.com/the-dark-souls-series-is-getting-a-board-game/|magazine=PC Gamer|date=April 8, 2016|access-date=April 8, 2016|archive-url=https://web.archive.org/web/20160411100243/http://www.pcgamer.com/the-dark-souls-series-is-getting-a-board-game/|archive-date=April 11, 2016|url-status=live}}&lt;/ref> The campaign was funded within the first three minutes of its launch and was released in April 2017.&lt;ref>{{cite web|last1=Klepek|first1=Patrick|title=Crowdfunded Dark Souls Board Game Raises $200,000 In Less Than Two Hours|url=http://kotaku.com/crowdfunded-dark-souls-board-game-raises-200-000-in-le-1771884239|website=Kotaku|date=April 19, 2016 |access-date=April 19, 2016|archive-url=https://web.archive.org/web/20160419225531/http://kotaku.com/crowdfunded-dark-souls-board-game-raises-200-000-in-le-1771884239|archive-date=April 19, 2016|url-status=live}}&lt;/ref>&lt;ref>{{cite web|last1=Makuch|first1=Eddie|title=Dark Souls Board Game Funded in 3 Minutes|url=http://www.gamespot.com/articles/dark-souls-board-game-funded-in-3-minutes/1100-6439005/|website=GameSpot|access-date=April 20, 2016|archive-url=https://web.archive.org/web/20160422173940/http://www.gamespot.com/articles/dark-souls-board-game-funded-in-3-minutes/1100-6439005/|archive-date=April 22, 2016|url-status=live}}&lt;/ref>
+
+In February 2017, music from the series by [[Motoi Sakuraba]] was performed by a live orchestra at the [[Salle Pleyel]] concert hall in [[Paris]].&lt;ref>{{cite web |last=Osborn|first=Alex|title=Dark Souls to Be Featured in Bandai Namco's Orchestral Concert in Europe|url=http://www.ign.com/articles/2016/12/20/dark-souls-to-be-featured-in-bandai-namcos-orchestral-concert-in-europe|website=IGN|date=December 20, 2016 |access-date=January 17, 2017|archive-url=https://web.archive.org/web/20170118051617/http://www.ign.com/articles/2016/12/20/dark-souls-to-be-featured-in-bandai-namcos-orchestral-concert-in-europe|archive-date=January 18, 2017|url-status=live}}&lt;/ref> In September of that year, a limited edition vinyl box set containing the soundtracks of all three games was released in Europe.&lt;ref>{{cite web|last=Hussain|first=Tamoor|title=See The Dark Souls Series' Super Limited Vinyl Soundtrack Collection|url=https://www.gamespot.com/gallery/see-the-dark-souls-series-super-limited-vinyl-soun/2900-1376/|website=GameSpot|access-date=July 27, 2017|archive-url=https://web.archive.org/web/20170912234828/https://www.gamespot.com/gallery/see-the-dark-souls-series-super-limited-vinyl-soun/2900-1376/|archive-date=September 12, 2017|url-status=live}}&lt;/ref> In Japan, a box set containing the enhanced versions of all three games for the PlayStation 4, the soundtracks for each, [[bookend]]s, artwork prints, and dictionaries detailing every in-game [[Item (gaming)|item]] was released on May 24, 2018.&lt;ref>{{cite web|last=Barnett|first=Brian|title=Dark Souls Trilogy Box Set Announced for Japan|url=http://www.ign.com/articles/2018/01/11/dark-souls-trilogy-box-set-announced-for-japan|website=IGN|date=January 11, 2018 |access-date=January 11, 2018|archive-url=https://web.archive.org/web/20180111233804/http://www.ign.com/articles/2018/01/11/dark-souls-trilogy-box-set-announced-for-japan|archive-date=January 11, 2018|url-status=live}}&lt;/ref> The romanticism of Dark Souls III setting has been the topic of analysts, emphasizing the sublime aspects it draws.&lt;ref>{{cite web |title=Romanticism and the Art of Dark Souls III |url=https://www.gamedeveloper.com/art/romanticism-and-the-art-of-dark-souls-iii |access-date=2025-04-27}}&lt;/ref>
+
+== Related games ==
+===''Demon's Souls''===
+{{Main|Demon's Souls|Demon's Souls (2020 video game)|label 2 = its 2020 remake}}
+Released in 2009 for the [[PlayStation 3]], ''Demon's Souls'' is considered the spiritual predecessor to the ''Dark Souls'' series.&lt;ref name="ign_demons_souls_na">{{cite web | url=http://uk.ign.com/articles/2009/07/06/atlus-officially-announces-demons-souls-for-north-america | title=Atlus Officially Announces Demon's Souls for North America | work=[[IGN]] | publisher=[[Ziff Davis]] | date=July 6, 2009 | access-date=July 6, 2015}}&lt;/ref>&lt;ref>{{cite web|last1=Matulef|first1=Jeffrey|title=Bloodborne director reveals his favourite boss from the "Souls" series|url=http://www.eurogamer.net/articles/2015-04-07-bloodborne-director-reveals-his-favourite-boss-from-the-souls-series|website=Eurogamer|date=April 7, 2015|access-date=May 11, 2016|archive-url=https://web.archive.org/web/20180218202246/http://www.eurogamer.net/articles/2015-04-07-bloodborne-director-reveals-his-favourite-boss-from-the-souls-series|archive-date=February 18, 2018|url-status=live}}&lt;/ref> It has also been described as a [[spiritual successor]] to the ''[[King's Field]]'' series of games,&lt;ref name="eurog_retrospective">{{cite web | url=http://www.eurogamer.net/articles/2011-11-13-retrospective-kings-field-article | title=Retrospective: King's Field | work=[[Eurogamer]] | publisher=Gamer Network | first=John | last=Teti | date=November 13, 2011 | access-date=July 6, 2015 | archive-url=https://web.archive.org/web/20150706183215/http://www.eurogamer.net/articles/2011-11-13-retrospective-kings-field-article | archive-date=July 6, 2015 | url-status=live }}&lt;/ref>&lt;ref name="Game Informer">{{cite web|last1=Kollar|first1=Phil|title=Demon's Souls Director Discusses Difficulty, Sequels, And More|url=https://www.gameinformer.com/games/demons_souls/b/ps3/archive/2009/11/05/feature-demon-s-souls-director-discusses-difficulty-sequels-and-more.aspx|website=Gameinformer|access-date=April 30, 2016|archive-url=https://web.archive.org/web/20160603190430/http://www.gameinformer.com/games/demons_souls/b/ps3/archive/2009/11/05/feature-demon-s-souls-director-discusses-difficulty-sequels-and-more.aspx|archive-date=June 3, 2016|url-status=live}}&lt;/ref> while at the same time being described as a separate entity "guided by differing core game design concepts."&lt;ref name="RollingStone">{{cite magazine|last1=Mielke|first1=James|title='Dark Souls' Creator Miyazaki on 'Zelda,' Sequels and Starting Out|url=https://www.rollingstone.com/culture/news/dark-souls-creator-miyazaki-on-zelda-sequels-w443435|magazine=Rolling Stone|access-date=October 6, 2016|archive-url=https://web.archive.org/web/20161005123700/http://www.rollingstone.com/culture/news/dark-souls-creator-miyazaki-on-zelda-sequels-w443435|archive-date=October 5, 2016|url-status=dead}}&lt;/ref> It also drew inspiration from [[video game]]s such as ''[[Ico]]'',&lt;ref>{{cite web|url=https://www.theguardian.com/technology/2015/mar/31/bloodborne-dark-souls-creator-hidetaka-miyazaki-interview|title=Bloodborne creator Hidetaka Miyazaki: 'I didn't have a dream. I wasn't ambitious'|first=Simon|last=Parkin|work=[[The Guardian]]|date=March 31, 2015|access-date=June 4, 2015|archive-url=https://web.archive.org/web/20170806022655/https://www.theguardian.com/technology/2015/mar/31/bloodborne-dark-souls-creator-hidetaka-miyazaki-interview|archive-date=August 6, 2017|url-status=live}}&lt;/ref>&lt;ref>[http://ign.com/articles/2015/04/01/bloodborne-creator-describes-influences-and-game-design-history Bloodborne Creator Describes Influences and Game Design History] {{Webarchive|url=https://web.archive.org/web/20170213004027/http://www.ign.com/articles/2015/04/01/bloodborne-creator-describes-influences-and-game-design-history |date=February 13, 2017 }}, [[IGN]]&lt;/ref> ''[[The Legend of Zelda]]'',&lt;ref name="RollingStone"/> and FromSoftware's ''[[Otogi: Myth of Demons]]'',&lt;ref>{{cite news |last1=Zeller |first1=Mike |title=Why Dark Souls Owes a Debt to its Forgotten Older Sibling Otogi |url=https://www.usgamer.net/articles/why-dark-souls-owes-a-debt-to-its-forgotten-older-sibling-otogi |access-date=March 8, 2022 |work=[[USgamer]] |date=May 2, 2019 |archive-date=September 13, 2020 |archive-url=https://web.archive.org/web/20200913180559/https://www.usgamer.net/articles/why-dark-souls-owes-a-debt-to-its-forgotten-older-sibling-otogi |url-status=dead }}&lt;/ref> as well as [[manga]] such as ''[[Berserk (manga)|Berserk]]'', ''[[Saint Seiya]]'' and ''[[JoJo's Bizarre Adventure]]''.&lt;ref>{{cite web |date=August 12, 2015 |title=Dark Souls 3: Das komplette Gamescom-Interview mit Schöpfer Hidetaka Miyazaki |url=https://www.pcgames.de/Dark-Souls-3-Spiel-55615/Specials/Hidetaka-Miyazaki-im-Gamescom-Interview-1167759/ |url-status=live |archive-url=https://web.archive.org/web/20190623003231/https://www.pcgames.de/Dark-Souls-3-Spiel-55615/Specials/Hidetaka-Miyazaki-im-Gamescom-Interview-1167759/ |archive-date=June 23, 2019 |access-date=June 22, 2019 |website=[[PC Games]] |language=de}}&lt;/ref>
+
+Unlike its successors, ''Demon's Souls'' uses a central hub system known as the "Nexus" where players can level up, repair equipment, or buy certain items, before venturing into one of the five connected worlds. The "World Tendency" feature is also exclusive to ''Demon's Souls'', where the difficulty of exploring a world is dependent on how many bosses have been killed, and how the player dies. The gameplay involves a character-creation system and emphasizes gathering loot through combat with enemies in a non-linear series of varied locations. It had an online multiplayer system integrated into single-player, in which players could leave messages and warnings for other players' worlds, as well as join other players to assist and/or kill them. After FromSoft extended the server's lifecycle past the original 2011 shutdown date, the multiplayer component was finally taken offline in early 2018.&lt;ref name="Demon's Souls PS3 Shutdown">{{cite web |last1=McWhertor |first1=Michael |title=Demon's Souls online services shutting down in 2018 |url=https://www.polygon.com/2017/11/27/16704974/demons-souls-online-service-ending-from-software-ps3 |website=Polygon |date=November 27, 2017 |publisher=Voxmedia |access-date=August 29, 2023}}&lt;/ref>
+
+=== ''King's Field'' ===
+{{main|King's Field}}
+The ''[[King's Field]]'' series, also developed by FromSoftware, is considered a spiritual predecessor to the series. It debuted in 1994 with ''[[King's Field (video game)|King's Field]]'' for the [[PlayStation (console)|PlayStation]] and had three sequels.&lt;ref name="eurog_retrospective" />&lt;ref name="Game Informer" />
+
+=== ''Slashy Souls'' ===
+{{main|Slashy Souls}}
+In February 2016, [[Bandai Namco Entertainment]] partnered with American retailer [[GameStop]] to release ''[[Slashy Souls]]'', a [[free-to-play]] mobile [[endless runner]], to promote ''Dark Souls III''. The game was presented in a [[pixel art]] style, and shares the series' level of difficulty.&lt;ref>{{cite web|url=http://www.polygon.com/2016/2/27/11125424/slashy-souls-first-look-gameplay-video-dark-souls-mobile-namco-ios-android|title=Slashy Souls: a first look at Namco's new Dark Souls-inspired mobile game|first=Philip|last=Kollar|work=[[Polygon (website)|Polygon]]|date=February 27, 2016|access-date=February 28, 2016|archive-url=https://web.archive.org/web/20160229041658/http://www.polygon.com/2016/2/27/11125424/slashy-souls-first-look-gameplay-video-dark-souls-mobile-namco-ios-android|archive-date=February 29, 2016|url-status=live}}&lt;/ref> The game was met with highly negative critical reception,&lt;ref>{{cite web|last1=Matulef|first1=Jeffrey|title=Dark Souls 3's promotional mobile game Slashy Souls is terrible|url=https://www.eurogamer.net/articles/2016-02-29-dark-souls-3s-promotional-mobile-game-slashy-souls-is-terrible|website=Eurogamer|date=February 29, 2016|access-date=May 29, 2018|archive-url=https://web.archive.org/web/20180529203719/https://www.eurogamer.net/articles/2016-02-29-dark-souls-3s-promotional-mobile-game-slashy-souls-is-terrible|archive-date=May 29, 2018|url-status=live}}&lt;/ref> with reviewers such as Chris Carter of ''[[Destructoid]]'' and [[James Stephanie Sterling]] both giving the game a 1/10.&lt;ref>{{cite web|last1=Carter|first1=Chris|title=Review: Slashy Souls|url=http://www.destructoid.com/review-slashy-souls-345257.phtml|website=Destructoid|date=February 28, 2016|access-date=March 10, 2016|archive-url=https://web.archive.org/web/20160310132352/http://www.destructoid.com/review-slashy-souls-345257.phtml|archive-date=March 10, 2016|url-status=live}}&lt;/ref>&lt;ref>{{cite web|url=http://www.thejimquisition.com/slashy-souls-review/|title=Slashy Souls Review – Dark Holes|website=thejimquisition.com|last1=Sterling|first1=Jim|access-date=June 9, 2016|archive-url=https://web.archive.org/web/20160605062246/http://www.thejimquisition.com/slashy-souls-review/|archive-date=June 5, 2016|url-status=dead}}&lt;/ref>
+
+==Reception==
+{{Video game series reviews}}
+[[File:Hidetaka Miyazaki, The Game Awards 2022 (cropped).png|thumb|[[Hidetaka Miyazaki]], creator of the series and director of ''Dark Souls'' and ''Dark Souls III''|upright=.6|left]]
+The ''Dark Souls'' series has been met with critical acclaim, with the first game often being cited as among the [[greatest video games of all time]].&lt;ref>{{cite web|url=http://www.gamesradar.com/best-games-ever/|title=The 100 best games ever|date=February 25, 2015|work=[[GamesRadar]]|access-date=July 1, 2015|archive-url=https://web.archive.org/web/20170120154914/http://www.gamesradar.com/best-games-ever/|archive-date=January 20, 2017|url-status=live}}&lt;/ref>&lt;ref name="Kill Screen influence">{{cite magazine|url=https://killscreen.com/articles/how-do-you-make-rpg-after-dark-souls/|title=How Do You Make An RPG After Dark Souls?|magazine=[[Kill Screen]]|last=Breault|first=Chris|date=February 24, 2014|access-date=March 20, 2017|archive-url=https://web.archive.org/web/20170321081529/https://killscreen.com/articles/how-do-you-make-rpg-after-dark-souls/|archive-date=March 21, 2017|url-status=dead}}&lt;/ref>&lt;ref>{{cite web|last=Rad|first=Chloi|url=http://www.ign.com/articles/2016/04/04/dark-souls-3-review|title=''Dark Souls 3'' Review|work=IGN|date=April 4, 2016|access-date=April 4, 2016|archive-url=https://web.archive.org/web/20160404082010/http://www.ign.com/articles/2016/04/04/dark-souls-3-review|archive-date=April 4, 2016|url-status=live}}&lt;/ref>&lt;ref>{{cite web|url=http://www.pcgamer.com/dark-souls-3-review/|title=''Dark Souls III'' Review|work=[[PC Gamer]]|last=Davenport|first=James|date=April 4, 2016|access-date=April 4, 2016|archive-url=https://web.archive.org/web/20160406050352/http://www.pcgamer.com/dark-souls-3-review/|archive-date=April 6, 2016|url-status=live}}&lt;/ref>
+
+The "bloodstain" gameplay mechanic has been given praise by critics. David Craddock of ''[[Shacknews]]'' called them one of the core tenets of the series.&lt;ref name=":0">{{Cite web|url=http://www.shacknews.com/article/78729/the-dna-of-dark-souls-the-challenge-and-death|title=The DNA of Dark Souls: the challenge and death|website=Shacknews|date=April 15, 2013 |language=en|access-date=February 21, 2018|archive-url=https://web.archive.org/web/20180222044317/http://www.shacknews.com/article/78729/the-dna-of-dark-souls-the-challenge-and-death|archive-date=February 22, 2018|url-status=live}}&lt;/ref> He stated that the harshest punishment one can receive in a Souls game is "not dying once, but twice."&lt;ref name=":0" /> ''[[GamesRadar+]]'' called bloodstains, in combination with ''Demon Souls's'' message system, "a graceful, elegant way of letting players guide each other without the need for words", and said that "rarely has the price of failure been balanced on such a precarious knife edge" as being forced to retrieve one's bloodstain.&lt;ref>{{Cite news|url=https://www.gamesradar.com/how-demons-souls-became-one-of-playstations-toughest-yet-most-rewarding-challenges/|title=How Demon's Souls became one of PlayStation's toughest yet most rewarding challenges|work=gamesradar|access-date=February 23, 2018|language=en|archive-url=https://web.archive.org/web/20180224112952/https://www.gamesradar.com/how-demons-souls-became-one-of-playstations-toughest-yet-most-rewarding-challenges/|archive-date=February 24, 2018|url-status=live}}&lt;/ref>
+
+The bonfire concept was similarly praised. Matthew Elliott of ''GamesRadar+'' called bonfires a powerful symbol of relief, and "a meaty cocktail of progress, exhaustion and joy",&lt;ref name="gamesradar">{{Cite news|url=https://www.gamesradar.com/why-i-love-bonfires-in-dark-souls/|title=Why I Love: bonfires in Dark Souls|work=gamesradar|access-date=February 21, 2018|language=en|archive-url=https://web.archive.org/web/20180221100857/https://www.gamesradar.com/why-i-love-bonfires-in-dark-souls/|archive-date=February 21, 2018|url-status=live}}&lt;/ref> and that, while other games evoke emotions with their save points, no other game does so as effectively.&lt;ref name="gamesradar" /> ''[[Vice (magazine)|Vice]]'' called the Bonfire a "mark of genius" that "reinvented the save point" and allowed the player to reflect on their progress.&lt;ref>{{Cite news|url=https://www.vice.com/en/article/an-ode-to-the-dark-souls-bonfire-225/|title=An Ode to the Dark Souls Bonfire|date=November 5, 2015|work=Vice|access-date=February 21, 2018|language=en-us|archive-url=https://web.archive.org/web/20180221100719/https://www.vice.com/en_us/article/4wbmgw/an-ode-to-the-dark-souls-bonfire-225|archive-date=February 21, 2018|url-status=live}}&lt;/ref>
+
+===Sales and legacy===
+{{As of|2024}}, the ''Dark Souls'' series had shipped 37.33 million copies outside of Japan.&lt;ref>{{cite web |title=Fact Book 2024 |date=2024 |publisher=[[Bandai Namco Group]] |page=3 |url=https://www.bandainamco.co.jp/en/ir/library/assets/pdf/2024/factbook2024_en.pdf |access-date=December 17, 2024}}&lt;/ref> ''Dark Souls III'' broke sales records upon release, selling over three million copies worldwide by May 2016 and was Bandai Namco's fastest-selling game until being surpassed by ''[[Elden Ring]]'' in 2022.&lt;ref>{{cite web|last1=Makuch|first1=Eddie|title=''Dark Souls 3'' Breaks Sales Records|url=http://www.gamespot.com/articles/dark-souls-3-breaks-sales-records/1100-6438928/|website=GameSpot|access-date=April 21, 2016|archive-url=https://web.archive.org/web/20160421070842/http://www.gamespot.com/articles/dark-souls-3-breaks-sales-records/1100-6438928/|archive-date=April 21, 2016|url-status=live}}&lt;/ref>&lt;ref>{{cite web|url=http://www.ign.com/articles/2016/04/18/dark-souls-3-is-bandai-namcos-fastest-selling-game-ever|title=Dark Souls 3 Is Bandai Namco's Fastest Selling Game Ever|first=Matt|last=Potter|work=[[IGN]]|date=April 18, 2016|access-date=April 19, 2016|archive-url=https://web.archive.org/web/20160419203133/http://www.ign.com/articles/2016/04/18/dark-souls-3-is-bandai-namcos-fastest-selling-game-ever|archive-date=April 19, 2016|url-status=live}}&lt;/ref>
+
+The [[Soulslike]] genre was inspired by common features of the series, resulting in many games using similar mechanics. Other FromSoftware games directed by Miyazaki, such as ''Demon's Souls'', ''[[Bloodborne]]'',&lt;ref>{{cite web|last1=Kollar|first1=Philip|title=Bloodborne is not Dark Souls; here's how it should set itself apart|url=http://www.polygon.com/2014/6/11/5800246/bloodborne-is-not-dark-souls-heres-how-it-should-set-itself-apart|website=Polygon|date=June 11, 2014|publisher=Vox Media|access-date=April 30, 2016|archive-url=https://web.archive.org/web/20160506030524/http://www.polygon.com/2014/6/11/5800246/bloodborne-is-not-dark-souls-heres-how-it-should-set-itself-apart|archive-date=May 6, 2016|url-status=live}}&lt;/ref>&lt;ref>{{cite web|url=http://www.gamespot.com/articles/e3-2014-the-similarities-and-differences-between-bloodborne-and-dark-souls/1100-6420378/|title=E3 2014: The Similarities and Differences Between Bloodborne and Dark Souls|first= Randolph|last=Ramsay|work=GameSpot|date=June 10, 2014|access-date=July 27, 2015|archive-url=https://web.archive.org/web/20150709050644/http://www.gamespot.com/articles/e3-2014-the-similarities-and-differences-between-bloodborne-and-dark-souls/1100-6420378/|archive-date=July 9, 2015|url-status=live}}&lt;/ref> ''[[Sekiro: Shadows Die Twice]]'',&lt;ref>{{cite web |last1=McWhertor |first1=Michael |title=Dark Souls' creator on what sets Sekiro: Shadows Die Twice apart |url=https://www.polygon.com/2018/10/2/17925002/sekiro-shadows-die-twice-tgs-2018-hidetaka-miyazaki-interview |website=Polygon |date=October 2, 2018 |access-date=February 21, 2019 |archive-url=https://web.archive.org/web/20190221112310/https://www.polygon.com/2018/10/2/17925002/sekiro-shadows-die-twice-tgs-2018-hidetaka-miyazaki-interview |archive-date=February 21, 2019 |url-status=live }}&lt;/ref> and ''[[Elden Ring]]'',&lt;ref>{{cite web |last1=Krabbe |first1=Esra |title=Elden Ring Is an Evolution of Dark Souls Says Creator – E3 2019 |url=https://www.ign.com/articles/2019/06/21/elden-ring-is-an-evolution-of-dark-souls-says-creator-a-e3-2019 |website=IGN |date=June 21, 2019 |access-date=June 23, 2019 |archive-url=https://web.archive.org/web/20190622003421/https://www.ign.com/articles/2019/06/21/elden-ring-is-an-evolution-of-dark-souls-says-creator-a-e3-2019 |archive-date=June 22, 2019 |url-status=live }}&lt;/ref> share many of the same concepts of ''Souls'' and are often associated with the series and grouped under the "Soulsborne" label.&lt;ref>{{cite web|last1=Saltzman|first1=Mitchell|title=8 PlayStation Games That Need to be Remade or Remastered|url=http://www.ign.com/articles/2018/01/05/8-playstation-games-that-need-to-be-remade-or-remastered|website=IGN|date=January 5, 2018 |access-date=January 11, 2018|archive-url=https://web.archive.org/web/20180110215241/http://www.ign.com/articles/2018/01/05/8-playstation-games-that-need-to-be-remade-or-remastered|archive-date=January 10, 2018|url-status=live}}&lt;/ref>&lt;ref>{{cite web |last1=Dayus |first1=Oscar |title=E3 2018 - Sekiro: Shadows Die Twice Is Not Part Of The Soulsborne Series, From Software Says |url=https://www.gamespot.com/articles/e3-2018-sekiro-shadows-die-twice-is-not-part-of-th/1100-6459819/ |website=GameSpot |access-date=June 14, 2018 |archive-date=April 16, 2023 |archive-url=https://web.archive.org/web/20230416082643/https://www.gamespot.com/articles/sekiro-shadows-die-twice-is-not-part-of-soulsborne/1100-6459819/ |url-status=live }}&lt;/ref>&lt;ref>{{cite web |last1=Harris |first1=Iain |title=Soulsborne fans think Elden Ring is based on Celtic folklore |url=https://www.pcgamesn.com/elden-ring/celtic-folklore |website=PCGamesN |date=June 11, 2019 |access-date=June 23, 2019 |archive-url=https://web.archive.org/web/20190623225821/https://www.pcgamesn.com/elden-ring/celtic-folklore |archive-date=June 23, 2019 |url-status=live }}&lt;/ref>&lt;ref>{{cite web |last1=McWhertor |first1=Michael |title=Streamer pulls off five-game, no-hit 'Soulsborne' run, right before Sekiro launch |url=https://www.polygon.com/2019/3/21/18275978/dark-souls-bloodborne-perfect-run-happy-hob |website=Polygon |date=March 21, 2019 |access-date=June 23, 2019 |archive-url=https://web.archive.org/web/20190421183953/https://www.polygon.com/2019/3/21/18275978/dark-souls-bloodborne-perfect-run-happy-hob |archive-date=April 21, 2019 |url-status=live }}&lt;/ref>
+
+The series has also been cited as an influence on several [[PlayStation Network]] features, including asynchronous messaging, social networking, and video sharing,&lt;ref>{{cite news|last1=Kain|first1=Erik|date=November 22, 2013|title='Dark Souls' Inspired The Design Of Sony's PlayStation 4|work=[[Forbes]]|url=https://www.forbes.com/sites/erikkain/2013/11/22/dark-souls-inspired-the-design-of-sonys-playstation-4/|url-status=live|access-date=October 5, 2018|archive-url=https://web.archive.org/web/20181005155401/https://www.forbes.com/sites/erikkain/2013/11/22/dark-souls-inspired-the-design-of-sonys-playstation-4/|archive-date=October 5, 2018}}&lt;/ref> as well as for the television show ''[[Stranger Things]]''.&lt;ref>{{cite news|last=Tilly|first=Chris|date=August 26, 2016|title=How Silent Hill, Dark Souls and The Last of Us Influenced Stranger Things|website=[[IGN]]|url=https://www.ign.com/articles/2016/08/26/how-silent-hill-dark-souls-and-the-last-of-us-influenced-stranger-things|url-status=live|access-date=October 13, 2018|archive-url=https://web.archive.org/web/20181014010210/https://www.ign.com/articles/2016/08/26/how-silent-hill-dark-souls-and-the-last-of-us-influenced-stranger-things|archive-date=October 14, 2018}}&lt;/ref>
+
+==Notes==
+{{noteslist}}
+
+==References==
+{{Reflist}}
+
+{{Dark Souls series}}
+{{FromSoftware}}
+{{Bandai Namco franchises}}
+
+[[Category:Dark Souls|Dark Souls]]
+[[Category:Soulslike video games]]
+[[Category:Video game franchises introduced in 2011]]
+[[Category:Video games adapted into comics]]
+[[Category:Bandai Namco Entertainment franchises]]
+</textarea><div class='editOptions'>
+<div id='wpSummaryLabel' class='mw-summary oo-ui-layout oo-ui-labelElement oo-ui-fieldLayout oo-ui-fieldLayout-align-top'><div class='oo-ui-fieldLayout-body'><span class='oo-ui-fieldLayout-header'><label for='wpSummary' class='oo-ui-labelElement-label'><span style="text-align: left;"><a href="/wiki/Help:Edit_summary" title="Help:Edit summary">Edit summary</a> <small>(Briefly describe your changes)</small></span></label></span><div class='oo-ui-fieldLayout-field'><div id='wpSummaryWidget' class='oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-textInputWidget oo-ui-textInputWidget-type-text oo-ui-textInputWidget-php' data-ooui='{"_":"OO.ui.TextInputWidget","maxLength":500,"name":"wpSummary","inputId":"wpSummary","tabIndex":1,"title":"Enter a short summary","accessKey":"b","required":false}'><input type='text' tabindex='1' title='Enter a short summary [b]' accesskey='b' name='wpSummary' value='' id='wpSummary' maxlength='500' spellcheck='true' class='oo-ui-inputWidget-input' /><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon'></span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator'></span></div></div></div></div><div class="editCheckboxes"><div class='oo-ui-layout oo-ui-horizontalLayout'><label class='oo-ui-widget oo-ui-widget-enabled oo-ui-labelElement-label oo-ui-labelElement oo-ui-labelWidget'>You do not have any <a href="/wiki/Special:WatchlistLabels" title="Special:WatchlistLabels">watchlist labels</a>.</label></div></div>
+<div id="editpage-copywarn">By publishing changes, you agree to the <a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use" class="extiw" title="foundation:Special:MyLanguage/Policy:Terms of Use">Terms of Use</a>, and you irrevocably agree to release your contribution under the <a href="/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License" title="Wikipedia:Text of the Creative Commons Attribution-ShareAlike 4.0 International License">CC BY-SA 4.0 License</a> and the <a href="/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License" title="Wikipedia:Text of the GNU Free Documentation License">GFDL</a>. You agree that a hyperlink or URL is sufficient attribution under the Creative Commons license.</div><div class='editButtons'>
+<p>To edit this page, please enter the words that appear below in the box (<a href="/wiki/Special:Captcha/help" title="Special:Captcha/help">more info</a>):
+</p><div><label for="wpCaptchaWord">CAPTCHA Security check</label><div class="fancycaptcha-captcha-container"><div class="fancycaptcha-captcha-and-reload"><div class="fancycaptcha-image-container"><img class="fancycaptcha-image" src="/w/index.php?title=Special:Captcha/image&amp;wpCaptchaId=7938397664732411558" alt=""><small class="confirmedit-captcha-reload fancycaptcha-reload">Refresh</small></div></div>
+<div class="cdx-text-input"><input name="wpCaptchaWord" class="cdx-text-input__input" id="wpCaptchaWord" size="12" autocomplete="off" autocorrect="off" autocapitalize="off" required="" tabindex="1" placeholder="Enter the text you see on the image"></div><input type="hidden" name="wpCaptchaId" id="wpCaptchaId" value="7938397664732411558"></div></div>
+<span id='wpSaveWidget' class='oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-buttonElement oo-ui-buttonElement-framed oo-ui-labelElement oo-ui-flaggedElement-progressive oo-ui-flaggedElement-primary oo-ui-buttonInputWidget' data-ooui='{"_":"OO.ui.ButtonInputWidget","useInputTag":true,"type":"submit","name":"wpSave","inputId":"wpSave","tabIndex":3,"title":"Publish your changes","accessKey":"s","label":"Publish changes","flags":["progressive","primary"]}'><input type='submit' tabindex='3' title='Publish your changes [s]' accesskey='s' name='wpSave' id='wpSave' value='Publish changes' class='oo-ui-inputWidget-input oo-ui-buttonElement-button' /></span>
+<span id='wpPreviewWidget' class='oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-buttonElement oo-ui-buttonElement-framed oo-ui-labelElement oo-ui-buttonInputWidget' data-ooui='{"_":"OO.ui.ButtonInputWidget","useInputTag":true,"type":"submit","formNoValidate":true,"name":"wpPreview","inputId":"wpPreview","tabIndex":4,"title":"Preview your changes. Please use this before publishing.","accessKey":"p","label":"Show preview"}'><input type='submit' tabindex='4' title='Preview your changes. Please use this before publishing. [p]' accesskey='p' name='wpPreview' id='wpPreview' value='Show preview' formnovalidate='formnovalidate' class='oo-ui-inputWidget-input oo-ui-buttonElement-button' /></span>
+<span id='wpDiffWidget' class='oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-buttonElement oo-ui-buttonElement-framed oo-ui-labelElement oo-ui-buttonInputWidget' data-ooui='{"_":"OO.ui.ButtonInputWidget","useInputTag":true,"type":"submit","formNoValidate":true,"name":"wpDiff","inputId":"wpDiff","tabIndex":5,"title":"Show the changes you made to the text","accessKey":"v","label":"Show changes"}'><input type='submit' tabindex='5' title='Show the changes you made to the text [v]' accesskey='v' name='wpDiff' id='wpDiff' value='Show changes' formnovalidate='formnovalidate' class='oo-ui-inputWidget-input oo-ui-buttonElement-button' /></span>
+	<span class='cancelLink'><span id='mw-editform-cancel' class='oo-ui-widget oo-ui-widget-enabled oo-ui-buttonElement oo-ui-buttonElement-frameless oo-ui-labelElement oo-ui-flaggedElement-destructive oo-ui-buttonWidget' data-ooui='{"_":"OO.ui.ButtonWidget","href":"\/wiki\/Dark_Souls","rel":["nofollow"],"framed":false,"label":{"html":"Cancel"},"flags":["destructive"],"tabIndex":5}'><a role='button' tabindex='5' href='/wiki/Dark_Souls' rel='nofollow' class='oo-ui-buttonElement-button'><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon oo-ui-image-destructive'></span><span class='oo-ui-labelElement-label'>Cancel</span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator oo-ui-image-destructive'></span></a></span></span>
+	<span class='editHelp'><a href="/wiki/Help:Cheatsheet" target="helpwindow">Editing help</a> (opens in new window)</span>
+</div><!-- editButtons -->
+<span id="templatesandbox-editform"><input id="wpTemplateSandboxTemplate" type="hidden" value="Dark Souls" name="wpTemplateSandboxTemplate"><input id="wpTemplateSandboxPage" type="hidden" name="wpTemplateSandboxPage"></span>
+</div><!-- editOptions -->
+
+<input type="hidden" value="+\" name="wpEditToken">
+<div class="mw-editTools"><div id="editpage-specialchars" style="margin-top: 15px; border: 1px solid #aaaaaa; padding: 2px;" class="edittools-text">
+<p><b>Copy and paste:</b> – — ° ′ ″ ≈ ≠ ≤ ≥ ± − × ÷ ← → · § &#160;  <b>Cite your sources:</b> &lt;ref&gt;&lt;/ref&gt; 
+</p>
+<hr />
+<p><small>
+{{}} &#160; {{{}}} &#160; | &#160; [] &#160; [[]] &#160; [[Category:]] &#160; #REDIRECT [[]] &#160; &amp;nbsp; &#160; &lt;s&gt;&lt;/s&gt; &#160; &lt;sup&gt;&lt;/sup&gt; &#160; &lt;sub&gt;&lt;/sub&gt; &#160; &lt;code&gt;&lt;/code&gt; &#160; &lt;pre&gt;&lt;/pre&gt; &#160; &lt;blockquote&gt;&lt;/blockquote&gt; &#160; &lt;ref&gt;&lt;/ref&gt; &lt;ref name="" /&gt; &#160; {{Reflist}} &#160; &lt;references /&gt; &#160; &lt;includeonly&gt;&lt;/includeonly&gt; &#160; &lt;noinclude&gt;&lt;/noinclude&gt; &#160; {{DEFAULTSORT:}} &#160; &lt;nowiki&gt;&lt;/nowiki&gt; &#160; &lt;!-- --&gt; &#160; &lt;span class="plainlinks"&gt;&lt;/span&gt; 
+</small>
+</p>
+<hr />
+<p><small>
+<b>Symbols:</b> ~ | ¡ ¿ † ‡ ↔ ↑ ↓ • ¶ &#160; # ∞ &#160; ‹› «» &#160; ¤ ₳ ฿ ₵ ¢ ₡ ₢ $ ₫ ₯ € ₠ ₣ ƒ ₴ ₭ ₤ ℳ ₥ ₦ ₧ ₰ £ ៛ ₨ ₪ ৳ ₮ ₩ ¥ &#160; ♠ ♣ ♥ ♦ &#160; 𝄫 ♭ ♮ ♯ 𝄪 &#160; © ¼ ½ ¾<br />
+<b>Latin:</b> A a Á á À à Â â Ä ä Ǎ ǎ Ă ă Ā ā Ã ã Å å Ą ą Æ æ Ǣ ǣ &#160; B b &#160; C c Ć ć Ċ ċ Ĉ ĉ Č č Ç ç &#160; D d Ď ď Đ đ Ḍ ḍ Ð ð &#160; E e É é È è Ė ė Ê ê Ë ë Ě ě Ĕ ĕ Ē ē Ẽ ẽ Ę ę Ẹ ẹ Ɛ ɛ Ǝ ǝ Ə ə &#160; F f &#160; G g Ġ ġ Ĝ ĝ Ğ ğ Ģ ģ &#160; H h Ĥ ĥ Ħ ħ Ḥ ḥ &#160; I i İ ı Í í Ì ì Î î Ï ï Ǐ ǐ Ĭ ĭ Ī ī Ĩ ĩ Į į Ị ị &#160; J j Ĵ ĵ &#160; K k Ķ ķ &#160; L l Ĺ ĺ Ŀ ŀ Ľ ľ Ļ ļ Ł ł Ḷ ḷ Ḹ ḹ &#160; M m Ṃ ṃ &#160; N n Ń ń Ň ň Ñ ñ Ņ ņ Ṇ ṇ Ŋ ŋ &#160; O o Ó ó Ò ò Ô ô Ö ö Ǒ ǒ Ŏ ŏ Ō ō Õ õ Ǫ ǫ Ọ ọ Ő ő Ø ø Œ œ &#160; Ɔ ɔ &#160; P p &#160; Q q &#160; R r Ŕ ŕ Ř ř Ŗ ŗ Ṛ ṛ Ṝ ṝ &#160; S s Ś ś Ŝ ŝ Š š Ş ş Ș ș Ṣ ṣ ß &#160; T t Ť ť Ţ ţ Ț ț Ṭ ṭ Þ þ &#160; U u Ú ú Ù ù Û û Ü ü Ǔ ǔ Ŭ ŭ Ū ū Ũ ũ Ů ů Ų ų Ụ ụ Ű ű Ǘ ǘ Ǜ ǜ Ǚ ǚ Ǖ ǖ &#160; V v &#160; W w Ŵ ŵ &#160; X x &#160; Y y Ý ý Ŷ ŷ Ÿ ÿ Ỹ ỹ Ȳ ȳ &#160; Z z Ź ź Ż ż Ž ž &#160; ß Ð ð Þ þ Ŋ ŋ Ə ə <br />
+<b>Greek:</b> Ά ά Έ έ Ή ή Ί ί Ό ό Ύ ύ Ώ ώ &#160; Α α Β β Γ γ Δ δ &#160; Ε ε Ζ ζ Η η Θ θ &#160; Ι ι Κ κ Λ λ Μ μ &#160; Ν ν Ξ ξ Ο ο Π π &#160; Ρ ρ Σ σ ς Τ τ Υ υ &#160; Φ φ Χ χ Ψ ψ Ω ω &#160; {{Polytonic|}} <br />
+<b>Cyrillic:</b> А а Б б В в Г г &#160; Ґ ґ Ѓ ѓ Д д Ђ ђ &#160; Е е Ё ё Є є Ж ж &#160; З з Ѕ ѕ И и І і &#160; Ї ї Й й Ј ј К к &#160; Ќ ќ Л л Љ љ М м &#160; Н н Њ њ О о П п &#160; Р р С с Т т Ћ ћ &#160; У у Ў ў Ф ф Х х &#160; Ц ц Ч ч Џ џ Ш ш &#160; Щ щ Ъ ъ Ы ы Ь ь &#160; Э э Ю ю Я я &#160; ́ <br />
+<b>IPA:</b> t̪ d̪ ʈ ɖ ɟ ɡ ɢ ʡ ʔ &#160; ɸ β θ ð ʃ ʒ ɕ ʑ ʂ ʐ ç ʝ ɣ χ ʁ ħ ʕ ʜ ʢ ɦ &#160; ɱ ɳ ɲ ŋ ɴ &#160; ʋ ɹ ɻ ɰ &#160; ʙ ⱱ ʀ ɾ ɽ &#160; ɫ ɬ ɮ ɺ ɭ ʎ ʟ &#160; ɥ ʍ ɧ &#160; ʼ &#160; ɓ ɗ ʄ ɠ ʛ &#160; ʘ ǀ ǃ ǂ ǁ &#160; ɨ ʉ ɯ &#160; ɪ ʏ ʊ &#160; ø ɘ ɵ ɤ &#160; ə ɚ &#160; ɛ œ ɜ ɝ ɞ ʌ ɔ &#160; æ &#160; ɐ ɶ ɑ ɒ &#160; ʰ ʱ ʷ ʲ ˠ ˤ ⁿ ˡ &#160; ˈ ˌ ː ˑ ̪ &#160; {{IPA|}}
+</small>
+</p>
+</div></div><div class="wikibase-entity-usage"><div class="wikibase-entityusage-explanation"><p>Wikidata entities used in this page
+</p></div>
+<ul><li><a class="extiw wb-entity-link external" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1166232">Dark Souls</a>: Statement: P577, Label: en, Title, Statement (with qualifiers and references): P444</li><li><a class="extiw wb-entity-link external" href="https://www.wikidata.org/wiki/Special:EntityPage/Q150248">Metacritic</a>: Label: en</li><li><a class="extiw wb-entity-link external" href="https://www.wikidata.org/wiki/Special:EntityPage/Q20112508">Dark Souls III</a>: Statement: P577, Label: en, Title, Statement (with qualifiers and references): P444</li><li><a class="extiw wb-entity-link external" href="https://www.wikidata.org/wiki/Special:EntityPage/Q3702740">Dark Souls II</a>: Statement: P577, Label: en, Title, Statement (with qualifiers and references): P444</li><li><a class="extiw wb-entity-link external" href="https://www.wikidata.org/wiki/Special:EntityPage/Q5009253">Paramount Streaming</a>: Label: en</li><li><a class="extiw wb-entity-link external" href="https://www.wikidata.org/wiki/Special:EntityPage/Q55728812">Dark Souls: Remastered</a>: Statement: P577, Label: en, Title, Statement (with qualifiers and references): P444</li><li><a class="extiw wb-entity-link external" href="https://www.wikidata.org/wiki/Special:EntityPage/Q99431276">Dark Souls</a>: Sitelink, Title, Description: en, Statement: P527</li></ul></div>
+<div class="templatesUsed"><div class="mw-templatesUsedExplanation"><p><span id="templatesused">Pages transcluded onto the current version of this page<span class="posteditwindowhelplinks"> (<a href="/wiki/Help:Transclusion" title="Help:Transclusion">help</a>)</span>:</span>
+</p></div><ul>
+<li><a href="/wiki/Template:About" title="Template:About">Template:About</a> (<a href="/w/index.php?title=Template:About&amp;action=edit" title="Template:About">view source</a>) (template editor protected)</li><li><a href="/wiki/Template:As_of" title="Template:As of">Template:As of</a> (<a href="/w/index.php?title=Template:As_of&amp;action=edit" title="Template:As of">view source</a>) (template editor protected)</li><li><a href="/wiki/Template:Bandai_Namco_franchises" title="Template:Bandai Namco franchises">Template:Bandai Namco franchises</a> (<a href="/w/index.php?title=Template:Bandai_Namco_franchises&amp;action=edit" title="Template:Bandai Namco franchises">edit</a>) </li><li><a href="/wiki/Template:Citation_needed" title="Template:Citation needed">Template:Citation needed</a> (<a href="/w/index.php?title=Template:Citation_needed&amp;action=edit" title="Template:Citation needed">view source</a>) (fully protected)</li><li><a href="/wiki/Template:Cite_journal" title="Template:Cite journal">Template:Cite journal</a> (<a href="/w/index.php?title=Template:Cite_journal&amp;action=edit" title="Template:Cite journal">view source</a>) (fully protected)</li><li><a href="/wiki/Template:Cite_magazine" title="Template:Cite magazine">Template:Cite magazine</a> (<a href="/w/index.php?title=Template:Cite_magazine&amp;action=edit" title="Template:Cite magazine">view source</a>) (fully protected)</li><li><a href="/wiki/Template:Cite_news" title="Template:Cite news">Template:Cite news</a> (<a href="/w/index.php?title=Template:Cite_news&amp;action=edit" title="Template:Cite news">view source</a>) (fully protected)</li><li><a href="/wiki/Template:Cite_web" title="Template:Cite web">Template:Cite web</a> (<a href="/w/index.php?title=Template:Cite_web&amp;action=edit" title="Template:Cite web">view source</a>) (fully protected)</li><li><a href="/wiki/Template:Cn" class="mw-redirect" title="Template:Cn">Template:Cn</a> (<a href="/w/index.php?title=Template:Cn&amp;action=edit" class="mw-redirect" title="Template:Cn">view source</a>) (template editor protected)</li><li><a href="/wiki/Template:Country_data_JP" class="mw-redirect" title="Template:Country data JP">Template:Country data JP</a> (<a href="/w/index.php?title=Template:Country_data_JP&amp;action=edit" class="mw-redirect" title="Template:Country data JP">view source</a>) (template editor protected)</li><li><a href="/wiki/Template:Country_data_Japan" title="Template:Country data Japan">Template:Country data Japan</a> (<a href="/w/index.php?title=Template:Country_data_Japan&amp;action=edit" title="Template:Country data Japan">view source</a>) (template editor protected)</li><li><a href="/wiki/Template:DMCA" class="mw-redirect" title="Template:DMCA">Template:DMCA</a> (<a href="/w/index.php?title=Template:DMCA&amp;action=edit" class="mw-redirect" title="Template:DMCA">view source</a>) (template editor protected)</li><li><a href="/wiki/Template:Dark_Souls_series" title="Template:Dark Souls series">Template:Dark Souls series</a> (<a href="/w/index.php?title=Template:Dark_Souls_series&amp;action=edit" title="Template:Dark Souls series">edit</a>) </li><li><a href="/wiki/Template:Dated_maintenance_category" title="Template:Dated maintenance category">Template:Dated maintenance category</a> (<a href="/w/index.php?title=Template:Dated_maintenance_category&amp;action=edit" title="Template:Dated maintenance category">view source</a>) (template editor protected)</li><li><a href="/wiki/Template:Dated_maintenance_category_(articles)" title="Template:Dated maintenance category (articles)">Template:Dated maintenance category (articles)</a> (<a href="/w/index.php?title=Template:Dated_maintenance_category_(articles)&amp;action=edit" title="Template:Dated maintenance category (articles)">view source</a>) (template editor protected)</li><li><a href="/wiki/Template:Delink" title="Template:Delink">Template:Delink</a> (<a href="/w/index.php?title=Template:Delink&amp;action=edit" title="Template:Delink">view source</a>) (fully protected)</li><li><a href="/wiki/Template:FULLROOTPAGENAME" title="Template:FULLROOTPAGENAME">Template:FULLROOTPAGENAME</a> (<a href="/w/index.php?title=Template:FULLROOTPAGENAME&amp;action=edit" title="Template:FULLROOTPAGENAME">view source</a>) (template editor protected)</li><li><a href="/wiki/Template:Fix" title="Template:Fix">Template:Fix</a> (<a href="/w/index.php?title=Template:Fix&amp;action=edit" title="Template:Fix">view source</a>) (fully protected)</li><li><a href="/wiki/Template:Fix/category" title="Template:Fix/category">Template:Fix/category</a> (<a href="/w/index.php?title=Template:Fix/category&amp;action=edit" title="Template:Fix/category">view source</a>) (fully protected)</li><li><a href="/wiki/Template:FromSoftware" title="Template:FromSoftware">Template:FromSoftware</a> (<a href="/w/index.php?title=Template:FromSoftware&amp;action=edit" title="Template:FromSoftware">edit</a>) </li><li><a href="/wiki/Template:Hlist/styles.css" title="Template:Hlist/styles.css">Template:Hlist/styles.css</a> (<a href="/w/index.php?title=Template:Hlist/styles.css&amp;action=edit" title="Template:Hlist/styles.css">view source</a>) (fully protected)</li><li><a href="/wiki/Template:Icon" title="Template:Icon">Template:Icon</a> (<a href="/w/index.php?title=Template:Icon&amp;action=edit" title="Template:Icon">view source</a>) (template editor protected)</li><li><a href="/wiki/Template:Infobox" title="Template:Infobox">Template:Infobox</a> (<a href="/w/index.php?title=Template:Infobox&amp;action=edit" title="Template:Infobox">view source</a>) (template editor protected)</li><li><a href="/wiki/Template:Infobox_video_game_series" title="Template:Infobox video game series">Template:Infobox video game series</a> (<a href="/w/index.php?title=Template:Infobox_video_game_series&amp;action=edit" title="Template:Infobox video game series">view source</a>) (semi protected)</li><li><a href="/wiki/Template:Main" title="Template:Main">Template:Main</a> (<a href="/w/index.php?title=Template:Main&amp;action=edit" title="Template:Main">view source</a>) (template editor protected)</li><li><a href="/wiki/Template:Main_other" title="Template:Main other">Template:Main other</a> (<a href="/w/index.php?title=Template:Main_other&amp;action=edit" title="Template:Main other">view source</a>) (fully protected)</li><li><a href="/wiki/Template:Navbox" title="Template:Navbox">Template:Navbox</a> (<a href="/w/index.php?title=Template:Navbox&amp;action=edit" title="Template:Navbox">view source</a>) (template editor protected)</li><li><a href="/wiki/Template:Nihongo_foot" title="Template:Nihongo foot">Template:Nihongo foot</a> (<a href="/w/index.php?title=Template:Nihongo_foot&amp;action=edit" title="Template:Nihongo foot">view source</a>) (extended confirmed protected)</li><li><a href="/wiki/Template:Notelist" title="Template:Notelist">Template:Notelist</a> (<a href="/w/index.php?title=Template:Notelist&amp;action=edit" title="Template:Notelist">view source</a>) (template editor protected)</li><li><a href="/wiki/Template:Noteslist" class="mw-redirect" title="Template:Noteslist">Template:Noteslist</a> (<a href="/w/index.php?title=Template:Noteslist&amp;action=edit" class="mw-redirect" title="Template:Noteslist">view source</a>) (extended confirmed protected)</li><li><a href="/wiki/Template:Ns_has_subpages" title="Template:Ns has subpages">Template:Ns has subpages</a> (<a href="/w/index.php?title=Template:Ns_has_subpages&amp;action=edit" title="Template:Ns has subpages">view source</a>) (fully protected)</li><li><a href="/wiki/Template:Pagetype" title="Template:Pagetype">Template:Pagetype</a> (<a href="/w/index.php?title=Template:Pagetype&amp;action=edit" title="Template:Pagetype">view source</a>) (fully protected)</li><li><a href="/wiki/Template:Plainlist/styles.css" title="Template:Plainlist/styles.css">Template:Plainlist/styles.css</a> (<a href="/w/index.php?title=Template:Plainlist/styles.css&amp;action=edit" title="Template:Plainlist/styles.css">view source</a>) (fully protected)</li><li><a href="/wiki/Template:Pluralize_from_text" title="Template:Pluralize from text">Template:Pluralize from text</a> (<a href="/w/index.php?title=Template:Pluralize_from_text&amp;action=edit" title="Template:Pluralize from text">view source</a>) (template editor protected)</li><li><a href="/wiki/Template:Reflist" title="Template:Reflist">Template:Reflist</a> (<a href="/w/index.php?title=Template:Reflist&amp;action=edit" title="Template:Reflist">view source</a>) (fully protected)</li><li><a href="/wiki/Template:Reflist/styles.css" title="Template:Reflist/styles.css">Template:Reflist/styles.css</a> (<a href="/w/index.php?title=Template:Reflist/styles.css&amp;action=edit" title="Template:Reflist/styles.css">view source</a>) (fully protected)</li><li><a href="/wiki/Template:SDcat" title="Template:SDcat">Template:SDcat</a> (<a href="/w/index.php?title=Template:SDcat&amp;action=edit" title="Template:SDcat">view source</a>) (fully protected)</li><li><a href="/wiki/Template:See_also" title="Template:See also">Template:See also</a> (<a href="/w/index.php?title=Template:See_also&amp;action=edit" title="Template:See also">view source</a>) (template editor protected)</li><li><a href="/wiki/Template:Short_description" title="Template:Short description">Template:Short description</a> (<a href="/w/index.php?title=Template:Short_description&amp;action=edit" title="Template:Short description">view source</a>) (fully protected)</li><li><a href="/wiki/Template:Short_description/lowercasecheck" title="Template:Short description/lowercasecheck">Template:Short description/lowercasecheck</a> (<a href="/w/index.php?title=Template:Short_description/lowercasecheck&amp;action=edit" title="Template:Short description/lowercasecheck">view source</a>) (fully protected)</li><li><a href="/wiki/Template:TOC_limit" title="Template:TOC limit">Template:TOC limit</a> (<a href="/w/index.php?title=Template:TOC_limit&amp;action=edit" title="Template:TOC limit">view source</a>) (template editor protected)</li><li><a href="/wiki/Template:TOC_limit/styles.css" title="Template:TOC limit/styles.css">Template:TOC limit/styles.css</a> (<a href="/w/index.php?title=Template:TOC_limit/styles.css&amp;action=edit" title="Template:TOC limit/styles.css">view source</a>) (template editor protected)</li><li><a href="/wiki/Template:Template_other" title="Template:Template other">Template:Template other</a> (<a href="/w/index.php?title=Template:Template_other&amp;action=edit" title="Template:Template other">view source</a>) (fully protected)</li><li><a href="/wiki/Template:Timeline_of_release_years" title="Template:Timeline of release years">Template:Timeline of release years</a> (<a href="/w/index.php?title=Template:Timeline_of_release_years&amp;action=edit" title="Template:Timeline of release years">view source</a>) (semi protected)</li><li><a href="/wiki/Template:Ubl" class="mw-redirect" title="Template:Ubl">Template:Ubl</a> (<a href="/w/index.php?title=Template:Ubl&amp;action=edit" class="mw-redirect" title="Template:Ubl">view source</a>) (template editor protected)</li><li><a href="/wiki/Template:Unbulleted_list" title="Template:Unbulleted list">Template:Unbulleted list</a> (<a href="/w/index.php?title=Template:Unbulleted_list&amp;action=edit" title="Template:Unbulleted list">view source</a>) (template editor protected)</li><li><a href="/wiki/Template:Use_mdy_dates" title="Template:Use mdy dates">Template:Use mdy dates</a> (<a href="/w/index.php?title=Template:Use_mdy_dates&amp;action=edit" title="Template:Use mdy dates">view source</a>) (template editor protected)</li><li><a href="/wiki/Template:Vgr" class="mw-redirect" title="Template:Vgr">Template:Vgr</a> (<a href="/w/index.php?title=Template:Vgr&amp;action=edit" class="mw-redirect" title="Template:Vgr">edit</a>) </li><li><a href="/wiki/Template:Video_game_release" title="Template:Video game release">Template:Video game release</a> (<a href="/w/index.php?title=Template:Video_game_release&amp;action=edit" title="Template:Video game release">view source</a>) (template editor protected)</li><li><a href="/wiki/Template:Video_game_series_reviews" title="Template:Video game series reviews">Template:Video game series reviews</a> (<a href="/w/index.php?title=Template:Video_game_series_reviews&amp;action=edit" title="Template:Video game series reviews">view source</a>) (semi protected)</li><li><a href="/wiki/Template:Video_game_timeline" class="mw-redirect" title="Template:Video game timeline">Template:Video game timeline</a> (<a href="/w/index.php?title=Template:Video_game_timeline&amp;action=edit" class="mw-redirect" title="Template:Video game timeline">view source</a>) (semi protected)</li><li><a href="/wiki/Template:Webarchive" title="Template:Webarchive">Template:Webarchive</a> (<a href="/w/index.php?title=Template:Webarchive&amp;action=edit" title="Template:Webarchive">view source</a>) (template editor protected)</li><li><a href="/wiki/Template:Yesno" title="Template:Yesno">Template:Yesno</a> (<a href="/w/index.php?title=Template:Yesno&amp;action=edit" title="Template:Yesno">view source</a>) (fully protected)</li><li><a href="/wiki/Module:About" title="Module:About">Module:About</a> (<a href="/w/index.php?title=Module:About&amp;action=edit" title="Module:About">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:Arguments" title="Module:Arguments">Module:Arguments</a> (<a href="/w/index.php?title=Module:Arguments&amp;action=edit" title="Module:Arguments">view source</a>) (fully protected)</li><li><a href="/wiki/Module:Category_handler" title="Module:Category handler">Module:Category handler</a> (<a href="/w/index.php?title=Module:Category_handler&amp;action=edit" title="Module:Category handler">view source</a>) (fully protected)</li><li><a href="/wiki/Module:Category_handler/blacklist" title="Module:Category handler/blacklist">Module:Category handler/blacklist</a> (<a href="/w/index.php?title=Module:Category_handler/blacklist&amp;action=edit" title="Module:Category handler/blacklist">view source</a>) (fully protected)</li><li><a href="/wiki/Module:Category_handler/config" title="Module:Category handler/config">Module:Category handler/config</a> (<a href="/w/index.php?title=Module:Category_handler/config&amp;action=edit" title="Module:Category handler/config">view source</a>) (fully protected)</li><li><a href="/wiki/Module:Category_handler/data" title="Module:Category handler/data">Module:Category handler/data</a> (<a href="/w/index.php?title=Module:Category_handler/data&amp;action=edit" title="Module:Category handler/data">view source</a>) (fully protected)</li><li><a href="/wiki/Module:Category_handler/shared" title="Module:Category handler/shared">Module:Category handler/shared</a> (<a href="/w/index.php?title=Module:Category_handler/shared&amp;action=edit" title="Module:Category handler/shared">view source</a>) (fully protected)</li><li><a href="/wiki/Module:Check_for_unknown_parameters" title="Module:Check for unknown parameters">Module:Check for unknown parameters</a> (<a href="/w/index.php?title=Module:Check_for_unknown_parameters&amp;action=edit" title="Module:Check for unknown parameters">view source</a>) (fully protected)</li><li><a href="/wiki/Module:Citation/CS1" title="Module:Citation/CS1">Module:Citation/CS1</a> (<a href="/w/index.php?title=Module:Citation/CS1&amp;action=edit" title="Module:Citation/CS1">view source</a>) (fully protected)</li><li><a href="/wiki/Module:Citation/CS1/COinS" title="Module:Citation/CS1/COinS">Module:Citation/CS1/COinS</a> (<a href="/w/index.php?title=Module:Citation/CS1/COinS&amp;action=edit" title="Module:Citation/CS1/COinS">view source</a>) (fully protected)</li><li><a href="/wiki/Module:Citation/CS1/Configuration" title="Module:Citation/CS1/Configuration">Module:Citation/CS1/Configuration</a> (<a href="/w/index.php?title=Module:Citation/CS1/Configuration&amp;action=edit" title="Module:Citation/CS1/Configuration">view source</a>) (fully protected)</li><li><a href="/wiki/Module:Citation/CS1/Date_validation" title="Module:Citation/CS1/Date validation">Module:Citation/CS1/Date validation</a> (<a href="/w/index.php?title=Module:Citation/CS1/Date_validation&amp;action=edit" title="Module:Citation/CS1/Date validation">view source</a>) (fully protected)</li><li><a href="/wiki/Module:Citation/CS1/Identifiers" title="Module:Citation/CS1/Identifiers">Module:Citation/CS1/Identifiers</a> (<a href="/w/index.php?title=Module:Citation/CS1/Identifiers&amp;action=edit" title="Module:Citation/CS1/Identifiers">view source</a>) (fully protected)</li><li><a href="/wiki/Module:Citation/CS1/Utilities" title="Module:Citation/CS1/Utilities">Module:Citation/CS1/Utilities</a> (<a href="/w/index.php?title=Module:Citation/CS1/Utilities&amp;action=edit" title="Module:Citation/CS1/Utilities">view source</a>) (fully protected)</li><li><a href="/wiki/Module:Citation/CS1/Whitelist" title="Module:Citation/CS1/Whitelist">Module:Citation/CS1/Whitelist</a> (<a href="/w/index.php?title=Module:Citation/CS1/Whitelist&amp;action=edit" title="Module:Citation/CS1/Whitelist">view source</a>) (fully protected)</li><li><a href="/wiki/Module:Citation/CS1/styles.css" title="Module:Citation/CS1/styles.css">Module:Citation/CS1/styles.css</a> (<a href="/w/index.php?title=Module:Citation/CS1/styles.css&amp;action=edit" title="Module:Citation/CS1/styles.css">view source</a>) (fully protected)</li><li><a href="/wiki/Module:CountryData" title="Module:CountryData">Module:CountryData</a> (<a href="/w/index.php?title=Module:CountryData&amp;action=edit" title="Module:CountryData">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:CountryData/summary" title="Module:CountryData/summary">Module:CountryData/summary</a> (<a href="/w/index.php?title=Module:CountryData/summary&amp;action=edit" title="Module:CountryData/summary">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:Date" title="Module:Date">Module:Date</a> (<a href="/w/index.php?title=Module:Date&amp;action=edit" title="Module:Date">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:Delink" title="Module:Delink">Module:Delink</a> (<a href="/w/index.php?title=Module:Delink&amp;action=edit" title="Module:Delink">view source</a>) (fully protected)</li><li><a href="/wiki/Module:Detect_singular" title="Module:Detect singular">Module:Detect singular</a> (<a href="/w/index.php?title=Module:Detect_singular&amp;action=edit" title="Module:Detect singular">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:Disambiguation/templates" title="Module:Disambiguation/templates">Module:Disambiguation/templates</a> (<a href="/w/index.php?title=Module:Disambiguation/templates&amp;action=edit" title="Module:Disambiguation/templates">view source</a>) (fully protected)</li><li><a href="/wiki/Module:Exponential_search" title="Module:Exponential search">Module:Exponential search</a> (<a href="/w/index.php?title=Module:Exponential_search&amp;action=edit" title="Module:Exponential search">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:Format_link" title="Module:Format link">Module:Format link</a> (<a href="/w/index.php?title=Module:Format_link&amp;action=edit" title="Module:Format link">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:Hatnote" title="Module:Hatnote">Module:Hatnote</a> (<a href="/w/index.php?title=Module:Hatnote&amp;action=edit" title="Module:Hatnote">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:Hatnote/styles.css" title="Module:Hatnote/styles.css">Module:Hatnote/styles.css</a> (<a href="/w/index.php?title=Module:Hatnote/styles.css&amp;action=edit" title="Module:Hatnote/styles.css">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:Hatnote_list" title="Module:Hatnote list">Module:Hatnote list</a> (<a href="/w/index.php?title=Module:Hatnote_list&amp;action=edit" title="Module:Hatnote list">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:Icon" title="Module:Icon">Module:Icon</a> (<a href="/w/index.php?title=Module:Icon&amp;action=edit" title="Module:Icon">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:Icon/data" title="Module:Icon/data">Module:Icon/data</a> (<a href="/w/index.php?title=Module:Icon/data&amp;action=edit" title="Module:Icon/data">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:If_preview" title="Module:If preview">Module:If preview</a> (<a href="/w/index.php?title=Module:If_preview&amp;action=edit" title="Module:If preview">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:If_preview/configuration" title="Module:If preview/configuration">Module:If preview/configuration</a> (<a href="/w/index.php?title=Module:If_preview/configuration&amp;action=edit" title="Module:If preview/configuration">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:If_preview/styles.css" title="Module:If preview/styles.css">Module:If preview/styles.css</a> (<a href="/w/index.php?title=Module:If_preview/styles.css&amp;action=edit" title="Module:If preview/styles.css">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:Infobox" title="Module:Infobox">Module:Infobox</a> (<a href="/w/index.php?title=Module:Infobox&amp;action=edit" title="Module:Infobox">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:Infobox/styles.css" title="Module:Infobox/styles.css">Module:Infobox/styles.css</a> (<a href="/w/index.php?title=Module:Infobox/styles.css&amp;action=edit" title="Module:Infobox/styles.css">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:InfoboxImage" title="Module:InfoboxImage">Module:InfoboxImage</a> (<a href="/w/index.php?title=Module:InfoboxImage&amp;action=edit" title="Module:InfoboxImage">view source</a>) (fully protected)</li><li><a href="/wiki/Module:InfoboxImage/data" title="Module:InfoboxImage/data">Module:InfoboxImage/data</a> (<a href="/w/index.php?title=Module:InfoboxImage/data&amp;action=edit" title="Module:InfoboxImage/data">view source</a>) (fully protected)</li><li><a href="/wiki/Module:Italic_title" title="Module:Italic title">Module:Italic title</a> (<a href="/w/index.php?title=Module:Italic_title&amp;action=edit" title="Module:Italic title">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:Labelled_list_hatnote" title="Module:Labelled list hatnote">Module:Labelled list hatnote</a> (<a href="/w/index.php?title=Module:Labelled_list_hatnote&amp;action=edit" title="Module:Labelled list hatnote">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:Lang" title="Module:Lang">Module:Lang</a> (<a href="/w/index.php?title=Module:Lang&amp;action=edit" title="Module:Lang">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:Lang/ISO_639_synonyms" title="Module:Lang/ISO 639 synonyms">Module:Lang/ISO 639 synonyms</a> (<a href="/w/index.php?title=Module:Lang/ISO_639_synonyms&amp;action=edit" title="Module:Lang/ISO 639 synonyms">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:Lang/configuration" title="Module:Lang/configuration">Module:Lang/configuration</a> (<a href="/w/index.php?title=Module:Lang/configuration&amp;action=edit" title="Module:Lang/configuration">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:Lang/data" title="Module:Lang/data">Module:Lang/data</a> (<a href="/w/index.php?title=Module:Lang/data&amp;action=edit" title="Module:Lang/data">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:Lang/data/iana_languages" title="Module:Lang/data/iana languages">Module:Lang/data/iana languages</a> (<a href="/w/index.php?title=Module:Lang/data/iana_languages&amp;action=edit" title="Module:Lang/data/iana languages">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:Lang/data/iana_regions" title="Module:Lang/data/iana regions">Module:Lang/data/iana regions</a> (<a href="/w/index.php?title=Module:Lang/data/iana_regions&amp;action=edit" title="Module:Lang/data/iana regions">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:Lang/data/iana_scripts" title="Module:Lang/data/iana scripts">Module:Lang/data/iana scripts</a> (<a href="/w/index.php?title=Module:Lang/data/iana_scripts&amp;action=edit" title="Module:Lang/data/iana scripts">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:Lang/data/iana_suppressed_scripts" title="Module:Lang/data/iana suppressed scripts">Module:Lang/data/iana suppressed scripts</a> (<a href="/w/index.php?title=Module:Lang/data/iana_suppressed_scripts&amp;action=edit" title="Module:Lang/data/iana suppressed scripts">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:Lang/data/iana_variants" title="Module:Lang/data/iana variants">Module:Lang/data/iana variants</a> (<a href="/w/index.php?title=Module:Lang/data/iana_variants&amp;action=edit" title="Module:Lang/data/iana variants">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:Lang/data/is_latn_data" title="Module:Lang/data/is latn data">Module:Lang/data/is latn data</a> (<a href="/w/index.php?title=Module:Lang/data/is_latn_data&amp;action=edit" title="Module:Lang/data/is latn data">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:Lang/langx" title="Module:Lang/langx">Module:Lang/langx</a> (<a href="/w/index.php?title=Module:Lang/langx&amp;action=edit" title="Module:Lang/langx">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:List" title="Module:List">Module:List</a> (<a href="/w/index.php?title=Module:List&amp;action=edit" title="Module:List">view source</a>) (fully protected)</li><li><a href="/wiki/Module:Namespace_detect/config" title="Module:Namespace detect/config">Module:Namespace detect/config</a> (<a href="/w/index.php?title=Module:Namespace_detect/config&amp;action=edit" title="Module:Namespace detect/config">view source</a>) (fully protected)</li><li><a href="/wiki/Module:Namespace_detect/data" title="Module:Namespace detect/data">Module:Namespace detect/data</a> (<a href="/w/index.php?title=Module:Namespace_detect/data&amp;action=edit" title="Module:Namespace detect/data">view source</a>) (fully protected)</li><li><a href="/wiki/Module:Navbar" title="Module:Navbar">Module:Navbar</a> (<a href="/w/index.php?title=Module:Navbar&amp;action=edit" title="Module:Navbar">view source</a>) (fully protected)</li><li><a href="/wiki/Module:Navbar/configuration" title="Module:Navbar/configuration">Module:Navbar/configuration</a> (<a href="/w/index.php?title=Module:Navbar/configuration&amp;action=edit" title="Module:Navbar/configuration">view source</a>) (fully protected)</li><li><a href="/wiki/Module:Navbar/styles.css" title="Module:Navbar/styles.css">Module:Navbar/styles.css</a> (<a href="/w/index.php?title=Module:Navbar/styles.css&amp;action=edit" title="Module:Navbar/styles.css">view source</a>) (fully protected)</li><li><a href="/wiki/Module:Navbox" title="Module:Navbox">Module:Navbox</a> (<a href="/w/index.php?title=Module:Navbox&amp;action=edit" title="Module:Navbox">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:Navbox/configuration" title="Module:Navbox/configuration">Module:Navbox/configuration</a> (<a href="/w/index.php?title=Module:Navbox/configuration&amp;action=edit" title="Module:Navbox/configuration">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:Navbox/styles.css" title="Module:Navbox/styles.css">Module:Navbox/styles.css</a> (<a href="/w/index.php?title=Module:Navbox/styles.css&amp;action=edit" title="Module:Navbox/styles.css">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:Nihongo" title="Module:Nihongo">Module:Nihongo</a> (<a href="/w/index.php?title=Module:Nihongo&amp;action=edit" title="Module:Nihongo">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:Ns_has_subpages" title="Module:Ns has subpages">Module:Ns has subpages</a> (<a href="/w/index.php?title=Module:Ns_has_subpages&amp;action=edit" title="Module:Ns has subpages">view source</a>) (fully protected)</li><li><a href="/wiki/Module:Pagetype" title="Module:Pagetype">Module:Pagetype</a> (<a href="/w/index.php?title=Module:Pagetype&amp;action=edit" title="Module:Pagetype">view source</a>) (fully protected)</li><li><a href="/wiki/Module:Pagetype/config" title="Module:Pagetype/config">Module:Pagetype/config</a> (<a href="/w/index.php?title=Module:Pagetype/config&amp;action=edit" title="Module:Pagetype/config">view source</a>) (fully protected)</li><li><a href="/wiki/Module:Pagetype/disambiguation" class="mw-redirect" title="Module:Pagetype/disambiguation">Module:Pagetype/disambiguation</a> (<a href="/w/index.php?title=Module:Pagetype/disambiguation&amp;action=edit" class="mw-redirect" title="Module:Pagetype/disambiguation">view source</a>) (fully protected)</li><li><a href="/wiki/Module:Pagetype/rfd" title="Module:Pagetype/rfd">Module:Pagetype/rfd</a> (<a href="/w/index.php?title=Module:Pagetype/rfd&amp;action=edit" title="Module:Pagetype/rfd">view source</a>) (fully protected)</li><li><a href="/wiki/Module:Pagetype/setindex" title="Module:Pagetype/setindex">Module:Pagetype/setindex</a> (<a href="/w/index.php?title=Module:Pagetype/setindex&amp;action=edit" title="Module:Pagetype/setindex">view source</a>) (fully protected)</li><li><a href="/wiki/Module:Pagetype/softredirect" title="Module:Pagetype/softredirect">Module:Pagetype/softredirect</a> (<a href="/w/index.php?title=Module:Pagetype/softredirect&amp;action=edit" title="Module:Pagetype/softredirect">view source</a>) (fully protected)</li><li><a href="/wiki/Module:SDcat" title="Module:SDcat">Module:SDcat</a> (<a href="/w/index.php?title=Module:SDcat&amp;action=edit" title="Module:SDcat">view source</a>) (fully protected)</li><li><a href="/wiki/Module:String" title="Module:String">Module:String</a> (<a href="/w/index.php?title=Module:String&amp;action=edit" title="Module:String">view source</a>) (fully protected)</li><li><a href="/wiki/Module:TableTools" title="Module:TableTools">Module:TableTools</a> (<a href="/w/index.php?title=Module:TableTools&amp;action=edit" title="Module:TableTools">view source</a>) (fully protected)</li><li><a href="/wiki/Module:Text" title="Module:Text">Module:Text</a> (<a href="/w/index.php?title=Module:Text&amp;action=edit" title="Module:Text">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:Timeline_of_release_years" title="Module:Timeline of release years">Module:Timeline of release years</a> (<a href="/w/index.php?title=Module:Timeline_of_release_years&amp;action=edit" title="Module:Timeline of release years">view source</a>) (semi protected)</li><li><a href="/wiki/Module:Timeline_of_release_years/styles.css" title="Module:Timeline of release years/styles.css">Module:Timeline of release years/styles.css</a> (<a href="/w/index.php?title=Module:Timeline_of_release_years/styles.css&amp;action=edit" title="Module:Timeline of release years/styles.css">view source</a>) (semi protected)</li><li><a href="/wiki/Module:Unicode_data" title="Module:Unicode data">Module:Unicode data</a> (<a href="/w/index.php?title=Module:Unicode_data&amp;action=edit" title="Module:Unicode data">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:Unicode_data/scripts" title="Module:Unicode data/scripts">Module:Unicode data/scripts</a> (<a href="/w/index.php?title=Module:Unicode_data/scripts&amp;action=edit" title="Module:Unicode data/scripts">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:Unsubst" title="Module:Unsubst">Module:Unsubst</a> (<a href="/w/index.php?title=Module:Unsubst&amp;action=edit" title="Module:Unsubst">view source</a>) (fully protected)</li><li><a href="/wiki/Module:Video_game_release" title="Module:Video game release">Module:Video game release</a> (<a href="/w/index.php?title=Module:Video_game_release&amp;action=edit" title="Module:Video game release">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:Video_game_series_reviews" title="Module:Video game series reviews">Module:Video game series reviews</a> (<a href="/w/index.php?title=Module:Video_game_series_reviews&amp;action=edit" title="Module:Video game series reviews">view source</a>) (semi protected)</li><li><a href="/wiki/Module:Video_game_wikidata" title="Module:Video game wikidata">Module:Video game wikidata</a> (<a href="/w/index.php?title=Module:Video_game_wikidata&amp;action=edit" title="Module:Video game wikidata">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:Webarchive" title="Module:Webarchive">Module:Webarchive</a> (<a href="/w/index.php?title=Module:Webarchive&amp;action=edit" title="Module:Webarchive">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:Webarchive/data" title="Module:Webarchive/data">Module:Webarchive/data</a> (<a href="/w/index.php?title=Module:Webarchive/data&amp;action=edit" title="Module:Webarchive/data">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:Wikitext_Parsing" title="Module:Wikitext Parsing">Module:Wikitext Parsing</a> (<a href="/w/index.php?title=Module:Wikitext_Parsing&amp;action=edit" title="Module:Wikitext Parsing">view source</a>) (fully protected)</li><li><a href="/wiki/Module:Yesno" title="Module:Yesno">Module:Yesno</a> (<a href="/w/index.php?title=Module:Yesno&amp;action=edit" title="Module:Yesno">view source</a>) (fully protected)</li></ul></div><div class="hiddencats"><div class="mw-hiddenCategoriesExplanation"><p>This page is a member of 11 hidden categories<span class="posteditwindowhelplinks"> (<a href="/wiki/Help:Category#Hiding_categories" title="Help:Category">help</a>)</span>:
+</p></div><ul>
+<li><a href="/wiki/Category:All_articles_containing_potentially_dated_statements" title="Category:All articles containing potentially dated statements">Category:All articles containing potentially dated statements</a></li>
+<li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Category:Articles with short description</a></li>
+<li><a href="/wiki/Category:Articles_containing_potentially_dated_statements_from_2024" title="Category:Articles containing potentially dated statements from 2024">Category:Articles containing potentially dated statements from 2024</a></li>
+<li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Category:Webarchive template wayback links</a></li>
+<li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">Category:All articles with unsourced statements</a></li>
+<li><a href="/wiki/Category:Short_description_matches_Wikidata" title="Category:Short description matches Wikidata">Category:Short description matches Wikidata</a></li>
+<li><a href="/wiki/Category:Articles_containing_Japanese-language_text" title="Category:Articles containing Japanese-language text">Category:Articles containing Japanese-language text</a></li>
+<li><a href="/wiki/Category:CS1_German-language_sources_(de)" title="Category:CS1 German-language sources (de)">Category:CS1 German-language sources (de)</a></li>
+<li><a href="/wiki/Category:Articles_with_unsourced_statements_from_May_2024" title="Category:Articles with unsourced statements from May 2024">Category:Articles with unsourced statements from May 2024</a></li>
+<li><a href="/wiki/Category:Use_mdy_dates_from_July_2024" title="Category:Use mdy dates from July 2024">Category:Use mdy dates from July 2024</a></li>
+<li><a href="/wiki/Category:Articles_containing_potentially_dated_statements_from_2025" title="Category:Articles containing potentially dated statements from 2025">Category:Articles containing potentially dated statements from 2025</a></li>
+</ul></div><div class="limitreport"></div><input id="mw-edit-mode" type="hidden" value="text" name="mode"><input type="hidden" value="1" name="wpUltimateParam">
+</form>
+<noscript><img src="https://en.wikipedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&amp;type=1x1&amp;usesul3=1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/wiki/Dark_Souls">https://en.wikipedia.org/wiki/Dark_Souls</a>"</div></div>
+					<div id="catlinks" class="catlinks catlinks-allhidden" data-mw-interface=""></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" >
+	<ul id="footer-info">
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:General_disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-legal-safety-contacts"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Wikimedia_Foundation_Legal_and_Safety_Contact_Information">Legal &amp; safety contacts</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">Code of Conduct</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookie statement</a></li>
+	<li id="footer-places-mobileview"><a href="//en.wikipedia.org/w/index.php?title=Dark_Souls&amp;action=edit&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://www.wikimedia.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/static/images/footer/wikimedia-button.svg" width="84" height="29"><img src="/static/images/footer/wikimedia.svg" width="25" height="25" alt="Wikimedia Foundation" lang="en" loading="lazy"></picture></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/w/resources/assets/poweredby_mediawiki.svg" width="88" height="31"><img src="/w/resources/assets/mediawiki_compact.svg" alt="Powered by MediaWiki" lang="en" width="25" height="25" loading="lazy"></picture></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-header-container vector-sticky-header-container no-font-mode-scale">
+	<div id="vector-sticky-header" class="vector-sticky-header">
+		<div class="vector-sticky-header-start">
+			<div class="vector-sticky-header-icon-start vector-button-flush-left" aria-hidden="true">
+				<button class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-sticky-header-search-toggle" tabindex="-1" data-event-name="ui.vector-sticky-search-form.icon"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Search</span>
+			</button>
+		</div>
+			
+		<div role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box">
+			<div class="vector-typeahead-search-container">
+				<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail">
+					<form action="/w/index.php" id="vector-sticky-search-form" class="cdx-search-input cdx-search-input--has-end-button">
+						<div  class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+							<div class="cdx-text-input cdx-text-input--has-start-icon">
+								<input
+									class="cdx-text-input__input mw-searchInput" autocomplete="off"
+									
+									type="search" name="search" placeholder="Search Wikipedia">
+								<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+							</div>
+							<input type="hidden" name="title" value="Special:Search">
+						</div>
+						<button class="cdx-button cdx-search-input__end-button">Search</button>
+					</form>
+				</div>
+			</div>
+		</div>
+		<div class="vector-sticky-header-context-bar">
+				<div class="vector-sticky-header-context-bar-primary" aria-hidden="true" >Editing <span id="firstHeadingTitle"><span lang="en" dir="ltr"><span class="mw-page-title-main">Dark Souls</span></span></span></div>
+			</div>
+		</div>
+		<div class="vector-sticky-header-end" aria-hidden="true">
+			<div class="vector-sticky-header-icons">
+				<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-talk-sticky-header" tabindex="-1" data-event-name="talk-sticky-header"><span class="vector-icon mw-ui-icon-speechBubbles mw-ui-icon-wikimedia-speechBubbles"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-subject-sticky-header" tabindex="-1" data-event-name="subject-sticky-header"><span class="vector-icon mw-ui-icon-article mw-ui-icon-wikimedia-article"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-history-sticky-header" tabindex="-1" data-event-name="history-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-history mw-ui-icon-wikimedia-wikimedia-history"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only mw-watchlink" id="ca-watchstar-sticky-header" tabindex="-1" data-event-name="watch-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-star mw-ui-icon-wikimedia-wikimedia-star"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-edit-sticky-header" tabindex="-1" data-event-name="wikitext-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-wikiText mw-ui-icon-wikimedia-wikimedia-wikiText"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-ve-edit-sticky-header" tabindex="-1" data-event-name="ve-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-edit mw-ui-icon-wikimedia-wikimedia-edit"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-viewsource-sticky-header" tabindex="-1" data-event-name="ve-edit-protected-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-editLock mw-ui-icon-wikimedia-wikimedia-editLock"></span>
+
+<span></span>
+			</a>
+		</div>
+			<div class="vector-sticky-header-buttons">
+				<button class="cdx-button cdx-button--weight-quiet mw-interlanguage-selector" id="p-lang-btn-sticky-header" tabindex="-1" data-event-name="ui.dropdown-p-lang-btn-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-language mw-ui-icon-wikimedia-wikimedia-language"></span>
+
+<span>Add languages</span>
+			</button>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive" id="ca-addsection-sticky-header" tabindex="-1" data-event-name="addsection-sticky-header"><span class="vector-icon mw-ui-icon-speechBubbleAdd-progressive mw-ui-icon-wikimedia-speechBubbleAdd-progressive"></span>
+
+<span>Add topic</span>
+			</a>
+		</div>
+			<div class="vector-sticky-header-icon-end">
+				<div class="vector-user-links">
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="mw-portlet mw-portlet-dock-bottom emptyPortlet" id="p-dock-bottom">
+	<ul>
+		
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-7f5cfbd5b7-46rrz","wgBackendResponseTime":662});});</script>
+</body>
+</html>

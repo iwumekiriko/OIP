@@ -1,0 +1,919 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available skin-theme-clientpref-thumb-standard" lang="pl" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Dark Souls (seria) – Wikipedia, wolna encyklopedia</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available skin-theme-clientpref-thumb-standard";var cookie=document.cookie.match(/(?:^|; )plwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","styczeń","luty","marzec","kwiecień","maj","czerwiec","lipiec","sierpień","wrzesień","październik","listopad","grudzień"],"wgRequestId":"354b3200-4929-4f1b-bb18-5294734f0445","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Dark_Souls_(seria)","wgTitle":"Dark Souls (seria)","wgCurRevisionId":79281678,"wgRevisionId":79281678,"wgArticleId":3689534,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Serie gier komputerowych","Fabularne gry akcji","Gry komputerowe wyprodukowane w Japonii","Gry z serii Souls"],"wgPageViewLanguage":"pl","wgPageContentLanguage":"pl","wgPageContentModel":"wikitext","wgRelevantPageName":"Dark_Souls_(seria)","wgRelevantArticleId":3689534,"wgTempUserName":null,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgCiteReferencePreviewsActive":true,"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1}}},"wgStableRevisionId":79281678,"wgConfirmEditCaptchaNeededForGenericEdit":false,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":0,"wgVisualEditor":{"pageLanguageCode":"pl","pageLanguageDir":"ltr","pageVariantFallbacks":"pl"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":true,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":9000,"wgEditSubmitButtonLabelPublish":true,"wgVisualEditorPageIsDisambiguation":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q99431276","wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGESuggestedEditsTaskTypes":{"taskTypes":["copyedit","link-recommendation"],"unavailableTaskTypes":[]},"wgGETopicsMatchModeEnabled":false,"wgGELevelingUpEnabledForUser":false,"wgTestKitchenUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]}};
+RLSTATE={"ext.gadget.wikiflex":"ready","ext.gadget.infobox":"ready","ext.gadget.hlist":"ready","ext.gadget.darkmode-overrides":"ready","ext.gadget.small-references":"ready","ext.gadget.citation-access-info":"ready","ext.gadget.sprawdz-problemy-szablony":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","ext.wikimediamessages.styles":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","jquery.makeCollapsible.styles":"ready","ext.flaggedRevs.basic":"ready","mediawiki.codex.messagebox.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.scribunto.logs","ext.parsermigration.survey","site","mediawiki.page.ready","jquery.makeCollapsible","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.flaggedRevs.advanced","ext.gadget.ll-script-loader","ext.gadget.veKeepParameters","ext.gadget.szablon-galeria","ext.gadget.NavFrame","ext.gadget.citoid-overrides","ext.gadget.maps","ext.gadget.padlock-indicators","ext.gadget.interwiki-langlist","ext.gadget.edit-summaries","ext.gadget.edit-first-section","ext.gadget.wikibugs","ext.gadget.map-toggler","ext.gadget.narrowFootnoteColumns","ext.gadget.ally-enhance","ext.gadget.WDsearch","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.bootstrap","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.cx.uls.quick.actions","wikibase.client.vector-2022","wikibase.databox.fromWikidata","ext.checkUser.clientHints","ext.quicksurveys.init","ext.growthExperiments.SuggestedEditSession","ext.testKitchen"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=pl&amp;modules=ext.cite.styles%7Cext.flaggedRevs.basic%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediamessages.styles%7Cjquery.makeCollapsible.styles%7Cmediawiki.codex.messagebox.styles%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=pl&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=pl&amp;modules=ext.gadget.citation-access-info%2Cdarkmode-overrides%2Chlist%2Cinfobox%2Csmall-references%2Csprawdz-problemy-szablony%2Cwikiflex&amp;only=styles&amp;skin=vector-2022">
+<link rel="stylesheet" href="/w/load.php?lang=pl&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.46.0-wmf.21">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=1120">
+<meta property="og:title" content="Dark Souls (seria) – Wikipedia, wolna encyklopedia">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" type="application/x-wiki" title="Edytuj" href="/w/index.php?title=Dark_Souls_(seria)&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/rest.php/v1/search" title="Wikipedia (pl)">
+<link rel="EditURI" type="application/rsd+xml" href="//pl.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://pl.wikipedia.org/wiki/Dark_Souls_(seria)">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.pl">
+<link rel="alternate" type="application/atom+xml" title="Kanał Atom Wikipedii" href="/w/index.php?title=Specjalna:Ostatnie_zmiany&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="auth.wikimedia.org">
+</head>
+<body class="skin--responsive skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Dark_Souls_seria rootpage-Dark_Souls_seria skin-vector-2022 action-view">
+<div id="mw-aria-live-region" class="mw-aria-live-region" aria-live="polite"></div><a class="mw-jump-link" href="#bodyContent">Przejdź do zawartości</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header no-font-mode-scale">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Witryna">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  title="Główne menu" >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Menu główne"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">Menu główne</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Menu główne</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">przypnij</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">ukryj</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Nawigacja
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Wikipedia:Strona_g%C5%82%C3%B3wna" title="Przejdź na stronę główną [z]" accesskey="z"><span>Strona główna</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Specjalna:Losowa_strona" title="Załaduj losową stronę [x]" accesskey="x"><span>Losuj artykuł</span></a></li><li id="n-Kategorie" class="mw-list-item"><a href="/wiki/Portal:Kategorie_G%C5%82%C3%B3wne"><span>Kategorie artykułów</span></a></li><li id="n-Featured-articles" class="mw-list-item"><a href="/wiki/Wikipedia:Wyr%C3%B3%C5%BCniona_zawarto%C5%9B%C4%87_Wikipedii"><span>Najlepsze artykuły</span></a></li><li id="n-FAQ" class="mw-list-item"><a href="/wiki/Pomoc:FAQ"><span>Częste pytania (FAQ)</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-zmiany" class="vector-menu mw-portlet mw-portlet-zmiany"  >
+	<div class="vector-menu-heading">
+		Dla czytelników
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-czytelnicy" class="mw-list-item"><a href="/wiki/Wikipedia:O_Wikipedii"><span>O Wikipedii</span></a></li><li id="n-contact" class="mw-list-item"><a href="/wiki/Wikipedia:Kontakt_z_wikipedystami"><span>Kontakt</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-edytorzy" class="vector-menu mw-portlet mw-portlet-edytorzy"  >
+	<div class="vector-menu-heading">
+		Dla wikipedystów
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-pierwsze-kroki" class="mw-list-item"><a href="/wiki/Pomoc:Pierwsze_kroki"><span>Pierwsze kroki</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Portal_wikipedyst%C3%B3w" title="O projekcie – co możesz zrobić, gdzie możesz znaleźć informacje"><span>Portal wikipedystów</span></a></li><li id="n-Noticeboard" class="mw-list-item"><a href="/wiki/Wikipedia:Tablica_og%C5%82osze%C5%84"><span>Ogłoszenia</span></a></li><li id="n-Guidelines" class="mw-list-item"><a href="/wiki/Wikipedia:Zasady"><span>Zasady</span></a></li><li id="n-helppage-name" class="mw-list-item"><a href="/wiki/Pomoc:Spis_tre%C5%9Bci"><span>Pomoc</span></a></li><li id="n-specialpages" class="mw-list-item"><a href="/wiki/Specjalna:Strony_specjalne" title="Lista wszystkich stron specjalnych [q]" accesskey="q"><span>Strony specjalne</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Specjalna:Ostatnie_zmiany" title="Lista ostatnich zmian w Wikipedii. [r]" accesskey="r"><span>Ostatnie zmiany</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Wikipedia:Strona_g%C5%82%C3%B3wna" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container skin-invert">
+		<img class="mw-logo-wordmark" alt="Wikipedia" src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" style="width: 7.5em; height: 1.125em;">
+		<img class="mw-logo-tagline" alt="wolna encyklopedia" src="/static/images/mobile/copyright/wikipedia-tagline-pl.svg" width="120" height="13" style="width: 7.5em; height: 0.8125em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Specjalna:Szukaj" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" title="Przeszukaj Wikipedię [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Szukaj</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input mw-searchInput" autocomplete="off"
+							 type="search" name="search" placeholder="Przeszukaj Wikipedię" aria-label="Przeszukaj Wikipedię" autocapitalize="none" spellcheck="false" title="Przeszukaj Wikipedię [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Specjalna:Szukaj">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Szukaj</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links vector-user-links-wide" aria-label="Narzędzia osobiste">
+	<div class="vector-user-links-main">
+	
+<div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-userpage" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	<nav class="vector-appearance-landmark" aria-label="Wygląd">
+		
+<div id="vector-appearance-dropdown" class="vector-dropdown "  title="Zmień rozmiar czcionki, szerokość oraz kolorystykę strony" >
+	<input type="checkbox" id="vector-appearance-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-appearance-dropdown" class="vector-dropdown-checkbox "  aria-label="Wygląd"  >
+	<label id="vector-appearance-dropdown-label" for="vector-appearance-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-appearance mw-ui-icon-wikimedia-appearance"></span>
+
+<span class="vector-dropdown-label-text">Wygląd</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+			<div id="vector-appearance-unpinned-container" class="vector-unpinned-container">
+				
+			</div>
+		
+	</div>
+</div>
+
+	</nav>
+	
+<div id="p-vector-user-menu-notifications" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-sitesupport-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=pl.wikipedia.org&amp;uselang=pl" class=""><span>Wspomóż Wikipedię</span></a>
+</li>
+<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="/w/index.php?title=Specjalna:Utw%C3%B3rz_konto&amp;returnto=Dark+Souls+%28seria%29" title="Zachęcamy do stworzenia konta i zalogowania, ale nie jest to obowiązkowe." class=""><span>Utwórz konto</span></a>
+</li>
+<li id="pt-login-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="/w/index.php?title=Specjalna:Zaloguj&amp;returnto=Dark+Souls+%28seria%29" title="Zachęcamy do zalogowania się, choć nie jest to obowiązkowe. [o]" accesskey="o" class=""><span>Zaloguj się</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div>
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out user-links-collapsible-item"  title="Więcej opcji" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Narzędzia osobiste"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">Narzędzia osobiste</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="Menu użytkownika" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-sitesupport" class="user-links-collapsible-item mw-list-item"><a href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=pl.wikipedia.org&amp;uselang=pl"><span>Wspomóż Wikipedię</span></a></li><li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Specjalna:Utw%C3%B3rz_konto&amp;returnto=Dark+Souls+%28seria%29" title="Zachęcamy do stworzenia konta i zalogowania, ale nie jest to obowiązkowe."><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Utwórz konto</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Specjalna:Zaloguj&amp;returnto=Dark+Souls+%28seria%29" title="Zachęcamy do zalogowania się, choć nie jest to obowiązkowe. [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Zaloguj się</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<div class="vector-column-start">
+			<div class="vector-main-menu-container">
+		<div id="mw-navigation">
+			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Witryna">
+				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+				</div>
+		</nav>
+		</div>
+	</div>
+	<div class="vector-sticky-pinned-container">
+				<nav id="mw-panel-toc" aria-label="Spis treści" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark">
+					<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	data-pinned-container-id="vector-toc-pinned-container"
+	data-unpinned-container-id="vector-toc-unpinned-container"
+>
+	<h2 class="vector-pinnable-header-label">Spis treści</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">przypnij</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">ukryj</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">Początek</div>
+			</a>
+		</li>
+		<li id="toc-Rozgrywka"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Rozgrywka">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">1</span>
+				<span>Rozgrywka</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Rozgrywka-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Demon’s_Souls"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Demon’s_Souls">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">2</span>
+				<span>Demon’s Souls</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Demon’s_Souls-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Przypisy"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Przypisy">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">3</span>
+				<span>Przypisy</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Przypisy-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body">
+				<header class="mw-body-header vector-page-titlebar no-font-mode-scale">
+					<nav aria-label="Spis treści" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"  title="Spis treści" >
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="Przełącz stan spisu treści"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Przełącz stan spisu treści</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Dark Souls (seria)</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="Przejdź do artykułu w innym języku. Treść dostępna w 13 językach"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-13" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">13 języków</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				<li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/Dark_Souls" title="Dark Souls – czeski" lang="cs" hreflang="cs" data-title="Dark Souls" data-language-autonym="Čeština" data-language-local-name="czeski" class="interlanguage-link-target"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Dark_Souls_(Computerspielreihe)" title="Dark Souls (Computerspielreihe) – niemiecki" lang="de" hreflang="de" data-title="Dark Souls (Computerspielreihe)" data-language-autonym="Deutsch" data-language-local-name="niemiecki" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/Dark_Souls" title="Dark Souls – angielski" lang="en" hreflang="en" data-title="Dark Souls" data-language-autonym="English" data-language-local-name="angielski" class="interlanguage-link-target"><span>English</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Dark_Souls" title="Dark Souls – hiszpański" lang="es" hreflang="es" data-title="Dark Souls" data-language-autonym="Español" data-language-local-name="hiszpański" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%D8%AF%D8%A7%D8%B1%DA%A9_%D8%B3%D9%88%D9%84%D8%B2" title="دارک سولز – perski" lang="fa" hreflang="fa" data-title="دارک سولز" data-language-autonym="فارسی" data-language-local-name="perski" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Dark_Souls" title="Dark Souls – francuski" lang="fr" hreflang="fr" data-title="Dark Souls" data-language-autonym="Français" data-language-local-name="francuski" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/%EB%8B%A4%ED%81%AC_%EC%86%8C%EC%9A%B8" title="다크 소울 – koreański" lang="ko" hreflang="ko" data-title="다크 소울" data-language-autonym="한국어" data-language-local-name="koreański" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a href="https://no.wikipedia.org/wiki/Dark_Souls" title="Dark Souls – norweski (bokmål)" lang="nb" hreflang="nb" data-title="Dark Souls" data-language-autonym="Norsk bokmål" data-language-local-name="norweski (bokmål)" class="interlanguage-link-target"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Dark_Souls_(s%C3%A9rie)" title="Dark Souls (série) – portugalski" lang="pt" hreflang="pt" data-title="Dark Souls (série)" data-language-autonym="Português" data-language-local-name="portugalski" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-ru mw-list-item"><a href="https://ru.wikipedia.org/wiki/Dark_Souls" title="Dark Souls – rosyjski" lang="ru" hreflang="ru" data-title="Dark Souls" data-language-autonym="Русский" data-language-local-name="rosyjski" class="interlanguage-link-target"><span>Русский</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/Dark_Souls" title="Dark Souls – turecki" lang="tr" hreflang="tr" data-title="Dark Souls" data-language-autonym="Türkçe" data-language-local-name="turecki" class="interlanguage-link-target"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/Dark_Souls_(%D1%81%D0%B5%D1%80%D1%96%D1%8F_%D0%B2%D1%96%D0%B4%D0%B5%D0%BE%D1%96%D0%B3%D0%BE%D1%80)" title="Dark Souls (серія відеоігор) – ukraiński" lang="uk" hreflang="uk" data-title="Dark Souls (серія відеоігор)" data-language-autonym="Українська" data-language-local-name="ukraiński" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-uz mw-list-item"><a href="https://uz.wikipedia.org/wiki/Dark_Souls" title="Dark Souls – uzbecki" lang="uz" hreflang="uz" data-title="Dark Souls" data-language-autonym="Oʻzbekcha / ўзбекча" data-language-local-name="uzbecki" class="interlanguage-link-target"><span>Oʻzbekcha / ўзбекча</span></a></li>
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q99431276#sitelinks-wikipedia" title="Edytuj linki pomiędzy wersjami językowymi" class="wbc-editpage">Edytuj linki</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar vector-feature-custom-font-size-clientpref--excluded">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Przestrzenie nazw">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Dark_Souls_(seria)" title="Zobacz stronę treści [c]" accesskey="c"><span>Artykuł</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/Dyskusja:Dark_Souls_(seria)" rel="discussion" title="Dyskusja o zawartości tej strony [t]" accesskey="t"><span>Dyskusja</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="vector-variants-dropdown" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="vector-variants-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-variants-dropdown" class="vector-dropdown-checkbox " aria-label="Zmień wariant języka"   >
+	<label id="vector-variants-dropdown-label" for="vector-variants-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">polski</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Widok">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Dark_Souls_(seria)"><span>Czytaj</span></a></li><li id="ca-ve-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Dark_Souls_(seria)&amp;veaction=edit" title="Edytuj tę stronę [v]" accesskey="v"><span>Edytuj</span></a></li><li id="ca-edit" class="collapsible vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Dark_Souls_(seria)&amp;action=edit" title="Edycja kodu źródłowego strony [e]" accesskey="e"><span>Edytuj kod źródłowy</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Dark_Souls_(seria)&amp;action=history" title="Starsze wersje tej strony [h]" accesskey="h"><span>Wyświetl historię</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Narzędzia dla stron">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Narzędzia"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Narzędzia</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Narzędzia</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">przypnij</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">ukryj</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="Więcej opcji" >
+	<div class="vector-menu-heading">
+		Działania
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/Dark_Souls_(seria)"><span>Czytaj</span></a></li><li id="ca-more-ve-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Dark_Souls_(seria)&amp;veaction=edit" title="Edytuj tę stronę [v]" accesskey="v"><span>Edytuj</span></a></li><li id="ca-more-edit" class="collapsible vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Dark_Souls_(seria)&amp;action=edit" title="Edycja kodu źródłowego strony [e]" accesskey="e"><span>Edytuj kod źródłowy</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Dark_Souls_(seria)&amp;action=history"><span>Wyświetl historię</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		Ogólne
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Specjalna:Linkuj%C4%85ce/Dark_Souls_(seria)" title="Pokaż listę wszystkich stron linkujących do tej strony [j]" accesskey="j"><span>Linkujące</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Specjalna:Zmiany_w_linkowanych/Dark_Souls_(seria)" rel="nofollow" title="Ostatnie zmiany w stronach, do których ta strona linkuje [k]" accesskey="k"><span>Zmiany w linkowanych</span></a></li><li id="t-upload" class="mw-list-item"><a href="//pl.wikipedia.org/wiki/Wikipedia:Prześlij_plik" title="Prześlij pliki [u]" accesskey="u"><span>Prześlij plik</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Dark_Souls_(seria)&amp;oldid=79281678" title="Stały link do tej wersji tej strony"><span>Link do tej wersji</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Dark_Souls_(seria)&amp;action=info" title="Więcej informacji na temat tej strony"><span>Informacje o tej stronie</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Specjalna:Cytuj&amp;page=Dark_Souls_%28seria%29&amp;id=79281678&amp;wpFormIdentifier=titleform" title="Informacja o tym jak należy cytować tę stronę"><span>Cytowanie tego artykułu</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=Specjalna:Skr%C3%B3%C4%87_adres_URL&amp;url=https%3A%2F%2Fpl.wikipedia.org%2Fwiki%2FDark_Souls_%28seria%29"><span>Zobacz skrócony adres URL</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export"  >
+	<div class="vector-menu-heading">
+		Drukuj lub eksportuj
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-create_a_book" class="mw-list-item"><a href="/w/index.php?title=Specjalna:Ksi%C4%85%C5%BCka&amp;bookcmd=book_creator&amp;referer=Dark+Souls+%28seria%29"><span>Utwórz książkę</span></a></li><li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Specjalna:DownloadAsPdf&amp;page=Dark_Souls_%28seria%29&amp;action=show-download-screen"><span>Pobierz jako PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Dark_Souls_(seria)&amp;printable=yes" title="Wersja do wydruku [p]" accesskey="p"><span>Wersja do druku</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects"  >
+	<div class="vector-menu-heading">
+		W innych projektach
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Dark_Souls_(series)" hreflang="en"><span>Wikimedia Commons</span></a></li><li id="t-wikibase" class="wb-otherproject-link wb-otherproject-wikibase-dataitem mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q99431276" title="Link do powiązanego elementu w repozytorium danych [g]" accesskey="g"><span>Element Wikidanych</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end no-font-mode-scale">
+					<div class="vector-sticky-pinned-container">
+						<div class="wp25eastereggs-vector-sitenotice-landmark"></div>
+						<nav class="vector-page-tools-landmark" aria-label="Narzędzia dla stron">
+							<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+				
+							</div>
+		</nav>
+						<nav class="vector-appearance-landmark" aria-label="Wygląd">
+							<div id="vector-appearance-pinned-container" class="vector-pinned-container">
+				<div id="vector-appearance" class="vector-appearance vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-appearance-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="appearance-pinned"
+	data-pinnable-element-id="vector-appearance"
+	data-pinned-container-id="vector-appearance-pinned-container"
+	data-unpinned-container-id="vector-appearance-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Wygląd</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-appearance.pin">przypnij</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-appearance.unpin">ukryj</button>
+</div>
+
+
+</div>
+
+							</div>
+		</nav>
+					</div>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		</div>
+
+						<div id="siteSub" class="noprint">Z Wikipedii, wolnej encyklopedii</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="pl" dir="ltr"><table class="infobox">
+<caption class="naglowek"><style data-mw-deduplicate="TemplateStyles:r75562627">.mw-parser-output .infobox>caption>.iboxt-flex{display:flex;justify-content:flex-start;align-items:center;gap:4px}.mw-parser-output .infobox>caption>.iboxt-flex>.iboxt-ikona{flex-grow:0;flex-shrink:0;font-size:7px;max-width:40px;overflow:hidden}.mw-parser-output .infobox>caption>.iboxt-flex>.iboxt-tekst{flex-grow:1}.mw-parser-output .infobox>caption .iboxt-1{font-weight:bold}.mw-parser-output .infobox>caption .iboxt-2{font-style:italic}.mw-parser-output .infobox>caption .iboxt-3{font-style:italic;font-size:90%}</style><div class="iboxt-1">Dark Souls</div>
+</caption>
+<tbody><tr class="grafika iboxs">
+<td colspan="2"><span class="mw-no-invert" typeof="mw:File"><a href="/wiki/Plik:Dark_Souls_logo_black.svg" class="mw-file-description"><img alt="Ilustracja" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Dark_Souls_logo_black.svg/250px-Dark_Souls_logo_black.svg.png" decoding="async" width="250" height="31" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Dark_Souls_logo_black.svg/500px-Dark_Souls_logo_black.svg.png 1.5x" data-file-width="512" data-file-height="63" /></a></span>
+</td></tr>
+<tr>
+<th><a href="/wiki/Producent_gier_komputerowych" title="Producent gier komputerowych">Producenci</a>
+</th>
+<td>
+<p><a href="/wiki/FromSoftware" title="FromSoftware">FromSoftware</a>
+</p>
+</td></tr>
+<tr>
+<th><a href="/wiki/Wydawca_gier_komputerowych" title="Wydawca gier komputerowych">Wydawcy</a>
+</th>
+<td>
+<p><a href="/wiki/Bandai_Namco_Entertainment" title="Bandai Namco Entertainment">Bandai Namco Entertainment</a>
+</p>
+</td></tr>
+<tr>
+<th>Pierwsza gra serii
+</th>
+<td>
+<p><i><a href="/wiki/Dark_Souls" title="Dark Souls">Dark Souls</a></i> (2011)
+</p>
+</td></tr>
+<tr>
+<th>Ostatnia gra serii
+</th>
+<td>
+<p><i>Dark Souls: Remastered</i> (2018)
+</p>
+</td></tr>
+<tr>
+<th>Platformy
+</th>
+<td>
+<p><a href="/wiki/Microsoft_Windows" title="Microsoft Windows">Microsoft Windows</a>, <a href="/wiki/PlayStation_3" title="PlayStation 3">PlayStation 3</a>, <a href="/wiki/PlayStation_4" title="PlayStation 4">PlayStation 4</a>, <a href="/wiki/Xbox_360" title="Xbox 360">Xbox 360</a>, <a href="/wiki/Xbox_One" title="Xbox One">Xbox One</a>
+</p>
+</td></tr>
+<tr>
+<th><a href="/wiki/Gatunek_gry_komputerowej" title="Gatunek gry komputerowej">Gatunek</a>
+</th>
+<td>
+<p><a href="/wiki/Fabularna_gra_akcji" title="Fabularna gra akcji">fabularna gra akcji</a>
+</p>
+</td></tr>
+</tbody></table>
+<p><b>Dark Souls</b> – seria <a href="/wiki/Fabularna_gra_akcji" title="Fabularna gra akcji">fabularnych gier akcji</a> wyprodukowanych przez studio <a href="/wiki/FromSoftware" title="FromSoftware">FromSoftware</a>. Cykl zapoczątkowała gra <i><a href="/wiki/Dark_Souls" title="Dark Souls">Dark Souls</a></i>. W <a href="/wiki/2014_w_grach_komputerowych" title="2014 w grach komputerowych">2014</a> została wydana <i><a href="/wiki/Dark_Souls_II" title="Dark Souls II">Dark Souls II</a></i>, a w <a href="/wiki/2016_w_grach_komputerowych" title="2016 w grach komputerowych">2016</a> – <i><a href="/wiki/Dark_Souls_III" title="Dark Souls III">Dark Souls III</a></i><sup id="cite&#95;ref-gol-seria&#95;1-0" class="reference"><a href="#cite_note-gol-seria-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>. Gry przyczyniły się do powstania w branży terminu określającego nowy typ rozgrywki – <i><a href="/wiki/Soulslike" title="Soulslike">soulslike</a></i><sup id="cite&#95;ref-2" class="reference"><a href="#cite_note-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup><sup id="cite&#95;ref-:0&#95;3-0" class="reference"><a href="#cite_note-:0-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup>.
+</p>
+<div class="mw-heading mw-heading2"><h2 id="Rozgrywka">Rozgrywka</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dark_Souls_(seria)&amp;veaction=edit&amp;section=1" title="Edytuj sekcję: Rozgrywka" class="mw-editsection-visualeditor"><span>edytuj</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Dark_Souls_(seria)&amp;action=edit&amp;section=1" title="Edytuj kod źródłowy sekcji: Rozgrywka"><span>edytuj kod</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Gry z serii <i>Dark Souls</i> to <a href="/wiki/Perspektywa_trzeciej_osoby" title="Perspektywa trzeciej osoby">trzeciosobowe</a> <a href="/wiki/Fabularna_gra_akcji" title="Fabularna gra akcji">fabularne gry akcji</a> osadzone w świecie <a href="/wiki/Dark_fantasy" title="Dark fantasy">dark fantasy</a>. Gracz na początku rozgrywki kreuje wizerunek postaci i wybiera dla niej jedną z klas, która wpływa tylko na początkowy rozdział atrybutów oraz startowy ekwipunek. Właściwa rozgrywka polega na przemierzaniu lokacji, walce z przeciwnikami – w tym z <a href="/wiki/Boss_(gry_komputerowe)" title="Boss (gry komputerowe)">bossami</a> – oraz poszukiwaniu różnorakich przedmiotów. Dzięki walce z wrogami oprócz nowego ekwipunku gracz może zdobywać tytułowe <i>dusze</i> (<a href="/wiki/J%C4%99zyk_angielski" title="Język angielski">ang.</a> <i>souls</i>), które służą do zwiększania atrybutów postaci sterowanej przez gracza<sup id="cite&#95;ref-gol-ds1-main&#95;4-0" class="reference"><a href="#cite_note-gol-ds1-main-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup><sup id="cite&#95;ref-gol-ds2-main&#95;5-0" class="reference"><a href="#cite_note-gol-ds2-main-5"><span class="cite-bracket">&#91;</span>5<span class="cite-bracket">&#93;</span></a></sup><sup id="cite&#95;ref-gol-ds3-main&#95;6-0" class="reference"><a href="#cite_note-gol-ds3-main-6"><span class="cite-bracket">&#91;</span>6<span class="cite-bracket">&#93;</span></a></sup>.
+</p>
+<div class="mw-heading mw-heading2"><h2 id="Demon’s_Souls"><span id="Demon.E2.80.99s_Souls"></span>Demon’s Souls</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dark_Souls_(seria)&amp;veaction=edit&amp;section=2" title="Edytuj sekcję: Demon’s Souls" class="mw-editsection-visualeditor"><span>edytuj</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Dark_Souls_(seria)&amp;action=edit&amp;section=2" title="Edytuj kod źródłowy sekcji: Demon’s Souls"><span>edytuj kod</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Wydana w 2009 roku na PlayStation 3 gra <i><a href="/wiki/Demon%E2%80%99s_Souls" title="Demon’s Souls">Demon’s Souls</a></i> uważana jest za duchowego poprzednika serii <i>Dark Souls</i><sup id="cite&#95;ref-Hussain&#95;7-0" class="reference"><a href="#cite_note-Hussain-7"><span class="cite-bracket">&#91;</span>7<span class="cite-bracket">&#93;</span></a></sup><sup id="cite&#95;ref-ign&#95;8-0" class="reference"><a href="#cite_note-ign-8"><span class="cite-bracket">&#91;</span>8<span class="cite-bracket">&#93;</span></a></sup><sup id="cite&#95;ref-Matulef&#95;9-0" class="reference"><a href="#cite_note-Matulef-9"><span class="cite-bracket">&#91;</span>9<span class="cite-bracket">&#93;</span></a></sup>. W przeciwieństwie do <i>Dark Souls</i>, gra wykorzystuje centralną lokację znaną jako Nexus, gdzie gracze mogą awansować, naprawiać sprzęt lub kupować określone przedmioty. Zmienny poziom trudności jest również dostępny wyłącznie dla <i>Demon’s Souls</i>, gdzie trudność eksploracji świata zależy od liczby zabitych bossów i ilości śmierci gracza<sup id="cite&#95;ref-ign&#95;8-1" class="reference"><a href="#cite_note-ign-8"><span class="cite-bracket">&#91;</span>8<span class="cite-bracket">&#93;</span></a></sup>.
+</p>
+<table class="wikitable" style="font-size: 90%; float: right; clear: right; margin:0.5em 0 0.5em 1em;">
+<caption style="font-size: 111.11%;">Średnia ocen z recenzji<br /><small>Stan z 2016-04-29.</small>
+</caption>
+<tbody><tr>
+<th scope="col">Gra
+</th>
+<th scope="col"><a href="/wiki/GameRankings" title="GameRankings">GameRankings</a>
+</th>
+<th scope="col"><a href="/wiki/Metacritic" title="Metacritic">Metacritic</a>
+</th></tr>
+<tr>
+<th scope="row" style="font-weight: normal; text-align: left;"><i><a href="/wiki/Dark_Souls" title="Dark Souls">Dark Souls</a></i>
+</th>
+<td style="text-align: center;">PS3: 88,48%<sup id="cite&#95;ref-10" class="reference"><a href="#cite_note-10"><span class="cite-bracket">&#91;</span>10<span class="cite-bracket">&#93;</span></a></sup><br />X360: 88,23%<sup id="cite&#95;ref-11" class="reference"><a href="#cite_note-11"><span class="cite-bracket">&#91;</span>11<span class="cite-bracket">&#93;</span></a></sup><br />PC: 84,54%<sup id="cite&#95;ref-12" class="reference"><a href="#cite_note-12"><span class="cite-bracket">&#91;</span>12<span class="cite-bracket">&#93;</span></a></sup>
+</td>
+<td style="text-align: center;">PS3: 89/100<sup id="cite&#95;ref-13" class="reference"><a href="#cite_note-13"><span class="cite-bracket">&#91;</span>13<span class="cite-bracket">&#93;</span></a></sup><br />X360: 89/100<sup id="cite&#95;ref-14" class="reference"><a href="#cite_note-14"><span class="cite-bracket">&#91;</span>14<span class="cite-bracket">&#93;</span></a></sup><br />PC: 85/100<sup id="cite&#95;ref-15" class="reference"><a href="#cite_note-15"><span class="cite-bracket">&#91;</span>15<span class="cite-bracket">&#93;</span></a></sup>
+</td></tr>
+<tr>
+<th scope="row" style="font-weight: normal; text-align: left;"><i><a href="/wiki/Dark_Souls_II" title="Dark Souls II">Dark Souls II</a></i>
+</th>
+<td style="text-align: center;">PS3: 89,67%<sup id="cite&#95;ref-16" class="reference"><a href="#cite_note-16"><span class="cite-bracket">&#91;</span>16<span class="cite-bracket">&#93;</span></a></sup><br />X360: 90,33%<sup id="cite&#95;ref-17" class="reference"><a href="#cite_note-17"><span class="cite-bracket">&#91;</span>17<span class="cite-bracket">&#93;</span></a></sup><br />PC: 91%<sup id="cite&#95;ref-18" class="reference"><a href="#cite_note-18"><span class="cite-bracket">&#91;</span>18<span class="cite-bracket">&#93;</span></a></sup>
+</td>
+<td style="text-align: center;">PS3: 91/100<sup id="cite&#95;ref-19" class="reference"><a href="#cite_note-19"><span class="cite-bracket">&#91;</span>19<span class="cite-bracket">&#93;</span></a></sup><br />X360: 92/100<sup id="cite&#95;ref-20" class="reference"><a href="#cite_note-20"><span class="cite-bracket">&#91;</span>20<span class="cite-bracket">&#93;</span></a></sup><br />PC: 91/100<sup id="cite&#95;ref-21" class="reference"><a href="#cite_note-21"><span class="cite-bracket">&#91;</span>21<span class="cite-bracket">&#93;</span></a></sup>
+</td></tr>
+<tr>
+<th scope="row" style="font-weight: normal; text-align: left;"><i><a href="/wiki/Dark_Souls_III" title="Dark Souls III">Dark Souls III</a></i>
+</th>
+<td style="text-align: center;">PS4: 88,48%<sup id="cite&#95;ref-22" class="reference"><a href="#cite_note-22"><span class="cite-bracket">&#91;</span>22<span class="cite-bracket">&#93;</span></a></sup><br />XONE: 89,25%<sup id="cite&#95;ref-23" class="reference"><a href="#cite_note-23"><span class="cite-bracket">&#91;</span>23<span class="cite-bracket">&#93;</span></a></sup><br />PC: 88,91%<sup id="cite&#95;ref-24" class="reference"><a href="#cite_note-24"><span class="cite-bracket">&#91;</span>24<span class="cite-bracket">&#93;</span></a></sup>
+</td>
+<td style="text-align: center;">PS4: 89/100<sup id="cite&#95;ref-25" class="reference"><a href="#cite_note-25"><span class="cite-bracket">&#91;</span>25<span class="cite-bracket">&#93;</span></a></sup><br />XONE: 86/100<sup id="cite&#95;ref-26" class="reference"><a href="#cite_note-26"><span class="cite-bracket">&#91;</span>26<span class="cite-bracket">&#93;</span></a></sup><br />PC: 90/100<sup id="cite&#95;ref-27" class="reference"><a href="#cite_note-27"><span class="cite-bracket">&#91;</span>27<span class="cite-bracket">&#93;</span></a></sup>
+</td></tr></tbody></table>
+<div class="mw-heading mw-heading2"><h2 id="Przypisy">Przypisy</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dark_Souls_(seria)&amp;veaction=edit&amp;section=3" title="Edytuj sekcję: Przypisy" class="mw-editsection-visualeditor"><span>edytuj</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Dark_Souls_(seria)&amp;action=edit&amp;section=3" title="Edytuj kod źródłowy sekcji: Przypisy"><span>edytuj kod</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite&#95;note-gol-seria-1"><span class="mw-cite-backlink"><a href="#cite_ref-gol-seria_1-0">↑</a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.gry-online.pl/gry-z-serii-i-podobne.asp?ID=2685">Seria Demon’s / Dark Souls – seria gier</a>.&#32;<a href="/wiki/Gry-Online" title="Gry-Online">Gry-Online</a>.&#32;[dostęp 2016-04-29].&#32;<span class="lang-list tylko-pl">(<abbr title="Treść w języku polskim">pol.</abbr>)</span>.</cite></span>
+</li>
+<li id="cite&#95;note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><cite class="citation web"><span class="cite-name-before"><span class="cite-name-full">Oskar</span><span class="cite-name-initials" title="Oskar" style="display:none">O.</span>&#160;</span><span class="cite-lastname">Kuźniak</span><span class="cite-name-after" style="display:none">&#160;<span class="cite-name-full">Oskar</span><span class="cite-name-initials" title="Oskar">O.</span></span>, <a rel="nofollow" class="external text" href="https://www.techdice.com/the-surge-gra-studia-deck-13-mocno-inspirowana-dark-souls/"><i>The Surge – gra studia Deck 13 mocno inspirowana Dark Souls</i></a> [online], Tech Dice, 19 lipca 2017<span class="accessdate"> [dostęp 2020-06-04]</span><span class="Z3988" title="ctx&#95;ver=Z39.88-2004&amp;rft.gengre=book&amp;rft.aufirst=Oskar&amp;rft&#95;val&#95;fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.btitle=The+Surge+%E2%80%93+gra+studia+Deck+13+mocno+inspirowana+Dark+Souls&amp;rft.date=2017-07-19&amp;rft.aulast=Ku%C5%BAniak&amp;rft&#95;id=https%3A%2F%2Fwww.techdice.com%2Fthe-surge-gra-studia-deck-13-mocno-inspirowana-dark-souls%2F" style="display:none">&#160;</span> <span class="lang-list tylko-pl">(<abbr title="Treść w języku polskim">pol.</abbr>)</span>.</cite></span>
+</li>
+<li id="cite&#95;note-:0-3"><span class="mw-cite-backlink"><a href="#cite_ref-:0_3-0">↑</a></span> <span class="reference-text"><cite class="citation web"><span class="cite-name-before"><span class="cite-name-full">Adam</span><span class="cite-name-initials" title="Adam" style="display:none">A.</span>&#160;</span><span class="cite-lastname">Berlik</span><span class="cite-name-after" style="display:none">&#160;<span class="cite-name-full">Adam</span><span class="cite-name-initials" title="Adam">A.</span></span>, <a rel="nofollow" class="external text" href="https://www.gram.pl/artykul/2017/02/10/najciekawsi-przedstawiciele-gatunku-souls-like-gry-podobne-do-dark-souls.shtml"><i>Gry podobne do Dark Souls – najciekawsi przedstawiciele gatunku souls-like</i></a> [online], www.gram.pl<span class="accessdate"> [dostęp 2020-06-04]</span><span class="Z3988" title="ctx&#95;ver=Z39.88-2004&amp;rft.gengre=book&amp;rft.aufirst=Adam&amp;rft&#95;val&#95;fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.btitle=Gry+podobne+do+Dark+Souls+%E2%80%93+najciekawsi+przedstawiciele+gatunku+souls-like&amp;rft.aulast=Berlik&amp;rft&#95;id=https%3A%2F%2Fwww.gram.pl%2Fartykul%2F2017%2F02%2F10%2Fnajciekawsi-przedstawiciele-gatunku-souls-like-gry-podobne-do-dark-souls.shtml" style="display:none">&#160;</span>.</cite></span>
+</li>
+<li id="cite&#95;note-gol-ds1-main-4"><span class="mw-cite-backlink"><a href="#cite_ref-gol-ds1-main_4-0">↑</a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.gry-online.pl/S016.asp?ID=18214">Dark Souls</a>.&#32;<a href="/wiki/Gry-Online" title="Gry-Online">Gry-Online</a>.&#32;[dostęp 2016-04-29].&#32;<span class="lang-list tylko-pl">(<abbr title="Treść w języku polskim">pol.</abbr>)</span>.</cite></span>
+</li>
+<li id="cite&#95;note-gol-ds2-main-5"><span class="mw-cite-backlink"><a href="#cite_ref-gol-ds2-main_5-0">↑</a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.gry-online.pl/S016.asp?ID=20133">Dark Souls II</a>.&#32;<a href="/wiki/Gry-Online" title="Gry-Online">Gry-Online</a>.&#32;[dostęp 2016-04-29].&#32;<span class="lang-list tylko-pl">(<abbr title="Treść w języku polskim">pol.</abbr>)</span>.</cite></span>
+</li>
+<li id="cite&#95;note-gol-ds3-main-6"><span class="mw-cite-backlink"><a href="#cite_ref-gol-ds3-main_6-0">↑</a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.gry-online.pl/gra.asp?ID=17079">Dark Souls III</a>.&#32;<a href="/wiki/Gry-Online" title="Gry-Online">Gry-Online</a>.&#32;[dostęp 2016-04-29].&#32;<span class="lang-list tylko-pl">(<abbr title="Treść w języku polskim">pol.</abbr>)</span>.</cite></span>
+</li>
+<li id="cite&#95;note-Hussain-7"><span class="mw-cite-backlink"><a href="#cite_ref-Hussain_7-0">↑</a></span> <span class="reference-text"><cite class="citation web"><span class="cite-name-before"><span class="cite-name-full">Tamoor</span><span class="cite-name-initials" title="Tamoor" style="display:none">T.</span>&#160;</span><span class="cite-lastname">Hussain</span><span class="cite-name-after" style="display:none">&#160;<span class="cite-name-full">Tamoor</span><span class="cite-name-initials" title="Tamoor">T.</span></span>, <a rel="nofollow" class="external text" href="https://www.gamespot.com/articles/the-most-influential-games-of-the-21st-century-dar/1100-6466811/"><i>The Most Influential Games Of The 21st Century: Dark Souls</i></a> [online]<span class="accessdate"> [dostęp 2022-11-09]</span><span class="Z3988" title="ctx&#95;ver=Z39.88-2004&amp;rft.gengre=book&amp;rft.aufirst=Tamoor&amp;rft&#95;val&#95;fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.btitle=The+Most+Influential+Games+Of+The+21st+Century%3A+Dark+Souls&amp;rft.aulast=Hussain&amp;rft&#95;id=https%3A%2F%2Fwww.gamespot.com%2Farticles%2Fthe-most-influential-games-of-the-21st-century-dar%2F1100-6466811%2F" style="display:none">&#160;</span> <span class="lang-list">(<abbr title="Treść w języku angielskim (English)">ang.</abbr>)</span>.</cite></span>
+</li>
+<li id="cite&#95;note-ign-8"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-ign_8-0">a</a></sup> <sup><a href="#cite_ref-ign_8-1">b</a></sup></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://uk.ign.com/articles/2009/07/06/atlus-officially-announces-demons-souls-for-north-america">Atlus Officially Announces Demon's Souls for North America</a>.&#32;<a href="/wiki/IGN" title="IGN">IGN</a>,&#32;2009-07-06.&#32;[dostęp 2015-07-06].&#32;<span class="lang-list">(<abbr title="Treść w języku angielskim (English)">ang.</abbr>)</span>.</cite></span>
+</li>
+<li id="cite&#95;note-Matulef-9"><span class="mw-cite-backlink"><a href="#cite_ref-Matulef_9-0">↑</a></span> <span class="reference-text"><cite class="citation web">Jeffrey Matulef&#58;&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20180218202246/http://www.eurogamer.net/articles/2015-04-07-bloodborne-director-reveals-his-favourite-boss-from-the-souls-series">Bloodborne director reveals his favourite boss from the "Souls" series</a>.&#32;Eurogamer,&#32;2015-04-07.&#32;[dostęp 2016-05-11].&#32;[zarchiwizowane z <a rel="nofollow" class="external text" href="http://www.eurogamer.net/articles/2015-04-07-bloodborne-director-reveals-his-favourite-boss-from-the-souls-series">tego adresu</a>&#32;(2018-02-18)].&#32;<span class="lang-list">(<abbr title="Treść w języku angielskim (English)">ang.</abbr>)</span>.</cite></span>
+</li>
+<li id="cite&#95;note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://archive.is/20130123192307/http://www.gamerankings.com/ps3/606312-dark-souls/index.html">Dark Souls</a>.&#32;<a href="/wiki/GameRankings" title="GameRankings">GameRankings</a>.&#32;[dostęp 2016-04-29].&#32;<span class="lang-list">(<abbr title="Treść w języku angielskim (English)">ang.</abbr>)</span>.</cite></span>
+</li>
+<li id="cite&#95;note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://archive.is/20130124024811/http://www.gamerankings.com/xbox360/608635-dark-souls/index.html">Dark Souls</a>.&#32;<a href="/wiki/GameRankings" title="GameRankings">GameRankings</a>.&#32;[dostęp 2016-04-29].&#32;<span class="lang-list">(<abbr title="Treść w języku angielskim (English)">ang.</abbr>)</span>.</cite></span>
+</li>
+<li id="cite&#95;note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://archive.is/20131209220744/http://www.gamerankings.com/pc/667257-dark-souls-prepare-to-die-edition/index.html">Dark Souls: Prepare to Die Edition</a>.&#32;<a href="/wiki/GameRankings" title="GameRankings">GameRankings</a>.&#32;[dostęp 2016-04-29].&#32;<span class="lang-list">(<abbr title="Treść w języku angielskim (English)">ang.</abbr>)</span>.</cite></span>
+</li>
+<li id="cite&#95;note-13"><span class="mw-cite-backlink"><a href="#cite_ref-13">↑</a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.metacritic.com/game/playstation-3/dark-souls">Dark Souls</a>.&#32;<a href="/wiki/Metacritic" title="Metacritic">Metacritic</a>.&#32;[dostęp 2016-04-29].&#32;<span class="lang-list">(<abbr title="Treść w języku angielskim (English)">ang.</abbr>)</span>.</cite></span>
+</li>
+<li id="cite&#95;note-14"><span class="mw-cite-backlink"><a href="#cite_ref-14">↑</a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.metacritic.com/game/xbox-360/dark-souls">Dark Souls</a>.&#32;<a href="/wiki/Metacritic" title="Metacritic">Metacritic</a>.&#32;[dostęp 2016-04-29].&#32;<span class="lang-list">(<abbr title="Treść w języku angielskim (English)">ang.</abbr>)</span>.</cite></span>
+</li>
+<li id="cite&#95;note-15"><span class="mw-cite-backlink"><a href="#cite_ref-15">↑</a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.metacritic.com/game/pc/dark-souls-prepare-to-die-edition">Dark Souls: Prepare to Die Edition</a>.&#32;<a href="/wiki/Metacritic" title="Metacritic">Metacritic</a>.&#32;[dostęp 2016-04-29].&#32;<span class="lang-list">(<abbr title="Treść w języku angielskim (English)">ang.</abbr>)</span>.</cite></span>
+</li>
+<li id="cite&#95;note-16"><span class="mw-cite-backlink"><a href="#cite_ref-16">↑</a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://archive.ph/20140311071440/http://www.gamerankings.com/ps3/693331-dark-souls-ii/index.html">Dark Souls II for PlayStation 3</a>.&#32;GameRankings.&#32;[dostęp 2016-04-29].</cite></span>
+</li>
+<li id="cite&#95;note-17"><span class="mw-cite-backlink"><a href="#cite_ref-17">↑</a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://archive.ph/20140311071355/http://www.gamerankings.com/xbox360/693332-dark-souls-ii/index.html">Dark Souls II for Xbox 360</a>.&#32;GameRankings.&#32;[dostęp 2016-04-29].</cite></span>
+</li>
+<li id="cite&#95;note-18"><span class="mw-cite-backlink"><a href="#cite_ref-18">↑</a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://archive.ph/20140425020316/http://www.gamerankings.com/pc/693333-dark-souls-ii/index.html">Dark Souls II for PC</a>.&#32;GameRankings.&#32;[dostęp 2016-04-29].</cite></span>
+</li>
+<li id="cite&#95;note-19"><span class="mw-cite-backlink"><a href="#cite_ref-19">↑</a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.metacritic.com/game/playstation-3/dark-souls-ii">Dark Souls II for PlayStation 3 Reviews</a>.&#32;Metacritic.&#32;[dostęp 2016-04-29].</cite></span>
+</li>
+<li id="cite&#95;note-20"><span class="mw-cite-backlink"><a href="#cite_ref-20">↑</a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.metacritic.com/game/xbox-360/dark-souls-ii">Dark Souls II for Xbox 360 Reviews</a>.&#32;Metacritic.&#32;[dostęp 2016-04-29].</cite></span>
+</li>
+<li id="cite&#95;note-21"><span class="mw-cite-backlink"><a href="#cite_ref-21">↑</a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.metacritic.com/game/pc/dark-souls-ii">Dark Souls II for PC Reviews</a>.&#32;Metacritic.&#32;[dostęp 2016-04-29].</cite></span>
+</li>
+<li id="cite&#95;note-22"><span class="mw-cite-backlink"><a href="#cite_ref-22">↑</a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://archive.ph/20160429131244/http://www.gamerankings.com/ps4/168566-dark-souls-iii/index.html">Dark Souls III for PlayStation 4</a>.&#32;GameRankings.&#32;[dostęp 2016-04-29].</cite></span>
+</li>
+<li id="cite&#95;note-23"><span class="mw-cite-backlink"><a href="#cite_ref-23">↑</a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://archive.ph/20160429131244/http://www.gamerankings.com/xboxone/168545-dark-souls-iii/index.html">Dark Souls III for Xbox ONE</a>.&#32;GameRankings.&#32;[dostęp 2016-04-29].</cite></span>
+</li>
+<li id="cite&#95;note-24"><span class="mw-cite-backlink"><a href="#cite_ref-24">↑</a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://archive.ph/20160429131244/http://www.gamerankings.com/pc/168567-dark-souls-iii/index.html">Dark Souls III for PC</a>.&#32;GameRankings.&#32;[dostęp 2016-04-29].</cite></span>
+</li>
+<li id="cite&#95;note-25"><span class="mw-cite-backlink"><a href="#cite_ref-25">↑</a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.metacritic.com/game/playstation-4/dark-souls-iii">Dark Souls III for PlayStation 4 Reviews</a>.&#32;Metacritic.&#32;[dostęp 2016-04-29].</cite></span>
+</li>
+<li id="cite&#95;note-26"><span class="mw-cite-backlink"><a href="#cite_ref-26">↑</a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.metacritic.com/game/xbox-one/dark-souls-iii">Dark Souls II for Xbox ONE Reviews</a>.&#32;Metacritic.&#32;[dostęp 2016-04-29].</cite></span>
+</li>
+<li id="cite&#95;note-27"><span class="mw-cite-backlink"><a href="#cite_ref-27">↑</a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.metacritic.com/game/pc/dark-souls-iii">Dark Souls III for PC Reviews</a>.&#32;Metacritic.&#32;[dostęp 2016-04-29].</cite></span>
+</li>
+</ol></div>
+<div class="navbox do-not-make-smaller mw-collapsible mw-collapsed" data-expandtext="pokaż" data-collapsetext="ukryj"><style data-mw-deduplicate="TemplateStyles:r79217446">.mw-parser-output .navbox{border:1px solid var(--border-color-base,#a2a9b1);margin:auto;text-align:center;padding:3px;margin-top:1em;clear:both;background-color:var(--background-color-base);color:var(--color-base)}.mw-parser-output table.navbox:not(.pionowy){width:100%}.mw-parser-output .navbox+.navbox{border-top:0;margin-top:0}.mw-parser-output .navbox.pionowy{width:260px;float:right;clear:right;margin:0 0 0.4em 1.4em}.mw-parser-output .navbox.pionowy .before,.mw-parser-output .navbox.pionowy .after{padding:0.5em 0;text-align:center}.mw-parser-output .navbox>.caption,.mw-parser-output .navbox>tbody>tr>th{background:#ccf;text-align:center;font-weight:bold}.mw-parser-output .navbox .tnavbar{font-weight:normal;font-size:xx-small;white-space:nowrap;padding:0}.mw-parser-output .navbox>.tnavbar{margin-left:1em;float:left}.mw-parser-output .navbox .below>hr+.tnavbar{margin-left:auto;margin-right:auto}.mw-parser-output .navbox .below>.tnavbar:before{content:"Ten szablon: "}.mw-parser-output .navbox .tnavbar li:after{content:" · "}.mw-parser-output .navbox .tnavbar li:last-child:after{content:none}.mw-parser-output .navbox hr{margin:0.2em 1em}.mw-parser-output .navbox .title{background:#ddf;text-align:center;font-weight:bold}.mw-parser-output .navbox>.mw-collapsible-content:not(.grupa-szablonów-nawigacyjnych){margin-top:2px;padding:0;font-size:smaller;overflow:auto}.mw-parser-output .navbox .above+div,.mw-parser-output .navbox .above+.navbox-main-content,.mw-parser-output .navbox .below,.mw-parser-output .navbox .title+.grid{margin-top:2px}.mw-parser-output .navbox>.mw-collapsible-content>.above,.mw-parser-output .navbox>.mw-collapsible-content>.below{background:#ddf;text-align:center;margin-left:auto;margin-right:auto}.mw-parser-output .navbox:not(.pionowy) .flex{display:flex;flex-direction:row}.mw-parser-output .navbox .flex>.before,.mw-parser-output .navbox .flex>.after{align-self:center;text-align:center}.mw-parser-output .navbox .flex>.navbox-main-content{flex-grow:1}.mw-parser-output .navbox:not(.pionowy) .before{margin-right:0.5em}.mw-parser-output .navbox:not(.pionowy) .after{margin-left:0.5em}.mw-parser-output .navbox .inner-columns,.mw-parser-output .navbox .inner-group,.mw-parser-output .navbox .inner-standard{border-spacing:0;border-collapse:collapse;width:100%}.mw-parser-output .navbox .inner-standard>tbody>tr>.opis{text-align:right;vertical-align:middle}.mw-parser-output .navbox .inner-standard>tbody>tr>.opis+.spis{border-left:2px solid var(--background-color-base,#fff);text-align:left}.mw-parser-output .navbox .inner-standard>tbody>tr>td{padding:0;width:100%}.mw-parser-output .navbox .inner-standard>tbody>tr>td:first-child{text-align:center}.mw-parser-output .navbox .inner-standard .inner-standard>tbody>tr>td{text-align:left}.mw-parser-output .navbox .inner-standard>tbody>tr>.navbox-odd,.mw-parser-output .navbox .inner-standard>tbody>tr>.navbox-even{padding:0 0.3em}.mw-parser-output .navbox .inner-standard>tbody>tr+tr>th,.mw-parser-output .navbox .inner-standard>tbody>tr+tr>td{border-top:2px solid var(--background-color-base,#fff)}.mw-parser-output .navbox .inner-standard>tbody>tr>th+td{border-left:2px solid var(--background-color-base,#fff)}.mw-parser-output .navbox .inner-columns{table-layout:fixed}.mw-parser-output .navbox .inner-columns>tbody>tr>th,.mw-parser-output .navbox .inner-columns>tbody>tr>td{padding:0;border-left:2px solid var(--background-color-base,#fff);border-right:2px solid var(--background-color-base,#fff)}.mw-parser-output .navbox .inner-columns>tbody>tr>td{vertical-align:top}.mw-parser-output .navbox .inner-columns>tbody>tr+tr>td{border-top:2px solid var(--background-color-base,#fff)}.mw-parser-output .navbox .inner-columns>tbody>tr>th:first-child,.mw-parser-output .navbox .inner-columns>tbody>tr>td:first-child{border-left:0}.mw-parser-output .navbox .inner-columns>tbody>tr>th:last-child,.mw-parser-output .navbox .inner-columns>tbody>tr>td:last-child{border-right:0}.mw-parser-output .navbox .inner-columns>tbody>tr>td>ul,.mw-parser-output .navbox .inner-columns>tbody>tr>td>ol,.mw-parser-output .navbox .inner-columns>tbody>tr>td>dl{text-align:left;column-width:24em}.mw-parser-output .navbox .inner-group>div+div,.mw-parser-output .navbox .inner-group>div>div+div,.mw-parser-output .navbox .inner-group>div>div+table{margin-top:2px}.mw-parser-output .navbox .inner-group>div>.opis,.mw-parser-output .navbox .inner-group>div>.spis{padding:0.1em 1em;text-align:center}.mw-parser-output .navbox>.mw-collapsible-toggle,.mw-parser-output .navbox .inner-group>div.mw-collapsible>.mw-collapsible-toggle{width:4em;text-align:right;margin-right:0.4em}.mw-parser-output .navbox>.fakebar,.mw-parser-output .navbox .inner-group>div.mw-collapsible>.fakebar{float:left;width:4em;height:1em}.mw-parser-output .navbox .opis{background:#ddf;padding:0 1em;white-space:nowrap;font-weight:bold}.mw-parser-output .navbox.pionowy .opis{white-space:normal}.mw-parser-output .navbox.pionowy .navbox-before{background-color:#eee3}.mw-parser-output .navbox.pionowy .navbox-even,.mw-parser-output .navbox:not(.pionowy) .navbox-odd{background-color:#eee3}.mw-parser-output .navbox.pionowy .mw-collapsible-content,.mw-parser-output .navbox.pionowy .navbox-odd,.mw-parser-output .navbox:not(.pionowy) .navbox-even{background:var(--background-color-neutral-subtle,#f8f9fa)}.mw-parser-output .navbox .inner-group>div>div+div{background-color:#eee3}.mw-parser-output .navbox p{margin:0;padding:0.3em 0}.mw-parser-output .navbox.medaliści .opis.a1,.mw-parser-output .navbox.medaliści .a1 .opis{background:gold}.mw-parser-output .navbox.medaliści .opis.a2,.mw-parser-output .navbox.medaliści .a2 .opis{background:silver}.mw-parser-output .navbox.medaliści .opis.a3,.mw-parser-output .navbox.medaliści .a3 .opis{background:#c96}.mw-parser-output .navbox .navbox-main-content>ul,.mw-parser-output .navbox .navbox-main-content>dl,.mw-parser-output .navbox .navbox-main-content>ol{column-width:24em;text-align:left}.mw-parser-output .navbox ul{list-style:none}.mw-parser-output .navbox .references{background-color:#eee3}.mw-parser-output .navbox .hwrap .hlist dd,.mw-parser-output .navbox .hwrap .hlist dt,.mw-parser-output .navbox .hwrap .hlist li{white-space:normal}.mw-parser-output .navbox .rok{display:inline-block;width:4em;padding-right:0.5em;text-align:right}.mw-parser-output .navbox .navbox-statistics{margin-top:2px;border-top:1px solid var(--border-color-base,#a2a9b1);text-align:center;font-size:small}.mw-parser-output .navbox-summary>.title{font-weight:bold;font-size:larger}.mw-parser-output .navbox:not(.grupa-szablonów) .navbox{margin:0;border:0;padding:0}.mw-parser-output .navbox.grupa-szablonów>.grupa-szablonów-nawigacyjnych>.navbox:first-child{margin-top:2px}@media(max-width:800px){.mw-parser-output .navbox:not(.pionowy) .flex>.before,.mw-parser-output .navbox:not(.pionowy) .flex>.after{display:none}.mw-parser-output .navbox:not(.pionowy) table,.mw-parser-output .navbox:not(.pionowy) tbody{display:block;overflow:visible;width:100%;box-sizing:border-box}.mw-parser-output .navbox:not(.pionowy) .inner-standard tbody tr{display:flex;flex-direction:column}.mw-parser-output .navbox:not(.pionowy) .inner-standard tbody tr .opis{text-align:left}.mw-parser-output .navbox:not(.pionowy) table{margin:0;padding:0}.mw-parser-output .navbox:not(.pionowy) table table{margin:0;padding:0;border:0 none #000;padding-left:2em;width:100%}}@media screen and (max-width:639px){.mw-parser-output .navbox.pionowy{width:100%;margin:0;float:none;box-sizing:border-box;font-size:1rem}.mw-parser-output .navbox.pionowy *{box-sizing:border-box}.mw-parser-output .navbox.pionowy table,.mw-parser-output .navbox.pionowy tbody{display:block;overflow:visible;width:100%}.mw-parser-output .navbox.pionowy .inner-standard tbody tr{display:flex;flex-direction:column}}.mw-parser-output .navbox .opis img,.mw-parser-output .navbox .opis .flagicon,.mw-parser-output .navbox>.caption>.flagicon,.mw-parser-output .navbox>.caption>.image{display:none}@media screen{html.skin-theme-clientpref-night .mw-parser-output .navbox>.caption,html.skin-theme-clientpref-night .mw-parser-output .navbox>tbody>tr>th{background-color:#3a3c3e}html.skin-theme-clientpref-night .mw-parser-output .navbox .title,html.skin-theme-clientpref-night .mw-parser-output .navbox>.mw-collapsible-content>.above,html.skin-theme-clientpref-night .mw-parser-output .navbox>.mw-collapsible-content>.below,html.skin-theme-clientpref-night .mw-parser-output .navbox .opis{background-color:#303234}html.skin-theme-clientpref-night .mw-parser-output .navbox.medaliści .opis.a1,html.skin-theme-clientpref-night .mw-parser-output .navbox.medaliści .a1 .opis{background:#715f00}html.skin-theme-clientpref-night .mw-parser-output .navbox.medaliści .opis.a2,html.skin-theme-clientpref-night .mw-parser-output .navbox.medaliści .a2 .opis{background:#5f5f5f}html.skin-theme-clientpref-night .mw-parser-output .navbox.medaliści .opis.a3,html.skin-theme-clientpref-night .mw-parser-output .navbox.medaliści .a3 .opis{background:#764617}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .navbox>.caption,html.skin-theme-clientpref-os .mw-parser-output .navbox>tbody>tr>th{background-color:#3a3c3e}html.skin-theme-clientpref-os .mw-parser-output .navbox .title,html.skin-theme-clientpref-os .mw-parser-output .navbox>.mw-collapsible-content>.above,html.skin-theme-clientpref-os .mw-parser-output .navbox>.mw-collapsible-content>.below,html.skin-theme-clientpref-os .mw-parser-output .navbox .opis{background-color:#303234}html.skin-theme-clientpref-os .mw-parser-output .navbox.medaliści .opis.a1,html.skin-theme-clientpref-os .mw-parser-output .navbox.medaliści .a1 .opis{background:#715f00}html.skin-theme-clientpref-os .mw-parser-output .navbox.medaliści .opis.a2,html.skin-theme-clientpref-os .mw-parser-output .navbox.medaliści .a2 .opis{background:#5f5f5f}html.skin-theme-clientpref-os .mw-parser-output .navbox.medaliści .opis.a3,html.skin-theme-clientpref-os .mw-parser-output .navbox.medaliści .a3 .opis{background:#764617}}</style><ul class="tnavbar noprint plainlinks hlist"><li><a href="/wiki/Szablon:Dark_Souls" title="Szablon:Dark Souls"><span title="Pokaż ten szablon">p</span></a></li><li><a href="/w/index.php?title=Dyskusja_szablonu:Dark_Souls&amp;action=edit&amp;redlink=1" class="new" title="Dyskusja szablonu:Dark Souls (strona nie istnieje)"><span title="Dyskusja na temat tego szablonu">d</span></a></li><li title="Możesz edytować ten szablon. Użyj przycisku podglądu przed zapisaniem zmian."><a class="external text" href="https://pl.wikipedia.org/w/index.php?title=Szablon:Dark_Souls&amp;action=edit">e</a></li></ul><div class="navbox-title caption">Seria gier Dark Souls</div><div class="mw-collapsible-content"><table class="navbox-main-content inner-standard"><tbody><tr class="a1"><th class="navbox-group opis" scope="row">Trylogia</th><td class="navbox-list spis hlist navbox-odd">
+<ul><li><i><a href="/wiki/Dark_Souls" title="Dark Souls">Dark Souls</a></i></li>
+<li><i><a href="/wiki/Dark_Souls_II" title="Dark Souls II">Dark Souls II</a></i></li>
+<li><i><a href="/wiki/Dark_Souls_III" title="Dark Souls III">Dark Souls III</a></i></li></ul>
+</td></tr><tr class="a2"><th class="navbox-group opis" scope="row">Osoby</th><td class="navbox-list spis hlist navbox-even">
+<ul><li><a href="/wiki/Hidetaka_Miyazaki" title="Hidetaka Miyazaki">Hidetaka Miyazaki</a></li>
+<li><a href="/w/index.php?title=Motoi_Sakuraba&amp;action=edit&amp;redlink=1" class="new" title="Motoi Sakuraba (strona nie istnieje)">Motoi Sakuraba</a></li></ul>
+</td></tr><tr class="a3"><th class="navbox-group opis" scope="row">Powiązane</th><td class="navbox-list spis hlist navbox-odd">
+<ul><li><i><a href="/wiki/Demon%E2%80%99s_Souls" title="Demon’s Souls">Demon’s Souls</a></i>
+<ul><li><a href="/w/index.php?title=Demon%27s_Souls_(2020)&amp;action=edit&amp;redlink=1" class="new" title="Demon&#39;s Souls (2020) (strona nie istnieje)">remake</a></li></ul></li>
+<li><i><a href="/wiki/Bloodborne" title="Bloodborne">Bloodborne</a></i></li>
+<li><i><a href="/wiki/Sekiro:_Shadows_Die_Twice" title="Sekiro: Shadows Die Twice">Sekiro: Shadows Die Twice</a></i></li>
+<li><i><a href="/wiki/Elden_Ring" title="Elden Ring">Elden Ring</a></i></li></ul>
+</td></tr></tbody></table></div></div>
+<style data-mw-deduplicate="TemplateStyles:r75562624">.mw-parser-output #normdaten>div+div{margin-top:0.5em}.mw-parser-output #normdaten>div>div{background:var(--background-color-neutral,#eaecf0);padding:.2em .5em}.mw-parser-output #normdaten ul{margin:0;padding:0}.mw-parser-output #normdaten ul li:first-child{padding-left:.5em;border-left:1px solid var(--border-color-base,#a2a9b1)}</style>
+<div id="normdaten" class="catlinks"><div class="normdaten-typ-w"><div><a href="/wiki/Encyklopedia_internetowa" title="Encyklopedia internetowa">Encyklopedie internetowe</a>&#160;(<span class="description">seria gier komputerowych</span>):</div>
+<ul><li><a href="/wiki/Store_norske_leksikon" title="Store norske leksikon">SNL</a>:&#8201;<span class="uid"><a class="external text" href="https://wikidata-externalid-url.toolforge.org/?p=4342&amp;url_prefix=https://snl.no/&amp;id=Dark_Souls">Dark_Souls</a></span></li></ul>
+</div></div>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.eqiad.main‐669b665b99‐6lskd
+Cached time: 20260401062324
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [prevent‐selective‐update]
+CPU time usage: 0.539 seconds
+Real time usage: 0.647 seconds
+Preprocessor visited node count: 7700/1000000
+Revision size: 9418/2097152 bytes
+Post‐expand include size: 51419/2097152 bytes
+Template argument size: 15727/2097152 bytes
+Highest expansion depth: 10/100
+Expensive parser function count: 0/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 30669/5000000 bytes
+Lua time usage: 0.345/10.000 seconds
+Lua memory usage: 4215569/52428800 bytes
+Number of Wikibase entities loaded: 2/500
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  612.917      1 -total
+ 35.01%  214.598     24 Szablon:Cytuj_stronę
+ 21.28%  130.418      1 Szablon:Dark_Souls
+ 20.74%  127.092      1 Szablon:Szablon_nawigacyjny
+ 19.79%  121.315      1 Szablon:Kontrola_autorytatywna
+ 10.18%   62.409      1 Szablon:Seria_gier_infobox
+  6.77%   41.478      3 Szablon:Cytuj
+  5.74%   35.181      1 Szablon:Infobox_tytuł
+  4.44%   27.201     24 Szablon:Lang
+  3.57%   21.900      1 Szablon:Recenzje_serii_gier
+-->
+
+<!-- Saved in parser cache with key plwiki:stable-pcache:3689534:|#|:idhash:canonical and timestamp 20260401062324 and revision id 79281678. Rendering was triggered because: unknown
+ -->
+</div><noscript><img src="https://pl.wikipedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&amp;type=1x1&amp;usesul3=1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">Źródło: „<a dir="ltr" href="https://pl.wikipedia.org/w/index.php?title=Dark_Souls_(seria)&amp;oldid=79281678">https://pl.wikipedia.org/w/index.php?title=Dark_Souls_(seria)&amp;oldid=79281678</a>”</div></div>
+					<div id="catlinks" class="catlinks" data-mw-interface=""><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Specjalna:Kategorie" title="Specjalna:Kategorie">Kategorie</a>: <ul><li><a href="/wiki/Kategoria:Serie_gier_komputerowych" title="Kategoria:Serie gier komputerowych">Serie gier komputerowych</a></li><li><a href="/wiki/Kategoria:Fabularne_gry_akcji" title="Kategoria:Fabularne gry akcji">Fabularne gry akcji</a></li><li><a href="/wiki/Kategoria:Gry_komputerowe_wyprodukowane_w_Japonii" title="Kategoria:Gry komputerowe wyprodukowane w Japonii">Gry komputerowe wyprodukowane w Japonii</a></li><li><a href="/wiki/Kategoria:Gry_z_serii_Souls" title="Kategoria:Gry z serii Souls">Gry z serii Souls</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> Tę stronę ostatnio edytowano 10 mar 2026, 21:44.</li>
+	<li id="footer-info-copyright">Tekst udostępniany na licencji <a rel="nofollow" class="external text" href="https://creativecommons.org/licenses/by-sa/4.0/deed.pl">Creative Commons: uznanie autorstwa, na tych samych warunkach</a>, z możliwością obowiązywania dodatkowych ograniczeń.
+Zobacz szczegółowe informacje o <a class="external text" href="https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/pl">warunkach korzystania</a>.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">Polityka prywatności</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:O_Wikipedii">O Wikipedii</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:Korzystasz_z_Wikipedii_tylko_na_w%C5%82asn%C4%85_odpowiedzialno%C5%9B%C4%87">Korzystasz z Wikipedii tylko na własną odpowiedzialność</a></li>
+	<li id="footer-places-legal-safety-contacts"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Wikimedia_Foundation_Legal_and_Safety_Contact_Information">Kontakty prawne i dotyczące bezpieczeństwa</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">Powszechne Zasady Postępowania</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Dla deweloperów</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/pl.wikipedia.org">Statystyki</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Oświadczenie o ciasteczkach</a></li>
+	<li id="footer-places-mobileview"><a href="//pl.wikipedia.org/w/index.php?title=Dark_Souls_(seria)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Wersja mobilna</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://www.wikimedia.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/static/images/footer/wikimedia-button.svg" width="84" height="29"><img src="/static/images/footer/wikimedia.svg" width="25" height="25" alt="Wikimedia Foundation" lang="en" loading="lazy"></picture></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/w/resources/assets/poweredby_mediawiki.svg" width="88" height="31"><img src="/w/resources/assets/mediawiki_compact.svg" alt="Powered by MediaWiki" lang="en" width="25" height="25" loading="lazy"></picture></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-header-container vector-sticky-header-container no-font-mode-scale">
+	<div id="vector-sticky-header" class="vector-sticky-header">
+		<div class="vector-sticky-header-start">
+			<div class="vector-sticky-header-icon-start vector-button-flush-left" aria-hidden="true">
+				<button class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-sticky-header-search-toggle" tabindex="-1" data-event-name="ui.vector-sticky-search-form.icon"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Szukaj</span>
+			</button>
+		</div>
+			
+		<div role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box">
+			<div class="vector-typeahead-search-container">
+				<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail">
+					<form action="/w/index.php" id="vector-sticky-search-form" class="cdx-search-input cdx-search-input--has-end-button">
+						<div  class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+							<div class="cdx-text-input cdx-text-input--has-start-icon">
+								<input
+									class="cdx-text-input__input mw-searchInput" autocomplete="off"
+									
+									type="search" name="search" placeholder="Przeszukaj Wikipedię">
+								<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+							</div>
+							<input type="hidden" name="title" value="Specjalna:Szukaj">
+						</div>
+						<button class="cdx-button cdx-search-input__end-button">Szukaj</button>
+					</form>
+				</div>
+			</div>
+		</div>
+		<div class="vector-sticky-header-context-bar">
+				<nav aria-label="Spis treści" class="vector-toc-landmark">
+						
+					<div id="vector-sticky-header-toc" class="vector-dropdown mw-portlet mw-portlet-sticky-header-toc vector-sticky-header-toc vector-button-flush-left"  >
+						<input type="checkbox" id="vector-sticky-header-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-sticky-header-toc" class="vector-dropdown-checkbox "  aria-label="Przełącz stan spisu treści"  >
+						<label id="vector-sticky-header-toc-label" for="vector-sticky-header-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Przełącz stan spisu treści</span>
+						</label>
+						<div class="vector-dropdown-content">
+					
+						<div id="vector-sticky-header-toc-unpinned-container" class="vector-unpinned-container">
+						</div>
+					
+						</div>
+					</div>
+			</nav>
+				<div class="vector-sticky-header-context-bar-primary" aria-hidden="true" ><span class="mw-page-title-main">Dark Souls (seria)</span></div>
+			</div>
+		</div>
+		<div class="vector-sticky-header-end" aria-hidden="true">
+			<div class="vector-sticky-header-icons">
+				<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-talk-sticky-header" tabindex="-1" data-event-name="talk-sticky-header"><span class="vector-icon mw-ui-icon-speechBubbles mw-ui-icon-wikimedia-speechBubbles"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-subject-sticky-header" tabindex="-1" data-event-name="subject-sticky-header"><span class="vector-icon mw-ui-icon-article mw-ui-icon-wikimedia-article"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-history-sticky-header" tabindex="-1" data-event-name="history-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-history mw-ui-icon-wikimedia-wikimedia-history"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only mw-watchlink" id="ca-watchstar-sticky-header" tabindex="-1" data-event-name="watch-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-star mw-ui-icon-wikimedia-wikimedia-star"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-ve-edit-sticky-header" tabindex="-1" data-event-name="ve-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-edit mw-ui-icon-wikimedia-wikimedia-edit"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-edit-sticky-header" tabindex="-1" data-event-name="wikitext-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-wikiText mw-ui-icon-wikimedia-wikimedia-wikiText"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-viewsource-sticky-header" tabindex="-1" data-event-name="ve-edit-protected-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-editLock mw-ui-icon-wikimedia-wikimedia-editLock"></span>
+
+<span></span>
+			</a>
+		</div>
+			<div class="vector-sticky-header-buttons">
+				<button class="cdx-button cdx-button--weight-quiet mw-interlanguage-selector" id="p-lang-btn-sticky-header" tabindex="-1" data-event-name="ui.dropdown-p-lang-btn-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-language mw-ui-icon-wikimedia-wikimedia-language"></span>
+
+<span>13 języków</span>
+			</button>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive" id="ca-addsection-sticky-header" tabindex="-1" data-event-name="addsection-sticky-header"><span class="vector-icon mw-ui-icon-speechBubbleAdd-progressive mw-ui-icon-wikimedia-speechBubbleAdd-progressive"></span>
+
+<span>Dodaj temat</span>
+			</a>
+		</div>
+			<div class="vector-sticky-header-icon-end">
+				<div class="vector-user-links">
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="mw-portlet mw-portlet-dock-bottom emptyPortlet" id="p-dock-bottom">
+	<ul>
+		
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-69bcbf655-zhd7z","wgBackendResponseTime":109,"wgPageParseReport":{"limitreport":{"cputime":"0.539","walltime":"0.647","ppvisitednodes":{"value":7700,"limit":1000000},"revisionsize":{"value":9418,"limit":2097152},"postexpandincludesize":{"value":51419,"limit":2097152},"templateargumentsize":{"value":15727,"limit":2097152},"expansiondepth":{"value":10,"limit":100},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":30669,"limit":5000000},"entityaccesscount":{"value":2,"limit":500},"timingprofile":["100.00%  612.917      1 -total"," 35.01%  214.598     24 Szablon:Cytuj_stronę"," 21.28%  130.418      1 Szablon:Dark_Souls"," 20.74%  127.092      1 Szablon:Szablon_nawigacyjny"," 19.79%  121.315      1 Szablon:Kontrola_autorytatywna"," 10.18%   62.409      1 Szablon:Seria_gier_infobox","  6.77%   41.478      3 Szablon:Cytuj","  5.74%   35.181      1 Szablon:Infobox_tytuł","  4.44%   27.201     24 Szablon:Lang","  3.57%   21.900      1 Szablon:Recenzje_serii_gier"]},"scribunto":{"limitreport-timeusage":{"value":"0.345","limit":"10.000"},"limitreport-memusage":{"value":4215569,"limit":52428800},"limitreport-logs":"required = table#1 {\n}\nrequired = table#1 {\n}\next = nil\next = false\next = nil\nrequired = table#1 {\n}\next = nil\next = false\next = nil\nrequired = table#1 {\n}\nrequired = table#1 {\n}\nrequired = table#1 {\n}\nrequired = table#1 {\n}\next = nil\next = false\next = nil\nrequired = table#1 {\n}\nrequired = table#1 {\n}\nrequired = table#1 {\n}\nrequired = table#1 {\n}\nrequired = table#1 {\n}\nrequired = table#1 {\n}\nrequired = table#1 {\n}\nrequired = table#1 {\n}\nrequired = table#1 {\n}\nrequired = table#1 {\n}\nrequired = table#1 {\n}\nrequired = table#1 {\n}\nrequired = table#1 {\n}\nrequired = table#1 {\n}\nrequired = table#1 {\n}\nrequired = table#1 {\n}\nrequired = table#1 {\n}\nrequired = table#1 {\n}\nrequired = table#1 {\n}\nrequired = table#1 {\n}\nrequired = table#1 {\n}\n\n== Szablon:Szablon nawigacyjny ==\n\nrequired = table#1 {\n}\n"},"cachereport":{"origin":"mw-web.eqiad.main-669b665b99-6lskd","timestamp":"20260401062324","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Dark Souls (seria)","url":"https:\/\/pl.wikipedia.org\/wiki\/Dark_Souls_(seria)","sameAs":"http:\/\/www.wikidata.org\/entity\/Q99431276","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q99431276","author":{"@type":"Organization","name":"Wsp\u00f3\u0142tw\u00f3rcy projekt\u00f3w Fundacji Wikimedia"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2016-04-29T14:58:10Z"}</script>
+</body>
+</html>

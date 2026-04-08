@@ -1,0 +1,1010 @@
+<!DOCTYPE html>
+<html class="client-nojs skin-theme-clientpref-thumb-standard" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Make your donation now - Wikimedia Foundation</title>
+<script>(function(){var className="client-js skin-theme-clientpref-thumb-standard";var cookie=document.cookie.match(/(?:^|; )donatewikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":true,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"6cd5189f-c313-4c95-b097-bfddbf8ccba1","wgCanonicalNamespace":"Special","wgCanonicalSpecialPageName":"FundraiserLandingPage","wgNamespaceNumber":-1,"wgPageName":"Special:LandingPage","wgTitle":"LandingPage","wgCurRevisionId":0,"wgRevisionId":0,"wgArticleId":0,"wgIsArticle":false,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Special:LandingPage","wgRelevantArticleId":0,"wgTempUserName":null,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgEditSubmitButtonLabelPublish":true,"wgVisualEditorPageIsDisambiguation":false,"wgULSPosition":"personal","wgULSisCompactLinksEnabled":true,"wgVector2022LanguageInHeader":false,"wgULSisLanguageSelectorEmpty":true,"wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"wgTestKitchenUserExperiments":{"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[]}};
+RLSTATE={"site.styles":"ready","user.styles":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.pt":"ready"};RLPAGEMODULES=["ext.parsermigration.survey","site","mediawiki.page.ready","skins.vector.legacy.js","ext.fundraiserLandingPage.LogPageview","ext.urlShortener.toolbar","ext.visualEditor.desktopArticleTarget.init","ext.eventLogging","ext.uls.compactlinks","ext.uls.interface","ext.checkUser.clientHints","ext.testKitchen"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.uls.pt%7Cext.visualEditor.desktopArticleTarget.noscript%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector">
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector">
+<meta name="generator" content="MediaWiki 1.46.0-wmf.22">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="index,nofollow,max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta name="description" content="Donate to the Wikimedia Foundation, the nonprofit that hosts Wikipedia and other crucial free knowledge projects. Each year, the generosity of the 2% of readers who donate allows us to expand the reach of Wikipedia and our other projects. Our goal is to ensure knowledge remains freely available for generations to come and for that, we need your support.">
+<meta name="viewport" content="width=1120">
+<meta property="og:title" content="Make your donation now - Wikimedia Foundation">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="icon" href="/static/favicon/wmf.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/rest.php/v1/search" title="Donate (en)">
+<link rel="EditURI" type="application/rsd+xml" href="//donate.wikimedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://donate.wikimedia.org/w/index.php?country=RU&amp;title=Special:LandingPage&amp;uselang=en&amp;wmf_campaign=en.wikipedia.org&amp;wmf_medium=sidebar&amp;wmf_source=donate">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">
+<link rel="alternate" type="application/atom+xml" title="Donate Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom">
+<link rel="dns-prefetch" href="https://payments.wikimedia.org" />
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns--1 ns-special mw-special-FundraiserLandingPage page-Special_LandingPage rootpage-Special_LandingPage skin-vector action-view">
+<div id="mw-aria-live-region" class="mw-aria-live-region" aria-live="polite"></div><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"></div>
+	<div class="mw-indicators">
+	</div>
+	<h1 id="firstHeading" class="firstHeading mw-first-heading">Make your donation now</h1>
+	<div id="bodyContent" class="vector-body">
+		
+		<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><meta name="viewport" content="width=device-width, initial-scale=1" /><div class="mw-parser-output">
+<style data-mw-deduplicate="TemplateStyles:r41311">.mw-parser-output hr{margin:2em 0}@media(min-width:981px){.mw-parser-output hr{display:none}.mw-parser-output .col-2{box-sizing:border-box;width:50%;float:left;padding:0 2em}}.mw-parser-output .country-nope{max-width:948px;margin:0 auto;font-size:1rem}.mw-parser-output .country-nope a{color:#36c!important;background:none!important;padding:0!important}</style>
+<div class="country-nope col-2" lang="ru">
+<p>Благодарим вас за ваш интерес к поддержке Фонда Викимедиа. К сожалению, в настоящий момент мы не можем принимать пожертвования из России. Мы ценим вашу поддержку, ибо наша цель – нести знания в каждый уголок мира.
+</p><p>Но сам факт, что вы не можете внести финансовый вклад, не означает невозможности участия в нашей миссии, которая заключается в предоставлении свободного доступа ко всем накопленным знаниям каждому.
+</p>
+<ul><li>У вас есть возможность редактирования и написания статей в Википедии - не только на русском языке, но и на любом другом языке, которым вы владеете. Вы можете узнать подробно о создании учетной записи на сайте Википедии <a class="external text" href="https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5">здесь</a>. Для получения более подробной информации ознакомьтесь со страницей «<a class="external text" href="https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5">Введение в Википедию</a>».</li>
+<li>Вы можете добавлять фотографии и другие материалы на <a class="external text" href="https://commons.wikimedia.org/?uselang=ru">Викисклад</a> - место, где мы размещаем все изображения и другие медиафайлы, которые появляются в Википедии.</li>
+<li>Конкурсы фотографии, такие как «Вики любит Землю» и «Вики любит памятники», привлекают участников со всего мира. В последние годы российские энтузиасты Википедии предоставили много удостоенных наград фотографий, таких как <a class="external text" href="https://commons.wikimedia.org/wiki/Commons:Wiki_Loves_Earth_2020/Winners#/media/File:%D0%9B%D0%B8%D1%81%D0%B0-%D0%BE%D0%B3%D0%BD%D0%B5%D0%B2%D0%BA%D0%B0_%D0%BD%D0%B0_%D1%84%D0%BE%D0%BD%D0%B5_%D0%92%D0%B8%D0%BB%D1%8E%D1%87%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%B2%D1%83%D0%BB%D0%BA%D0%B0%D0%BD%D0%B0.jpg">эта</a> из конкурса «Вики любит Землю - 2020» или <a class="external text" href="https://commons.wikimedia.org/wiki/File:%D0%A6%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C_%D0%9F%D0%B0%D1%80%D0%B0%D1%81%D0%BA%D0%B5%D0%B2%D1%8B_%D0%9F%D1%8F%D1%82%D0%BD%D0%B8%D1%86%D1%8B_-_1.jpg">эта</a> из конкурса «Вики любит памятники - 2018».</li>
+<li>Если у вас остались какие-либо дополнительные вопросы касательно Википедии или ее редактирования, пожалуйста, отправляйте их на адрес <span style="white-space: nowrap;">info-ru<span class="nowrap"><span typeof="mw:File"><span title="@"><img alt="@" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/20px-At_sign.svg.png?utm_source=donate.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" decoding="async" width="15" height="15" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/40px-At_sign.svg.png?utm_source=donate.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x" data-file-width="145" data-file-height="145" /></span></span></span>wikimedia.org</span>.</li></ul>
+<p>Мы благодарим вас за ваше стремление и любовь к познанию от имени всех сотрудников Фонда Викимедиа, которые верят в то, что знания должны распространяться без границ.
+</p><p>Фонд Викимедиа
+</p>
+</div>
+<hr />
+<div class="country-nope col-2" lang="en">
+<p>Thank you for your interest in supporting the Wikimedia Foundation. Unfortunately, it is not possible for us to accept donations from Russia at this time. We appreciate your support, because our goal is to bring knowledge to every corner of the globe. 
+</p><p>But you are still able to be involved in our mission to make the sum of knowledge free for everyone:
+</p>
+<ul><li>You have the option of editing and writing articles on Wikipedia--not just in Russian, but in any language you speak. You can learn more about creating a Wikipedia account <a class="external text" href="https://ru.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A0%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F">here</a>. For more information, please see the <a class="external text" href="https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5">introduction to Wikipedia</a> page.</li>
+<li>You can submit photos and other media to <a class="external text" href="https://commons.wikimedia.org/?uselang=ru">Wikimedia Commons</a>, where we host all of the images and other media files which appear on Wikipedia.</li>
+<li>Russian residents can take part in numerous all-Russia or international <a class="external text" href="https://ru.wikimedia.org/wiki/%D0%9A%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D1%81%D1%8B">photo and article writing contests</a>. For example, in recent years, Russian Wikipedians have submitted many award-winning images like <a class="external text" href="https://commons.wikimedia.org/wiki/File:%D0%90%D0%BD%D0%B0%D1%82%D0%BE%D0%BC%D0%B8%D1%8F_%D0%BF%D0%BE%D0%B1%D0%B5%D0%B3%D0%B0_Viburnum_opulus.jpg">this one</a> from the 2019 Wiki Science competition, <a class="external text" href="https://commons.wikimedia.org/wiki/Commons:Wiki_Loves_Earth_2020/Winners#/media/File:%D0%9B%D0%B8%D1%81%D0%B0-%D0%BE%D0%B3%D0%BD%D0%B5%D0%B2%D0%BA%D0%B0_%D0%BD%D0%B0_%D1%84%D0%BE%D0%BD%D0%B5_%D0%92%D0%B8%D0%BB%D1%8E%D1%87%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%B2%D1%83%D0%BB%D0%BA%D0%B0%D0%BD%D0%B0.jpg">this one</a> from 2020 Wiki Loves Earth, or <a class="external text" href="https://commons.wikimedia.org/wiki/File:%D0%A6%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C_%D0%9F%D0%B0%D1%80%D0%B0%D1%81%D0%BA%D0%B5%D0%B2%D1%8B_%D0%9F%D1%8F%D1%82%D0%BD%D0%B8%D1%86%D1%8B_-_1.jpg">this one</a> from 2018 Wiki Loves Monuments.</li>
+<li>If you have any further questions regarding Wikipedia or editing, please contact <span style="white-space: nowrap;">info-ru<span class="nowrap"><span typeof="mw:File"><span title="@"><img alt="@" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/20px-At_sign.svg.png?utm_source=donate.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" decoding="async" width="15" height="15" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/40px-At_sign.svg.png?utm_source=donate.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x" data-file-width="145" data-file-height="145" /></span></span></span>wikimedia.org</span></li></ul>
+<p>From everyone here at the Wikimedia Foundation who believes that knowledge should transcend borders, we thank you for your time, effort, and love of learning.
+</p><p>The Wikimedia Foundation
+</p>
+</div>
+<p> <style>/* === Template:Styles/Default.css === */
+
+*,
+*:before,
+*:after {
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+/* visually hidden - screenreader only */
+.sr-only {
+    border: 0 !important;
+    clip: rect(1px, 1px, 1px, 1px) !important;
+    -webkit-clip-path: inset(50%) !important;
+        clip-path: inset(50%) !important;
+    height: 1px !important;
+    margin: -1px !important;
+    overflow: hidden !important;
+    padding: 0 !important;
+    position: absolute !important;
+    width: 1px !important;
+    white-space: nowrap !important;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    line-height: 1.6;
+    font-size: 16px;
+    color: #202122;
+}
+
+p {
+    margin: 0.5em 0;
+}
+
+/* Hide these until the required JavaScript fiddling has been done */
+#actual-form,
+.consider-amounts {
+    display: none;
+}
+
+#actual-form-loading {
+    text-align: center;
+    line-height: 1.2;
+}
+
+.error-nojs {
+    max-width: 300px;
+    color: #d73333;
+}
+
+/* Hide default MediaWiki stuff we don't want */
+
+#mw-page-base, #mw-head-base,
+#mw-panel .portal,
+#mw-head, #catlinks,
+#firstHeading, #contentSub, #contentSub2, #siteSub,
+#jump-to-nav, .uls-tipsy,
+.mw-editsection, .printfooter {
+    display: none;
+}
+
+.mw-jump-link {
+    display: none !important;
+}
+
+/* Hide minerva stuff */
+.header-container {
+    display: none;
+}
+
+/* Vector 2022 */
+
+.vector-column-end,
+.vector-main-menu-landmark,
+.vector-header-end,
+.vector-page-titlebar,
+.vector-page-toolbar {
+    display: none !important;
+}
+
+/* Re-add gradient background */
+body {
+    background-image: linear-gradient(to bottom, #fff 40px, #f6f6f6 80px);
+    background-position: top;
+    background-repeat: repeat-x;
+    background-color: #f6f6f6;
+}
+
+body #content {
+    background-color: transparent;
+    background-image: none;
+    border: 0;
+    padding-top: 32px;
+}
+
+/* Link colors for visibility */
+.mw-parser-output a,
+.mw-parser-output a.external,
+.mw-parser-output a.extiw {
+    color: #36c;
+    text-decoration: none;
+}
+
+.mw-parser-output a:visited,
+.mw-parser-output a.external:visited,
+.mw-parser-output a.extiw:visited {
+    color: #6f4db3;
+}
+
+.mw-parser-output a:hover,
+.mw-parser-output a.external:hover,
+.mw-parser-output a.extiw:hover {
+    text-decoration: underline;
+}
+
+.lp-error {
+    color: #d73333;
+    font-weight: 500;
+    font-size: 14px;
+}
+
+/* Prevent site logos from showing through modals (e.g. for monthly convert) */
+.vector-body {
+    position: inherit;
+}
+
+body.modal-open {
+    overflow: hidden;
+    position: fixed;
+}
+
+/* --- Overall layout of the landing page --- */
+
+#main-wrapper {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 24px;
+}
+
+body.rtl #main-wrapper {
+    direction: rtl;
+}
+
+.skin-donate #main-wrapper {
+    padding: 32px 24px 24px 24px;
+}
+
+#form-wrapper {
+    width: 380px;
+    background-color: #fff;
+    border: 1px solid #a2a9b1;
+    border-radius: 2px;
+    padding: 24px;
+    font-size: 14px;
+}
+
+#appeal-wrapper {
+    flex: 1 0 0;
+}
+
+/* --- Appeal --- */
+
+#appeal {
+    font-size: 16px;
+}
+
+#appeal .mw-heading2,
+#appeal-head {
+    font-size: 21px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #a2a9b1;
+    margin-bottom: 21px;
+}
+
+.quote-wrapper {
+    padding: 140px 0;
+}
+
+/* --- Hide non-recurring capable payment methods on recurring forms --- */
+
+.form-monthly .not-monthly-capable,
+form[data-frequency="monthly"] .not-monthly-capable,
+form[data-frequency="annual"] .not-monthly-capable {
+    display: none;
+}
+
+/* --- Form --- */
+
+#donate-form-wrapper fieldset {
+    width: 100%;
+    border: 0;
+    margin: 0 0 8px 0;
+    padding: 0;
+}
+
+.frequency-options ul,
+.amount-options ul {
+    display: grid;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    gap: 8px;
+    margin-bottom: 8px;
+}
+
+.frequency-options ul {
+    grid-template-columns: repeat(auto-fit, minmax(0, 1fr));
+}
+
+.amount-options ul {
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+.frequency-options ul li,
+.amount-options ul li {
+    padding: 0;
+}
+
+/* --- Subheaders --- */
+
+#radiobuttons-table-header,
+#paymenttype-table-header {
+    display: block;
+    margin-bottom: 6px;
+    text-align: center;
+    font-weight: bold;
+}
+
+/* --- Commmon button styles --- */
+
+.frequency-options input[type="radio"],
+.amount-options input[type="radio"] {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    padding: 0;
+    overflow: hidden;
+    border: 0;
+    clip: rect(0 0 0 0);
+}
+
+.frb-btn,
+.payment-method-button {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    text-align: center;
+    height: 50px;
+    padding: 0 2px;
+    border-radius: 2px;
+    font-family: inherit;
+    font-weight: 500;
+    line-height: 1.2;
+    cursor: pointer;
+    transition: background-color 100ms, color 100ms, border-color 100ms, box-shadow 100ms;
+    background-color: #f8f9fa;
+    color: #222;
+    border: 1px solid #a2a9b1;
+}
+
+.frb-btn:hover {
+    background-color: #fff;
+    color: #444;
+    border-color: #a2a9b1;
+}
+
+.frb-btn:active {
+    background-color: #c8ccd1;
+    color: #000;
+    border-color: #72777d;
+    box-shadow: none;
+}
+
+input[type="radio"]:checked + .frb-btn {
+    background-color: #2a4b8d;
+    color: #fff;
+    border-color: #2a4b8d;
+}
+
+.frb-btn:focus,
+.payment-method-button:focus {
+    outline: 0;
+    border-color: #36c;
+    box-shadow: inset 0 0 0 1px #36c;
+}
+
+input[type="radio"]:focus + .frb-btn,
+input[type="radio"]:checked + .frb-btn:focus {
+    box-shadow: inset 0 0 0 1px #36c, inset 0 0 0 2px #fff;
+}
+
+.payment-method-button {
+    color: #36c;
+}
+
+.payment-method-button:hover {
+    background-color: #fff;
+    border-color: #447ff5;
+}
+
+.payment-method-button:active {
+    background-color: #eff3fa;
+    color: #2a4b8d;
+    border-color: #2a4b8d;
+    box-shadow: none;
+}
+
+/* --- Donation Amounts --- */
+
+.amount-options .frb-btn {
+    height: 60px;
+    font-size: 15px;
+    line-height: 1.2;
+    text-align: center;
+}
+
+/* Smaller font size for countries with v long amounts */
+.country-CO .amount-options .frb-btn,
+.country-CR .amount-options .frb-btn,
+.country-KR .amount-options .frb-btn,
+.country-PY .amount-options .frb-btn,
+.country-VN .amount-options .frb-btn {
+    font-size: 13px;
+}
+
+.input_amount_other .frb-btn span {
+    display: block;
+    font-size: 12px;
+    line-height: 1;
+    margin-bottom: 2px;
+    white-space: normal;
+    text-align: center;
+}
+
+.input_amount_other input {
+    display: block;
+    width: 100%;
+    border: 1px solid #a2a9b1;
+    color: #222;
+    padding: 2px;
+    border-radius: 2px;
+    direction: ltr;
+    text-align: center;
+    font-family: inherit;
+    font-size: 16px; /* must be >=16px or mobile Safari zooms in when selected */
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    margin: 0 4px;
+}
+
+/* --- Opt-in and PTF input styles --- */
+
+.lp-radio-wrapper,
+.lp-checkbox-wrapper {
+    display: table;
+}
+
+.lp-radio,
+.lp-checkbox {
+    display: table-cell;
+    vertical-align: top;
+    margin: 7px 8px 8px 2px;
+    cursor: pointer;
+}
+
+body.rtl .lp-radio,
+body.rtl .lp-checkbox {
+    margin: 7px 2px 8px 8px;
+}
+
+.lp-radio-label,
+.lp-checkbox-label {
+    display: table-cell;
+    vertical-align: top;
+    padding: 4px 0;
+    white-space: normal;
+    font-size: 14px;
+    line-height: 18px;
+    font-weight: normal;
+    cursor: pointer;
+}
+
+.lp-radio-label:hover,
+.lp-radio:focus + .lp-radio-label,
+.lp-radio:hover + .lp-radio-label,
+.lp-checkbox-label:hover,
+.lp-checkbox:focus + .lp-checkbox-label,
+.lp-checkbox:hover + .lp-checkbox-label {
+    color: #36c;
+    text-decoration: none;
+}
+
+.lp-radio:disabled + .lp-radio-label,
+.lp-checkbox:disabled + .lp-checkbox-label {
+	color: #a2a9b1;
+}
+
+/* --- Opt-in --- */
+
+.optin-options legend {
+    padding: 0;
+    font-size: inherit;
+    font-weight: bold;
+}
+
+.optin-options ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.optin-options li {
+    display: table;
+}
+
+.optin-smallprint {
+    clear: both;
+    font-size: 12px;
+    line-height: 14px;
+    margin-top: 8px;
+}
+
+.optin-no-prompt {
+    display: none;
+    margin: 0;
+    padding: 6px;
+    border: 2px solid #900;
+    border-radius: 2px;
+    font-size: 14px;
+    line-height: 18px;
+    font-weight: normal;
+}
+
+.optin-no-prompt.is-positive {
+    border-color: #14866d;
+    font-weight: bold;
+}
+
+.optin-no-prompt__yes { display: none; }
+.optin-no-prompt__no  { display: block; }
+
+.optin-no-prompt.is-positive .optin-no-prompt__yes { display: block; }
+.optin-no-prompt.is-positive .optin-no-prompt__no  { display: none; }
+
+/* --- PTF --- */
+.ptf {
+    display: none;
+}
+
+/* --- Payment method buttons --- */
+
+.payment-method-div {
+    padding: 4px 0;
+}
+
+/* Hide extra empty <p> tags between buttons */
+.payment-method-div ~ p {
+    display: none;
+}
+
+.payment-method-button {
+    margin: 0;
+    width: 100%;
+    font-size: 16px;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    overflow: hidden;
+    gap: 2px;
+}
+
+/* --- Infobox ("Where your donation goes") --- */
+
+#infobox-wrapper {
+    font-size: 13px;
+    line-height: 1.4;
+    color: #54595d;
+    font-weight: normal;
+    margin-top: 8px
+}
+
+#infobox-wrapper .mw-heading2 {
+    font-size: 16px;
+    font-weight: bold;
+    color: inherit;
+    border: 0;
+    margin-bottom: 8px;
+}
+
+#infobox-wrapper h2 {
+    font-size: inherit;
+}
+
+/* --- Privacy and links --- */
+
+#donate-footer {
+    width: 100%;
+    max-width: 948px;
+    margin: 24px auto;
+    text-align: left;
+    font-size: 13px;
+    line-height: 1.4;
+    color: #54595d;
+}
+
+/* RTL fix for footer.*/
+[lang="ar"] #donate-footer,
+[lang="he"] #donate-footer,
+[lang="fa"] #donate-footer,
+[lang="ur"] #donate-footer,
+[lang="ps"] #donate-footer,
+[lang="sd"] #donate-footer,
+[lang="dv"] #donate-footer,
+[lang="yi"] #donate-footer,
+[lang="ckb"] #donate-footer {
+    text-align: start;
+}
+
+#donate-footer > div {
+    margin-bottom: 1em;
+}
+
+.form-info-links,
+.form-info-links ul {
+    list-style: none;
+    margin: 0;
+    text-align: center;
+    font-size: 15px;
+}
+
+.form-info-links li {
+    display: inline-block;
+}
+
+.form-info-links a.external {
+    padding: 14px !important;
+}
+
+/* --- Footer --- */
+
+.mw-footer {
+    display: none;
+}
+
+/* Credit card logos.
+ * Classes are added by https://donate.wikimedia.org/wiki/MediaWiki:DonationForm.js ---
+ */
+.paymentmethod-cc svg {
+    display: none;
+}
+
+.cctypes-vmad,
+.cctypes-vmaj,
+.cctypes-vmj,
+.cctypes-vma,
+.cctypes-vm,
+.cctypes-CBvma,
+.cctypes-vmar {
+    font-size: 0; /* Remove spacing between icons */
+}
+
+.cctypes-vmad  .cc-logo-visa,
+.cctypes-vmad  .cc-logo-mastercard,
+.cctypes-vmad  .cc-logo-amex,
+.cctypes-vmad  .cc-logo-discover,
+
+.cctypes-vmaj  .cc-logo-visa,
+.cctypes-vmaj  .cc-logo-mastercard,
+.cctypes-vmaj  .cc-logo-amex,
+.cctypes-vmaj  .cc-logo-jcb,
+
+.cctypes-vmj   .cc-logo-visa,
+.cctypes-vmj   .cc-logo-mastercard,
+.cctypes-vmj   .cc-logo-jcb,
+
+.cctypes-vma   .cc-logo-visa,
+.cctypes-vma   .cc-logo-mastercard,
+.cctypes-vma   .cc-logo-amex,
+
+.cctypes-vm    .cc-logo-visa,
+.cctypes-vm    .cc-logo-mastercard,
+
+.cctypes-CBvma .cc-logo-CB,
+.cctypes-CBvma .cc-logo-visa,
+.cctypes-CBvma .cc-logo-mastercard,
+.cctypes-CBvma .cc-logo-amex,
+
+.cctypes-vmar .cc-logo-visa,
+.cctypes-vmar .cc-logo-mastercard,
+.cctypes-vmar .cc-logo-amex,
+.cctypes-vmar .cc-logo-rupay {
+    display: inline-block !important;
+}
+
+.paymentmethod-cc .cc-logo-rupay {
+    border: 0;
+}
+
+/* Logos - WP on top, WMF horizontal below */
+#p-logo a {
+    /* Need explicit height for backgrounds for IE */
+    background: top 30% center/160px 24px url(https://donate.wikimedia.org/static/images/mobile/copyright/wikipedia-wordmark-en.svg), top 70% center/160px 37px url(https://upload.wikimedia.org/wikipedia/donate/6/60/Wmf_logo_horiz_K.svg);
+    background-repeat: no-repeat;
+    margin-left: 8px;
+}
+
+/* Mobile styles */
+@media (max-width: 981px) {
+    
+    /* Text & Logo layout */
+    body.skin-vector-legacy #content {
+        margin: 0;
+        padding: 140px 24px 24px 24px;
+    }
+
+    #mw-panel, #p-logo, #p-logo a {
+        width: 100% !important;
+        height: 140px;
+        margin: 0;
+    }
+
+    #p-logo a {
+        margin-left: 0;
+    }
+
+    /* Hide appeal */
+    #appeal-wrapper {
+        display: none;
+    }
+
+    #form-wrapper {
+        padding: 16px;
+    }
+
+    /* Footer */
+    div#footer {
+        margin: 0;
+    }
+}
+
+@media (max-width: 721px) {
+    /* Stack appeal and form */
+    #appeal-wrapper {
+        flex-basis: 100%;
+        padding: 0;
+    }
+}
+
+@media (max-width: 501px) {
+    /* Appeal same width as form */
+    #appeal-wrapper {
+        max-width: 380px;
+        padding: 0;
+    }
+
+    body.skin-vector-legacy #content {
+        padding: 140px 8px 8px 8px;
+    }
+    
+    #donate-footer {
+        max-width: 380px;
+    }
+
+}
+
+#country-confirm {
+    text-align: center;
+    margin-top: -12px;
+    padding: 4px 0;
+    border-bottom: 1px solid #a2a9b1;
+    margin-bottom: 8px;
+    font-size: 90%;
+}
+
+
+@media (min-width: 980px) {
+    #country-confirm {
+        margin-top: -18px;
+    }
+}
+
+
+/* === end of Template:Styles/Default.css === */</style> 
+</p><p><br /> 
+</p>
+</div></div>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://donate.wikimedia.org/wiki/Special:LandingPage">https://donate.wikimedia.org/wiki/Special:LandingPage</a>"</div></div>
+		<div id="catlinks" class="catlinks catlinks-allhidden" data-mw-interface=""></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		
+<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" aria-labelledby="p-personal-label"  >
+	<h3
+		id="p-personal-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Personal tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-uls" class="mw-list-item active"><a class="uls-trigger" href="#"><span>English</span></a></li><li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Special%3ALandingPage&amp;returntoquery=country%3DRU%26uselang%3Den%26wmf_campaign%3Den.wikipedia.org%26wmf_medium%3Dsidebar%26wmf_source%3Ddonate" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o"><span>Log in</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			
+<nav id="p-associated-pages" class="mw-portlet mw-portlet-associated-pages vector-menu-tabs vector-menu-tabs-legacy vector-menu" aria-labelledby="p-associated-pages-label"  >
+	<h3
+		id="p-associated-pages-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">associated-pages</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-special" class="selected vector-tab-noicon mw-list-item"><a href="/w/index.php?country=RU&amp;title=Special:LandingPage&amp;uselang=en&amp;wmf_campaign=en.wikipedia.org&amp;wmf_medium=sidebar&amp;wmf_source=donate" title="This is a special page, and it cannot be edited"><span>Special page</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown vector-menu" aria-labelledby="p-variants-label"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-variants-label"
+	>
+	<label
+		id="p-variants-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">English</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			
+<nav id="p-views" class="mw-portlet mw-portlet-views emptyPortlet vector-menu-tabs vector-menu-tabs-legacy vector-menu" aria-labelledby="p-views-label"  >
+	<h3
+		id="p-views-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Views</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown vector-menu" aria-labelledby="p-cactions-label"  title="More options" >
+	<input type="checkbox"
+		id="p-cactions-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-cactions"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-cactions-label"
+	>
+	<label
+		id="p-cactions-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">More</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<h3 >Search</h3>
+	<form action="/w/index.php" id="searchform" class="vector-search-box-form">
+		<div id="simpleSearch"
+			class="vector-search-box-inner"
+			 data-search-loc="header-navigation">
+			<input class="vector-search-box-input"
+				 type="search" name="search" placeholder="Search Donate" aria-label="Search Donate" autocapitalize="none" spellcheck="false" title="Search Donate [f]" accesskey="f" id="searchInput"
+			>
+			<input type="hidden" name="title" value="Special:Search">
+			<input id="mw-searchButton"
+				 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Search the pages for this text" value="Search">
+			<input id="searchButton"
+				 class="searchButton" type="submit" name="go" title="Go to a page with this exact name if it exists" value="Go">
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel" class="vector-legacy-sidebar">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/Special:FundraiserRedirector"
+			title="Visit the main page"></a>
+	</div>
+	
+<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu-portal portal vector-menu" aria-labelledby="p-navigation-label"  >
+	<h3
+		id="p-navigation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Navigation</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-Support-pages-index" class="mw-list-item"><a href="/wiki/Support_pages_index"><span>Support pages index</span></a></li><li id="n-Other-ways-to-give" class="mw-list-item"><a href="/wiki/Other_ways_to_give"><span>Other ways to give</span></a></li><li id="n-Problems-donating" class="mw-list-item"><a href="/wiki/Problems_donating"><span>Problems donating</span></a></li><li id="n-Cancel-or-change-recurring-giving" class="mw-list-item"><a href="/wiki/Cancel_or_change_recurring_giving"><span>Cancel or change recurring giving</span></a></li><li id="n-Matching-Gifts" class="mw-list-item"><a href="/wiki/Matching_Gifts"><span>Matching Gifts</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-Wiki" class="mw-portlet mw-portlet-Wiki vector-menu-portal portal vector-menu" aria-labelledby="p-Wiki-label"  >
+	<h3
+		id="p-Wiki-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Wiki</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-Recent-changes" class="mw-list-item"><a href="/wiki/Special:RecentChanges"><span>Recent changes</span></a></li><li id="n-Documentation-(collab)" class="mw-list-item"><a href="https://collab.wikimedia.org/wiki/Fundraising/Donatewiki_documentation"><span>Documentation (collab)</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu-portal portal vector-menu" aria-labelledby="p-tb-label"  >
+	<h3
+		id="p-tb-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-print" class="mw-list-item"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=Special:UrlShortener&amp;url=https%3A%2F%2Fdonate.wikimedia.org%2Fw%2Findex.php%3Ftitle%3DSpecial%3ALandingPage%26country%3DRU%26uselang%3Den%26wmf_campaign%3Den.wikipedia.org%26wmf_medium%3Dsidebar%26wmf_source%3Ddonate"><span>Get shortened URL</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" >
+	<ul id="footer-info">
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Project:Privacy_policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="https://foundation.wikimedia.org/wiki/Project:About">About Donate</a></li>
+	<li id="footer-places-disclaimers"><a href="https://foundation.wikimedia.org/wiki/Project:General_disclaimer">Disclaimers</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">Code of Conduct</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/donate.wikimedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://www.wikimedia.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/static/images/footer/wikimedia-button.svg" width="84" height="29"><img src="/static/images/footer/wikimedia.svg" width="25" height="25" alt="Wikimedia Foundation" lang="en" loading="lazy"></picture></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/w/resources/assets/poweredby_mediawiki.svg" width="88" height="31"><img src="/w/resources/assets/mediawiki_compact.svg" alt="Powered by MediaWiki" lang="en" width="25" height="25" loading="lazy"></picture></a></li>
+</ul>
+
+</footer>
+
+<div class="mw-portlet mw-portlet-dock-bottom emptyPortlet vector-menu-portal portal" id="p-dock-bottom">
+	<ul>
+		
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-8499654998-lmqqj","wgBackendResponseTime":99,"wgPageParseReport":{"limitreport":{"cputime":"0.026","walltime":"0.033","ppvisitednodes":{"value":81,"limit":1000000},"revisionsize":{"value":306,"limit":2097152},"postexpandincludesize":{"value":32558,"limit":2097152},"templateargumentsize":{"value":31,"limit":2097152},"expansiondepth":{"value":7,"limit":100},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":13634,"limit":5000000},"timingprofile":["100.00%   24.267      1 Template:Lp-layout-default","100.00%   24.267      1 -total"," 56.15%   13.625      1 Template:CountryNope/RU"," 19.49%    4.729      1 Template:IncludeCSS"," 10.88%    2.639      1 Template:Styles/Default.css"," 10.86%    2.635      2 Template:@"]},"cachereport":{"origin":"mw-web.eqiad.main-8499654998-lmqqj","timestamp":"20260408131030","ttl":2592000,"transientcontent":false}}});});</script>
+</body>
+</html>

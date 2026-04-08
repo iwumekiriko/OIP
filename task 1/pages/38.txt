@@ -1,0 +1,1109 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-sticky-header-enabled wp25eastereggs-enable-clientpref-1 vector-toc-available skin-theme-clientpref-thumb-standard" lang="fr" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Dark Souls — Wikipédia</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-sticky-header-enabled wp25eastereggs-enable-clientpref-1 vector-toc-available skin-theme-clientpref-thumb-standard";var cookie=document.cookie.match(/(?:^|; )frwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","janvier","février","mars","avril","mai","juin","juillet","août","septembre","octobre","novembre","décembre"],"wgRequestId":"2ab3d09b-51a7-4690-afb2-119559b65d95","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Dark_Souls","wgTitle":"Dark Souls","wgCurRevisionId":234823325,"wgRevisionId":234823325,"wgArticleId":16389934,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipédia:ébauche jeu vidéo","Page utilisant P123","Page utilisant P2664","Page utilisant P154","Article à illustrer Jeu vidéo","Article utilisant l'infobox Série de jeux vidéo","Article utilisant une Infobox","Page utilisant un modèle Bases inactif","Page utilisant P4342","Page pointant vers des bases externes","Page pointant vers des dictionnaires ou encyclopédies généralistes","Page utilisant le modèle Autorité inactif","Article contenant un appel à traduction en anglais","Portail:Jeu vidéo/Articles liés","Portail:Japon/Articles liés","Portail:Asie/Articles liés","Série de jeux vidéo lancée en 2011","Dark Souls"],"wgPageViewLanguage":"fr","wgPageContentLanguage":"fr","wgPageContentModel":"wikitext","wgRelevantPageName":"Dark_Souls","wgRelevantArticleId":16389934,"wgTempUserName":null,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgCiteReferencePreviewsActive":true,"wgConfirmEditCaptchaNeededForGenericEdit":"hcaptcha","wgConfirmEditHCaptchaVisualEditorOnLoadIntegrationEnabled":false,"wgConfirmEditHCaptchaSiteKey":"5d0c670e-a5f4-4258-ad16-1f42792c9c62","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":0,"wgVisualEditor":{"pageLanguageCode":"fr","pageLanguageDir":"ltr","pageVariantFallbacks":"fr"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":true,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":8000,"wgEditSubmitButtonLabelPublish":true,"wgVisualEditorPageIsDisambiguation":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q99431276","wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGESuggestedEditsTaskTypes":{"taskTypes":["copyedit","link-recommendation"],"unavailableTaskTypes":[]},"wgGETopicsMatchModeEnabled":false,"wgGELevelingUpEnabledForUser":false,"wgTestKitchenUserExperiments":{"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[]}};
+RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","ext.wikimediamessages.styles":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready","ext.wp25EasterEggs.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.parsermigration.survey","site","mediawiki.page.ready","mediawiki.toc","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ArchiveLinks","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.bootstrap","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.cx.uls.quick.actions","wikibase.client.vector-2022","wikibase.databox.fromWikidata","ext.checkUser.clientHints","ext.quicksurveys.init","ext.growthExperiments.SuggestedEditSession","ext.testKitchen","ext.wp25EasterEggs"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=fr&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediamessages.styles%7Cext.wp25EasterEggs.styles%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=fr&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=fr&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.46.0-wmf.22">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=1120">
+<meta property="og:title" content="Dark Souls — Wikipédia">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" type="application/x-wiki" title="Modifier" href="/w/index.php?title=Dark_Souls&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/rest.php/v1/search" title="Wikipédia (fr)">
+<link rel="EditURI" type="application/rsd+xml" href="//fr.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://fr.wikipedia.org/wiki/Dark_Souls">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.fr">
+<link rel="alternate" type="application/atom+xml" title="Flux Atom de Wikipédia" href="/w/index.php?title=Sp%C3%A9cial:Modifications_r%C3%A9centes&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="auth.wikimedia.org">
+</head>
+<body class="skin--responsive skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Dark_Souls rootpage-Dark_Souls skin-vector-2022 action-view">
+<div id="mw-aria-live-region" class="mw-aria-live-region" aria-live="polite"></div><a class="mw-jump-link" href="#bodyContent">Aller au contenu</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header no-font-mode-scale">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Site">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  title="Menu principal" >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Menu principal"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">Menu principal</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Menu principal</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">déplacer vers la barre latérale</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">masquer</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Navigation
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Wikip%C3%A9dia:Accueil_principal" title="Accueil général [z]" accesskey="z"><span>Page d’accueil</span></a></li><li id="n-thema" class="mw-list-item"><a href="/wiki/Portail:Accueil" title="Regroupements d&#039;articles par thématiques"><span>Portails thématiques</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Sp%C3%A9cial:Page_au_hasard" title="Affiche un article au hasard [x]" accesskey="x"><span>Article au hasard</span></a></li><li id="n-contact" class="mw-list-item"><a href="/wiki/Wikip%C3%A9dia:Contact" title="Qui contacter"><span>Contact</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-Contribuer" class="vector-menu mw-portlet mw-portlet-Contribuer"  >
+	<div class="vector-menu-heading">
+		Contribuer
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-aboutwp" class="mw-list-item"><a href="/wiki/Aide:D%C3%A9buter" title="Guide pour apprendre à contribuer à Wikipédia"><span>Débuter sur Wikipédia</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/Aide:Accueil" title="Accès à l’aide"><span>Aide</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikip%C3%A9dia:Accueil_de_la_communaut%C3%A9" title="À propos du projet, ce que vous pouvez faire, où trouver les informations"><span>Communauté</span></a></li><li id="n-specialpages" class="mw-list-item"><a href="/wiki/Sp%C3%A9cial:Pages_sp%C3%A9ciales" title="Outils pour contribuer à Wikipédia [q]" accesskey="q"><span>Pages spéciales</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Sp%C3%A9cial:Modifications_r%C3%A9centes" title="Liste des modifications récentes sur le wiki [r]" accesskey="r"><span>Modifications récentes</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Wikip%C3%A9dia:Accueil_principal" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container skin-invert">
+		<img class="mw-logo-wordmark" alt="Wikipédia" src="/static/images/mobile/copyright/wikipedia-wordmark-fr.svg" style="width: 7.4375em; height: 1.125em;">
+		<img class="mw-logo-tagline" alt="l&#039;encyclopédie libre" src="/static/images/mobile/copyright/wikipedia-tagline-fr.svg" width="120" height="13" style="width: 7.5em; height: 0.8125em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Sp%C3%A9cial:Recherche" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" title="Rechercher sur Wikipédia [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Rechercher</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input mw-searchInput" autocomplete="off"
+							 type="search" name="search" placeholder="Rechercher sur Wikipédia" aria-label="Rechercher sur Wikipédia" autocapitalize="none" spellcheck="false" title="Rechercher sur Wikipédia [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Spécial:Recherche">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Rechercher</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links vector-user-links-wide" aria-label="Outils personnels">
+	<div class="vector-user-links-main">
+	
+<div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-userpage" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	<nav class="vector-appearance-landmark" aria-label="Apparence">
+		
+<div id="vector-appearance-dropdown" class="vector-dropdown "  title="Modifier l&#039;apparence de la taille, de la largeur et de la couleur de la police de la page" >
+	<input type="checkbox" id="vector-appearance-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-appearance-dropdown" class="vector-dropdown-checkbox "  aria-label="Apparence"  >
+	<label id="vector-appearance-dropdown-label" for="vector-appearance-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-appearance mw-ui-icon-wikimedia-appearance"></span>
+
+<span class="vector-dropdown-label-text">Apparence</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+			<div id="vector-appearance-unpinned-container" class="vector-unpinned-container">
+				
+			</div>
+		
+	</div>
+</div>
+
+	</nav>
+	
+<div id="p-vector-user-menu-notifications" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-sitesupport-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=fr.wikipedia.org&amp;uselang=fr" class=""><span>Faire un don</span></a>
+</li>
+<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="/w/index.php?title=Sp%C3%A9cial:Cr%C3%A9er_un_compte&amp;returnto=Dark+Souls" title="Nous vous encourageons à créer un compte utilisateur et vous connecter ; ce n’est cependant pas obligatoire." class=""><span>Créer un compte</span></a>
+</li>
+<li id="pt-login-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="/w/index.php?title=Sp%C3%A9cial:Connexion&amp;returnto=Dark+Souls" title="Nous vous encourageons à vous connecter ; ce n’est cependant pas obligatoire. [o]" accesskey="o" class=""><span>Se connecter</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div>
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out user-links-collapsible-item"  title="Plus d’options" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Outils personnels"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">Outils personnels</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="Menu utilisateur" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-sitesupport" class="user-links-collapsible-item mw-list-item"><a href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=fr.wikipedia.org&amp;uselang=fr"><span class="vector-icon mw-ui-icon-heart mw-ui-icon-wikimedia-heart"></span> <span>Faire un don</span></a></li><li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Sp%C3%A9cial:Cr%C3%A9er_un_compte&amp;returnto=Dark+Souls" title="Nous vous encourageons à créer un compte utilisateur et vous connecter ; ce n’est cependant pas obligatoire."><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Créer un compte</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Sp%C3%A9cial:Connexion&amp;returnto=Dark+Souls" title="Nous vous encourageons à vous connecter ; ce n’est cependant pas obligatoire. [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Se connecter</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --><div class="wp25eastereggs-sitenotice"><div class="wp25eastereggs-sitenotice-landmark"></div></div></div>
+		</div>
+		<div class="vector-column-start">
+			<div class="vector-main-menu-container">
+		<div id="mw-navigation">
+			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Site">
+				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+				</div>
+		</nav>
+		</div>
+	</div>
+	<div class="vector-sticky-pinned-container">
+				<nav id="mw-panel-toc" aria-label="Sommaire" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark">
+					<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	data-pinned-container-id="vector-toc-pinned-container"
+	data-unpinned-container-id="vector-toc-unpinned-container"
+>
+	<h2 class="vector-pinnable-header-label">Sommaire</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">déplacer vers la barre latérale</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">masquer</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">Début</div>
+			</a>
+		</li>
+		<li id="toc-Jeux"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Jeux">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">1</span>
+				<span>Jeux</span>
+			</div>
+		</a>
+		
+			<button aria-controls="toc-Jeux-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon mw-ui-icon-wikimedia-expand"></span>
+				<span>Afficher / masquer la sous-section Jeux</span>
+			</button>
+		
+		<ul id="toc-Jeux-sublist" class="vector-toc-list">
+			<li id="toc-Dark_Souls"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Dark_Souls">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">1.1</span>
+					<span><i>Dark Souls</i></span>
+				</div>
+			</a>
+			
+			<ul id="toc-Dark_Souls-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Dark_Souls_II"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Dark_Souls_II">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">1.2</span>
+					<span><i>Dark Souls <span>II</span></i></span>
+				</div>
+			</a>
+			
+			<ul id="toc-Dark_Souls_II-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Dark_Souls_III"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Dark_Souls_III">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">1.3</span>
+					<span><i>Dark Souls <span>III</span></i></span>
+				</div>
+			</a>
+			
+			<ul id="toc-Dark_Souls_III-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Références"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Références">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">2</span>
+				<span>Références</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Références-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Liens_externes"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Liens_externes">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">3</span>
+				<span>Liens externes</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Liens_externes-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body">
+				<header class="mw-body-header vector-page-titlebar no-font-mode-scale">
+					<nav aria-label="Sommaire" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"  title="Table des matières" >
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="Basculer la table des matières"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Basculer la table des matières</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><i>Dark Souls</i></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="Aller à un article dans une autre langue. Disponible en 13 langues."   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-13" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">13 langues</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				<li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/Dark_Souls" title="Dark Souls – tchèque" lang="cs" hreflang="cs" data-title="Dark Souls" data-language-autonym="Čeština" data-language-local-name="tchèque" class="interlanguage-link-target"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Dark_Souls_(Computerspielreihe)" title="Dark Souls (Computerspielreihe) – allemand" lang="de" hreflang="de" data-title="Dark Souls (Computerspielreihe)" data-language-autonym="Deutsch" data-language-local-name="allemand" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/Dark_Souls" title="Dark Souls – anglais" lang="en" hreflang="en" data-title="Dark Souls" data-language-autonym="English" data-language-local-name="anglais" class="interlanguage-link-target"><span>English</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Dark_Souls" title="Dark Souls – espagnol" lang="es" hreflang="es" data-title="Dark Souls" data-language-autonym="Español" data-language-local-name="espagnol" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%D8%AF%D8%A7%D8%B1%DA%A9_%D8%B3%D9%88%D9%84%D8%B2" title="دارک سولز – persan" lang="fa" hreflang="fa" data-title="دارک سولز" data-language-autonym="فارسی" data-language-local-name="persan" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/%EB%8B%A4%ED%81%AC_%EC%86%8C%EC%9A%B8" title="다크 소울 – coréen" lang="ko" hreflang="ko" data-title="다크 소울" data-language-autonym="한국어" data-language-local-name="coréen" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a href="https://no.wikipedia.org/wiki/Dark_Souls" title="Dark Souls – norvégien bokmål" lang="nb" hreflang="nb" data-title="Dark Souls" data-language-autonym="Norsk bokmål" data-language-local-name="norvégien bokmål" class="interlanguage-link-target"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Dark_Souls_(seria)" title="Dark Souls (seria) – polonais" lang="pl" hreflang="pl" data-title="Dark Souls (seria)" data-language-autonym="Polski" data-language-local-name="polonais" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Dark_Souls_(s%C3%A9rie)" title="Dark Souls (série) – portugais" lang="pt" hreflang="pt" data-title="Dark Souls (série)" data-language-autonym="Português" data-language-local-name="portugais" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-ru mw-list-item"><a href="https://ru.wikipedia.org/wiki/Dark_Souls" title="Dark Souls – russe" lang="ru" hreflang="ru" data-title="Dark Souls" data-language-autonym="Русский" data-language-local-name="russe" class="interlanguage-link-target"><span>Русский</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/Dark_Souls" title="Dark Souls – turc" lang="tr" hreflang="tr" data-title="Dark Souls" data-language-autonym="Türkçe" data-language-local-name="turc" class="interlanguage-link-target"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/Dark_Souls_(%D1%81%D0%B5%D1%80%D1%96%D1%8F_%D0%B2%D1%96%D0%B4%D0%B5%D0%BE%D1%96%D0%B3%D0%BE%D1%80)" title="Dark Souls (серія відеоігор) – ukrainien" lang="uk" hreflang="uk" data-title="Dark Souls (серія відеоігор)" data-language-autonym="Українська" data-language-local-name="ukrainien" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-uz mw-list-item"><a href="https://uz.wikipedia.org/wiki/Dark_Souls" title="Dark Souls – ouzbek" lang="uz" hreflang="uz" data-title="Dark Souls" data-language-autonym="Oʻzbekcha / ўзбекча" data-language-local-name="ouzbek" class="interlanguage-link-target"><span>Oʻzbekcha / ўзбекча</span></a></li>
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q99431276#sitelinks-wikipedia" title="Modifier les liens interlangues" class="wbc-editpage">Modifier les liens</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar vector-feature-custom-font-size-clientpref--excluded">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Espaces de noms">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Dark_Souls" title="Voir le contenu de la page [c]" accesskey="c"><span>Article</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/Discussion:Dark_Souls" rel="discussion" title="Discussion au sujet de cette page de contenu [t]" accesskey="t"><span>Discussion</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="vector-variants-dropdown" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="vector-variants-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-variants-dropdown" class="vector-dropdown-checkbox " aria-label="Modifier la variante de langue"   >
+	<label id="vector-variants-dropdown-label" for="vector-variants-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">français</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Affichages">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Dark_Souls"><span>Lire</span></a></li><li id="ca-ve-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Dark_Souls&amp;veaction=edit" title="Modifier cette page [v]" accesskey="v"><span>Modifier</span></a></li><li id="ca-edit" class="collapsible vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Dark_Souls&amp;action=edit" title="Modifier le wikicode de cette page [e]" accesskey="e"><span>Modifier le code</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Dark_Souls&amp;action=history" title="Historique des versions de cette page [h]" accesskey="h"><span>Voir l’historique</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Outils de la page">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Outils"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Outils</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Outils</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">déplacer vers la barre latérale</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">masquer</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="Plus d’options" >
+	<div class="vector-menu-heading">
+		Actions
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/Dark_Souls"><span>Lire</span></a></li><li id="ca-more-ve-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Dark_Souls&amp;veaction=edit" title="Modifier cette page [v]" accesskey="v"><span>Modifier</span></a></li><li id="ca-more-edit" class="collapsible vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Dark_Souls&amp;action=edit" title="Modifier le wikicode de cette page [e]" accesskey="e"><span>Modifier le code</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Dark_Souls&amp;action=history"><span>Voir l’historique</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		Général
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Sp%C3%A9cial:Pages_li%C3%A9es/Dark_Souls" title="Liste des pages liées qui pointent sur celle-ci [j]" accesskey="j"><span>Pages liées</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Sp%C3%A9cial:Suivi_des_liens/Dark_Souls" rel="nofollow" title="Liste des modifications récentes des pages appelées par celle-ci [k]" accesskey="k"><span>Suivi des pages liées</span></a></li><li id="t-upload" class="mw-list-item"><a href="//fr.wikipedia.org/wiki/Aide:Importer_un_fichier" title="Téléverser des fichiers [u]" accesskey="u"><span>Téléverser un fichier</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Dark_Souls&amp;oldid=234823325" title="Adresse permanente de cette version de cette page"><span>Lien permanent</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Dark_Souls&amp;action=info" title="Davantage d’informations sur cette page"><span>Informations sur la page</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Sp%C3%A9cial:Citer&amp;page=Dark_Souls&amp;id=234823325&amp;wpFormIdentifier=titleform" title="Informations sur la manière de citer cette page"><span>Citer cette page</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=Sp%C3%A9cial:UrlShortener&amp;url=https%3A%2F%2Ffr.wikipedia.org%2Fwiki%2FDark_Souls"><span>Obtenir l&#039;URL raccourcie</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export"  >
+	<div class="vector-menu-heading">
+		Imprimer / exporter
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-create_a_book" class="mw-list-item"><a href="/w/index.php?title=Sp%C3%A9cial:Livre&amp;bookcmd=book_creator&amp;referer=Dark+Souls"><span>Créer un livre</span></a></li><li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Sp%C3%A9cial:DownloadAsPdf&amp;page=Dark_Souls&amp;action=show-download-screen"><span>Télécharger comme PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Dark_Souls&amp;printable=yes" title="Version imprimable de cette page [p]" accesskey="p"><span>Version imprimable</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects"  >
+	<div class="vector-menu-heading">
+		Dans d’autres projets
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Dark_Souls_(series)" hreflang="en"><span>Wikimedia Commons</span></a></li><li id="t-wikibase" class="wb-otherproject-link wb-otherproject-wikibase-dataitem mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q99431276" title="Lien vers l’élément dans le dépôt de données connecté [g]" accesskey="g"><span>Élément Wikidata</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end no-font-mode-scale">
+					<div class="vector-sticky-pinned-container">
+						<div class="wp25eastereggs-vector-sitenotice-landmark"></div>
+						<nav class="vector-page-tools-landmark" aria-label="Outils de la page">
+							<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+				
+							</div>
+		</nav>
+						<nav class="vector-appearance-landmark" aria-label="Apparence">
+							<div id="vector-appearance-pinned-container" class="vector-pinned-container">
+				<div id="vector-appearance" class="vector-appearance vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-appearance-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="appearance-pinned"
+	data-pinnable-element-id="vector-appearance"
+	data-pinned-container-id="vector-appearance-pinned-container"
+	data-unpinned-container-id="vector-appearance-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Apparence</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-appearance.pin">déplacer vers la barre latérale</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-appearance.unpin">masquer</button>
+</div>
+
+
+</div>
+
+							</div>
+		</nav>
+					</div>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		</div>
+
+						<div id="siteSub" class="noprint">Un article de Wikipédia, l&#039;encyclopédie libre.</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="fr" dir="ltr"><div class="bandeau-container metadata bandeau-article bandeau-niveau-ebauche"><div class="bandeau-cell bandeau-icone" style="display:table-cell;padding-right:0.5em"><span class="noviewer" typeof="mw:File"><a href="/wiki/Fichier:Circle-icons-gamecontroller.svg" class="mw-file-description"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Circle-icons-gamecontroller.svg/40px-Circle-icons-gamecontroller.svg.png" decoding="async" width="35" height="35" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Circle-icons-gamecontroller.svg/120px-Circle-icons-gamecontroller.svg.png 2x" data-file-width="512" data-file-height="512" /></a></span></div><div class="bandeau-cell" style="display:table-cell;padding-right:0.5em">
+<p><strong class="bandeau-titre">Cet article est une <a href="/wiki/Aide:%C3%89bauche" title="Aide:Ébauche">ébauche</a> concernant le <a href="/wiki/Jeu_vid%C3%A9o" title="Jeu vidéo">jeu vidéo</a>.</strong>
+</p>
+<div class="nomobile">
+Vous pouvez partager vos connaissances en l’améliorant (<b><a href="/wiki/Aide:Comment_modifier_une_page" title="Aide:Comment modifier une page">comment&#160;?</a></b>) (voir l’<a href="/wiki/Projet:Jeu_vid%C3%A9o/Aide_%C3%A0_la_r%C3%A9daction" title="Projet:Jeu vidéo/Aide à la rédaction">aide à la rédaction</a>).</div>
+</div></div>
+<style data-mw-deduplicate="TemplateStyles:r227935972">.mw-parser-output .infobox_v3.infobox-jeu-video .entete{background-color:#004080;color:white}.mw-parser-output .infobox_v3.infobox-jeu-video hr{background-color:#004080}.mw-parser-output .infobox_v3.infobox-jeu-video .bordered{border-top-color:#004080}.mw-parser-output .infobox-jeu-video .NavFrame.date-detail{border:none;padding:0}.mw-parser-output .infobox-jeu-video .NavFrame.date-detail .NavHead{font-size:105%;text-align:left;background:transparent;font-weight:normal}.mw-parser-output .infobox-jeu-video .NavFrame.date-detail .NavContent{font-size:105%;text-align:left}.mw-parser-output .infobox-jeu-video div.NavFrame{background:transparent}</style><div class="infobox&#95;v3 infobox infobox--frwiki noarchive large infobox-jeu-video"><div class="entete italique"><div>Dark Souls</div></div><div><div class="images" style="padding:2px 0"><span class="mw-default-size skin-invert-image" typeof="mw:File/Frameless"><a href="/w/index.php?title=Fichier:Dark_Souls_logo_black.svg&amp;lang=fr" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Dark_Souls_logo_black.svg/langfr-250px-Dark_Souls_logo_black.svg.png" decoding="async" width="250" height="31" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Dark_Souls_logo_black.svg/langfr-500px-Dark_Souls_logo_black.svg.png 2x" data-file-width="512" data-file-height="63" /></a></span></div><div class="legend">Logo de la série de jeux.</div></div><hr /><table><tbody><tr class=""><th scope="row"><a href="/wiki/Genre_de_jeu_vid%C3%A9o" title="Genre de jeu vidéo">Genre</a></th><td class=""><div>
+<a href="/wiki/Action-RPG" title="Action-RPG">Action-RPG</a></div></td></tr><tr class=""><th scope="row"><a href="/wiki/D%C3%A9veloppeur_de_jeux_vid%C3%A9o" title="Développeur de jeux vidéo">Développeur</a></th><td class=""><div>
+<a href="/wiki/FromSoftware" title="FromSoftware">FromSoftware</a></div></td></tr><tr class=""><th scope="row"><a href="/wiki/%C3%89diteur_de_jeux_vid%C3%A9o" title="Éditeur de jeux vidéo">Éditeur</a></th><td class=""><div>
+<span class="wd&#95;p123"><a href="/wiki/Bandai_Namco_Entertainment" title="Bandai Namco Entertainment">Bandai Namco Entertainment</a>, <a href="/wiki/FromSoftware" title="FromSoftware">FromSoftware</a><span class="noprint wikidata-linkback skin-invert"><span class="mw-valign-baseline noviewer" typeof="mw:File"><a href="https://www.wikidata.org/wiki/Q99431276?uselang=fr#P123" title="Voir et modifier les données sur Wikidata"><img alt="Voir et modifier les données sur Wikidata" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png" decoding="async" width="10" height="10" class="mw-file-element" data-file-width="600" data-file-height="600" /></a></span></span></span></div></td></tr></tbody></table><hr /><table><tbody><tr class=""><th scope="row">Premier jeu</th><td class=""><div>
+<a href="/wiki/2011_en_jeu_vid%C3%A9o" title="2011 en jeu vidéo">2011</a>&#160;: <i><a href="/wiki/Dark_Souls_(jeu_vid%C3%A9o)" title="Dark Souls (jeu vidéo)">Dark Souls</a></i></div></td></tr></tbody></table><hr /><table><tbody><tr class=""><th scope="row">Ventes</th><td class=""><div>
+<span class="wd&#95;p2664">33,4 <abbr title="million">M</abbr><span class="noprint wikidata-linkback skin-invert"><span class="mw-valign-baseline noviewer" typeof="mw:File"><a href="https://www.wikidata.org/wiki/Q99431276?uselang=fr#P2664" title="Voir et modifier les données sur Wikidata"><img alt="Voir et modifier les données sur Wikidata" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png" decoding="async" width="10" height="10" class="mw-file-element" data-file-width="600" data-file-height="600" /></a></span></span></span></div></td></tr></tbody></table><p class="navbar noprint bordered navigation-not-searchable"><span class="plainlinks" style="text-align:left"><a class="external text" href="https://fr.wikipedia.org/w/index.php?title=Dark_Souls&amp;veaction=edit&amp;section=0">modifier</a> - <a class="external text" href="https://fr.wikipedia.org/w/index.php?title=Dark_Souls&amp;action=edit&amp;section=0">modifier le code</a> - <a href="https://www.wikidata.org/wiki/Q99431276" class="extiw" title="d:Q99431276">modifier Wikidata</a></span><span style="text-align:right"><span typeof="mw:File"><a href="/wiki/Mod%C3%A8le:Infobox_S%C3%A9rie_de_jeux_vid%C3%A9o" title="Documentation du modèle"><img alt="Documentation du modèle" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Info_Simple.svg/20px-Info_Simple.svg.png" decoding="async" width="12" height="12" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Info_Simple.svg/40px-Info_Simple.svg.png 2x" data-file-width="512" data-file-height="512" /></a></span></span></p></div>
+<p><i><b>Dark Souls</b></i> est une <a href="/wiki/S%C3%A9rie_de_jeux_vid%C3%A9o" class="mw-redirect" title="Série de jeux vidéo">série de jeux vidéo</a> de type <i><a href="/wiki/Action-RPG" title="Action-RPG">action-RPG</a></i>. Elle est composée des trois titres suivants&#160;: <i><a href="/wiki/Dark_Souls_(jeu_vid%C3%A9o)" title="Dark Souls (jeu vidéo)">Dark Souls</a></i> sorti en 2011, <a href="/wiki/Dark_Souls_II" title="Dark Souls II"><i>Darks Souls <abbr class="abbr" title="2"><span class="romain" style="text-transform:uppercase">II</span></abbr></i></a> sorti en 2014 et <a href="/wiki/Dark_Souls_III" title="Dark Souls III"><i>Darks Souls <abbr class="abbr" title="3"><span class="romain" style="text-transform:uppercase">III</span></abbr></i></a> sorti en 2016. Cette trilogie est issue de la série des <i><a href="/wiki/Souls" title="Souls">Souls</a></i>, qui elle comprend également <i><a href="/wiki/Demon%27s_Souls" title="Demon&#39;s Souls">Demon's Souls</a></i>.
+</p>
+<meta property="mw:PageProp/toc" />
+<div class="mw-heading mw-heading2"><h2 id="Jeux">Jeux</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dark_Souls&amp;veaction=edit&amp;section=1" title="Modifier la section : Jeux" class="mw-editsection-visualeditor"><span>modifier</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Dark_Souls&amp;action=edit&amp;section=1" title="Modifier le code source de la section : Jeux"><span>modifier le code</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<div style="float:right;clear:right;margin:0 0 0.5ex 1em"><table class="wikitable" style="border:none;font-size:80%;line-height:90%;border-collapse:separate;border-spacing:0 1px"><caption class="nowrap" style="padding:5px 5px 2px;font-size:112.5%">Chronologie des sorties</caption><tbody><tr><td scope="row" style="text-align:right;border:none;padding:5px;border-right:16px solid #0BDA51">2011</td><td style="padding:5px;border:none"><i><b><a href="/wiki/Dark_Souls_(jeu_vid%C3%A9o)" title="Dark Souls (jeu vidéo)">Dark Souls</a></b></i></td></tr><tr><td scope="row" rowspan="2" style="text-align:right;border:none;padding:5px;border-right:16px solid #0BDA51">2012</td><td style="border:none;padding:5px 5px 2px"><span style="margin:0;background:gold;padding:3px;color:#000"><i><a href="/wiki/Dark_Souls_(jeu_vid%C3%A9o)" title="Dark Souls (jeu vidéo)">Dark Souls: Prepare To Die Edition</a></i></span></td></tr><tr><td style="border:none;padding:2px 5px"><span style="margin:0;background:lavender;padding:3px;color:#000"><i><a href="/wiki/Dark_Souls_(jeu_vid%C3%A9o)" title="Dark Souls (jeu vidéo)">Dark Souls: Artorias of the Abyss</a></i></span></td></tr><tr><td scope="row" style="text-align:right;border:none;padding:5px;border-right:16px solid #228B22">2013</td></tr><tr><td scope="row" rowspan="2" style="text-align:right;border:none;padding:5px;border-right:16px solid #0BDA51">2014</td><td style="border:none;padding:5px 5px 2px"><i><b><a href="/wiki/Dark_Souls_II" title="Dark Souls II">Dark Souls II</a></b></i></td></tr><tr><td style="border:none;padding:2px 5px"><span style="margin:0;background:lavender;padding:3px;color:#000"><i><a href="/wiki/Dark_Souls_II" title="Dark Souls II">Dark Souls II: The Lost Crowns</a></i></span></td></tr><tr><td scope="row" style="text-align:right;border:none;padding:5px;border-right:16px solid #0BDA51">2015</td><td style="padding:5px;border:none"><span style="margin:0;background:gold;padding:3px;color:#000"><i><a href="/wiki/Dark_Souls_II" title="Dark Souls II">Dark Souls II: Scholar of the First Sin</a></i></span></td></tr><tr><td scope="row" rowspan="2" style="text-align:right;border:none;padding:5px;border-right:16px solid #0BDA51">2016</td><td style="border:none;padding:5px 5px 2px"><i><b><a href="/wiki/Dark_Souls_III" title="Dark Souls III">Dark Souls III</a></b></i></td></tr><tr><td style="border:none;padding:2px 5px"><span style="margin:0;background:lavender;padding:3px;color:#000"><i><a href="/wiki/Dark_Souls_III" title="Dark Souls III">Dark Souls III: Ashes of Ariandel</a></i></span></td></tr><tr><td scope="row" style="text-align:right;border:none;padding:5px;border-right:16px solid #0BDA51">2017</td><td style="padding:5px;border:none"><span style="margin:0;background:lavender;padding:3px;color:#000"><i><a href="/wiki/Dark_Souls_III" title="Dark Souls III">Dark Souls III: The Ringed City</a></i></span></td></tr><tr><td scope="row" style="text-align:right;border:none;padding:5px;border-right:16px solid #0BDA51">2018</td><td style="padding:5px;border:none"><span style="margin:0;background:pink;padding:3px;color:#000"><i><a href="/wiki/Dark_Souls_(jeu_vid%C3%A9o)#Dark_Souls:_Remastered" title="Dark Souls (jeu vidéo)">Dark Souls: Remastered</a></i></span></td></tr></tbody></table><div style="font-weight:bold;font-size:90%;text-align:center">Légende</div><div style="font-size:90%;padding-left:1.5em"><div class="legende-bloc legende-bloc-vertical"><style data-mw-deduplicate="TemplateStyles:r160408543">.mw-parser-output .legende-bloc-centre{display:table;margin:0 auto;text-align:left}.mw-parser-output .legende-bloc ul li{font-size:90%}.mw-parser-output .legende-bloc-vertical ul li{list-style:none;margin:1px 0 0 -1.5em}.mw-parser-output .legende-bloc-vertical ul li li{list-style:none;margin:1px 0 0 -1.0em}</style><ul>
+<li><span class="legende" style="margin-right:.3em;display:inline-block;width:1.3em;height:1.3em;webkit-print-color-adjust:exact;color-adjust:exact;background:lavender;border:none;vertical-align:middle"></span>Extension</li>
+<li><span class="legende" style="margin-right:.3em;display:inline-block;width:1.3em;height:1.3em;webkit-print-color-adjust:exact;color-adjust:exact;background:gold;border:none;vertical-align:middle"></span>Compilation</li>
+<li><span class="legende" style="margin-right:.3em;display:inline-block;width:1.3em;height:1.3em;webkit-print-color-adjust:exact;color-adjust:exact;background:pink;border:none;vertical-align:middle"></span>Remaster</li>
+</ul></div></div></div>
+<div class="mw-heading mw-heading3"><h3 id="Dark_Souls"><i>Dark Souls</i></h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dark_Souls&amp;veaction=edit&amp;section=2" title="Modifier la section : Dark Souls" class="mw-editsection-visualeditor"><span>modifier</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Dark_Souls&amp;action=edit&amp;section=2" title="Modifier le code source de la section : Dark Souls"><span>modifier le code</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<div class="bandeau-container bandeau-section metadata bandeau-niveau-information"><div class="bandeau-cell bandeau-icone-css loupe">Article détaillé&#160;: <a href="/wiki/Dark_Souls_(jeu_vid%C3%A9o)" title="Dark Souls (jeu vidéo)"><i>Dark Souls</i></a>.</div></div>
+<p>Le successeur de <i><span class="lang-en" lang="en"><a href="/wiki/Demon%27s_Souls" title="Demon&#39;s Souls">Demon's Souls</a></span></i> est annoncé en <a href="/wiki/2010_en_jeu_vid%C3%A9o" title="2010 en jeu vidéo">2010</a> au <a href="/wiki/Tokyo_Game_Show" title="Tokyo Game Show">Tokyo Game Show</a>, sous le nom de <i><span class="lang-en" lang="en">Project Dark</span></i><sup id="cite&#95;ref-1" class="reference"><a href="#cite_note-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup><i>.</i> Le jeu finalement nommé <i><span class="lang-en" lang="en">Dark Souls</span></i> sort en <time class="nowrap date-lien" datetime="2011-10" data-sort-value="2011-10"><a href="/wiki/Octobre_2011" title="Octobre 2011">octobre</a> <a href="/wiki/2011_en_jeu_vid%C3%A9o" title="2011 en jeu vidéo">2011</a></time>, cette fois-ci sur <a href="/wiki/PlayStation_3" title="PlayStation 3">PlayStation 3</a> et <a href="/wiki/Xbox_360" title="Xbox 360">Xbox 360</a><sup id="cite&#95;ref-2" class="reference"><a href="#cite_note-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup>. Le jeu est un succès commercial, avec 1,5&#160;million d'exemplaires écoulés en trois semaines, ce qui pousse le studio à développer une version PC. Celle-ci sort en <time class="nowrap date-lien" datetime="2012-08" data-sort-value="2012-08"><a href="/wiki/Ao%C3%BBt_2012" title="Août 2012">août</a> <a href="/wiki/2012_en_jeu_vid%C3%A9o" title="2012 en jeu vidéo">2012</a></time> sous le nom <i><span class="lang-en" lang="en">Dark Souls: Prepare To Die Edition</span></i><sup id="cite&#95;ref-3" class="reference"><a href="#cite_note-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup>. Un chapitre supplémentaire inclus dans cette version et intitulé <i><span class="lang-en" lang="en">Artorias of the Abyss</span></i> sort sur console en tant que <a href="/wiki/Contenu_t%C3%A9l%C3%A9chargeable" class="mw-redirect" title="Contenu téléchargeable">contenu téléchargeable</a> en octobre de la même année<sup id="cite&#95;ref-4" class="reference"><a href="#cite_note-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup>.
+</p><p>Une version <a href="/wiki/Remast%C3%A9risation" title="Remastérisation">remastérisée</a> est publiée sur PC, <a href="/wiki/PlayStation_4" title="PlayStation 4">PlayStation 4</a> et <a href="/wiki/Xbox_One" title="Xbox One">Xbox One</a> en <time class="nowrap" datetime="2018-05" data-sort-value="2018-05">mai 2018</time> et portée sur <a href="/wiki/Nintendo_Switch" title="Nintendo Switch">Nintendo Switch</a> par <a href="/wiki/Virtuos" title="Virtuos">Virtuos</a> en <time class="nowrap" datetime="2018-10" data-sort-value="2018-10">octobre 2018</time><sup id="cite&#95;ref-5" class="reference"><a href="#cite_note-5"><span class="cite-bracket">&#91;</span>5<span class="cite-bracket">&#93;</span></a></sup><sup class="reference cite&#95;virgule">,</sup><sup id="cite&#95;ref-6" class="reference"><a href="#cite_note-6"><span class="cite-bracket">&#91;</span>6<span class="cite-bracket">&#93;</span></a></sup>.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Dark_Souls_II"><i>Dark Souls <abbr class="abbr" title="2"><span class="romain" style="text-transform:uppercase">II</span></abbr></i></h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dark_Souls&amp;veaction=edit&amp;section=3" title="Modifier la section : Dark Souls II" class="mw-editsection-visualeditor"><span>modifier</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Dark_Souls&amp;action=edit&amp;section=3" title="Modifier le code source de la section : Dark Souls II"><span>modifier le code</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<div class="bandeau-container bandeau-section metadata bandeau-niveau-information"><div class="bandeau-cell bandeau-icone-css loupe">Article détaillé&#160;: <a href="/wiki/Dark_Souls_II" title="Dark Souls II"><i>Dark Souls <abbr class="abbr" title="2"><span class="romain" style="text-transform:uppercase">II</span></abbr></i></a>.</div></div>
+<p>Annoncé en <time class="nowrap date-lien" datetime="2012-12" data-sort-value="2012-12"><a href="/wiki/D%C3%A9cembre_2012" title="Décembre 2012">décembre</a> <a href="/wiki/2012_en_jeu_vid%C3%A9o" title="2012 en jeu vidéo">2012</a></time>, <i><span class="lang-en" lang="en">Dark Souls II</span></i> sort en <time class="nowrap date-lien" datetime="2014-03" data-sort-value="2014-03"><a href="/wiki/Mars_2014" title="Mars 2014">mars</a> <a href="/wiki/2014_en_jeu_vid%C3%A9o" title="2014 en jeu vidéo">2014</a></time> sur <a href="/wiki/PlayStation_3" title="PlayStation 3">PlayStation 3</a> et <a href="/wiki/Xbox_360" title="Xbox 360">Xbox 360</a>, et le mois suivant sur PC. Contrairement aux deux jeux précédents, <i><span class="lang-en" lang="en">Dark Souls II</span></i> n'est pas dirigé par <a href="/wiki/Hidetaka_Miyazaki" title="Hidetaka Miyazaki">Hidetaka Miyazaki</a> alors occupé par la réalisation de <i><a href="/wiki/Bloodborne" title="Bloodborne">Bloodborne</a></i>, mais par Tomohiro Shibuya et Yui Tanimura<sup id="cite&#95;ref-7" class="reference"><a href="#cite_note-7"><span class="cite-bracket">&#91;</span>7<span class="cite-bracket">&#93;</span></a></sup>. Une série de trois DLC, réunis sous le nom <i><span class="lang-en" lang="en">The Lost Crowns</span></i>, sort peu après&#160;: <i><span class="lang-en" lang="en">Crown of the Sunken King</span></i> en <time class="nowrap" datetime="2014-07" data-sort-value="2014-07">juillet 2014</time>, <i><span class="lang-en" lang="en">Crown of the Old Iron King</span></i> en août et <i><span class="lang-en" lang="en">Crown of the Ivory King</span></i> en septembre<sup id="cite&#95;ref-8" class="reference"><a href="#cite_note-8"><span class="cite-bracket">&#91;</span>8<span class="cite-bracket">&#93;</span></a></sup>. Une version améliorée du titre comprenant les trois DLC, intitulée <i><span class="lang-en" lang="en">Dark Souls II: Scholar of the First Sin</span></i>, sort en <time class="nowrap date-lien" datetime="2015-04" data-sort-value="2015-04"><a href="/wiki/Avril_2015" title="Avril 2015">avril</a> <a href="/wiki/2015_en_jeu_vid%C3%A9o" title="2015 en jeu vidéo">2015</a></time> sur PC, <a href="/wiki/PlayStation_4" title="PlayStation 4">PlayStation 4</a> et <a href="/wiki/Xbox_One" title="Xbox One">Xbox One</a><sup id="cite&#95;ref-9" class="reference"><a href="#cite_note-9"><span class="cite-bracket">&#91;</span>9<span class="cite-bracket">&#93;</span></a></sup>.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Dark_Souls_III"><i>Dark Souls <abbr class="abbr" title="3"><span class="romain" style="text-transform:uppercase">III</span></abbr></i></h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dark_Souls&amp;veaction=edit&amp;section=4" title="Modifier la section : Dark Souls III" class="mw-editsection-visualeditor"><span>modifier</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Dark_Souls&amp;action=edit&amp;section=4" title="Modifier le code source de la section : Dark Souls III"><span>modifier le code</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<div class="bandeau-container bandeau-section metadata bandeau-niveau-information"><div class="bandeau-cell bandeau-icone-css loupe">Article détaillé&#160;: <a href="/wiki/Dark_Souls_III" title="Dark Souls III"><i>Dark Souls <abbr class="abbr" title="3"><span class="romain" style="text-transform:uppercase">III</span></abbr></i></a>.</div></div>
+<p>Annoncé à l'<a href="/wiki/Electronic_Entertainment_Expo_2015" title="Electronic Entertainment Expo 2015">E3 2015</a>, <i><span class="lang-en" lang="en">Dark Souls III</span></i> marque le retour à la direction de Miyazaki<sup id="cite&#95;ref-10" class="reference"><a href="#cite_note-10"><span class="cite-bracket">&#91;</span>10<span class="cite-bracket">&#93;</span></a></sup>. Le jeu sort en <time class="nowrap date-lien" datetime="2016-04" data-sort-value="2016-04"><a href="/wiki/Avril_2016" title="Avril 2016">avril</a> <a href="/wiki/2016_en_jeu_vid%C3%A9o" title="2016 en jeu vidéo">2016</a></time> sur PC, PlayStation 4 et Xbox One<sup id="cite&#95;ref-11" class="reference"><a href="#cite_note-11"><span class="cite-bracket">&#91;</span>11<span class="cite-bracket">&#93;</span></a></sup>. Deux DLC sont publiés&#160;: <i><span class="lang-en" lang="en">Ashes of Ariandel</span></i> en <time class="nowrap" datetime="2016-10" data-sort-value="2016-10">octobre 2016</time> puis <i><span class="lang-en" lang="en">The Ringed City</span></i> en <time class="nowrap date-lien" datetime="2017-03" data-sort-value="2017-03"><a href="/wiki/Mars_2017" title="Mars 2017">mars</a> <a href="/wiki/2017_en_jeu_vid%C3%A9o" title="2017 en jeu vidéo">2017</a></time><sup id="cite&#95;ref-12" class="reference"><a href="#cite_note-12"><span class="cite-bracket">&#91;</span>12<span class="cite-bracket">&#93;</span></a></sup><sup class="reference cite&#95;virgule">,</sup><sup id="cite&#95;ref-13" class="reference"><a href="#cite_note-13"><span class="cite-bracket">&#91;</span>13<span class="cite-bracket">&#93;</span></a></sup>.
+</p>
+<div class="mw-heading mw-heading2"><h2 id="Références"><span id="R.C3.A9f.C3.A9rences"></span>Références</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dark_Souls&amp;veaction=edit&amp;section=5" title="Modifier la section : Références" class="mw-editsection-visualeditor"><span>modifier</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Dark_Souls&amp;action=edit&amp;section=5" title="Modifier le code source de la section : Références"><span>modifier le code</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<div class="references-small decimal" style=""><div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite&#95;note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a> </span><span class="reference-text"><span class="ouvrage" id="2010">«&#160;<a rel="nofollow" class="external text" href="http://www.jeuxvideo.com/news/2010/00045688-tgs-2010-project-dark-le-prochain-jeux-des-createurs-de-demon-s-souls.htm"><cite style="font-style:normal;">TGS 2010&#160;: Project Dark, le prochain jeux des créateurs de Demon's Souls</cite></a>&#160;», sur <span class="italique"><a href="/wiki/Jeuxvideo.com" title="Jeuxvideo.com">Jeuxvideo.com</a></span>, <time class="nowrap" datetime="2010-09-16" data-sort-value="2010-09-16">16 septembre 2010</time> <small style="line-height:1em;">(consulté le <time class="nowrap" datetime="2019-11-02" data-sort-value="2019-11-02">2 novembre 2019</time>)</small></span></span>
+</li>
+<li id="cite&#95;note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a> </span><span class="reference-text"><span class="ouvrage" id="2011">«&#160;<a rel="nofollow" class="external text" href="http://www.jeuxvideo.com/news/2011/00051156-e3-2011-date-de-sortie-de-dark-souls.htm"><cite style="font-style:normal;">E3 2011&#160;: Date de sortie de Dark Souls</cite></a>&#160;», sur <span class="italique"><a href="/wiki/Jeuxvideo.com" title="Jeuxvideo.com">Jeuxvideo.com</a></span>, <time class="nowrap" datetime="2011-06-03" data-sort-value="2011-06-03">3 juin 2011</time> <small style="line-height:1em;">(consulté le <time class="nowrap" datetime="2019-11-02" data-sort-value="2019-11-02">2 novembre 2019</time>)</small></span></span>
+</li>
+<li id="cite&#95;note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a> </span><span class="reference-text"><span class="ouvrage" id="2012">«&#160;<a rel="nofollow" class="external text" href="http://www.jeuxvideo.com/articles/0001/00016893-dark-souls-preview.htm"><cite style="font-style:normal;">Preview Dark Souls sur PC</cite></a>&#160;», sur <span class="italique"><a href="/wiki/Jeuxvideo.com" title="Jeuxvideo.com">Jeuxvideo.com</a></span>, <time class="nowrap" datetime="2012-04-12" data-sort-value="2012-04-12">12 avril 2012</time> <small style="line-height:1em;">(consulté le <time class="nowrap" datetime="2019-11-02" data-sort-value="2019-11-02">2 novembre 2019</time>)</small></span></span>
+</li>
+<li id="cite&#95;note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a> </span><span class="reference-text"><span class="ouvrage" id="2012">«&#160;<a rel="nofollow" class="external text" href="http://www.jeuxvideo.com/news/2012/00062092-dark-souls-artorias-of-the-abyss-disponible.htm"><cite style="font-style:normal;">Dark Souls&#160;: Artorias of the Abyss disponible</cite></a>&#160;», sur <span class="italique"><a href="/wiki/Jeuxvideo.com" title="Jeuxvideo.com">Jeuxvideo.com</a></span>, <time class="nowrap" datetime="2012-10-25" data-sort-value="2012-10-25">25 octobre 2012</time> <small style="line-height:1em;">(consulté le <time class="nowrap" datetime="2019-11-02" data-sort-value="2019-11-02">2 novembre 2019</time>)</small></span></span>
+</li>
+<li id="cite&#95;note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a> </span><span class="reference-text"><span class="ouvrage" id="2018">«&#160;<a rel="nofollow" class="external text" href="http://www.jeuxvideo.com/news/900987/dark-souls-remastered-sortira-le-19-octobre-sur-nintendo-switch.htm"><cite style="font-style:normal;">Dark Souls Remastered sortira le 19 octobre sur Nintendo Switch</cite></a>&#160;», sur <span class="italique"><a href="/wiki/Jeuxvideo.com" title="Jeuxvideo.com">Jeuxvideo.com</a></span>, <time class="nowrap" datetime="2018-08-14" data-sort-value="2018-08-14">14 août 2018</time> <small style="line-height:1em;">(consulté le <time class="nowrap" datetime="2019-11-02" data-sort-value="2019-11-02">2 novembre 2019</time>)</small></span></span>
+</li>
+<li id="cite&#95;note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a> </span><span class="reference-text"><span class="ouvrage" id="Virtuos2018"><abbr class="abbr indicateur-langue" title="Langue : anglais">(en)</abbr> <a href="/wiki/Virtuos" title="Virtuos">Virtuos</a>, «&#160;<a rel="nofollow" class="external text" href="https://www.virtuosgames.com/en/virtuos-contributes-dark-souls%E2%84%A2-remastered-nintendo-switch%E2%84%A2"><cite style="font-style:normal;" lang="en">Virtuos Contributes To Dark Souls™: Remastered On Nintendo Switch™</cite></a>&#160;», sur <span class="italique">www.virtuosgames.com</span>, <time class="nowrap" datetime="2018-11-01" data-sort-value="2018-11-01"><abbr class="abbr" title="premier">1<sup>er</sup></abbr> novembre 2018</time> <small style="line-height:1em;">(consulté le <time class="nowrap" datetime="2019-11-02" data-sort-value="2019-11-02">2 novembre 2019</time>)</small></span></span>
+</li>
+<li id="cite&#95;note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a> </span><span class="reference-text"><span class="ouvrage" id="2016">«&#160;<a rel="nofollow" class="external text" href="http://www.jeuxvideo.com/dossier/463106/retour-sur-la-saga-des-souls-post-mortem/463101.htm"><cite style="font-style:normal;">Dark Souls 2 - La suite sans Miyazaki - Dossier&#160;: De Demon's Souls à Dark Souls 3 - Retour sur la saga des Souls</cite></a>&#160;», sur <span class="italique"><a href="/wiki/Jeuxvideo.com" title="Jeuxvideo.com">Jeuxvideo.com</a></span>, <time class="nowrap" datetime="2016-03-19" data-sort-value="2016-03-19">19 mars 2016</time> <small style="line-height:1em;">(consulté le <time class="nowrap" datetime="2019-11-02" data-sort-value="2019-11-02">2 novembre 2019</time>)</small></span></span>
+</li>
+<li id="cite&#95;note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a> </span><span class="reference-text"><span class="ouvrage" id="2014">«&#160;<a rel="nofollow" class="external text" href="http://www.jeuxvideo.com/news/2014/00072455-dark-souls-2-une-trilogie-en-dlc.htm"><cite style="font-style:normal;">Dark Souls 2&#160;: Une trilogie en DLC</cite></a>&#160;», sur <span class="italique"><a href="/wiki/Jeuxvideo.com" title="Jeuxvideo.com">Jeuxvideo.com</a></span>, <time class="nowrap" datetime="2014-06-04" data-sort-value="2014-06-04">4 juin 2014</time> <small style="line-height:1em;">(consulté le <time class="nowrap" datetime="2019-11-02" data-sort-value="2019-11-02">2 novembre 2019</time>)</small></span></span>
+</li>
+<li id="cite&#95;note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a> </span><span class="reference-text"><span class="ouvrage" id="2014">«&#160;<a rel="nofollow" class="external text" href="http://www.jeuxvideo.com/news/2014/00076027-dark-souls-2-annonce-sur-one-et-ps4.htm"><cite style="font-style:normal;">Dark Souls 2 annoncé sur One et PS4&#160;!</cite></a>&#160;», sur <span class="italique"><a href="/wiki/Jeuxvideo.com" title="Jeuxvideo.com">Jeuxvideo.com</a></span>, <time class="nowrap" datetime="2014-11-25" data-sort-value="2014-11-25">25 novembre 2014</time> <small style="line-height:1em;">(consulté le <time class="nowrap" datetime="2019-11-02" data-sort-value="2019-11-02">2 novembre 2019</time>)</small></span></span>
+</li>
+<li id="cite&#95;note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a> </span><span class="reference-text"><span class="ouvrage" id="2015">«&#160;<a rel="nofollow" class="external text" href="http://www.jeuxvideo.com/news/429350/e3-2015-dark-souls-iii-officialise.htm"><cite style="font-style:normal;">E3 2015&#160;: Dark Souls III officialisé</cite></a>&#160;», sur <span class="italique"><a href="/wiki/Jeuxvideo.com" title="Jeuxvideo.com">Jeuxvideo.com</a></span>, <time class="nowrap" datetime="2015-06-15" data-sort-value="2015-06-15">15 juin 2015</time> <small style="line-height:1em;">(consulté le <time class="nowrap" datetime="2019-11-02" data-sort-value="2019-11-02">2 novembre 2019</time>)</small></span></span>
+</li>
+<li id="cite&#95;note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a> </span><span class="reference-text"><span class="ouvrage" id="2016">«&#160;<a rel="nofollow" class="external text" href="http://www.jeuxvideo.com/dossier/463106/retour-sur-la-saga-des-souls-post-mortem/463103.htm"><cite style="font-style:normal;">Dark Souls 3 - Le récap avant la sortie - Dossier&#160;: De Demon's Souls à Dark Souls 3 - Retour sur la saga des Souls</cite></a>&#160;», sur <span class="italique"><a href="/wiki/Jeuxvideo.com" title="Jeuxvideo.com">Jeuxvideo.com</a></span>, <time class="nowrap" datetime="2016-03-19" data-sort-value="2016-03-19">19 mars 2016</time> <small style="line-height:1em;">(consulté le <time class="nowrap" datetime="2019-11-02" data-sort-value="2019-11-02">2 novembre 2019</time>)</small></span></span>
+</li>
+<li id="cite&#95;note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a> </span><span class="reference-text"><span class="ouvrage" id="Paget2016"><span class="ouvrage" id="Mat&#95;Paget2016"><abbr class="abbr indicateur-langue" title="Langue : anglais américain">(en-US)</abbr> Mat Paget, «&#160;<a rel="nofollow" class="external text" href="https://www.gamespot.com/articles/dark-souls-3s-first-dlc-details-and-release-date-r/1100-6442947/"><cite style="font-style:normal;" lang="en-us">Dark Souls 3's First DLC Details and Release Date Revealed</cite></a>&#160;», sur <span class="italique"><a href="/wiki/GameSpot" title="GameSpot">GameSpot</a></span>, <time class="nowrap" datetime="2016-08-24" data-sort-value="2016-08-24">24 août 2016</time> <small style="line-height:1em;">(consulté le <time class="nowrap" datetime="2019-11-02" data-sort-value="2019-11-02">2 novembre 2019</time>)</small></span></span></span>
+</li>
+<li id="cite&#95;note-13"><span class="mw-cite-backlink"><a href="#cite_ref-13">↑</a> </span><span class="reference-text"><span class="ouvrage" id="Lynch2017"><span class="ouvrage" id="Sarah&#95;Lynch2017"><abbr class="abbr indicateur-langue" title="Langue : anglais américain">(en-US)</abbr> Sarah Lynch, «&#160;<a rel="nofollow" class="external text" href="https://www.gamespot.com/videos/dark-souls-iii-the-ringed-city-dlc-announcement-tr/2300-6436755/"><cite style="font-style:normal;" lang="en-us">Dark Souls III - The Ringed City DLC Announcement Trailer</cite></a>&#160;», sur <span class="italique"><a href="/wiki/GameSpot" title="GameSpot">GameSpot</a></span>, <time class="nowrap" datetime="2017-01-24" data-sort-value="2017-01-24">24 janvier 2017</time> <small style="line-height:1em;">(consulté le <time class="nowrap" datetime="2019-11-02" data-sort-value="2019-11-02">2 novembre 2019</time>)</small></span></span></span>
+</li>
+</ol></div>
+</div>
+<div class="mw-heading mw-heading2"><h2 id="Liens_externes">Liens externes</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dark_Souls&amp;veaction=edit&amp;section=6" title="Modifier la section : Liens externes" class="mw-editsection-visualeditor"><span>modifier</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Dark_Souls&amp;action=edit&amp;section=6" title="Modifier le code source de la section : Liens externes"><span>modifier le code</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p class="mw-empty-elt">
+</p>
+<ul><li class="mw-empty-elt"></li>
+<li class="mw-empty-elt"></li>
+<li class="mw-empty-elt"></li>
+<li class="mw-empty-elt"></li>
+<li><div class="liste-horizontale"><span class="wd&#95;identifiers">Notice dans un dictionnaire ou une encyclopédie généraliste<span class="noprint wikidata-linkback skin-invert"><span class="mw-valign-baseline noviewer" typeof="mw:File"><a href="https://www.wikidata.org/wiki/Q99431276?uselang=fr#identifiers" title="Voir et modifier les données sur Wikidata"><img alt="Voir et modifier les données sur Wikidata" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png" decoding="async" width="10" height="10" class="mw-file-element" data-file-width="600" data-file-height="600" /></a></span></span></span>&#160;: <ul><li><a rel="nofollow" class="external text" href="https://snl.no/Dark_Souls"><i>Store norske leksikon</i></a></li> </ul></div></li>
+<li class="mw-empty-elt"></li></ul>
+<div class="navbox-container" style="clear:both;">
+<table class="navbox collapsible noprint collapsed" style="">
+<tbody><tr><th class="navbox-title" colspan="3" style=""><div style="float:left; width:6em; text-align:left"><div class="noprint plainlinks nowrap tnavbar" style="padding:0; font-size:xx-small; color:var(--color-emphasized, #000000);"><a href="/wiki/Mod%C3%A8le:Palette_Dark_Souls" title="Modèle:Palette Dark Souls"><abbr class="abbr" title="Voir ce modèle.">v</abbr></a>&#160;· <a class="external text" href="https://fr.wikipedia.org/w/index.php?title=Mod%C3%A8le:Palette_Dark_Souls&amp;action=edit"><abbr class="abbr" title="Modifier ce modèle. Merci de prévisualiser avant de sauvegarder.">m</abbr></a></div></div><div style="font-size:110%"><i><a class="mw-selflink selflink">Dark Souls</a></i></div></th>
+</tr> <tr>
+<td class="navbox-banner" style="" colspan="3"><div class="liste-horizontale">
+<ul><li><i><a href="/wiki/Souls" title="Souls">Souls</a></i></li>
+<li><a href="/wiki/FromSoftware" title="FromSoftware">From Software</a></li>
+<li><a href="/wiki/Hidetaka_Miyazaki" title="Hidetaka Miyazaki">Hidetaka Miyazaki</a></li>
+<li><a href="/wiki/Bandai_Namco_Entertainment" title="Bandai Namco Entertainment">Bandai Namco Entertainment</a></li></ul>
+</div></td>
+</tr> <tr>
+<th class="navbox-group" style=""><a href="/wiki/Jeux_vid%C3%A9o" class="mw-redirect" title="Jeux vidéo">Jeux vidéo</a></th>
+<td class="navbox-list" style=""><div class="liste-horizontale">
+<ul><li><i><a href="/wiki/Dark_Souls_(jeu_vid%C3%A9o)" title="Dark Souls (jeu vidéo)">Dark Souls</a></i>
+<ul><li><i><a href="/w/index.php?title=Artorias_of_the_Abyss&amp;action=edit&amp;redlink=1" class="new" title="Artorias of the Abyss (page inexistante)">Artorias of the Abyss</a>&#160;<a href="https://en.wikipedia.org/wiki/Dark_Souls:_Artorias_of_the_Abyss" class="extiw" title="en:Dark Souls: Artorias of the Abyss"><span class="indicateur-langue" title="Article en anglais&#160;: «&#160;Dark Souls: Artorias of the Abyss&#160;»">(en)</span></a></i></li></ul></li>
+<li><i><a href="/wiki/Dark_Souls_II" title="Dark Souls II">Dark Souls II</a></i>
+<ul><li><i><a href="/w/index.php?title=The_Lost_Crowns&amp;action=edit&amp;redlink=1" class="new" title="The Lost Crowns (page inexistante)">The Lost Crowns</a>&#160;<a href="https://en.wikipedia.org/wiki/Dark_Souls_II:_The_Lost_Crowns" class="extiw" title="en:Dark Souls II: The Lost Crowns"><span class="indicateur-langue" title="Article en anglais&#160;: «&#160;Dark Souls II: The Lost Crowns&#160;»">(en)</span></a></i></li>
+<li><i><a href="/w/index.php?title=Scholar_of_the_First_Sin&amp;action=edit&amp;redlink=1" class="new" title="Scholar of the First Sin (page inexistante)">Scholar of the First Sin</a></i></li></ul></li>
+<li><i><a href="/wiki/Dark_Souls_III" title="Dark Souls III">Dark Souls III</a></i>
+<ul><li><i><a href="/w/index.php?title=Ashes_of_Ariandel&amp;action=edit&amp;redlink=1" class="new" title="Ashes of Ariandel (page inexistante)">Ashes of Ariandel</a></i></li>
+<li><i><a href="/w/index.php?title=The_Ringed_City&amp;action=edit&amp;redlink=1" class="new" title="The Ringed City (page inexistante)">The Ringed City</a>&#160;<a href="https://en.wikipedia.org/wiki/Dark_Souls_III:_The_Ringed_City" class="extiw" title="en:Dark Souls III: The Ringed City"><span class="indicateur-langue" title="Article en anglais&#160;: «&#160;Dark Souls III: The Ringed City&#160;»">(en)</span></a></i></li></ul></li></ul>
+</div></td>
+<td class="navbox-image" rowspan="6" style="vertical-align:middle;padding-left:7px"><span typeof="mw:File"><a href="/wiki/Fichier:Dark_Souls_logo_black.svg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Dark_Souls_logo_black.svg/250px-Dark_Souls_logo_black.svg.png" decoding="async" width="200" height="25" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Dark_Souls_logo_black.svg/500px-Dark_Souls_logo_black.svg.png 2x" data-file-width="512" data-file-height="63" /></a></span></td>
+</tr> <tr>
+<th class="navbox-group" style=""><a href="/wiki/Musique_de_jeu_vid%C3%A9o" title="Musique de jeu vidéo">Bande sonore</a></th>
+<td class="navbox-list navbox-even" style=""><div class="liste-horizontale">
+<ul><li><i><a href="/w/index.php?title=Dark_Souls_(bande_sonore)&amp;action=edit&amp;redlink=1" class="new" title="Dark Souls (bande sonore) (page inexistante)">Dark Souls</a></i>
+<ul><li><i><a href="/w/index.php?title=Dark_Souls_with_Artorias_of_the_Abyss_edition_(bande_sonore)&amp;action=edit&amp;redlink=1" class="new" title="Dark Souls with Artorias of the Abyss edition (bande sonore) (page inexistante)">Dark Souls with Artorias of the Abyss edition</a></i></li></ul></li>
+<li><i><a href="/w/index.php?title=Dark_Souls_II_(bande_sonore)&amp;action=edit&amp;redlink=1" class="new" title="Dark Souls II (bande sonore) (page inexistante)">Dark Souls II</a></i>
+<ul><li><i><a href="/w/index.php?title=Dark_Souls_II_Scholar_of_the_First_Sin_(bande_sonore)&amp;action=edit&amp;redlink=1" class="new" title="Dark Souls II Scholar of the First Sin (bande sonore) (page inexistante)">Dark Souls II Scholar of the First Sin</a></i></li></ul></li>
+<li><i><a href="/w/index.php?title=Dark_Souls_III_(bande_sonore)&amp;action=edit&amp;redlink=1" class="new" title="Dark Souls III (bande sonore) (page inexistante)">Dark Souls III</a></i>
+<ul><li><i><a href="/w/index.php?title=Dark_Souls_III_Ashes_of_Ariandel_(bande_sonore)&amp;action=edit&amp;redlink=1" class="new" title="Dark Souls III Ashes of Ariandel (bande sonore) (page inexistante)">Dark Souls III Ashes of Ariandel</a></i></li>
+<li><i><a href="/w/index.php?title=Dark_Souls_III_The_Ringed_City_(bande_sonore)&amp;action=edit&amp;redlink=1" class="new" title="Dark Souls III The Ringed City (bande sonore) (page inexistante)">Dark Souls III The Ringed City</a></i></li></ul></li></ul>
+</div></td>
+</tr> <tr>
+<th class="navbox-group" style="">Autres médias</th>
+<td class="navbox-list" style=""><div class="liste-horizontale">
+<ul><li><i><a href="/w/index.php?title=Dark_Souls:_Design_Works&amp;action=edit&amp;redlink=1" class="new" title="Dark Souls: Design Works (page inexistante)">Dark Souls: Design Works</a></i></li>
+<li><i><a href="/w/index.php?title=Dark_Souls_II:_Design_Works&amp;action=edit&amp;redlink=1" class="new" title="Dark Souls II: Design Works (page inexistante)">Dark Souls II: Design Works</a></i></li>
+<li><i><a href="/w/index.php?title=Dark_Souls_III:_Design_Works&amp;action=edit&amp;redlink=1" class="new" title="Dark Souls III: Design Works (page inexistante)">Dark Souls III: Design Works</a></i></li>
+<li><i><a href="/w/index.php?title=Dark_Souls:_The_Breath_of_Andolus&amp;action=edit&amp;redlink=1" class="new" title="Dark Souls: The Breath of Andolus (page inexistante)">Dark Souls: The Breath of Andolus</a></i></li>
+<li><i><a href="/w/index.php?title=Slashy_Souls&amp;action=edit&amp;redlink=1" class="new" title="Slashy Souls (page inexistante)">Slashy Souls</a>&#160;<a href="https://en.wikipedia.org/wiki/Slashy_Souls" class="extiw" title="en:Slashy Souls"><span class="indicateur-langue" title="Article en anglais&#160;: «&#160;Slashy Souls&#160;»">(en)</span></a></i></li>
+<li><i><a href="/w/index.php?title=Dark_Souls_-_The_Board_Game&amp;action=edit&amp;redlink=1" class="new" title="Dark Souls - The Board Game (page inexistante)">Dark Souls – The Board Game</a>&#160;<a href="https://en.wikipedia.org/wiki/Dark_Souls_%E2%80%93_The_Board_Game" class="extiw" title="en:Dark Souls – The Board Game"><span class="indicateur-langue" title="Article en anglais&#160;: «&#160;Dark Souls – The Board Game&#160;»">(en)</span></a></i></li></ul>
+</div></td>
+</tr> <tr>
+<th class="navbox-group" style=""><a href="/wiki/Mod_(jeu_vid%C3%A9o)" title="Mod (jeu vidéo)">Mods</a></th>
+<td class="navbox-list navbox-even" style=""><div class="liste-horizontale">
+<ul><li><i><a href="/w/index.php?title=Dark_Souls:_Daughters_of_Ash&amp;action=edit&amp;redlink=1" class="new" title="Dark Souls: Daughters of Ash (page inexistante)">Dark Souls: Daughters of Ash</a></i></li>
+<li><i><a href="/w/index.php?title=Dark_Souls:_Nightfall&amp;action=edit&amp;redlink=1" class="new" title="Dark Souls: Nightfall (page inexistante)">Dark Souls: Nightfall</a></i></li></ul>
+</div></td>
+</tr> <tr>
+<th class="navbox-group" style="">Univers</th>
+<td class="navbox-list" style=""><div class="liste-horizontale">
+<ul><li><a href="/w/index.php?title=Noble_Mort-vivant_(Dark_Souls)&amp;action=edit&amp;redlink=1" class="new" title="Noble Mort-vivant (Dark Souls) (page inexistante)">Noble Mort-vivant</a> <small>(<a href="/wiki/Protagoniste" title="Protagoniste">protagoniste</a>)</small></li>
+<li><a href="/w/index.php?title=%C3%82me_damn%C3%A9e_(Dark_Souls_II)&amp;action=edit&amp;redlink=1" class="new" title="Âme damnée (Dark Souls II) (page inexistante)">Âme damnée</a> <small>(<a href="/wiki/Protagoniste" title="Protagoniste">protagoniste</a>)</small></li>
+<li><a href="/w/index.php?title=Morteflamme_(Dark_Souls_III)&amp;action=edit&amp;redlink=1" class="new" title="Morteflamme (Dark Souls III) (page inexistante)">Morteflamme</a> <small>(<a href="/wiki/Protagoniste" title="Protagoniste">protagoniste</a>)</small></li>
+<li><a href="/w/index.php?title=Solaire_d%27Astora&amp;action=edit&amp;redlink=1" class="new" title="Solaire d&#39;Astora (page inexistante)">Solaire d'Astora</a>&#160;<a href="https://en.wikipedia.org/wiki/Solaire_of_Astora" class="extiw" title="en:Solaire of Astora"><span class="indicateur-langue" title="Article en anglais&#160;: «&#160;Solaire of Astora&#160;»">(en)</span></a> <small>(<a href="/wiki/PNJ" class="mw-redirect" title="PNJ">PNJ</a>)</small></li>
+<li><a href="/w/index.php?title=Ornstein_et_Smough&amp;action=edit&amp;redlink=1" class="new" title="Ornstein et Smough (page inexistante)">Ornstein et Smough</a>&#160;<a href="https://en.wikipedia.org/wiki/Ornstein_and_Smough" class="extiw" title="en:Ornstein and Smough"><span class="indicateur-langue" title="Article en anglais&#160;: «&#160;Ornstein and Smough&#160;»">(en)</span></a> <small>(<i><a href="/wiki/Boss" title="Boss">boss</a></i>)</small></li>
+<li><a href="/w/index.php?title=Sif_(Dark_Souls)&amp;action=edit&amp;redlink=1" class="new" title="Sif (Dark Souls) (page inexistante)">Sif</a>&#160;<a href="https://en.wikipedia.org/wiki/Sif_(Dark_Souls)" class="extiw" title="en:Sif (Dark Souls)"><span class="indicateur-langue" title="Article en anglais&#160;: «&#160;Sif (Dark Souls)&#160;»">(en)</span></a> <small>(<i><a href="/wiki/Boss" title="Boss">boss</a></i>)</small></li>
+<li><a href="/w/index.php?title=Liste_des_zones_de_Dark_Souls&amp;action=edit&amp;redlink=1" class="new" title="Liste des zones de Dark Souls (page inexistante)">Liste des zones de Dark Souls</a></li>
+<li><a href="/w/index.php?title=Anor_Londo&amp;action=edit&amp;redlink=1" class="new" title="Anor Londo (page inexistante)">Anor Londo</a>&#160;<a href="https://en.wikipedia.org/wiki/Anor_Londo" class="extiw" title="en:Anor Londo"><span class="indicateur-langue" title="Article en anglais&#160;: «&#160;Anor Londo&#160;»">(en)</span></a></li></ul>
+</div></td>
+</tr> <tr>
+<th class="navbox-group" style=""><i><a href="/wiki/Souls" title="Souls">Soulsborne</a></i></th>
+<td class="navbox-list navbox-even" style=""><div class="liste-horizontale">
+<ul><li><i><a href="/wiki/Demon%27s_Souls" title="Demon&#39;s Souls">Demon's Souls</a></i>
+<ul><li><a href="/w/index.php?title=Demon%27s_Souls_(2020)&amp;action=edit&amp;redlink=1" class="new" title="Demon&#39;s Souls (2020) (page inexistante)">Version de 2020</a>&#160;<a href="https://en.wikipedia.org/wiki/Demon%27s_Souls_(2020_video_game)" class="extiw" title="en:Demon&#39;s Souls (2020 video game)"><span class="indicateur-langue" title="Article en anglais&#160;: «&#160;Demon&#39;s Souls (2020 video game)&#160;»">(en)</span></a></li></ul></li>
+<li><i><a href="/wiki/Bloodborne" title="Bloodborne">Bloodborne</a></i>
+<ul><li><i><a href="/w/index.php?title=Bloodborne:_The_Old_Hunters&amp;action=edit&amp;redlink=1" class="new" title="Bloodborne: The Old Hunters (page inexistante)">The Old Hunters</a></i></li></ul></li>
+<li><i><a href="/wiki/Sekiro:_Shadows_Die_Twice" title="Sekiro: Shadows Die Twice">Sekiro: Shadows Die Twice</a></i></li>
+<li><i><a href="/wiki/Elden_Ring" title="Elden Ring">Elden Ring</a></i></li></ul>
+</div></td>
+</tr>                         <tr>
+<td class="navbox-banner" style="" colspan="3"><div class="liste-horizontale">
+<ul><li><a href="/wiki/Histoire_du_jeu_vid%C3%A9o" title="Histoire du jeu vidéo">Histoire du jeu vidéo</a></li>
+<li><a href="/w/index.php?title=Jeu_vid%C3%A9o_en_tant_que_forme_d%27art&amp;action=edit&amp;redlink=1" class="new" title="Jeu vidéo en tant que forme d&#39;art (page inexistante)">Jeu vidéo en tant que forme d'art</a>&#160;<a href="https://en.wikipedia.org/wiki/Video_games_as_an_art_form" class="extiw" title="en:Video games as an art form"><span class="indicateur-langue" title="Article en anglais&#160;: «&#160;Video games as an art form&#160;»">(en)</span></a></li>
+<li><i><a href="/wiki/Souls-like" title="Souls-like">Soulslike</a></i></li>
+<li><i><a href="/wiki/Dark_fantasy" title="Dark fantasy">Dark fantasy</a></i></li></ul>
+</div></td></tr></tbody></table>
+<table class="navbox collapsible noprint autocollapse" style="">
+<tbody><tr><th class="navbox-title" colspan="2" style=""><div style="float:left; width:6em; text-align:left"><div class="noprint plainlinks nowrap tnavbar" style="padding:0; font-size:xx-small; color:var(--color-emphasized, #000000);"><a href="/wiki/Mod%C3%A8le:Palette_FromSoftware" title="Modèle:Palette FromSoftware"><abbr class="abbr" title="Voir ce modèle.">v</abbr></a>&#160;· <a class="external text" href="https://fr.wikipedia.org/w/index.php?title=Mod%C3%A8le:Palette_FromSoftware&amp;action=edit"><abbr class="abbr" title="Modifier ce modèle. Merci de prévisualiser avant de sauvegarder.">m</abbr></a></div></div><div style="font-size:110%"><a href="/wiki/FromSoftware" title="FromSoftware">FromSoftware</a></div></th>
+</tr>  <tr>
+<th class="navbox-group" style="">Jeux vidéo</th>
+<td class="navbox-list" style=""><table class="navbox-subgroup" style="">
+<tbody><tr>
+<th class="navbox-group" style=""><i>Another Century's Episode</i></th>
+<td class="navbox-list" style=";"><div class="liste-horizontale">
+<ul><li><i><a href="/wiki/Another_Century%27s_Episode" title="Another Century&#39;s Episode">Another Century's Episode</a></i></li>
+<li><i><a href="/w/index.php?title=Another_Century%27s_Episode_2&amp;action=edit&amp;redlink=1" class="new" title="Another Century&#39;s Episode 2 (page inexistante)">2</a></i></li>
+<li><i><a href="/w/index.php?title=Another_Century%27s_Episode_3:_The_Final&amp;action=edit&amp;redlink=1" class="new" title="Another Century&#39;s Episode 3: The Final (page inexistante)">3: The Final</a></i></li>
+<li><i><a href="/w/index.php?title=Another_Century%27s_Episode:_R&amp;action=edit&amp;redlink=1" class="new" title="Another Century&#39;s Episode: R (page inexistante)">R</a></i></li>
+<li><i><a href="/w/index.php?title=Another_Century%27s_Episode_Portable&amp;action=edit&amp;redlink=1" class="new" title="Another Century&#39;s Episode Portable (page inexistante)">Portable</a></i></li></ul>
+</div></td>
+</tr> <tr>
+<th class="navbox-group" style=""><i><a href="/wiki/Armored_Core" title="Armored Core">Armored Core</a></i></th>
+<td class="navbox-list navbox-even" style=";"><div class="liste-horizontale">
+<ul><li><i><a href="/wiki/Armored_Core_(jeu_vid%C3%A9o)" title="Armored Core (jeu vidéo)">Armored Core</a></i></li>
+<li><i><a href="/wiki/Armored_Core:_Project_Phantasma" title="Armored Core: Project Phantasma">Project Phantasma</a></i></li>
+<li><i><a href="/wiki/Armored_Core:_Master_of_Arena" title="Armored Core: Master of Arena">Master of Arena</a></i></li>
+<li><i><a href="/wiki/Armored_Core_2" title="Armored Core 2">2</a></i></li>
+<li><i><a href="/wiki/Armored_Core_2:_Another_Age" title="Armored Core 2: Another Age">2: Another Age</a></i></li>
+<li><i><a href="/wiki/Armored_Core_3" title="Armored Core 3">3</a></i></li>
+<li><i><a href="/wiki/Silent_Line:_Armored_Core" title="Silent Line: Armored Core">Silent Line</a></i></li>
+<li><i><a href="/wiki/Armored_Core:_Nexus" title="Armored Core: Nexus">Nexus</a></i></li>
+<li><i><a href="/wiki/Armored_Core:_Nine_Breaker" title="Armored Core: Nine Breaker">Nine Breaker</a></i></li>
+<li><i><a href="/wiki/Armored_Core:_Formula_Front" title="Armored Core: Formula Front">Formula Front</a></i></li>
+<li><i><a href="/wiki/Armored_Core:_Last_Raven" title="Armored Core: Last Raven">Last Raven</a></i></li>
+<li><i><a href="/wiki/Armored_Core_4" title="Armored Core 4">4</a></i></li>
+<li><i><a href="/wiki/Armored_Core:_For_Answer" title="Armored Core: For Answer">For Answer</a></i></li>
+<li><i><a href="/wiki/Armored_Core_V" title="Armored Core V">V</a></i></li>
+<li><i><a href="/wiki/Armored_Core:_Verdict_Day" title="Armored Core: Verdict Day">Verdict Day</a></i></li>
+<li><i><a href="/wiki/Armored_Core_VI:_Fires_of_Rubicon" title="Armored Core VI: Fires of Rubicon">VI: Fires of Rubicon</a></i></li></ul>
+</div></td>
+</tr> <tr>
+<th class="navbox-group" style=""><i>Echo Night</i></th>
+<td class="navbox-list" style=";"><div class="liste-horizontale">
+<ul><li><i><a href="/wiki/Echo_Night" title="Echo Night">Echo Night</a></i></li>
+<li><i><a href="/w/index.php?title=Echo_Night_2:_The_Lord_of_Nightmares&amp;action=edit&amp;redlink=1" class="new" title="Echo Night 2: The Lord of Nightmares (page inexistante)">2: The Lord of Nightmares</a></i></li>
+<li><i><a href="/wiki/Echo_Night:_Beyond" title="Echo Night: Beyond">Beyond</a></i></li></ul>
+</div></td>
+</tr> <tr>
+<th class="navbox-group" style=""><i>King's Field</i></th>
+<td class="navbox-list navbox-even" style=";"><div class="liste-horizontale">
+<ul><li><i><a href="/wiki/King%27s_Field" title="King&#39;s Field">King's Field</a></i></li>
+<li><i><a href="/wiki/King%27s_Field_II" title="King&#39;s Field II">II</a></i></li>
+<li><i><a href="/wiki/King%27s_Field_III" title="King&#39;s Field III">III</a></i></li>
+<li><i><a href="/wiki/King%27s_Field_IV" title="King&#39;s Field IV">IV</a></i></li></ul>
+</div></td>
+</tr> <tr>
+<th class="navbox-group" style=""><i>Shadow Tower</i></th>
+<td class="navbox-list" style=";"><div class="liste-horizontale">
+<ul><li><i><a href="/w/index.php?title=Shadow_Tower&amp;action=edit&amp;redlink=1" class="new" title="Shadow Tower (page inexistante)">Shadow Tower</a></i></li>
+<li><i><a href="/wiki/Shadow_Tower_Abyss" title="Shadow Tower Abyss">Shadow Tower Abyss</a></i></li></ul>
+</div></td>
+</tr> <tr>
+<th class="navbox-group" style=""><i>Evergrace</i></th>
+<td class="navbox-list navbox-even" style=";"><div class="liste-horizontale">
+<ul><li><i><a href="/wiki/Evergrace" title="Evergrace">Evergrace</a></i></li>
+<li><i><a href="/w/index.php?title=Forever_Kingdom&amp;action=edit&amp;redlink=1" class="new" title="Forever Kingdom (page inexistante)">Forever Kingdom</a></i></li></ul>
+</div></td>
+</tr> <tr>
+<th class="navbox-group" style=""><i>Otogi</i></th>
+<td class="navbox-list" style=";"><div class="liste-horizontale">
+<ul><li><i><a href="/wiki/Otogi:_Myth_of_Demons" title="Otogi: Myth of Demons">Otogi: Myth of Demons</a></i></li>
+<li><i><a href="/wiki/Otogi_2:_Immortal_Warriors" title="Otogi 2: Immortal Warriors">Otogi 2: Immortal Warriors</a></i></li></ul>
+</div></td>
+</tr> <tr>
+<th class="navbox-group" style=""><i>Les Royaumes perdus</i></th>
+<td class="navbox-list navbox-even" style=";"><div class="liste-horizontale">
+<ul><li><i><a href="/wiki/Les_Royaumes_perdus" title="Les Royaumes perdus">Les Royaumes perdus</a></i></li>
+<li><i><a href="/wiki/Les_Royaumes_perdus_II" title="Les Royaumes perdus II">Les Royaumes perdus II</a></i></li></ul>
+</div></td>
+</tr> <tr>
+<th class="navbox-group" style=""><i><a href="/wiki/Souls" title="Souls">Souls</a></i></th>
+<td class="navbox-list" style=";"><div class="liste-horizontale">
+<ul><li><i><a href="/wiki/Demon%27s_Souls" title="Demon&#39;s Souls">Demon's Souls</a></i></li>
+<li><i><a href="/wiki/Dark_Souls_(jeu_vid%C3%A9o)" title="Dark Souls (jeu vidéo)">Dark Souls</a></i></li>
+<li><i><a href="/wiki/Dark_Souls_II" title="Dark Souls II">DS2</a></i></li>
+<li><i><a href="/wiki/Dark_Souls_III" title="Dark Souls III">DS3</a></i></li>
+<li><i><a href="/wiki/Bloodborne" title="Bloodborne">Bloodborne</a></i></li>
+<li><i><a href="/wiki/Elden_Ring" title="Elden Ring">Elden Ring</a></i></li>
+<li><i><a href="/wiki/Elden_Ring_Nightreign" title="Elden Ring Nightreign">Nightreign</a></i></li></ul>
+</div></td>
+</tr> <tr>
+<th class="navbox-group" style="">Autres jeux</th>
+<td class="navbox-list navbox-even" style=";"><div class="liste-horizontale">
+<ul><li><i><a href="/wiki/3D_Dot_Game_Heroes" title="3D Dot Game Heroes">3D Dot Game Heroes</a></i></li>
+<li><i><a href="/wiki/D%C3%A9racin%C3%A9" title="Déraciné">Déraciné</a></i></li>
+<li><i><a href="/wiki/Enchanted_Arms" title="Enchanted Arms">Enchanted Arms</a></i></li>
+<li><i><a href="/wiki/Eternal_Ring" title="Eternal Ring">Eternal Ring</a></i></li>
+<li><i><a href="/w/index.php?title=Frame_Gride&amp;action=edit&amp;redlink=1" class="new" title="Frame Gride (page inexistante)">Frame Gride</a></i></li>
+<li><i><a href="/wiki/Kuon" title="Kuon">Kuon</a></i></li>
+<li><i><a href="/w/index.php?title=Kuri_Kuri_Mix&amp;action=edit&amp;redlink=1" class="new" title="Kuri Kuri Mix (page inexistante)">Kuri Kuri Mix</a></i></li>
+<li><i><a href="/wiki/Metal_Wolf_Chaos" title="Metal Wolf Chaos">Metal Wolf Chaos</a></i></li>
+<li><i><a href="/wiki/Monster_Hunter_Diary" title="Monster Hunter Diary">Monster Hunter Diary</a></i></li>
+<li><i><a href="/wiki/Murakumo:_Renegade_Mech_Pursuit" title="Murakumo: Renegade Mech Pursuit">Murakumo: Renegade Mech Pursuit</a></i></li>
+<li><i><a href="/wiki/Ninja_Blade" title="Ninja Blade">Ninja Blade</a></i></li>
+<li><i><a href="/wiki/Sekiro:_Shadows_Die_Twice" title="Sekiro: Shadows Die Twice">Sekiro: Shadows Die Twice</a></i></li>
+<li><i><a href="/w/index.php?title=Shadow_Assault:_Tenchu&amp;action=edit&amp;redlink=1" class="new" title="Shadow Assault: Tenchu (page inexistante)">Shadow Assault: Tenchu</a>&#160;<a href="https://en.wikipedia.org/wiki/Shadow_Assault:_Tenchu" class="extiw" title="en:Shadow Assault: Tenchu"><span class="indicateur-langue" title="Article en anglais&#160;: «&#160;Shadow Assault: Tenchu&#160;»">(en)</span></a></i></li>
+<li><i><a href="/wiki/Steel_Battalion:_Heavy_Armor" title="Steel Battalion: Heavy Armor">Steel Battalion: Heavy Armor</a></i></li></ul>
+</div></td>
+</tr>                    
+
+</tbody></table></td>
+</tr> <tr>
+<th class="navbox-group" style="">Articles connexes</th>
+<td class="navbox-list navbox-even" style=""><div class="liste-horizontale">
+<ul><li><a href="/wiki/Hidetaka_Miyazaki" title="Hidetaka Miyazaki">Hidetaka Miyazaki</a></li>
+<li><a href="/wiki/Yuka_Kitamura" title="Yuka Kitamura">Yuka Kitamura</a></li>
+<li><a href="/wiki/Souls-like" title="Souls-like">Souls-like</a></li></ul>
+</div></td>
+</tr>                             </tbody></table>
+<table class="navbox collapsible noprint collapsed" style="">
+<tbody><tr><th class="navbox-title" colspan="2" style=""><div style="float:left; width:6em; text-align:left"><div class="noprint plainlinks nowrap tnavbar" style="padding:0; font-size:xx-small; color:var(--color-emphasized, #000000);"><a href="/wiki/Mod%C3%A8le:Palette_Soulslike" title="Modèle:Palette Soulslike"><abbr class="abbr" title="Voir ce modèle.">v</abbr></a>&#160;· <a class="external text" href="https://fr.wikipedia.org/w/index.php?title=Mod%C3%A8le:Palette_Soulslike&amp;action=edit"><abbr class="abbr" title="Modifier ce modèle. Merci de prévisualiser avant de sauvegarder.">m</abbr></a></div></div><div style="font-size:110%"><i><a href="/wiki/Souls-like" title="Souls-like">Soulslike</a></i></div></th>
+</tr> <tr>
+<td class="navbox-banner" style="" colspan="2"><div class="liste-horizontale">
+<ul><li><a href="/wiki/Genre_de_jeu_vid%C3%A9o" title="Genre de jeu vidéo">Genre de jeu vidéo</a></li></ul>
+</div></td>
+</tr> <tr>
+<th class="navbox-group" style=""><i><a href="/wiki/Souls" title="Souls">Souls</a></i></th>
+<td class="navbox-list" style=""><div class="liste-horizontale">
+<ul><li><i><a href="/wiki/Demon%27s_Souls" title="Demon&#39;s Souls">Demon's Souls</a></i></li>
+<li><i><a href="/wiki/Dark_Souls_(jeu_vid%C3%A9o)" title="Dark Souls (jeu vidéo)">Dark Souls</a></i></li>
+<li><i><a href="/wiki/Dark_Souls_II" title="Dark Souls II">Dark Souls II</a></i></li>
+<li><i><a href="/wiki/Dark_Souls_III" title="Dark Souls III">Dark Souls III</a></i></li></ul>
+</div></td>
+</tr> <tr>
+<th class="navbox-group" style=""><a href="/wiki/Jeu_vid%C3%A9o" title="Jeu vidéo">Jeux vidéo</a></th>
+<td class="navbox-list navbox-even" style=""><div class="liste-horizontale">
+<ul><li><i><a href="/wiki/King%27s_Field" title="King&#39;s Field">King's Field</a></i></li>
+<li><i><a href="/wiki/Bloodborne" title="Bloodborne">Bloodborne</a></i></li>
+<li><i><a href="/wiki/Sekiro:_Shadows_Die_Twice" title="Sekiro: Shadows Die Twice">Sekiro</a></i></li>
+<li><i><a href="/wiki/Elden_Ring" title="Elden Ring">Elden Ring</a></i></li>
+<li><i><a href="/wiki/Elden_Ring_Nightreign" title="Elden Ring Nightreign">Elden Ring Nightreign</a></i></li>
+<li><i><a href="/wiki/Lords_of_the_Fallen_(jeu_vid%C3%A9o,_2014)" title="Lords of the Fallen (jeu vidéo, 2014)">Lords of the Fallen</a></i></li>
+<li><i><a href="/wiki/Titan_Souls" title="Titan Souls">Titan Souls</a></i></li>
+<li><i><a href="/w/index.php?title=DarkMaus&amp;action=edit&amp;redlink=1" class="new" title="DarkMaus (page inexistante)">DarkMaus</a>&#160;<a href="https://en.wikipedia.org/wiki/DarkMaus" class="extiw" title="en:DarkMaus"><span class="indicateur-langue" title="Article en anglais&#160;: «&#160;DarkMaus&#160;»">(en)</span></a></i></li>
+<li><i><a href="/wiki/Salt_and_Sanctuary" title="Salt and Sanctuary">Salt and Sanctuary</a></i></li>
+<li><i><a href="/w/index.php?title=Salt_and_Sacrifice&amp;action=edit&amp;redlink=1" class="new" title="Salt and Sacrifice (page inexistante)">Salt and Sacrifice</a>&#160;<a href="https://en.wikipedia.org/wiki/Salt_and_Sacrifice" class="extiw" title="en:Salt and Sacrifice"><span class="indicateur-langue" title="Article en anglais&#160;: «&#160;Salt and Sacrifice&#160;»">(en)</span></a></i></li>
+<li><i><a href="/wiki/Nioh" title="Nioh">Nioh</a></i></li>
+<li><i><a href="/wiki/Nioh_2" title="Nioh 2">Nioh 2</a></i></li>
+<li><i><a href="/wiki/The_Surge" title="The Surge">The Surge</a></i></li>
+<li><i><a href="/wiki/Dead_Cells" title="Dead Cells">Dead Cells</a></i></li>
+<li><i><a href="/wiki/Darksiders" title="Darksiders">Darksiders</a></i></li>
+<li><i><a href="/wiki/Darksiders_II" title="Darksiders II">Darksiders II</a></i></li>
+<li><i><a href="/wiki/Darksiders_III" title="Darksiders III">Darksiders III</a></i></li>
+<li><i><a href="/wiki/Ashen_(jeu_vid%C3%A9o,_2018)" title="Ashen (jeu vidéo, 2018)">Ashen</a></i></li>
+<li><i><a href="/w/index.php?title=Dark_Devotion&amp;action=edit&amp;redlink=1" class="new" title="Dark Devotion (page inexistante)">Dark Devotion</a>&#160;<a href="https://en.wikipedia.org/wiki/Dark_Devotion" class="extiw" title="en:Dark Devotion"><span class="indicateur-langue" title="Article en anglais&#160;: «&#160;Dark Devotion&#160;»">(en)</span></a></i></li>
+<li><i><a href="/wiki/Remnant:_From_the_Ashes" title="Remnant: From the Ashes">Remnant: From the Ashes</a></i></li>
+<li><i><a href="/wiki/Blasphemous" title="Blasphemous">Blasphemous</a></i></li>
+<li><i><a href="/wiki/Blasphemous_2" title="Blasphemous 2">Blasphemous 2</a></i></li>
+<li><i><a href="/wiki/Code_Vein" title="Code Vein">Code Vein</a></i></li>
+<li><i><a href="/wiki/Star_Wars_Jedi:_Fallen_Order" title="Star Wars Jedi: Fallen Order">Star Wars Jedi: Fallen Order</a></i></li>
+<li><i><a href="/wiki/Hellpoint" title="Hellpoint">Hellpoint</a></i></li>
+<li><i><a href="/wiki/Mortal_Shell" title="Mortal Shell">Mortal Shell</a></i></li>
+<li><i><a href="/w/index.php?title=Chronos_(jeu_vid%C3%A9o)&amp;action=edit&amp;redlink=1" class="new" title="Chronos (jeu vidéo) (page inexistante)">Chronos</a>&#160;<a href="https://en.wikipedia.org/wiki/Chronos_(2016_video_game)" class="extiw" title="en:Chronos (2016 video game)"><span class="indicateur-langue" title="Article en anglais&#160;: «&#160;Chronos (2016 video game)&#160;»">(en)</span></a></i></li>
+<li><i><a href="/wiki/Stranger_of_Paradise_Final_Fantasy_Origin" title="Stranger of Paradise Final Fantasy Origin">Stranger of Paradise Final Fantasy Origin</a></i></li>
+<li><i><a href="/wiki/Black_Myth:_Wukong" title="Black Myth: Wukong">Black Myth: Wukong</a></i></li>
+<li><i><a href="/w/index.php?title=Immortal:_Unchained&amp;action=edit&amp;redlink=1" class="new" title="Immortal: Unchained (page inexistante)">Immortal: Unchained</a>&#160;<a href="https://en.wikipedia.org/wiki/Immortal:_Unchained" class="extiw" title="en:Immortal: Unchained"><span class="indicateur-langue" title="Article en anglais&#160;: «&#160;Immortal: Unchained&#160;»">(en)</span></a></i></li>
+<li><i><a href="/w/index.php?title=Sinner:_Sacrifice_for_Redemption&amp;action=edit&amp;redlink=1" class="new" title="Sinner: Sacrifice for Redemption (page inexistante)">Sinner: Sacrifice for Redemption</a>&#160;<a href="https://en.wikipedia.org/wiki/Sinner:_Sacrifice_for_Redemption" class="extiw" title="en:Sinner: Sacrifice for Redemption"><span class="indicateur-langue" title="Article en anglais&#160;: «&#160;Sinner: Sacrifice for Redemption&#160;»">(en)</span></a></i></li>
+<li><i><a href="/wiki/The_Surge_2" title="The Surge 2">The Surge 2</a></i></li>
+<li><i><a href="/wiki/Wo_Long:_Fallen_Dynasty" title="Wo Long: Fallen Dynasty">Wo Long: Fallen Dynasty</a></i></li>
+<li><i><a href="/wiki/Lies_of_P" title="Lies of P">Lies of P</a></i></li>
+<li><i><a href="/wiki/Another_Crab%27s_Treasure" title="Another Crab&#39;s Treasure">Another Crab's Treasure</a></i></li></ul>
+</div></td>
+</tr>                             <tr>
+<td class="navbox-banner" style="" colspan="2"><div class="liste-horizontale">
+<ul><li><a href="/wiki/Action-RPG" title="Action-RPG">Action-RPG</a></li>
+<li><a href="/wiki/Jeu_d%27action-aventure" title="Jeu d&#39;action-aventure">Jeu d'action-aventure</a></li></ul>
+</div></td></tr></tbody></table>
+</div>
+<ul id="bandeau-portail" class="bandeau-portail"><li><span class="bandeau-portail-element"><span class="bandeau-portail-icone"><span class="noviewer" typeof="mw:File"><a href="/wiki/Portail:Jeu_vid%C3%A9o" title="Portail du jeu vidéo"><img alt="icône décorative" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Circle-icons-gamecontroller.svg/40px-Circle-icons-gamecontroller.svg.png" decoding="async" width="24" height="24" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Circle-icons-gamecontroller.svg/60px-Circle-icons-gamecontroller.svg.png 2x" data-file-width="512" data-file-height="512" /></a></span></span> <span class="bandeau-portail-texte"><a href="/wiki/Portail:Jeu_vid%C3%A9o" title="Portail:Jeu vidéo">Portail du jeu vidéo</a></span> </span></li> <li><span class="bandeau-portail-element"><span class="bandeau-portail-icone"><span class="mw-image-border noviewer" typeof="mw:File"><a href="/wiki/Portail:Japon" title="Portail du Japon"><img alt="icône décorative" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/40px-Flag_of_Japan.svg.png" decoding="async" width="33" height="22" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/120px-Flag_of_Japan.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span></span> <span class="bandeau-portail-texte"><a href="/wiki/Portail:Japon" title="Portail:Japon">Portail du Japon</a></span> </span></li>                   </ul>
+<!-- 
+NewPP limit report
+Parsed by mw‐api‐ext.eqiad.main‐75d4dff86d‐x82gn
+Cached time: 20260408055026
+Cache expiry: 2592000
+Cache expiry source: Module:Release_timeline (os.date(%Y))
+Reduced expiry: false
+Complications: [prevent‐selective‐update, show‐toc]
+CPU time usage: 0.406 seconds
+Real time usage: 0.557 seconds
+Preprocessor visited node count: 3550/1000000
+Revision size: 8286/2097152 bytes
+Post‐expand include size: 177089/2097152 bytes
+Template argument size: 45553/2097152 bytes
+Highest expansion depth: 16/100
+Expensive parser function count: 21/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 13174/5000000 bytes
+Lua time usage: 0.204/10.000 seconds
+Lua memory usage: 10150139/52428800 bytes
+Number of Wikibase entities loaded: 3/500
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  477.124      1 -total
+ 20.49%   97.770      1 Modèle:Liens
+ 15.56%   74.234      1 Modèle:Palette
+ 14.39%   68.644      1 Modèle:Infobox_Série_de_jeux_vidéo
+ 13.00%   62.029      3 Modèle:Méta_palette_de_navigation
+ 12.08%   57.628      1 Modèle:Ébauche
+ 10.21%   48.731      1 Modèle:Références
+  8.68%   41.428      1 Modèle:Palette_Dark_Souls
+  8.37%   39.956     23 Modèle:Liste_horizontale
+  7.25%   34.583     13 Modèle:Lien_web
+-->
+
+<!-- Saved in parser cache with key frwiki:pcache:16389934:|#|:idhash:canonical and timestamp 20260408055026 and revision id 234823325. Rendering was triggered because: unknown
+ -->
+</div><noscript><img src="https://fr.wikipedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&amp;type=1x1&amp;usesul3=1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">Ce document provient de «&#160;<a dir="ltr" href="https://fr.wikipedia.org/w/index.php?title=Dark_Souls&amp;oldid=234823325">https://fr.wikipedia.org/w/index.php?title=Dark_Souls&amp;oldid=234823325</a>&#160;».</div></div>
+					<div id="catlinks" class="catlinks" data-mw-interface=""><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Cat%C3%A9gorie:Accueil" title="Catégorie:Accueil">Catégories</a> : <ul><li><a href="/wiki/Cat%C3%A9gorie:S%C3%A9rie_de_jeux_vid%C3%A9o_lanc%C3%A9e_en_2011" title="Catégorie:Série de jeux vidéo lancée en 2011">Série de jeux vidéo lancée en 2011</a></li><li><a href="/wiki/Cat%C3%A9gorie:Dark_Souls" title="Catégorie:Dark Souls">Dark Souls</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Catégories cachées : <ul><li><a href="/wiki/Cat%C3%A9gorie:Wikip%C3%A9dia:%C3%A9bauche_jeu_vid%C3%A9o" title="Catégorie:Wikipédia:ébauche jeu vidéo">Wikipédia:ébauche jeu vidéo</a></li><li><a href="/wiki/Cat%C3%A9gorie:Page_utilisant_P123" title="Catégorie:Page utilisant P123">Page utilisant P123</a></li><li><a href="/wiki/Cat%C3%A9gorie:Page_utilisant_P2664" title="Catégorie:Page utilisant P2664">Page utilisant P2664</a></li><li><a href="/wiki/Cat%C3%A9gorie:Page_utilisant_P154" title="Catégorie:Page utilisant P154">Page utilisant P154</a></li><li><a href="/wiki/Cat%C3%A9gorie:Article_%C3%A0_illustrer_Jeu_vid%C3%A9o" title="Catégorie:Article à illustrer Jeu vidéo">Article à illustrer Jeu vidéo</a></li><li><a href="/wiki/Cat%C3%A9gorie:Article_utilisant_l%27infobox_S%C3%A9rie_de_jeux_vid%C3%A9o" title="Catégorie:Article utilisant l&#039;infobox Série de jeux vidéo">Article utilisant l&#039;infobox Série de jeux vidéo</a></li><li><a href="/wiki/Cat%C3%A9gorie:Article_utilisant_une_Infobox" title="Catégorie:Article utilisant une Infobox">Article utilisant une Infobox</a></li><li><a href="/wiki/Cat%C3%A9gorie:Page_utilisant_un_mod%C3%A8le_Bases_inactif" title="Catégorie:Page utilisant un modèle Bases inactif">Page utilisant un modèle Bases inactif</a></li><li><a href="/wiki/Cat%C3%A9gorie:Page_utilisant_P4342" title="Catégorie:Page utilisant P4342">Page utilisant P4342</a></li><li><a href="/wiki/Cat%C3%A9gorie:Page_pointant_vers_des_bases_externes" title="Catégorie:Page pointant vers des bases externes">Page pointant vers des bases externes</a></li><li><a href="/wiki/Cat%C3%A9gorie:Page_pointant_vers_des_dictionnaires_ou_encyclop%C3%A9dies_g%C3%A9n%C3%A9ralistes" title="Catégorie:Page pointant vers des dictionnaires ou encyclopédies généralistes">Page pointant vers des dictionnaires ou encyclopédies généralistes</a></li><li><a href="/wiki/Cat%C3%A9gorie:Page_utilisant_le_mod%C3%A8le_Autorit%C3%A9_inactif" title="Catégorie:Page utilisant le modèle Autorité inactif">Page utilisant le modèle Autorité inactif</a></li><li><a href="/wiki/Cat%C3%A9gorie:Article_contenant_un_appel_%C3%A0_traduction_en_anglais" title="Catégorie:Article contenant un appel à traduction en anglais">Article contenant un appel à traduction en anglais</a></li><li><a href="/wiki/Cat%C3%A9gorie:Portail:Jeu_vid%C3%A9o/Articles_li%C3%A9s" title="Catégorie:Portail:Jeu vidéo/Articles liés">Portail:Jeu vidéo/Articles liés</a></li><li><a href="/wiki/Cat%C3%A9gorie:Portail:Japon/Articles_li%C3%A9s" title="Catégorie:Portail:Japon/Articles liés">Portail:Japon/Articles liés</a></li><li><a href="/wiki/Cat%C3%A9gorie:Portail:Asie/Articles_li%C3%A9s" title="Catégorie:Portail:Asie/Articles liés">Portail:Asie/Articles liés</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> La dernière modification de cette page a été faite le 5 avril 2026 à 11:48.</li>
+	<li id="footer-info-copyright"><span style="white-space: normal"><a href="/wiki/Wikip%C3%A9dia:Citation_et_r%C3%A9utilisation_du_contenu_de_Wikip%C3%A9dia" title="Wikipédia:Citation et réutilisation du contenu de Wikipédia">Droit d'auteur</a>&#160;: les textes sont disponibles sous <a rel="nofollow" class="external text" href="https://creativecommons.org/licenses/by-sa/4.0/deed.fr">licence Creative Commons attribution, partage dans les mêmes conditions</a>&#160;; d’autres conditions peuvent s’appliquer. Voyez les <a class="external text" href="https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/fr">conditions d’utilisation</a> pour plus de détails, ainsi que les <a href="/wiki/Wikip%C3%A9dia:Cr%C3%A9dits_graphiques" title="Wikipédia:Crédits graphiques">crédits graphiques</a>. En cas de réutilisation des textes de cette page, voyez <a href="/wiki/Sp%C3%A9cial:Citer/Dark_Souls" title="Spécial:Citer/Dark Souls">comment citer les auteurs et mentionner la licence</a>.<br />
+Wikipedia® est une marque déposée de la <a rel="nofollow" class="external text" href="https://wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, organisation de bienfaisance régie par le paragraphe <a href="/wiki/501c" title="501c">501(c)(3)</a> du code fiscal des États-Unis.</span><br /></li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/fr">Politique de confidentialité</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikip%C3%A9dia:%C3%80_propos_de_Wikip%C3%A9dia">À propos de Wikipédia</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikip%C3%A9dia:Avertissements_g%C3%A9n%C3%A9raux">Avertissements</a></li>
+	<li id="footer-places-contact"><a href="//fr.wikipedia.org/wiki/Wikipédia:Contact">Contact</a></li>
+	<li id="footer-places-legal-safety-contacts"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Wikimedia_Foundation_Legal_and_Safety_Contact_Information">Contacts juridiques &amp; sécurité</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">Code de conduite</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Développeurs</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/fr.wikipedia.org">Statistiques</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Déclaration sur les témoins (cookies)</a></li>
+	<li id="footer-places-mobileview"><a href="//fr.wikipedia.org/w/index.php?title=Dark_Souls&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Version mobile</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://www.wikimedia.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/static/images/footer/wikimedia-button.svg" width="84" height="29"><img src="/static/images/footer/wikimedia.svg" width="25" height="25" alt="Wikimedia Foundation" lang="en" loading="lazy"></picture></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/w/resources/assets/poweredby_mediawiki.svg" width="88" height="31"><img src="/w/resources/assets/mediawiki_compact.svg" alt="Powered by MediaWiki" lang="en" width="25" height="25" loading="lazy"></picture></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-header-container vector-sticky-header-container no-font-mode-scale">
+	<div id="vector-sticky-header" class="vector-sticky-header">
+		<div class="vector-sticky-header-start">
+			<div class="vector-sticky-header-icon-start vector-button-flush-left" aria-hidden="true">
+				<button class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-sticky-header-search-toggle" tabindex="-1" data-event-name="ui.vector-sticky-search-form.icon"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Rechercher</span>
+			</button>
+		</div>
+			
+		<div role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box">
+			<div class="vector-typeahead-search-container">
+				<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail">
+					<form action="/w/index.php" id="vector-sticky-search-form" class="cdx-search-input cdx-search-input--has-end-button">
+						<div  class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+							<div class="cdx-text-input cdx-text-input--has-start-icon">
+								<input
+									class="cdx-text-input__input mw-searchInput" autocomplete="off"
+									
+									type="search" name="search" placeholder="Rechercher sur Wikipédia">
+								<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+							</div>
+							<input type="hidden" name="title" value="Spécial:Recherche">
+						</div>
+						<button class="cdx-button cdx-search-input__end-button">Rechercher</button>
+					</form>
+				</div>
+			</div>
+		</div>
+		<div class="vector-sticky-header-context-bar">
+				<nav aria-label="Sommaire" class="vector-toc-landmark">
+						
+					<div id="vector-sticky-header-toc" class="vector-dropdown mw-portlet mw-portlet-sticky-header-toc vector-sticky-header-toc vector-button-flush-left"  >
+						<input type="checkbox" id="vector-sticky-header-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-sticky-header-toc" class="vector-dropdown-checkbox "  aria-label="Basculer la table des matières"  >
+						<label id="vector-sticky-header-toc-label" for="vector-sticky-header-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Basculer la table des matières</span>
+						</label>
+						<div class="vector-dropdown-content">
+					
+						<div id="vector-sticky-header-toc-unpinned-container" class="vector-unpinned-container">
+						</div>
+					
+						</div>
+					</div>
+			</nav>
+				<div class="vector-sticky-header-context-bar-primary" aria-hidden="true" ><i>Dark Souls</i></div>
+			</div>
+		</div>
+		<div class="vector-sticky-header-end" aria-hidden="true">
+			<div class="vector-sticky-header-icons">
+				<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-talk-sticky-header" tabindex="-1" data-event-name="talk-sticky-header"><span class="vector-icon mw-ui-icon-speechBubbles mw-ui-icon-wikimedia-speechBubbles"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-subject-sticky-header" tabindex="-1" data-event-name="subject-sticky-header"><span class="vector-icon mw-ui-icon-article mw-ui-icon-wikimedia-article"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-history-sticky-header" tabindex="-1" data-event-name="history-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-history mw-ui-icon-wikimedia-wikimedia-history"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only mw-watchlink" id="ca-watchstar-sticky-header" tabindex="-1" data-event-name="watch-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-star mw-ui-icon-wikimedia-wikimedia-star"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-ve-edit-sticky-header" tabindex="-1" data-event-name="ve-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-edit mw-ui-icon-wikimedia-wikimedia-edit"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-edit-sticky-header" tabindex="-1" data-event-name="wikitext-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-wikiText mw-ui-icon-wikimedia-wikimedia-wikiText"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-viewsource-sticky-header" tabindex="-1" data-event-name="ve-edit-protected-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-editLock mw-ui-icon-wikimedia-wikimedia-editLock"></span>
+
+<span></span>
+			</a>
+		</div>
+			<div class="vector-sticky-header-buttons">
+				<button class="cdx-button cdx-button--weight-quiet mw-interlanguage-selector" id="p-lang-btn-sticky-header" tabindex="-1" data-event-name="ui.dropdown-p-lang-btn-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-language mw-ui-icon-wikimedia-wikimedia-language"></span>
+
+<span>13 langues</span>
+			</button>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive" id="ca-addsection-sticky-header" tabindex="-1" data-event-name="addsection-sticky-header"><span class="vector-icon mw-ui-icon-speechBubbleAdd-progressive mw-ui-icon-wikimedia-speechBubbleAdd-progressive"></span>
+
+<span>Ajouter un sujet</span>
+			</a>
+		</div>
+			<div class="vector-sticky-header-icon-end">
+				<div class="vector-user-links">
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="mw-portlet mw-portlet-dock-bottom emptyPortlet" id="p-dock-bottom">
+	<ul>
+		
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-7f5cfbd5b7-nnrwr","wgBackendResponseTime":211,"wgPageParseReport":{"limitreport":{"cputime":"0.406","walltime":"0.557","ppvisitednodes":{"value":3550,"limit":1000000},"revisionsize":{"value":8286,"limit":2097152},"postexpandincludesize":{"value":177089,"limit":2097152},"templateargumentsize":{"value":45553,"limit":2097152},"expansiondepth":{"value":16,"limit":100},"expensivefunctioncount":{"value":21,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":13174,"limit":5000000},"entityaccesscount":{"value":3,"limit":500},"timingprofile":["100.00%  477.124      1 -total"," 20.49%   97.770      1 Modèle:Liens"," 15.56%   74.234      1 Modèle:Palette"," 14.39%   68.644      1 Modèle:Infobox_Série_de_jeux_vidéo"," 13.00%   62.029      3 Modèle:Méta_palette_de_navigation"," 12.08%   57.628      1 Modèle:Ébauche"," 10.21%   48.731      1 Modèle:Références","  8.68%   41.428      1 Modèle:Palette_Dark_Souls","  8.37%   39.956     23 Modèle:Liste_horizontale","  7.25%   34.583     13 Modèle:Lien_web"]},"scribunto":{"limitreport-timeusage":{"value":"0.204","limit":"10.000"},"limitreport-memusage":{"value":10150139,"limit":52428800}},"cachereport":{"origin":"mw-api-ext.eqiad.main-75d4dff86d-x82gn","timestamp":"20260408055026","ttl":2592000,"transientcontent":false,"expiry-source":"Module:Release_timeline (os.date(%Y))"}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Dark Souls","url":"https:\/\/fr.wikipedia.org\/wiki\/Dark_Souls","sameAs":"http:\/\/www.wikidata.org\/entity\/Q99431276","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q99431276","author":{"@type":"Organization","name":"Contributeurs aux projets Wikimedia"},"publisher":{"@type":"Organization","name":"Fondation Wikimedia, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2024-07-20T20:03:38Z","dateModified":"2026-04-05T09:48:42Z","headline":"s\u00e9rie de jeux vid\u00e9o"}</script>
+</body>
+</html>
