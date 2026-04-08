@@ -1,49 +1,47 @@
 <!DOCTYPE html>
-<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available skin-theme-clientpref-thumb-standard" lang="nb" dir="ltr">
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref--excluded vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available skin-theme-clientpref-thumb-standard" lang="en" dir="ltr">
 <head>
 <meta charset="UTF-8">
-<title>Dark Souls – Wikipedia</title>
-<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available skin-theme-clientpref-thumb-standard";var cookie=document.cookie.match(/(?:^|; )nowikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","januar","februar","mars","april","mai","juni","juli","august","september","oktober","november","desember"],"wgRequestId":"11b7e9a9-d11c-45a0-b1a8-4b8f04ab8c72","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Dark_Souls","wgTitle":"Dark Souls","wgCurRevisionId":25498855,"wgRevisionId":25498855,"wgArticleId":2088345,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Artikler med offisielle lenker fra Wikidata","Artikler med autoritetsdatalenker fra Wikidata","Dataspillserier"],"wgPageViewLanguage":"nb","wgPageContentLanguage":"nb","wgPageContentModel":"wikitext","wgRelevantPageName":"Dark_Souls","wgRelevantArticleId":2088345,"wgTempUserName":null,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgCiteReferencePreviewsActive":true,"wgConfirmEditCaptchaNeededForGenericEdit":false,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":0,"wgVisualEditor":{"pageLanguageCode":"nb","pageLanguageDir":"ltr","pageVariantFallbacks":"nb"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":true,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":2000,"wgParsoidHtmlVersion":"2.8.0","parsermigration-parsoid":true,"wgEditSubmitButtonLabelPublish":true,"wgVisualEditorPageIsDisambiguation":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q99431276","wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGESuggestedEditsTaskTypes":{"taskTypes":["copyedit","link-recommendation"],"unavailableTaskTypes":[]},"wgGETopicsMatchModeEnabled":false,"wgGELevelingUpEnabledForUser":false,"wgTestKitchenUserExperiments":{"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[]}};
-RLSTATE={"ext.gadget.InterProjectLinks":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.parsoid.styles":"ready","ext.cite.styles":"ready","mediawiki.skinning.content.parsoid":"ready","ext.wikimediamessages.styles":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.UkensKonkurranse","ext.gadget.link-missing-label","ext.gadget.new-section","ext.gadget.superinterwiki","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.bootstrap","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.cx.uls.quick.actions","wikibase.client.vector-2022","wikibase.databox.fromWikidata","ext.checkUser.clientHints","ext.quicksurveys.init","ext.growthExperiments.SuggestedEditSession","ext.testKitchen"];</script>
+<title>Information for "Dark Souls" - Wikipedia</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref--excluded vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available skin-theme-clientpref-thumb-standard";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":true,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"ef9d7abf-3dc8-4582-967a-54c009a56e07","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Dark_Souls","wgTitle":"Dark Souls","wgCurRevisionId":1342822556,"wgRevisionId":0,"wgArticleId":47094971,"wgIsArticle":false,"wgIsRedirect":false,"wgAction":"info","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Dark_Souls","wgRelevantArticleId":47094971,"wgTempUserName":null,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgConfirmEditCaptchaNeededForGenericEdit":"fancy captcha","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":50000,"wgEditSubmitButtonLabelPublish":true,"wgVisualEditorPageIsDisambiguation":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGESuggestedEditsTaskTypes":{"taskTypes":["copyedit","link-recommendation"],"unavailableTaskTypes":[]},"wgGETopicsMatchModeEnabled":false,"wgGELevelingUpEnabledForUser":false,"wgTestKitchenUserExperiments":{"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[]}};
+RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","mediawiki.interface.helpers.styles":"ready","mediawiki.action.styles":"ready","mediawiki.helplink":"ready","mediawiki.interface.helpers.linker.styles":"ready","ext.wikimediamessages.styles":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready"};RLPAGEMODULES=["ext.parsermigration.survey","site","mediawiki.page.ready","mediawiki.toc","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ReferenceTooltips","ext.gadget.switcher","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.bootstrap","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.cx.eventlogging.campaigns","wikibase.databox.fromWikidata","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession","ext.testKitchen"];</script>
 <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 }];});});</script>
-<link rel="stylesheet" href="/w/load.php?lang=nb&amp;modules=ext.cite.parsoid.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediamessages.styles%7Cmediawiki.skinning.content.parsoid%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
-<script async="" src="/w/load.php?lang=nb&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediamessages.styles%7Cmediawiki.action.styles%7Cmediawiki.helplink%7Cmediawiki.interface.helpers.linker.styles%7Cmediawiki.interface.helpers.styles%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
 <meta name="ResourceLoaderDynamicStyles" content="">
-<link rel="stylesheet" href="/w/load.php?lang=nb&amp;modules=ext.gadget.InterProjectLinks&amp;only=styles&amp;skin=vector-2022">
-<link rel="stylesheet" href="/w/load.php?lang=nb&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
 <meta name="generator" content="MediaWiki 1.46.0-wmf.22">
 <meta name="referrer" content="origin">
 <meta name="referrer" content="origin-when-cross-origin">
-<meta name="robots" content="max-image-preview:standard">
+<meta name="robots" content="noindex,nofollow,max-image-preview:standard">
 <meta name="format-detection" content="telephone=no">
 <meta name="viewport" content="width=1120">
-<meta property="og:title" content="Dark Souls – Wikipedia">
+<meta property="og:title" content="Information for &quot;Dark Souls&quot; - Wikipedia">
 <meta property="og:type" content="website">
-<link rel="preconnect" href="//upload.wikimedia.org">
-<link rel="alternate" type="application/x-wiki" title="Rediger" href="/w/index.php?title=Dark_Souls&amp;action=edit">
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Dark_Souls&amp;action=edit">
 <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
 <link rel="icon" href="/static/favicon/wikipedia.ico">
-<link rel="search" type="application/opensearchdescription+xml" href="/w/rest.php/v1/search" title="Wikipedia (nb)">
-<link rel="EditURI" type="application/rsd+xml" href="//no.wikipedia.org/w/api.php?action=rsd">
-<link rel="canonical" href="https://no.wikipedia.org/wiki/Dark_Souls">
-<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.no">
-<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom-mating" href="/w/index.php?title=Spesial:Siste_endringer&amp;feed=atom">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/rest.php/v1/search" title="Wikipedia (en)">
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://en.wikipedia.org/w/index.php?title=Dark_Souls&amp;action=info">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom">
 <link rel="dns-prefetch" href="//meta.wikimedia.org" />
 <link rel="dns-prefetch" href="auth.wikimedia.org">
 </head>
-<body class="skin--responsive skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Dark_Souls rootpage-Dark_Souls skin-vector-2022 action-view">
-<div id="mw-aria-live-region" class="mw-aria-live-region" aria-live="polite"></div><a class="mw-jump-link" href="#bodyContent">Hopp til innhold</a>
+<body class="skin--responsive skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Dark_Souls rootpage-Dark_Souls skin-vector-2022 action-info">
+<div id="mw-aria-live-region" class="mw-aria-live-region" aria-live="polite"></div><a class="mw-jump-link" href="#bodyContent">Jump to content</a>
 <div class="vector-header-container">
 	<header class="vector-header mw-header no-font-mode-scale">
 		<div class="vector-header-start">
-			<nav class="vector-main-menu-landmark" aria-label="Nettsted">
+			<nav class="vector-main-menu-landmark" aria-label="Site">
 				
-<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  title="Hovedmeny" >
-	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Hovedmeny"  >
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  title="Main menu" >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Main menu"  >
 	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
 
-<span class="vector-dropdown-label-text">Hovedmeny</span>
+<span class="vector-dropdown-label-text">Main menu</span>
 	</label>
 	<div class="vector-dropdown-content">
 
@@ -58,50 +56,36 @@ RLSTATE={"ext.gadget.InterProjectLinks":"ready","ext.globalCssJs.user.styles":"r
 	data-pinned-container-id="vector-main-menu-pinned-container"
 	data-unpinned-container-id="vector-main-menu-unpinned-container"
 >
-	<div class="vector-pinnable-header-label">Hovedmeny</div>
-	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">flytt til sidefeltet</button>
-	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">skjul</button>
+	<div class="vector-pinnable-header-label">Main menu</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">hide</button>
 </div>
 
 	
 <div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
 	<div class="vector-menu-heading">
-		Navigasjon
+		Navigation
 	</div>
 	<div class="vector-menu-content">
 		
 		<ul class="vector-menu-content-list">
 			
-			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Forside" title="Gå til hovedsiden [z]" accesskey="z"><span>Forside</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Spesial:Tilfeldig" title="Vis en tilfeldig side [x]" accesskey="x"><span>Tilfeldig artikkel</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/Hjelp:Portal" title="Stedet for å få hjelp"><span>Hjelp</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Spesial:Siste_endringer" title="Liste over siste endringer på wikien. [r]" accesskey="r"><span>Siste endringer</span></a></li>
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-contents" class="mw-list-item"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia"><span>Contents</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Current_events" title="Articles related to current events"><span>Current events</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x"><span>Random article</span></a></li><li id="n-aboutsite" class="mw-list-item"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works"><span>About Wikipedia</span></a></li><li id="n-contactpage" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia"><span>Contact us</span></a></li>
 		</ul>
 		
 	</div>
 </div>
 
 	
-<div id="p-prosjekt" class="vector-menu mw-portlet mw-portlet-prosjekt"  >
+<div id="p-interaction" class="vector-menu mw-portlet mw-portlet-interaction"  >
 	<div class="vector-menu-heading">
-		Prosjekt
+		Contribute
 	</div>
 	<div class="vector-menu-content">
 		
 		<ul class="vector-menu-content-list">
 			
-			<li id="n-Prosjektportal" class="mw-list-item"><a href="/wiki/Wikipedia:Portal"><span>Prosjektportal</span></a></li><li id="n-bidra" class="mw-list-item"><a href="/wiki/Wikipedia:Bidra_til_Wikipedia"><span>Hvordan bidra?</span></a></li><li id="n-wikitreff" class="mw-list-item"><a href="/wiki/Wikipedia:Wikitreff"><span>Wikitreff</span></a></li><li id="n-tinget" class="mw-list-item"><a href="/wiki/Wikipedia:Tinget"><span>Tinget</span></a></li><li id="n-torget" class="mw-list-item"><a href="/wiki/Wikipedia:Torget"><span>Torget</span></a></li><li id="n-konkurranser" class="mw-list-item"><a href="/wiki/Wikipedia:Konkurranser"><span>Konkurranser</span></a></li>
-		</ul>
-		
-	</div>
-</div>
-
-<div id="p-Wikipedia" class="vector-menu mw-portlet mw-portlet-Wikipedia"  >
-	<div class="vector-menu-heading">
-		Wikipedia
-	</div>
-	<div class="vector-menu-content">
-		
-		<ul class="vector-menu-content-list">
-			
-			<li id="n-kontakt" class="mw-list-item"><a href="/wiki/Wikipedia:Kontakt"><span>Kontakt Wikipedia</span></a></li><li id="n-wmno" class="mw-list-item"><a rel="nofollow" href="https://www.wikimedia.no" title="Medlemsorganisasjon for wikipedianere"><span>Wikimedia Norge</span></a></li>
+			<li id="n-help" class="mw-list-item"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia"><span>Help</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia"><span>Learn to edit</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors"><span>Community portal</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_upload_wizard" title="Add images or other media for use on Wikipedia"><span>Upload file</span></a></li><li id="n-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li>
 		</ul>
 		
 	</div>
@@ -116,11 +100,11 @@ RLSTATE={"ext.gadget.InterProjectLinks":"ready","ext.globalCssJs.user.styles":"r
 
 		</nav>
 			
-<a href="/wiki/Forside" class="mw-logo">
-	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt="" aria-hidden="true" height="50" width="50">
+<a href="/wiki/Main_Page" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/enwiki-25.svg" alt="" aria-hidden="true" height="50" width="50">
 	<span class="mw-logo-container skin-invert">
-		<img class="mw-logo-wordmark" alt="Wikipedia" src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" style="width: 7.5em; height: 1.125em;">
-		<img class="mw-logo-tagline" alt="" src="/static/images/mobile/copyright/wikipedia-tagline-no.svg" width="121" height="14" style="width: 7.5625em; height: 0.875em;">
+		<img class="mw-logo-wordmark" alt="Wikipedia" src="/static/images/mobile/copyright/wikipedia-wordmark-en-25.svg" style="width: 8.75em; height: 1.375em;">
+		<img class="mw-logo-tagline" alt="The Free Encyclopedia" src="/static/images/mobile/copyright/wikipedia-tagline-en-25.svg" width="140" height="11" style="width: 8.75em; height: 0.6875em;">
 	</span>
 </a>
 
@@ -128,9 +112,9 @@ RLSTATE={"ext.gadget.InterProjectLinks":"ready","ext.globalCssJs.user.styles":"r
 		<div class="vector-header-end">
 			
 <div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
-	<a href="/wiki/Spesial:S%C3%B8k" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" title="Søk i Wikipedia [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+	<a href="/wiki/Special:Search" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" title="Search Wikipedia [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
 
-<span>Søk</span>
+<span>Search</span>
 	</a>
 	<div class="vector-typeahead-search-container">
 		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
@@ -139,19 +123,19 @@ RLSTATE={"ext.gadget.InterProjectLinks":"ready","ext.globalCssJs.user.styles":"r
 					<div class="cdx-text-input cdx-text-input--has-start-icon">
 						<input
 							class="cdx-text-input__input mw-searchInput" autocomplete="off"
-							 type="search" name="search" placeholder="Søk i Wikipedia" aria-label="Søk i Wikipedia" autocapitalize="none" spellcheck="false" title="Søk i Wikipedia [f]" accesskey="f" id="searchInput"
+							 type="search" name="search" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="none" spellcheck="false" title="Search Wikipedia [f]" accesskey="f" id="searchInput"
 							>
 						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
 					</div>
-					<input type="hidden" name="title" value="Spesial:Søk">
+					<input type="hidden" name="title" value="Special:Search">
 				</div>
-				<button class="cdx-button cdx-search-input__end-button">Søk</button>
+				<button class="cdx-button cdx-search-input__end-button">Search</button>
 			</form>
 		</div>
 	</div>
 </div>
 
-			<nav class="vector-user-links vector-user-links-wide" aria-label="Personlig">
+			<nav class="vector-user-links vector-user-links-wide" aria-label="Personal tools">
 	<div class="vector-user-links-main">
 	
 <div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet emptyPortlet"  >
@@ -177,13 +161,13 @@ RLSTATE={"ext.gadget.InterProjectLinks":"ready","ext.globalCssJs.user.styles":"r
 	</div>
 </div>
 
-	<nav class="vector-appearance-landmark" aria-label="Utseende">
+	<nav class="vector-appearance-landmark" aria-label="Appearance">
 		
-<div id="vector-appearance-dropdown" class="vector-dropdown "  title="Endre skriftstørrelse, bredde og farge på siden." >
-	<input type="checkbox" id="vector-appearance-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-appearance-dropdown" class="vector-dropdown-checkbox "  aria-label="Utseende"  >
+<div id="vector-appearance-dropdown" class="vector-dropdown "  title="Change the appearance of the page&#039;s font size, width, and color" >
+	<input type="checkbox" id="vector-appearance-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-appearance-dropdown" class="vector-dropdown-checkbox "  aria-label="Appearance"  >
 	<label id="vector-appearance-dropdown-label" for="vector-appearance-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-appearance mw-ui-icon-wikimedia-appearance"></span>
 
-<span class="vector-dropdown-label-text">Utseende</span>
+<span class="vector-dropdown-label-text">Appearance</span>
 	</label>
 	<div class="vector-dropdown-content">
 
@@ -213,11 +197,11 @@ RLSTATE={"ext.gadget.InterProjectLinks":"ready","ext.globalCssJs.user.styles":"r
 	<div class="vector-menu-content">
 		
 		<ul class="vector-menu-content-list">
-			<li id="pt-sitesupport-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=no.wikipedia.org&amp;uselang=nb" class=""><span>Doner</span></a>
+			<li id="pt-sitesupport-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=en.wikipedia.org&amp;uselang=en" class=""><span>Donate</span></a>
 </li>
-<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="/w/index.php?title=Spesial:Opprett_konto&amp;returnto=Dark+Souls" title="Du oppfordres til å opprette en konto og logge inn, men det er ikke obligatorisk" class=""><span>Opprett konto</span></a>
+<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="/w/index.php?title=Special:CreateAccount&amp;returnto=Dark+Souls&amp;returntoquery=action%3Dinfo" title="You are encouraged to create an account and log in; however, it is not mandatory" class=""><span>Create account</span></a>
 </li>
-<li id="pt-login-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="/w/index.php?title=Spesial:Logg_inn&amp;returnto=Dark+Souls" title="Du oppfordres til å logge inn, men det er ikke obligatorisk [o]" accesskey="o" class=""><span>Logg inn</span></a>
+<li id="pt-login-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="/w/index.php?title=Special:UserLogin&amp;returnto=Dark+Souls&amp;returntoquery=action%3Dinfo" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o" class=""><span>Log in</span></a>
 </li>
 
 			
@@ -228,22 +212,22 @@ RLSTATE={"ext.gadget.InterProjectLinks":"ready","ext.globalCssJs.user.styles":"r
 
 	</div>
 	
-<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out user-links-collapsible-item"  title="Flere alternativer" >
-	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Personlig"  >
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out user-links-collapsible-item"  title="Log in and more options" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Personal tools"  >
 	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
 
-<span class="vector-dropdown-label-text">Personlig</span>
+<span class="vector-dropdown-label-text">Personal tools</span>
 	</label>
 	<div class="vector-dropdown-content">
 
 
 		
-<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="Brukermeny" >
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="User menu" >
 	<div class="vector-menu-content">
 		
 		<ul class="vector-menu-content-list">
 			
-			<li id="pt-sitesupport" class="user-links-collapsible-item mw-list-item"><a href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=no.wikipedia.org&amp;uselang=nb"><span class="vector-icon mw-ui-icon-heart mw-ui-icon-wikimedia-heart"></span> <span>Doner</span></a></li><li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Spesial:Opprett_konto&amp;returnto=Dark+Souls" title="Du oppfordres til å opprette en konto og logge inn, men det er ikke obligatorisk"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Opprett konto</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Spesial:Logg_inn&amp;returnto=Dark+Souls" title="Du oppfordres til å logge inn, men det er ikke obligatorisk [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Logg inn</span></a></li>
+			<li id="pt-sitesupport" class="user-links-collapsible-item mw-list-item"><a href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=en.wikipedia.org&amp;uselang=en"><span class="vector-icon mw-ui-icon-heart mw-ui-icon-wikimedia-heart"></span> <span>Donate</span></a></li><li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Dark+Souls&amp;returntoquery=action%3Dinfo" title="You are encouraged to create an account and log in; however, it is not mandatory"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Create account</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Dark+Souls&amp;returntoquery=action%3Dinfo" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Log in</span></a></li>
 		</ul>
 		
 	</div>
@@ -266,7 +250,7 @@ RLSTATE={"ext.gadget.InterProjectLinks":"ready","ext.globalCssJs.user.styles":"r
 		<div class="vector-column-start">
 			<div class="vector-main-menu-container">
 		<div id="mw-navigation">
-			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Nettsted">
+			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Site">
 				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
 				
 				</div>
@@ -274,7 +258,7 @@ RLSTATE={"ext.gadget.InterProjectLinks":"ready","ext.globalCssJs.user.styles":"r
 		</div>
 	</div>
 	<div class="vector-sticky-pinned-container">
-				<nav id="mw-panel-toc" aria-label="Innhold" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark">
+				<nav id="mw-panel-toc" aria-label="Contents" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark">
 					<div id="vector-toc-pinned-container" class="vector-pinned-container">
 					<div id="vector-toc" class="vector-toc vector-pinnable-element">
 	<div
@@ -284,9 +268,9 @@ RLSTATE={"ext.gadget.InterProjectLinks":"ready","ext.globalCssJs.user.styles":"r
 	data-pinned-container-id="vector-toc-pinned-container"
 	data-unpinned-container-id="vector-toc-unpinned-container"
 >
-	<h2 class="vector-pinnable-header-label">Innhold</h2>
-	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">flytt til sidefeltet</button>
-	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">skjul</button>
+	<h2 class="vector-pinnable-header-label">Contents</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">hide</button>
 </div>
 
 
@@ -294,31 +278,79 @@ RLSTATE={"ext.gadget.InterProjectLinks":"ready","ext.globalCssJs.user.styles":"r
 		<li id="toc-mw-content-text"
 			class="vector-toc-list-item vector-toc-level-1">
 			<a href="#" class="vector-toc-link">
-				<div class="vector-toc-text">(Til toppen)</div>
+				<div class="vector-toc-text">(Top)</div>
 			</a>
 		</li>
-		<li id="toc-Referanser"
+		<li id="toc-mw-pageinfo-header-basic"
 		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
-		<a class="vector-toc-link" href="#Referanser">
+		<a class="vector-toc-link" href="#mw-pageinfo-header-basic">
 			<div class="vector-toc-text">
 				<span class="vector-toc-numb">1</span>
-				<span>Referanser</span>
+				<span>Basic information</span>
 			</div>
 		</a>
 		
-		<ul id="toc-Referanser-sublist" class="vector-toc-list">
+		<ul id="toc-mw-pageinfo-header-basic-sublist" class="vector-toc-list">
 		</ul>
 	</li>
-	<li id="toc-Eksterne_lenker"
+	<li id="toc-mw-pageinfo-header-restrictions"
 		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
-		<a class="vector-toc-link" href="#Eksterne_lenker">
+		<a class="vector-toc-link" href="#mw-pageinfo-header-restrictions">
 			<div class="vector-toc-text">
 				<span class="vector-toc-numb">2</span>
-				<span>Eksterne lenker</span>
+				<span>Page protection</span>
 			</div>
 		</a>
 		
-		<ul id="toc-Eksterne_lenker-sublist" class="vector-toc-list">
+		<ul id="toc-mw-pageinfo-header-restrictions-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-mw-pageinfo-header-edits"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#mw-pageinfo-header-edits">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">3</span>
+				<span>Edit history</span>
+			</div>
+		</a>
+		
+		<ul id="toc-mw-pageinfo-header-edits-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-mw-pageinfo-header-properties"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#mw-pageinfo-header-properties">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">4</span>
+				<span>Page properties</span>
+			</div>
+		</a>
+		
+		<ul id="toc-mw-pageinfo-header-properties-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-mw-pageinfo-linter"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#mw-pageinfo-linter">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">5</span>
+				<span>Lint errors</span>
+			</div>
+		</a>
+		
+		<ul id="toc-mw-pageinfo-linter-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-External_tools"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#External_tools">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">6</span>
+				<span>External tools</span>
+			</div>
+		</a>
+		
+		<ul id="toc-External_tools-sublist" class="vector-toc-list">
 		</ul>
 	</li>
 </ul>
@@ -331,13 +363,13 @@ RLSTATE={"ext.gadget.InterProjectLinks":"ready","ext.globalCssJs.user.styles":"r
 		<div class="mw-content-container">
 			<main id="content" class="mw-body">
 				<header class="mw-body-header vector-page-titlebar no-font-mode-scale">
-					<nav aria-label="Innhold" class="vector-toc-landmark">
+					<nav aria-label="Contents" class="vector-toc-landmark">
 						
-<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"  title="Innholdsfortegnelse" >
-	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="Vis/skjul innholdsfortegnelsen"  >
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"  title="Table of Contents" >
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="Toggle the table of contents"  >
 	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
 
-<span class="vector-dropdown-label-text">Vis/skjul innholdsfortegnelsen</span>
+<span class="vector-dropdown-label-text">Toggle the table of contents</span>
 	</label>
 	<div class="vector-dropdown-content">
 
@@ -349,13 +381,13 @@ RLSTATE={"ext.gadget.InterProjectLinks":"ready","ext.globalCssJs.user.styles":"r
 </div>
 
 					</nav>
-					<h1 id="firstHeading" class="firstHeading mw-first-heading"><i>Dark Souls</i></h1>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading">Information for "Dark Souls"</h1>
 							
 <div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
-	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="Gå til en artikkel på et annet språk. Tilgjengelig på 13 språk"   >
-	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-13" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="This article is only available in this language. Add the article for other languages"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-0" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
 
-<span class="vector-dropdown-label-text">13 språk</span>
+<span class="vector-dropdown-label-text">Add languages</span>
 	</label>
 	<div class="vector-dropdown-content">
 
@@ -363,9 +395,9 @@ RLSTATE={"ext.gadget.InterProjectLinks":"ready","ext.globalCssJs.user.styles":"r
 			
 			<ul class="vector-menu-content-list">
 				
-				<li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/Dark_Souls" title="Dark Souls – tsjekkisk" lang="cs" hreflang="cs" data-title="Dark Souls" data-language-autonym="Čeština" data-language-local-name="tsjekkisk" class="interlanguage-link-target"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Dark_Souls_(Computerspielreihe)" title="Dark Souls (Computerspielreihe) – tysk" lang="de" hreflang="de" data-title="Dark Souls (Computerspielreihe)" data-language-autonym="Deutsch" data-language-local-name="tysk" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/Dark_Souls" title="Dark Souls – engelsk" lang="en" hreflang="en" data-title="Dark Souls" data-language-autonym="English" data-language-local-name="engelsk" class="interlanguage-link-target"><span>English</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Dark_Souls" title="Dark Souls – spansk" lang="es" hreflang="es" data-title="Dark Souls" data-language-autonym="Español" data-language-local-name="spansk" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%D8%AF%D8%A7%D8%B1%DA%A9_%D8%B3%D9%88%D9%84%D8%B2" title="دارک سولز – persisk" lang="fa" hreflang="fa" data-title="دارک سولز" data-language-autonym="فارسی" data-language-local-name="persisk" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Dark_Souls" title="Dark Souls – fransk" lang="fr" hreflang="fr" data-title="Dark Souls" data-language-autonym="Français" data-language-local-name="fransk" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/%EB%8B%A4%ED%81%AC_%EC%86%8C%EC%9A%B8" title="다크 소울 – koreansk" lang="ko" hreflang="ko" data-title="다크 소울" data-language-autonym="한국어" data-language-local-name="koreansk" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Dark_Souls_(seria)" title="Dark Souls (seria) – polsk" lang="pl" hreflang="pl" data-title="Dark Souls (seria)" data-language-autonym="Polski" data-language-local-name="polsk" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Dark_Souls_(s%C3%A9rie)" title="Dark Souls (série) – portugisisk" lang="pt" hreflang="pt" data-title="Dark Souls (série)" data-language-autonym="Português" data-language-local-name="portugisisk" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-ru mw-list-item"><a href="https://ru.wikipedia.org/wiki/Dark_Souls" title="Dark Souls – russisk" lang="ru" hreflang="ru" data-title="Dark Souls" data-language-autonym="Русский" data-language-local-name="russisk" class="interlanguage-link-target"><span>Русский</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/Dark_Souls" title="Dark Souls – tyrkisk" lang="tr" hreflang="tr" data-title="Dark Souls" data-language-autonym="Türkçe" data-language-local-name="tyrkisk" class="interlanguage-link-target"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/Dark_Souls_(%D1%81%D0%B5%D1%80%D1%96%D1%8F_%D0%B2%D1%96%D0%B4%D0%B5%D0%BE%D1%96%D0%B3%D0%BE%D1%80)" title="Dark Souls (серія відеоігор) – ukrainsk" lang="uk" hreflang="uk" data-title="Dark Souls (серія відеоігор)" data-language-autonym="Українська" data-language-local-name="ukrainsk" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-uz mw-list-item"><a href="https://uz.wikipedia.org/wiki/Dark_Souls" title="Dark Souls – usbekisk" lang="uz" hreflang="uz" data-title="Dark Souls" data-language-autonym="Oʻzbekcha / ўзбекча" data-language-local-name="usbekisk" class="interlanguage-link-target"><span>Oʻzbekcha / ўзбекча</span></a></li>
+				
 			</ul>
-			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q99431276#sitelinks-wikipedia" title="Rediger lenker til artikkelen på andre språk" class="wbc-editpage">Rediger lenker</a></span></div>
+			<div class="after-portlet after-portlet-lang"><span class="uls-after-portlet-link"></span></div>
 		</div>
 
 	</div>
@@ -374,14 +406,14 @@ RLSTATE={"ext.gadget.InterProjectLinks":"ready","ext.globalCssJs.user.styles":"r
 				<div class="vector-page-toolbar vector-feature-custom-font-size-clientpref--excluded">
 					<div class="vector-page-toolbar-container">
 						<div id="left-navigation">
-							<nav aria-label="Navnerom">
+							<nav aria-label="Namespaces">
 								
 <div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
 	<div class="vector-menu-content">
 		
 		<ul class="vector-menu-content-list">
 			
-			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Dark_Souls" title="Vis innholdssiden [c]" accesskey="c"><span>Artikkel</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/Diskusjon:Dark_Souls" rel="discussion" class="mw-redirect" title="Diskusjon om innholdssiden [t]" accesskey="t"><span>Diskusjon</span></a></li>
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Dark_Souls" title="View the content page [c]" accesskey="c"><span>Article</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/Talk:Dark_Souls" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t"><span>Talk</span></a></li>
 		</ul>
 		
 	</div>
@@ -389,8 +421,8 @@ RLSTATE={"ext.gadget.InterProjectLinks":"ready","ext.globalCssJs.user.styles":"r
 
 								
 <div id="vector-variants-dropdown" class="vector-dropdown emptyPortlet"  >
-	<input type="checkbox" id="vector-variants-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-variants-dropdown" class="vector-dropdown-checkbox " aria-label="Bytt språkvariant"   >
-	<label id="vector-variants-dropdown-label" for="vector-variants-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">norsk bokmål</span>
+	<input type="checkbox" id="vector-variants-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-variants-dropdown" class="vector-dropdown-checkbox " aria-label="Change language variant"   >
+	<label id="vector-variants-dropdown-label" for="vector-variants-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">English</span>
 	</label>
 	<div class="vector-dropdown-content">
 
@@ -414,14 +446,14 @@ RLSTATE={"ext.gadget.InterProjectLinks":"ready","ext.globalCssJs.user.styles":"r
 							</nav>
 						</div>
 						<div id="right-navigation" class="vector-collapsible">
-							<nav aria-label="Visninger">
+							<nav aria-label="Views">
 								
 <div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
 	<div class="vector-menu-content">
 		
 		<ul class="vector-menu-content-list">
 			
-			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Dark_Souls"><span>Les</span></a></li><li id="ca-ve-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Dark_Souls&amp;veaction=edit" title="Rediger siden [v]" accesskey="v"><span>Rediger</span></a></li><li id="ca-edit" class="collapsible vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Dark_Souls&amp;action=edit" title="Rediger kildekoden for denne siden [e]" accesskey="e"><span>Rediger kilde</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Dark_Souls&amp;action=history" title="Tidligere sideversjoner av denne siden [h]" accesskey="h"><span>Vis historikk</span></a></li>
+			<li id="ca-view" class="vector-tab-noicon mw-list-item"><a href="/wiki/Dark_Souls"><span>Read</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Dark_Souls&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Dark_Souls&amp;action=history" title="Past revisions of this page [h]" accesskey="h"><span>View history</span></a></li>
 		</ul>
 		
 	</div>
@@ -429,11 +461,11 @@ RLSTATE={"ext.gadget.InterProjectLinks":"ready","ext.globalCssJs.user.styles":"r
 
 							</nav>
 				
-							<nav class="vector-page-tools-landmark" aria-label="Sideverktøy">
+							<nav class="vector-page-tools-landmark" aria-label="Page tools">
 								
 <div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
-	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Verktøy"  >
-	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Verktøy</span>
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Tools"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Tools</span>
 	</label>
 	<div class="vector-dropdown-content">
 
@@ -448,21 +480,21 @@ RLSTATE={"ext.gadget.InterProjectLinks":"ready","ext.globalCssJs.user.styles":"r
 	data-pinned-container-id="vector-page-tools-pinned-container"
 	data-unpinned-container-id="vector-page-tools-unpinned-container"
 >
-	<div class="vector-pinnable-header-label">Verktøy</div>
-	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">flytt til sidefeltet</button>
-	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">skjul</button>
+	<div class="vector-pinnable-header-label">Tools</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">hide</button>
 </div>
 
 	
-<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="Flere alternativer" >
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="More options" >
 	<div class="vector-menu-heading">
-		Handlinger
+		Actions
 	</div>
 	<div class="vector-menu-content">
 		
 		<ul class="vector-menu-content-list">
 			
-			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/Dark_Souls"><span>Les</span></a></li><li id="ca-more-ve-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Dark_Souls&amp;veaction=edit" title="Rediger siden [v]" accesskey="v"><span>Rediger</span></a></li><li id="ca-more-edit" class="collapsible vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Dark_Souls&amp;action=edit" title="Rediger kildekoden for denne siden [e]" accesskey="e"><span>Rediger kilde</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Dark_Souls&amp;action=history"><span>Vis historikk</span></a></li>
+			<li id="ca-more-view" class="vector-more-collapsible-item mw-list-item"><a href="/wiki/Dark_Souls"><span>Read</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Dark_Souls&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Dark_Souls&amp;action=history"><span>View history</span></a></li>
 		</ul>
 		
 	</div>
@@ -470,27 +502,13 @@ RLSTATE={"ext.gadget.InterProjectLinks":"ready","ext.globalCssJs.user.styles":"r
 
 <div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
 	<div class="vector-menu-heading">
-		Generelt
+		General
 	</div>
 	<div class="vector-menu-content">
 		
 		<ul class="vector-menu-content-list">
 			
-			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Spesial:Lenker_hit/Dark_Souls" title="Liste over alle wikisider som lenker hit [j]" accesskey="j"><span>Lenker hit</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Spesial:Relaterte_endringer/Dark_Souls" rel="nofollow" title="Siste endringer i sider som blir lenket fra denne siden [k]" accesskey="k"><span>Relaterte endringer</span></a></li><li id="t-upload" class="mw-list-item"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard?uselang=no" title="Last opp filer [u]" accesskey="u"><span>Last opp fil</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Dark_Souls&amp;oldid=25498855" title="Permanent lenke til denne versjonen av siden"><span>Permanent lenke</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Dark_Souls&amp;action=info" title="Mer informasjon om denne siden"><span>Sideinformasjon</span></a></li><li id="n-specialpages" class="mw-list-item"><a href="/wiki/Spesial:Spesialsider" title="Liste over alle spesialsider [q]" accesskey="q"><span>Spesialsider</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Spesial:Siteringshjelp&amp;page=Dark_Souls&amp;id=25498855&amp;wpFormIdentifier=titleform" title="Informasjon om hvordan denne siden kan siteres"><span>Siter denne siden</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=Spesial:UrlShortener&amp;url=https%3A%2F%2Fno.wikipedia.org%2Fwiki%2FDark_Souls"><span>Hent forkortet URL</span></a></li><li class="mw-list-item"><a href="/w/index.php?title=Dark_Souls&amp;useparsoid=0"><span>Bytt til den gamle parseren</span></a></li>
-		</ul>
-		
-	</div>
-</div>
-
-<div id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export"  >
-	<div class="vector-menu-heading">
-		Skriv ut / eksporter
-	</div>
-	<div class="vector-menu-content">
-		
-		<ul class="vector-menu-content-list">
-			
-			<li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Spesial:DownloadAsPdf&amp;page=Dark_Souls&amp;action=show-download-screen"><span>Last ned som PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Dark_Souls&amp;printable=yes" title="Utskriftsvennlig versjon av denne siden [p]" accesskey="p"><span>Utskriftsvennlig versjon</span></a></li>
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/Dark_Souls" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/Dark_Souls" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Dark_Souls&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=Special:UrlShortener&amp;url=https%3A%2F%2Fen.wikipedia.org%2Fw%2Findex.php%3Ftitle%3DDark_Souls%26action%3Dinfo"><span>Get shortened URL</span></a></li>
 		</ul>
 		
 	</div>
@@ -498,13 +516,13 @@ RLSTATE={"ext.gadget.InterProjectLinks":"ready","ext.globalCssJs.user.styles":"r
 
 <div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects"  >
 	<div class="vector-menu-heading">
-		På andre prosjekter
+		In other projects
 	</div>
 	<div class="vector-menu-content">
 		
 		<ul class="vector-menu-content-list">
 			
-			<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Dark_Souls_(series)" hreflang="en"><span>Wikimedia Commons</span></a></li><li id="t-wikibase" class="wb-otherproject-link wb-otherproject-wikibase-dataitem mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q99431276" title="Lenke til koblet dataregisterelement [g]" accesskey="g"><span>Wikidata-element</span></a></li>
+			<li id="t-wikibase" class="wb-otherproject-link wb-otherproject-wikibase-dataitem mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q99431276" title="Structured data on this page hosted by Wikidata [g]" accesskey="g"><span>Wikidata item</span></a></li>
 		</ul>
 		
 	</div>
@@ -524,12 +542,12 @@ RLSTATE={"ext.gadget.InterProjectLinks":"ready","ext.globalCssJs.user.styles":"r
 				<div class="vector-column-end no-font-mode-scale">
 					<div class="vector-sticky-pinned-container">
 						<div class="wp25eastereggs-vector-sitenotice-landmark"></div>
-						<nav class="vector-page-tools-landmark" aria-label="Sideverktøy">
+						<nav class="vector-page-tools-landmark" aria-label="Page tools">
 							<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
 				
 							</div>
 		</nav>
-						<nav class="vector-appearance-landmark" aria-label="Utseende">
+						<nav class="vector-appearance-landmark" aria-label="Appearance">
 							<div id="vector-appearance-pinned-container" class="vector-pinned-container">
 				<div id="vector-appearance" class="vector-appearance vector-pinnable-element">
 	<div
@@ -539,9 +557,9 @@ RLSTATE={"ext.gadget.InterProjectLinks":"ready","ext.globalCssJs.user.styles":"r
 	data-pinned-container-id="vector-appearance-pinned-container"
 	data-unpinned-container-id="vector-appearance-unpinned-container"
 >
-	<div class="vector-pinnable-header-label">Utseende</div>
-	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-appearance.pin">flytt til sidefeltet</button>
-	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-appearance.unpin">skjul</button>
+	<div class="vector-pinnable-header-label">Appearance</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-appearance.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-appearance.unpin">hide</button>
 </div>
 
 
@@ -554,81 +572,84 @@ RLSTATE={"ext.gadget.InterProjectLinks":"ready","ext.globalCssJs.user.styles":"r
 				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
 					<div class="vector-body-before-content">
 							<div class="mw-indicators">
+		<div id="mw-indicator-mw-helplink" class="mw-indicator"><a href="/wiki/Help:Page_information" target="_blank" class="mw-helplink"><span class="mw-helplink-icon"></span>Help</a></div>
 		</div>
 
-						<div id="siteSub" class="noprint">Fra Wikipedia, den frie encyklopedi</div>
+						
 					</div>
 					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
 					
 					
-					<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="nb" dir="ltr" data-mw-parsoid-version="0.23.0.0-alpha24" data-mw-html-version="2.8.0"><section data-mw-section-id="0" id="mwAQ"><style data-mw-deduplicate="TemplateStyles:r24884810" typeof="mw:Extension/templatestyles mw:Transclusion" about="#mwt1" data-mw="{&quot;name&quot;:&quot;templatestyles&quot;,&quot;attrs&quot;:{&quot;src&quot;:&quot;Infoboks/styles.css&quot;},&quot;parts&quot;:[{&quot;template&quot;:{&quot;target&quot;:{&quot;wt&quot;:&quot;infoboks videospillserie&quot;,&quot;href&quot;:&quot;./Mal:Infoboks_videospillserie&quot;},&quot;params&quot;:{},&quot;i&quot;:0}}]}" id="mwAg">.mw-parser-output .wb-edithandle{display:none;padding-left:0.5em}.mw-parser-output .wd-editable-show .wb-edithandle{display:inline}.mw-parser-output .wd-editable-hide .wb-edithandle{display:none}.mw-parser-output table.infoboks{float:right;border:1px solid #aaa;padding:3px;margin:0.5em 0em 1em 1em;background-color:#f9f9f9;color:black;vertical-align:top;text-align:left;font-size:88%}.mw-parser-output table.infoboks tr.overskrift th{text-align:center;font-weight:bold;font-size:larger;border:none}.mw-parser-output table.infoboks tr.bilde td{background-color:#fff;color:black;text-align:center;vertical-align:middle;border:none}.mw-parser-output table.infoboks th{border-bottom:1px solid #ccc;text-align:center;padding-left:3px;padding-right:3px;padding-top:0.3em}.mw-parser-output table.infoboks td{background-color:#efefef;color:black;border-bottom:1px solid #ccc;margin:0;padding:3px}.mw-parser-output table.infoboks tr.custom td{background:none;border:none}.mw-parser-output table.infoboks tr.rad th{text-align:left;font-weight:bold;border:none;padding-left:3px;padding-right:3px;padding-top:0.2em;padding-bottom:0.1em}.mw-parser-output table.infoboks tr.rad td{text-align:left;font-weight:normal;border:none;padding-left:3px;padding-right:3px;padding-top:0.2em;padding-bottom:0.1em;background-color:#f9f9f9}.mw-parser-output table.infoboks tr.rad td.center{text-align:center}.mw-parser-output table.infoboks tr.rad td.headercenter{text-align:center;font-weight:bold;border:none;padding-left:0px;padding-right:0px;padding-top:0.2em;padding-bottom:0.1em;background-color:#f9f9f9}.mw-parser-output table.infoboks tr.hode th{padding-left:0px;padding-right:0px;padding-top:0.2em;padding-bottom:0.1em}.mw-parser-output table.infoboks tr.bilde td{text-align:center;font-weight:normal;border:none;padding-left:3px;padding-right:3px;padding-top:0;padding-bottom:0;background-color:#f9f9f9}.mw-parser-output table.infoboks tr.overskrift td{text-align:center;font-weight:bold;background-color:#eee;border:none;padding-left:0px;padding-right:0px;padding-top:0.2em;padding-bottom:0.1em}.mw-parser-output .infoboks.geografi tr.overskrift th{background-color:#f9f9f9;color:black}.mw-parser-output .infoboks.biografi tr.overskrift th{background-color:#f9f9f9;color:black}.mw-parser-output .infoboks.transport tr.overskrift th{background-color:#f9f9f9;color:black}.mw-parser-output .infoboks.bygning tr.overskrift th{background-color:#f9f9f9;color:black}.mw-parser-output .infoboks.infrastruktur tr.overskrift th{background-color:#f9f9f9;color:black}.mw-parser-output .infoboks.bred tr.overskrift td{font-size:larger}.mw-parser-output .infoboks.ekstrabred tr.overskrift td{font-size:larger}.mw-parser-output .infoboks.bordered tr.rad th{border-bottom:1px solid #ccc}.mw-parser-output .infoboks.bordered tr.rad td{border-bottom:1px solid #ccc}</style><table class="infobox infoboks   " about="#mwt1" id="mwAw"><tbody><tr class="hode overskrift"><th colspan="4">
-<i>Dark Souls</i></th></tr>		<tr class="bilde" valign="top"><td colspan="4" class="sentrert"><figure class="mw-default-size mw-halign-center" typeof="mw:File/Frameless"><a href="//no.wikipedia.org/wiki/Fil:Dark_Souls_logo_black.svg" class="mw-file-description"><img resource="//no.wikipedia.org/wiki/Fil:Dark_Souls_logo_black.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Dark_Souls_logo_black.svg/250px-Dark_Souls_logo_black.svg.png" decoding="async" data-file-width="512" data-file-height="63" data-file-type="drawing" height="31" width="250" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Dark_Souls_logo_black.svg/500px-Dark_Souls_logo_black.svg.png 2x" class="mw-file-element"></a><figcaption></figcaption></figure></td></tr>
-		<tr class="rad "><th colspan="2">Utvikler(e)</th><td colspan="2"><a rel="mw:WikiLink" href="//no.wikipedia.org/wiki/FromSoftware" title="FromSoftware">FromSoftware</a></td></tr><tr class="rad "><th colspan="2">Spill</th><td colspan="2"><a rel="mw:WikiLink" href="//no.wikipedia.org/wiki/Dark_Souls_(videospill)" title="Dark Souls (videospill)">Dark Souls</a>, Dark Souls: Remastered, Dark Souls II, Dark Souls III  </td></tr><tr class="rad "><th colspan="2">Skaper</th><td colspan="2"><a rel="mw:WikiLink" href="//no.wikipedia.org/wiki/Hidetaka_Miyazaki" title="Hidetaka Miyazaki">Hidetaka Miyazaki</a> </td></tr><tr class="rad "><th colspan="2">Komponist</th><td colspan="2">Motoi Sakuraba</td></tr><tr class="rad "><th colspan="2">Sjanger</th><td colspan="2"><a rel="mw:WikiLink" href="//no.wikipedia.org/wiki/Action-rollespill" title="Action-rollespill">Action-rollespill</a>   </td></tr><tr class="rad "><th colspan="2">Første<span typeof="mw:Entity">&nbsp;</span>i<span typeof="mw:Entity">&nbsp;</span>serie</th><td colspan="2"><i><a rel="mw:WikiLink" href="//no.wikipedia.org/wiki/Dark_Souls_(videospill)" title="Dark Souls (videospill)">Dark Souls</a></i> <small><br>22. september 2011 (<a rel="mw:WikiLink" href="//no.wikipedia.org/wiki/Japan" title="Japan">Japan</a>)</small></td></tr><tr class="rad "><th colspan="2">Nyeste<span typeof="mw:Entity">&nbsp;</span>i<span typeof="mw:Entity">&nbsp;</span>serie</th><td colspan="2"><i>Dark Souls: Remastered</i> <small><br>25. mai 2018</small></td></tr>
-</tbody></table>
-<p id="mwBA"><i id="mwBQ"><b id="mwBg">Dark Souls</b></i> er en <a rel="mw:WikiLink" href="//no.wikipedia.org/wiki/Videospillserie" title="Videospillserie" class="mw-redirect" id="mwBw">videospillserie</a> utviklet av <a rel="mw:WikiLink" href="//no.wikipedia.org/wiki/FromSoftware" title="FromSoftware" id="mwCA">FromSoftware</a> og regissert av <a rel="mw:WikiLink" href="//no.wikipedia.org/wiki/Hidetaka_Miyazaki" title="Hidetaka Miyazaki" id="mwCQ">Hidetaka Miyazaki</a>.<sup about="#mwt4" class="mw-ref reference" id="cite_ref-1" rel="dc:references" typeof="mw:Extension/ref" data-mw="{&quot;name&quot;:&quot;ref&quot;,&quot;attrs&quot;:{},&quot;body&quot;:{&quot;id&quot;:&quot;mw-reference-text-cite_note-1&quot;}}"><a href="#cite_note-1" id="mwCg"><span class="mw-reflink-text" id="mwCw"><span class="cite-bracket" id="mwDA">[</span>1<span class="cite-bracket" id="mwDQ">]</span></span></a></sup> Serien består av tre spill, <i id="mwDg"><a rel="mw:WikiLink" href="//no.wikipedia.org/wiki/Dark_Souls_(videospill)" title="Dark Souls (videospill)" id="mwDw">Dark Souls</a></i>, <i id="mwEA"><a rel="mw:WikiLink" href="//no.wikipedia.org/wiki/Dark_Souls_II?action=edit&amp;redlink=1" title="Dark Souls II (ikke skrevet ennå)" class="new" typeof="mw:LocalizedAttrs" id="mwEQ" data-mw-i18n="{&quot;title&quot;:{&quot;lang&quot;:&quot;x-page&quot;,&quot;key&quot;:&quot;red-link-title&quot;,&quot;params&quot;:[&quot;Dark Souls II&quot;]}}">Dark Souls II</a></i> og <i id="mwEg"><a rel="mw:WikiLink" href="//no.wikipedia.org/wiki/Dark_Souls_III?action=edit&amp;redlink=1" title="Dark Souls III (ikke skrevet ennå)" class="new" typeof="mw:LocalizedAttrs" id="mwEw" data-mw-i18n="{&quot;title&quot;:{&quot;lang&quot;:&quot;x-page&quot;,&quot;key&quot;:&quot;red-link-title&quot;,&quot;params&quot;:[&quot;Dark Souls III&quot;]}}">Dark Souls III</a></i>. Sammen <i id="mwFA"><a rel="mw:WikiLink" href="//no.wikipedia.org/wiki/Demon's_Souls" title="Demon's Souls" class="mw-redirect" id="mwFQ">Demon's Souls</a></i> er serien opphavet til <a rel="mw:WikiLink" href="//no.wikipedia.org/wiki/Soulslike" title="Soulslike" id="mwFg">soulslikesjangeren</a>,<sup about="#mwt6" class="mw-ref reference" id="cite_ref-2" rel="dc:references" typeof="mw:Extension/ref" data-mw="{&quot;name&quot;:&quot;ref&quot;,&quot;attrs&quot;:{},&quot;body&quot;:{&quot;id&quot;:&quot;mw-reference-text-cite_note-2&quot;}}"><a href="#cite_note-2" id="mwFw"><span class="mw-reflink-text" id="mwGA"><span class="cite-bracket" id="mwGQ">[</span>2<span class="cite-bracket" id="mwGg">]</span></span></a></sup><sup about="#mwt8" class="mw-ref reference" id="cite_ref-3" rel="dc:references" typeof="mw:Extension/ref" data-mw="{&quot;name&quot;:&quot;ref&quot;,&quot;attrs&quot;:{},&quot;body&quot;:{&quot;id&quot;:&quot;mw-reference-text-cite_note-3&quot;}}"><a href="#cite_note-3" id="mwGw"><span class="mw-reflink-text" id="mwHA"><span class="cite-bracket" id="mwHQ">[</span>3<span class="cite-bracket" id="mwHg">]</span></span></a></sup> og har også innspirert senere spill utviklet av FromSoftware, blant annet <i id="mwHw"><a rel="mw:WikiLink" href="//no.wikipedia.org/wiki/Bloodborne" title="Bloodborne" id="mwIA">Bloodborne</a></i> og <a rel="mw:WikiLink" href="//no.wikipedia.org/wiki/Elden_Ring" title="Elden Ring" id="mwIQ">Elden Ring</a><i id="mwIg">.<sup about="#mwt10" class="mw-ref reference" id="cite_ref-4" rel="dc:references" typeof="mw:Extension/ref" data-mw="{&quot;name&quot;:&quot;ref&quot;,&quot;attrs&quot;:{},&quot;body&quot;:{&quot;id&quot;:&quot;mw-reference-text-cite_note-4&quot;}}"><a href="#cite_note-4" id="mwIw"><span class="mw-reflink-text" id="mwJA"><span class="cite-bracket" id="mwJQ">[</span>4<span class="cite-bracket" id="mwJg">]</span></span></a></sup><sup about="#mwt12" class="mw-ref reference" id="cite_ref-5" rel="dc:references" typeof="mw:Extension/ref" data-mw="{&quot;name&quot;:&quot;ref&quot;,&quot;attrs&quot;:{},&quot;body&quot;:{&quot;id&quot;:&quot;mw-reference-text-cite_note-5&quot;}}"><a href="#cite_note-5" id="mwJw"><span class="mw-reflink-text" id="mwKA"><span class="cite-bracket" id="mwKQ">[</span>5<span class="cite-bracket" id="mwKg">]</span></span></a></sup></i></p>
-
-</section><section data-mw-section-id="1" id="mwKw" aria-labelledby="Referanser"><div class="mw-heading mw-heading2"><h2 id="Referanser">Referanser</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="//no.wikipedia.org/w/index.php?title=Dark_Souls&amp;veaction=edit&amp;section=1" title="Rediger avsnitt: Referanser" class="mw-editsection-visualeditor"><span>rediger</span></a><span class="mw-editsection-divider"> | </span><a href="//no.wikipedia.org/w/index.php?title=Dark_Souls&amp;action=edit&amp;section=1" title="Rediger kildekoden til seksjonen Referanser"><span>rediger kilde</span></a><span class="mw-editsection-bracket">]</span></span></div>
-<div class="mw-references-wrap" typeof="mw:Extension/references" about="#mwt13" id="mwLA" data-mw="{&quot;name&quot;:&quot;references&quot;,&quot;attrs&quot;:{}}"><ol class="mw-references references" id="mwLQ"><li about="#cite_note-1" id="cite_note-1" data-mw-footnote-number="1"><span class="mw-cite-backlink" id="mwLg"><a href="#cite_ref-1" rel="mw:referencedBy" id="mwLw"><span class="mw-linkback-text" id="mwMA">↑</span></a></span> <span id="mw-reference-text-cite_note-1" class="mw-reference-text reference-text"><cite class="citation web" about="#mwt3" typeof="mw:Transclusion" data-mw="{&quot;parts&quot;:[{&quot;template&quot;:{&quot;target&quot;:{&quot;wt&quot;:&quot;Kilde www&quot;,&quot;href&quot;:&quot;./Mal:Kilde_www&quot;},&quot;params&quot;:{&quot;url&quot;:{&quot;wt&quot;:&quot;https://www.thegamer.com/origin-dark-demons-souls-elden-ring-fromsoftware-bloodborne-sekiro/&quot;},&quot;tittel&quot;:{&quot;wt&quot;:&quot;The Origin Of Dark Souls&quot;},&quot;besøksdato&quot;:{&quot;wt&quot;:&quot;2023-01-19&quot;},&quot;dato&quot;:{&quot;wt&quot;:&quot;2022-05-12&quot;},&quot;fornavn&quot;:{&quot;wt&quot;:&quot;Matt&quot;},&quot;etternavn&quot;:{&quot;wt&quot;:&quot;Arnold&quot;},&quot;språk&quot;:{&quot;wt&quot;:&quot;en&quot;},&quot;verk&quot;:{&quot;wt&quot;:&quot;TheGamer&quot;}},&quot;i&quot;:0}}]}" id="mwMQ">Arnold, Matt (12. mai 2022). <a rel="mw:ExtLink nofollow" href="https://www.thegamer.com/origin-dark-demons-souls-elden-ring-fromsoftware-bloodborne-sekiro/" class="external text" id="mwMg">«The Origin Of Dark Souls»</a>. <i id="mwMw">TheGamer</i> (på engelsk)<span class="reference-accessdate" id="mwNA">. Besøkt 19. januar 2023</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fno.wikipedia.org%3ADark+Souls&amp;rft.atitle=The+Origin+Of+Dark+Souls&amp;rft.aufirst=Matt&amp;rft.aulast=Arnold&amp;rft.date=2022-05-12&amp;rft.genre=unknown&amp;rft.jtitle=TheGamer&amp;rft_id=https%3A%2F%2Fwww.thegamer.com%2Forigin-dark-demons-souls-elden-ring-fromsoftware-bloodborne-sekiro%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988" about="#mwt3" id="mwNQ"><span style="display:none;" id="mwNg"><span typeof="mw:Entity" id="mwNw">&nbsp;</span></span></span></span></li>
-<li about="#cite_note-2" id="cite_note-2" data-mw-footnote-number="2"><span class="mw-cite-backlink" id="mwOA"><a href="#cite_ref-2" rel="mw:referencedBy" id="mwOQ"><span class="mw-linkback-text" id="mwOg">↑</span></a></span> <span id="mw-reference-text-cite_note-2" class="mw-reference-text reference-text"><cite class="citation web" about="#mwt5" typeof="mw:Transclusion" data-mw="{&quot;parts&quot;:[{&quot;template&quot;:{&quot;target&quot;:{&quot;wt&quot;:&quot;Kilde www&quot;,&quot;href&quot;:&quot;./Mal:Kilde_www&quot;},&quot;params&quot;:{&quot;url&quot;:{&quot;wt&quot;:&quot;https://www.ign.com/articles/the-best-soulslike-games&quot;},&quot;tittel&quot;:{&quot;wt&quot;:&quot;The Best Soulslike Games&quot;},&quot;besøksdato&quot;:{&quot;wt&quot;:&quot;2023-01-19&quot;},&quot;dato&quot;:{&quot;wt&quot;:&quot;2021-02-11&quot;},&quot;fornavn&quot;:{&quot;wt&quot;:&quot;I. G. N.&quot;},&quot;etternavn&quot;:{&quot;wt&quot;:&quot;Staff&quot;},&quot;språk&quot;:{&quot;wt&quot;:&quot;en&quot;},&quot;verk&quot;:{&quot;wt&quot;:&quot;IGN&quot;}},&quot;i&quot;:0}}]}" id="mwOw">Staff, I. G. N. (11. februar 2021). <a rel="mw:ExtLink nofollow" href="https://www.ign.com/articles/the-best-soulslike-games" class="external text" id="mwPA">«The Best Soulslike Games»</a>. <i id="mwPQ">IGN</i> (på engelsk)<span class="reference-accessdate" id="mwPg">. Besøkt 19. januar 2023</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fno.wikipedia.org%3ADark+Souls&amp;rft.atitle=The+Best+Soulslike+Games&amp;rft.aufirst=I.+G.+N.&amp;rft.aulast=Staff&amp;rft.date=2021-02-11&amp;rft.genre=unknown&amp;rft.jtitle=IGN&amp;rft_id=https%3A%2F%2Fwww.ign.com%2Farticles%2Fthe-best-soulslike-games&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988" about="#mwt5" id="mwPw"><span style="display:none;" id="mwQA"><span typeof="mw:Entity" id="mwQQ">&nbsp;</span></span></span></span></li>
-<li about="#cite_note-3" id="cite_note-3" data-mw-footnote-number="3"><span class="mw-cite-backlink" id="mwQg"><a href="#cite_ref-3" rel="mw:referencedBy" id="mwQw"><span class="mw-linkback-text" id="mwRA">↑</span></a></span> <span id="mw-reference-text-cite_note-3" class="mw-reference-text reference-text"><cite class="citation web" about="#mwt7" typeof="mw:Transclusion" data-mw="{&quot;parts&quot;:[{&quot;template&quot;:{&quot;target&quot;:{&quot;wt&quot;:&quot;Kilde www&quot;,&quot;href&quot;:&quot;./Mal:Kilde_www&quot;},&quot;params&quot;:{&quot;url&quot;:{&quot;wt&quot;:&quot;https://gamerant.com/dark-souls-fromsoftware-series-sequels-sekiro-bloodborne/&quot;},&quot;tittel&quot;:{&quot;wt&quot;:&quot;Why Dark Souls Is the Only FromSoftware 'Soulslike' Series to Receive Sequels&quot;},&quot;besøksdato&quot;:{&quot;wt&quot;:&quot;2023-01-19&quot;},&quot;dato&quot;:{&quot;wt&quot;:&quot;2023-01-08&quot;},&quot;fornavn&quot;:{&quot;wt&quot;:&quot;Billy&quot;},&quot;etternavn&quot;:{&quot;wt&quot;:&quot;Jump&quot;},&quot;språk&quot;:{&quot;wt&quot;:&quot;en&quot;},&quot;verk&quot;:{&quot;wt&quot;:&quot;Game Rant&quot;}},&quot;i&quot;:0}}]}" id="mwRQ">Jump, Billy (8. januar 2023). <a rel="mw:ExtLink nofollow" href="https://gamerant.com/dark-souls-fromsoftware-series-sequels-sekiro-bloodborne/" class="external text" id="mwRg">«Why Dark Souls Is the Only FromSoftware 'Soulslike' Series to Receive Sequels»</a>. <i id="mwRw">Game Rant</i> (på engelsk)<span class="reference-accessdate" id="mwSA">. Besøkt 19. januar 2023</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fno.wikipedia.org%3ADark+Souls&amp;rft.atitle=Why+Dark+Souls+Is+the+Only+FromSoftware+%27Soulslike%27+Series+to+Receive+Sequels&amp;rft.aufirst=Billy&amp;rft.aulast=Jump&amp;rft.date=2023-01-08&amp;rft.genre=unknown&amp;rft.jtitle=Game+Rant&amp;rft_id=https%3A%2F%2Fgamerant.com%2Fdark-souls-fromsoftware-series-sequels-sekiro-bloodborne%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988" about="#mwt7" id="mwSQ"><span style="display:none;" id="mwSg"><span typeof="mw:Entity" id="mwSw">&nbsp;</span></span></span></span></li>
-<li about="#cite_note-4" id="cite_note-4" data-mw-footnote-number="4"><span class="mw-cite-backlink" id="mwTA"><a href="#cite_ref-4" rel="mw:referencedBy" id="mwTQ"><span class="mw-linkback-text" id="mwTg">↑</span></a></span> <span id="mw-reference-text-cite_note-4" class="mw-reference-text reference-text"><cite class="citation web" about="#mwt9" typeof="mw:Transclusion" data-mw="{&quot;parts&quot;:[{&quot;template&quot;:{&quot;target&quot;:{&quot;wt&quot;:&quot;Kilde www&quot;,&quot;href&quot;:&quot;./Mal:Kilde_www&quot;},&quot;params&quot;:{&quot;url&quot;:{&quot;wt&quot;:&quot;https://www.vg247.com/sekiro-shadows-die-twice-gameplay&quot;},&quot;tittel&quot;:{&quot;wt&quot;:&quot;Sekiro: Shadows Die Twice is a new Soulslike developed by FromSoftware&quot;},&quot;besøksdato&quot;:{&quot;wt&quot;:&quot;2023-01-19&quot;},&quot;dato&quot;:{&quot;wt&quot;:&quot;2018-06-10&quot;},&quot;språk&quot;:{&quot;wt&quot;:&quot;en&quot;},&quot;verk&quot;:{&quot;wt&quot;:&quot;VG247&quot;}},&quot;i&quot;:0}}]}" id="mwTw"><a rel="mw:ExtLink nofollow" href="https://www.vg247.com/sekiro-shadows-die-twice-gameplay" class="external text" id="mwUA">«Sekiro: Shadows Die Twice is a new Soulslike developed by FromSoftware»</a>. <i id="mwUQ">VG247</i> (på engelsk). 10. juni 2018<span class="reference-accessdate" id="mwUg">. Besøkt 19. januar 2023</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fno.wikipedia.org%3ADark+Souls&amp;rft.atitle=Sekiro%3A+Shadows+Die+Twice+is+a+new+Soulslike+developed+by+FromSoftware&amp;rft.date=2018-06-10&amp;rft.genre=unknown&amp;rft.jtitle=VG247&amp;rft_id=https%3A%2F%2Fwww.vg247.com%2Fsekiro-shadows-die-twice-gameplay&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988" about="#mwt9" id="mwUw"><span style="display:none;" id="mwVA"><span typeof="mw:Entity" id="mwVQ">&nbsp;</span></span></span></span></li>
-<li about="#cite_note-5" id="cite_note-5" data-mw-footnote-number="5"><span class="mw-cite-backlink" id="mwVg"><a href="#cite_ref-5" rel="mw:referencedBy" id="mwVw"><span class="mw-linkback-text" id="mwWA">↑</span></a></span> <span id="mw-reference-text-cite_note-5" class="mw-reference-text reference-text"><cite class="citation web" about="#mwt11" typeof="mw:Transclusion" data-mw="{&quot;parts&quot;:[{&quot;template&quot;:{&quot;target&quot;:{&quot;wt&quot;:&quot;Kilde www&quot;,&quot;href&quot;:&quot;./Mal:Kilde_www&quot;},&quot;params&quot;:{&quot;url&quot;:{&quot;wt&quot;:&quot;https://indianexpress.com/article/technology/gaming/elden-ring-is-out-now-everything-to-know-about-miyazakis-new-souls-like-7789358/&quot;},&quot;tittel&quot;:{&quot;wt&quot;:&quot;Elden Ring now available to play: Everything to know about Miyazaki’s new souls-like&quot;},&quot;besøksdato&quot;:{&quot;wt&quot;:&quot;2023-01-19&quot;},&quot;dato&quot;:{&quot;wt&quot;:&quot;2022-02-24&quot;},&quot;språk&quot;:{&quot;wt&quot;:&quot;en&quot;},&quot;verk&quot;:{&quot;wt&quot;:&quot;The Indian Express&quot;}},&quot;i&quot;:0}}]}" id="mwWQ"><a rel="mw:ExtLink nofollow" href="https://indianexpress.com/article/technology/gaming/elden-ring-is-out-now-everything-to-know-about-miyazakis-new-souls-like-7789358/" class="external text" id="mwWg">«Elden Ring now available to play: Everything to know about Miyazaki’s new souls-like»</a>. <i id="mwWw">The Indian Express</i> (på engelsk). 24. februar 2022<span class="reference-accessdate" id="mwXA">. Besøkt 19. januar 2023</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fno.wikipedia.org%3ADark+Souls&amp;rft.atitle=Elden+Ring+now+available+to+play%3A+Everything+to+know+about+Miyazaki%E2%80%99s+new+souls-like&amp;rft.date=2022-02-24&amp;rft.genre=unknown&amp;rft.jtitle=The+Indian+Express&amp;rft_id=https%3A%2F%2Findianexpress.com%2Farticle%2Ftechnology%2Fgaming%2Felden-ring-is-out-now-everything-to-know-about-miyazakis-new-souls-like-7789358%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988" about="#mwt11" id="mwXQ"><span style="display:none;" id="mwXg"><span typeof="mw:Entity" id="mwXw">&nbsp;</span></span></span></span></li>
-</ol></div>
-
-</section><section data-mw-section-id="2" id="mwYA" aria-labelledby="Eksterne_lenker"><div class="mw-heading mw-heading2"><h2 id="Eksterne_lenker">Eksterne lenker</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="//no.wikipedia.org/w/index.php?title=Dark_Souls&amp;veaction=edit&amp;section=2" title="Rediger avsnitt: Eksterne lenker" class="mw-editsection-visualeditor"><span>rediger</span></a><span class="mw-editsection-divider"> | </span><a href="//no.wikipedia.org/w/index.php?title=Dark_Souls&amp;action=edit&amp;section=2" title="Rediger kildekoden til seksjonen Eksterne lenker"><span>rediger kilde</span></a><span class="mw-editsection-bracket">]</span></span></div>
-<ul id="mwYQ"><li id="mwYg"><span class="bjeller languageicon" style="color: var(--color-subtle, #54595d);cursor:help;" title="{{#language:en|nb}}" about="#mwt14" typeof="mw:Transclusion" data-mw="{&quot;parts&quot;:[{&quot;template&quot;:{&quot;target&quot;:{&quot;wt&quot;:&quot;Offisielle lenker&quot;,&quot;href&quot;:&quot;./Mal:Offisielle_lenker&quot;},&quot;params&quot;:{},&quot;i&quot;:0}}]}" id="mwYw">(en)</span><span about="#mwt14"> </span><a rel="mw:WikiLink/Interwiki" href="https://commons.wikimedia.org/wiki/Category:Dark%20Souls%20(series)" title="commons:Category:Dark Souls (series)" about="#mwt14" class="extiw">Dark Souls (series)</a><span about="#mwt14"> – kategori av bilder, video eller lyd på </span><a rel="mw:WikiLink" href="//no.wikipedia.org/wiki/Wikimedia_Commons" title="Wikimedia Commons" about="#mwt14">Commons</a><span about="#mwt14"> </span><span class="noprint plainlinks wikidata-linkback wd_p373" about="#mwt14"><span class="mw-valign-text-top" typeof="mw:File/Frameless" data-mw="{&quot;caption&quot;:&quot;Rediger på Wikidata&quot;}"><a href="https://www.wikidata.org/wiki/Q99431276?uselang=nb#P373" title="Rediger på Wikidata"><img alt="Rediger på Wikidata" resource="//no.wikipedia.org/wiki/Fil:OOjs_UI_icon_edit-ltr-progressive.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" data-file-width="20" data-file-height="20" data-file-type="drawing" height="10" width="10" class="mw-file-element"></a></span></span><span about="#mwt14">
-</span><link rel="mw:PageProp/Category" href="./Kategori:Artikler_med_offisielle_lenker_fra_Wikidata" about="#mwt14" id="mwZA"></li></ul>
-
-<div class="navbox-styles" about="#mwt16" typeof="mw:Transclusion" data-mw="{&quot;parts&quot;:[{&quot;template&quot;:{&quot;target&quot;:{&quot;wt&quot;:&quot;autoritetsdata&quot;,&quot;href&quot;:&quot;./Mal:Autoritetsdata&quot;},&quot;params&quot;:{},&quot;i&quot;:0}}]}" id="mwZQ"><style data-mw-deduplicate="TemplateStyles:r24994932" typeof="mw:Extension/templatestyles" about="#mwt17" data-mw="{&quot;name&quot;:&quot;templatestyles&quot;,&quot;attrs&quot;:{&quot;src&quot;:&quot;Hlist/styles.css&quot;},&quot;body&quot;:{&quot;extsrc&quot;:&quot;&quot;}}">.mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:": "}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:" · ";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:" (";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:")";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li::before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child::before,.mw-parser-output .hlist dt ol>li:first-child::before,.mw-parser-output .hlist li ol>li:first-child::before{content:" ("counter(listitem)"\a0 "}</style><style data-mw-deduplicate="TemplateStyles:r25382256" typeof="mw:Extension/templatestyles" about="#mwt18" data-mw="{&quot;name&quot;:&quot;templatestyles&quot;,&quot;attrs&quot;:{&quot;src&quot;:&quot;Module:Navbox/styles.css&quot;},&quot;body&quot;:{&quot;extsrc&quot;:&quot;&quot;}}">.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox-title{background-color:#ccf}.mw-parser-output .navbox-abovebelow,.mw-parser-output .navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}body.skin--responsive .mw-parser-output .navbox-image img{max-width:none!important}@media print{body.ns-0 .mw-parser-output .navbox{display:none!important}}.mw-parser-output .navbox-inherit-textcolor{color:inherit}</style></div><div role="navigation" class="navbox" aria-labelledby="Oppslagsverk/autoritetsdata52" style="padding:3px" about="#mwt16" id="mwZg"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th id="Oppslagsverk/autoritetsdata52" scope="row" class="navbox-group" style="width:1%"><a rel="mw:WikiLink" href="//no.wikipedia.org/wiki/Hjelp:Autoritetsdata" title="Hjelp:Autoritetsdata">Oppslagsverk/autoritetsdata</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0em 0.25em"><a rel="mw:ExtLink nofollow" href="https://snl.no/Dark_Souls" class="external text">Store norske leksikon</a>
-<link rel="mw:PageProp/Category" href="./Kategori:Artikler_med_autoritetsdatalenker_fra_Wikidata"></div></td></tr></tbody></table></div>
-<span about="#mwt19" typeof="mw:Transclusion" data-mw="{&quot;parts&quot;:[{&quot;template&quot;:{&quot;target&quot;:{&quot;wt&quot;:&quot;kursiv tittel&quot;,&quot;href&quot;:&quot;./Mal:Kursiv_tittel&quot;},&quot;params&quot;:{},&quot;i&quot;:0}}]}" id="mwZw"></span>
-
-<link rel="mw:PageProp/Category" href="./Kategori:Dataspillserier" id="mwaA"></section>
-<!-- 
-NewPP limit report
-Parsed by mw‐web.codfw.main‐5b6648677c‐fcnz6
-Cached time: 20260408080141
-Cache expiry: 57506
-Cache expiry source: Modul:Wd‐norsk (os.date(!%Y‐%m‐%d))
-Reduced expiry: true
-Complications: [use‐parsoid]
-CPU time usage: 0.404 seconds
-Real time usage: 0.523 seconds
-Preprocessor visited node count: 1774/1000000
-Revision size: 1890/2097152 bytes
-Post‐expand include size: 18042/2097152 bytes
-Template argument size: 1090/2097152 bytes
-Highest expansion depth: 11/100
-Expensive parser function count: 3/500
-Unstrip recursion depth: 0/20
-Unstrip post‐expand size: 7745/5000000 bytes
-Lua time usage: 0.186/10.000 seconds
-Lua memory usage: 6090030/52428800 bytes
-Number of Wikibase entities loaded: 4/500
--->
-<!--
-Transclusion expansion time report (%,ms,calls,template)
-100.00%  476.987      1 -total
- 49.49%  236.076      1 Mal:Infoboks_videospillserie
- 40.84%  194.810     27 Mal:Infoboks_rad
- 28.52%  136.026     17 Mal:Wikidata-norsk
- 12.59%   60.062      5 Mal:Kilde_www
-  6.79%   32.401      1 Mal:Autoritetsdata
-  5.96%   28.410     11 Mal:Wikidata
-  5.12%   24.441      1 Mal:Navboks
-  5.02%   23.951      1 Mal:Offisielle_lenker
-  4.55%   21.709      1 Mal:Navbox
--->
-
-<!-- Saved in parser cache with key nowiki:parsoid-pcache:2088345:|#|:idhash:useParsoid=1 and timestamp 20260408080141 and revision id 25498855. Rendering was triggered because: page_view
- -->
-
-<!--Parsoid 0.23.0.0-alpha24-->
-</div><!--
-Post‐processing cache key nowiki:postproc‐parsoid‐pcache:2088345:|#|:idhash:injectTOC=0!postproc=1!skin=vector‐2022!useParsoid=1, generated at 20260408080141
---><noscript><img src="https://no.wikipedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&amp;type=1x1&amp;usesul3=1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
-<div class="printfooter" data-nosnippet="">Hentet fra «<a dir="ltr" href="https://no.wikipedia.org/w/index.php?title=Dark_Souls&amp;oldid=25498855">https://no.wikipedia.org/w/index.php?title=Dark_Souls&amp;oldid=25498855</a>»</div></div>
-					<div id="catlinks" class="catlinks" data-mw-interface=""><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Kategori:Kategorier" title="Kategori:Kategorier">Kategori</a>: <ul><li><a href="/wiki/Kategori:Dataspillserier" title="Kategori:Dataspillserier">Dataspillserier</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Skjulte kategorier: <ul><li><a href="/wiki/Kategori:Artikler_med_offisielle_lenker_fra_Wikidata" title="Kategori:Artikler med offisielle lenker fra Wikidata">Artikler med offisielle lenker fra Wikidata</a></li><li><a href="/wiki/Kategori:Artikler_med_autoritetsdatalenker_fra_Wikidata" title="Kategori:Artikler med autoritetsdatalenker fra Wikidata">Artikler med autoritetsdatalenker fra Wikidata</a></li></ul></div></div>
+					<div id="mw-content-text" class="mw-body-content"><meta property="mw:PageProp/toc" /><h2 id="Basic_information"><span id="mw-pageinfo-header-basic"></span>Basic information</h2>
+<table class="wikitable mw-page-info">
+<tr id="mw-pageinfo-display-title" style="vertical-align: top;"><td>Display title</td><td><i>Dark Souls</i></td></tr>
+<tr id="mw-pageinfo-default-sort" style="vertical-align: top;"><td>Default sort key</td><td>Dark Souls</td></tr>
+<tr id="mw-pageinfo-length" style="vertical-align: top;"><td>Page length (in bytes)</td><td>47,169</td></tr>
+<tr id="mw-pageinfo-namespace-id" style="vertical-align: top;"><td>Namespace ID</td><td>0</td></tr>
+<tr id="mw-pageinfo-article-id" style="vertical-align: top;"><td>Page ID</td><td>47094971</td></tr>
+<tr style="vertical-align: top;"><td>Page content language</td><td>en - English</td></tr>
+<tr id="mw-pageinfo-content-model" style="vertical-align: top;"><td>Page content model</td><td>wikitext</td></tr>
+<tr id="mw-pageinfo-robot-policy" style="vertical-align: top;"><td>Indexing by robots</td><td>Allowed</td></tr>
+<tr id="mw-pageinfo-watchers" style="vertical-align: top;"><td>Number of page watchers</td><td>271</td></tr>
+<tr id="mw-pageinfo-visiting-watchers" style="vertical-align: top;"><td>Number of page watchers who visited in the last 30 days</td><td>13</td></tr>
+<tr style="vertical-align: top;"><td><a href="/w/index.php?title=Special:WhatLinksHere/Dark_Souls&amp;hidelinks=1&amp;hidetrans=1" title="Special:WhatLinksHere/Dark Souls">Number of redirects to this page</a></td><td>8</td></tr>
+<tr id="mw-pageinfo-contentpage" style="vertical-align: top;"><td>Counted as a content page</td><td>Yes</td></tr>
+<tr style="vertical-align: top;"><td>Wikidata item ID</td><td><a class="extiw wb-entity-link external" href="https://www.wikidata.org/wiki/Special:EntityPage/Q99431276">Q99431276</a></td></tr>
+<tr style="vertical-align: top;"><td>Local description</td><td>Video game series</td></tr>
+<tr style="vertical-align: top;"><td>Central description</td><td>video game series</td></tr>
+<tr id="mw-pvi-month-count" style="vertical-align: top;"><td>Page views in the past 30 days</td><td><div class="mw-pvi-month"><a rel="nofollow" class="external text" href="https://pageviews.wmcloud.org/?project=en.wikipedia.org&amp;platform=all-access&amp;agent=user&amp;redirects=0&amp;range=latest-30&amp;pages=Dark_Souls">33,743</a></div></td></tr>
+</table>
+<h2 id="Page_protection"><span id="mw-pageinfo-header-restrictions"></span>Page protection</h2>
+<table class="wikitable mw-page-info">
+<tr id="mw-restriction-edit" style="vertical-align: top;"><td>Edit</td><td>Allow all users (no expiry set)</td></tr>
+<tr id="mw-restriction-move" style="vertical-align: top;"><td>Move</td><td>Allow all users (no expiry set)</td></tr>
+</table>
+<a href="/w/index.php?title=Special:Log&amp;type=protect&amp;page=Dark+Souls" title="Special:Log">View the protection log for this page.</a>
+<h2 id="Edit_history"><span id="mw-pageinfo-header-edits"></span>Edit history</h2>
+<table class="wikitable mw-page-info">
+<tr id="mw-pageinfo-firstuser" style="vertical-align: top;"><td>Page creator</td><td><a href="/wiki/User:Osh33m" class="mw-userlink" title="User:Osh33m" data-mw-revid="668935464"><bdi>Osh33m</bdi></a> <span class="mw-usertoollinks">(<a href="/wiki/User_talk:Osh33m" class="mw-usertoollinks-talk" title="User talk:Osh33m">talk</a> | <a href="/wiki/Special:Contributions/Osh33m" class="mw-usertoollinks-contribs" title="Special:Contributions/Osh33m">contribs</a>)</span></td></tr>
+<tr id="mw-pageinfo-firsttime" style="vertical-align: top;"><td>Date of page creation</td><td><a href="/w/index.php?title=Dark_Souls&amp;oldid=668935464" title="Dark Souls">18:25, 27 June 2015</a></td></tr>
+<tr id="mw-pageinfo-lastuser" style="vertical-align: top;"><td>Latest editor</td><td><a href="/wiki/User:Sixaxis" class="mw-userlink" title="User:Sixaxis" data-mw-revid="1342822556"><bdi>Sixaxis</bdi></a> <span class="mw-usertoollinks">(<a href="/wiki/User_talk:Sixaxis" class="mw-usertoollinks-talk" title="User talk:Sixaxis">talk</a> | <a href="/wiki/Special:Contributions/Sixaxis" class="mw-usertoollinks-contribs" title="Special:Contributions/Sixaxis">contribs</a>)</span></td></tr>
+<tr id="mw-pageinfo-lasttime" style="vertical-align: top;"><td>Date of latest edit</td><td><a href="/w/index.php?title=Dark_Souls&amp;oldid=1342822556" title="Dark Souls">21:37, 10 March 2026</a></td></tr>
+<tr id="mw-pageinfo-edits" style="vertical-align: top;"><td>Total number of edits</td><td>1,338</td></tr>
+<tr id="mw-pageinfo-recent-edits" style="vertical-align: top;"><td>Recent number of edits (within past 30 days)</td><td>2</td></tr>
+<tr id="mw-pageinfo-recent-authors" style="vertical-align: top;"><td>Recent number of distinct authors</td><td>2</td></tr>
+</table>
+<h2 id="Page_properties"><span id="mw-pageinfo-header-properties"></span>Page properties</h2>
+<table class="wikitable mw-page-info">
+<tr id="mw-pageinfo-magic-words" style="vertical-align: top;"><td>Magic word (1)</td><td><ul><li>__TOC__</li></ul></td></tr>
+<tr id="mw-pageinfo-hidden-categories" style="vertical-align: top;"><td>Hidden categories (11)</td><td><div class="mw-hiddenCategoriesExplanation"><p>This page is a member of 11 hidden categories<span class="posteditwindowhelplinks"> (<a href="/wiki/Help:Category#Hiding_categories" title="Help:Category">help</a>)</span>:
+</p></div><ul>
+<li><a href="/wiki/Category:All_articles_containing_potentially_dated_statements" title="Category:All articles containing potentially dated statements">Category:All articles containing potentially dated statements</a></li>
+<li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Category:Articles with short description</a></li>
+<li><a href="/wiki/Category:Articles_containing_potentially_dated_statements_from_2024" title="Category:Articles containing potentially dated statements from 2024">Category:Articles containing potentially dated statements from 2024</a></li>
+<li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Category:Webarchive template wayback links</a></li>
+<li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">Category:All articles with unsourced statements</a></li>
+<li><a href="/wiki/Category:Short_description_matches_Wikidata" title="Category:Short description matches Wikidata">Category:Short description matches Wikidata</a></li>
+<li><a href="/wiki/Category:Articles_containing_Japanese-language_text" title="Category:Articles containing Japanese-language text">Category:Articles containing Japanese-language text</a></li>
+<li><a href="/wiki/Category:CS1_German-language_sources_(de)" title="Category:CS1 German-language sources (de)">Category:CS1 German-language sources (de)</a></li>
+<li><a href="/wiki/Category:Articles_with_unsourced_statements_from_May_2024" title="Category:Articles with unsourced statements from May 2024">Category:Articles with unsourced statements from May 2024</a></li>
+<li><a href="/wiki/Category:Use_mdy_dates_from_July_2024" title="Category:Use mdy dates from July 2024">Category:Use mdy dates from July 2024</a></li>
+<li><a href="/wiki/Category:Articles_containing_potentially_dated_statements_from_2025" title="Category:Articles containing potentially dated statements from 2025">Category:Articles containing potentially dated statements from 2025</a></li>
+</ul></td></tr>
+<tr id="mw-pageinfo-templates" style="vertical-align: top;"><td>Transcluded templates (135)</td><td><div class="mw-templatesUsedExplanation"><p><span id="templatesused">Pages transcluded onto the current version of this page<span class="posteditwindowhelplinks"> (<a href="/wiki/Help:Transclusion" title="Help:Transclusion">help</a>)</span>:</span>
+</p></div><ul>
+<li><a href="/wiki/Template:Citation_needed" title="Template:Citation needed">Template:Citation needed</a> (<a href="/w/index.php?title=Template:Citation_needed&amp;action=edit" title="Template:Citation needed">view source</a>) (fully protected)</li><li><a href="/wiki/Template:Cite_journal" title="Template:Cite journal">Template:Cite journal</a> (<a href="/w/index.php?title=Template:Cite_journal&amp;action=edit" title="Template:Cite journal">view source</a>) (fully protected)</li><li><a href="/wiki/Template:Cite_web" title="Template:Cite web">Template:Cite web</a> (<a href="/w/index.php?title=Template:Cite_web&amp;action=edit" title="Template:Cite web">view source</a>) (fully protected)</li><li><a href="/wiki/Template:DMCA" class="mw-redirect" title="Template:DMCA">Template:DMCA</a> (<a href="/w/index.php?title=Template:DMCA&amp;action=edit" class="mw-redirect" title="Template:DMCA">view source</a>) (template editor protected)</li><li><a href="/wiki/Template:Dated_maintenance_category" title="Template:Dated maintenance category">Template:Dated maintenance category</a> (<a href="/w/index.php?title=Template:Dated_maintenance_category&amp;action=edit" title="Template:Dated maintenance category">view source</a>) (template editor protected)</li><li><a href="/wiki/Template:Delink" title="Template:Delink">Template:Delink</a> (<a href="/w/index.php?title=Template:Delink&amp;action=edit" title="Template:Delink">view source</a>) (fully protected)</li><li><a href="/wiki/Template:FULLROOTPAGENAME" title="Template:FULLROOTPAGENAME">Template:FULLROOTPAGENAME</a> (<a href="/w/index.php?title=Template:FULLROOTPAGENAME&amp;action=edit" title="Template:FULLROOTPAGENAME">view source</a>) (template editor protected)</li><li><a href="/wiki/Template:Fix" title="Template:Fix">Template:Fix</a> (<a href="/w/index.php?title=Template:Fix&amp;action=edit" title="Template:Fix">view source</a>) (fully protected)</li><li><a href="/wiki/Template:Main_other" title="Template:Main other">Template:Main other</a> (<a href="/w/index.php?title=Template:Main_other&amp;action=edit" title="Template:Main other">view source</a>) (fully protected)</li><li><a href="/wiki/Template:Ns_has_subpages" title="Template:Ns has subpages">Template:Ns has subpages</a> (<a href="/w/index.php?title=Template:Ns_has_subpages&amp;action=edit" title="Template:Ns has subpages">view source</a>) (fully protected)</li><li><a href="/wiki/Template:Pagetype" title="Template:Pagetype">Template:Pagetype</a> (<a href="/w/index.php?title=Template:Pagetype&amp;action=edit" title="Template:Pagetype">view source</a>) (fully protected)</li><li><a href="/wiki/Template:SDcat" title="Template:SDcat">Template:SDcat</a> (<a href="/w/index.php?title=Template:SDcat&amp;action=edit" title="Template:SDcat">view source</a>) (fully protected)</li><li><a href="/wiki/Template:Short_description" title="Template:Short description">Template:Short description</a> (<a href="/w/index.php?title=Template:Short_description&amp;action=edit" title="Template:Short description">view source</a>) (fully protected)</li><li><a href="/wiki/Template:Short_description/lowercasecheck" title="Template:Short description/lowercasecheck">Template:Short description/lowercasecheck</a> (<a href="/w/index.php?title=Template:Short_description/lowercasecheck&amp;action=edit" title="Template:Short description/lowercasecheck">view source</a>) (fully protected)</li><li><a href="/wiki/Template:Unbulleted_list" title="Template:Unbulleted list">Template:Unbulleted list</a> (<a href="/w/index.php?title=Template:Unbulleted_list&amp;action=edit" title="Template:Unbulleted list">view source</a>) (template editor protected)</li><li><a href="/wiki/Template:Yesno" title="Template:Yesno">Template:Yesno</a> (<a href="/w/index.php?title=Template:Yesno&amp;action=edit" title="Template:Yesno">view source</a>) (fully protected)</li><li><a href="/wiki/Module:Arguments" title="Module:Arguments">Module:Arguments</a> (<a href="/w/index.php?title=Module:Arguments&amp;action=edit" title="Module:Arguments">view source</a>) (fully protected)</li><li><a href="/wiki/Module:Category_handler" title="Module:Category handler">Module:Category handler</a> (<a href="/w/index.php?title=Module:Category_handler&amp;action=edit" title="Module:Category handler">view source</a>) (fully protected)</li><li><a href="/wiki/Module:Category_handler/blacklist" title="Module:Category handler/blacklist">Module:Category handler/blacklist</a> (<a href="/w/index.php?title=Module:Category_handler/blacklist&amp;action=edit" title="Module:Category handler/blacklist">view source</a>) (fully protected)</li><li><a href="/wiki/Module:Category_handler/config" title="Module:Category handler/config">Module:Category handler/config</a> (<a href="/w/index.php?title=Module:Category_handler/config&amp;action=edit" title="Module:Category handler/config">view source</a>) (fully protected)</li><li><a href="/wiki/Module:Category_handler/data" title="Module:Category handler/data">Module:Category handler/data</a> (<a href="/w/index.php?title=Module:Category_handler/data&amp;action=edit" title="Module:Category handler/data">view source</a>) (fully protected)</li><li><a href="/wiki/Module:Category_handler/shared" title="Module:Category handler/shared">Module:Category handler/shared</a> (<a href="/w/index.php?title=Module:Category_handler/shared&amp;action=edit" title="Module:Category handler/shared">view source</a>) (fully protected)</li><li><a href="/wiki/Module:Check_for_unknown_parameters" title="Module:Check for unknown parameters">Module:Check for unknown parameters</a> (<a href="/w/index.php?title=Module:Check_for_unknown_parameters&amp;action=edit" title="Module:Check for unknown parameters">view source</a>) (fully protected)</li><li><a href="/wiki/Module:Citation/CS1" title="Module:Citation/CS1">Module:Citation/CS1</a> (<a href="/w/index.php?title=Module:Citation/CS1&amp;action=edit" title="Module:Citation/CS1">view source</a>) (fully protected)</li><li><a href="/wiki/Module:Citation/CS1/COinS" title="Module:Citation/CS1/COinS">Module:Citation/CS1/COinS</a> (<a href="/w/index.php?title=Module:Citation/CS1/COinS&amp;action=edit" title="Module:Citation/CS1/COinS">view source</a>) (fully protected)</li><li><a href="/wiki/Module:Citation/CS1/Configuration" title="Module:Citation/CS1/Configuration">Module:Citation/CS1/Configuration</a> (<a href="/w/index.php?title=Module:Citation/CS1/Configuration&amp;action=edit" title="Module:Citation/CS1/Configuration">view source</a>) (fully protected)</li><li><a href="/wiki/Module:Citation/CS1/Date_validation" title="Module:Citation/CS1/Date validation">Module:Citation/CS1/Date validation</a> (<a href="/w/index.php?title=Module:Citation/CS1/Date_validation&amp;action=edit" title="Module:Citation/CS1/Date validation">view source</a>) (fully protected)</li><li><a href="/wiki/Module:Citation/CS1/Identifiers" title="Module:Citation/CS1/Identifiers">Module:Citation/CS1/Identifiers</a> (<a href="/w/index.php?title=Module:Citation/CS1/Identifiers&amp;action=edit" title="Module:Citation/CS1/Identifiers">view source</a>) (fully protected)</li><li><a href="/wiki/Module:Citation/CS1/Utilities" title="Module:Citation/CS1/Utilities">Module:Citation/CS1/Utilities</a> (<a href="/w/index.php?title=Module:Citation/CS1/Utilities&amp;action=edit" title="Module:Citation/CS1/Utilities">view source</a>) (fully protected)</li><li><a href="/wiki/Module:Citation/CS1/Whitelist" title="Module:Citation/CS1/Whitelist">Module:Citation/CS1/Whitelist</a> (<a href="/w/index.php?title=Module:Citation/CS1/Whitelist&amp;action=edit" title="Module:Citation/CS1/Whitelist">view source</a>) (fully protected)</li><li><a href="/wiki/Module:Citation/CS1/styles.css" title="Module:Citation/CS1/styles.css">Module:Citation/CS1/styles.css</a> (<a href="/w/index.php?title=Module:Citation/CS1/styles.css&amp;action=edit" title="Module:Citation/CS1/styles.css">view source</a>) (fully protected)</li><li><a href="/wiki/Module:Delink" title="Module:Delink">Module:Delink</a> (<a href="/w/index.php?title=Module:Delink&amp;action=edit" title="Module:Delink">view source</a>) (fully protected)</li><li><a href="/wiki/Module:Infobox" title="Module:Infobox">Module:Infobox</a> (<a href="/w/index.php?title=Module:Infobox&amp;action=edit" title="Module:Infobox">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:Infobox/styles.css" title="Module:Infobox/styles.css">Module:Infobox/styles.css</a> (<a href="/w/index.php?title=Module:Infobox/styles.css&amp;action=edit" title="Module:Infobox/styles.css">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:InfoboxImage" title="Module:InfoboxImage">Module:InfoboxImage</a> (<a href="/w/index.php?title=Module:InfoboxImage&amp;action=edit" title="Module:InfoboxImage">view source</a>) (fully protected)</li><li><a href="/wiki/Module:Lang" title="Module:Lang">Module:Lang</a> (<a href="/w/index.php?title=Module:Lang&amp;action=edit" title="Module:Lang">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:Lang/ISO_639_synonyms" title="Module:Lang/ISO 639 synonyms">Module:Lang/ISO 639 synonyms</a> (<a href="/w/index.php?title=Module:Lang/ISO_639_synonyms&amp;action=edit" title="Module:Lang/ISO 639 synonyms">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:Lang/data" title="Module:Lang/data">Module:Lang/data</a> (<a href="/w/index.php?title=Module:Lang/data&amp;action=edit" title="Module:Lang/data">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:List" title="Module:List">Module:List</a> (<a href="/w/index.php?title=Module:List&amp;action=edit" title="Module:List">view source</a>) (fully protected)</li><li><a href="/wiki/Module:Namespace_detect/config" title="Module:Namespace detect/config">Module:Namespace detect/config</a> (<a href="/w/index.php?title=Module:Namespace_detect/config&amp;action=edit" title="Module:Namespace detect/config">view source</a>) (fully protected)</li><li><a href="/wiki/Module:Namespace_detect/data" title="Module:Namespace detect/data">Module:Namespace detect/data</a> (<a href="/w/index.php?title=Module:Namespace_detect/data&amp;action=edit" title="Module:Namespace detect/data">view source</a>) (fully protected)</li><li><a href="/wiki/Module:Ns_has_subpages" title="Module:Ns has subpages">Module:Ns has subpages</a> (<a href="/w/index.php?title=Module:Ns_has_subpages&amp;action=edit" title="Module:Ns has subpages">view source</a>) (fully protected)</li><li><a href="/wiki/Module:Pagetype" title="Module:Pagetype">Module:Pagetype</a> (<a href="/w/index.php?title=Module:Pagetype&amp;action=edit" title="Module:Pagetype">view source</a>) (fully protected)</li><li><a href="/wiki/Module:Pagetype/config" title="Module:Pagetype/config">Module:Pagetype/config</a> (<a href="/w/index.php?title=Module:Pagetype/config&amp;action=edit" title="Module:Pagetype/config">view source</a>) (fully protected)</li><li><a href="/wiki/Module:SDcat" title="Module:SDcat">Module:SDcat</a> (<a href="/w/index.php?title=Module:SDcat&amp;action=edit" title="Module:SDcat">view source</a>) (fully protected)</li><li><a href="/wiki/Module:String" title="Module:String">Module:String</a> (<a href="/w/index.php?title=Module:String&amp;action=edit" title="Module:String">view source</a>) (fully protected)</li><li><a href="/wiki/Module:TableTools" title="Module:TableTools">Module:TableTools</a> (<a href="/w/index.php?title=Module:TableTools&amp;action=edit" title="Module:TableTools">view source</a>) (fully protected)</li><li><a href="/wiki/Module:Unicode_data" title="Module:Unicode data">Module:Unicode data</a> (<a href="/w/index.php?title=Module:Unicode_data&amp;action=edit" title="Module:Unicode data">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:Unsubst" title="Module:Unsubst">Module:Unsubst</a> (<a href="/w/index.php?title=Module:Unsubst&amp;action=edit" title="Module:Unsubst">view source</a>) (fully protected)</li><li><a href="/wiki/Module:Yesno" title="Module:Yesno">Module:Yesno</a> (<a href="/w/index.php?title=Module:Yesno&amp;action=edit" title="Module:Yesno">view source</a>) (fully protected)</li><li>This list may be incomplete.</li></ul></td></tr>
+<tr style="vertical-align: top;"><td>Wikidata entities used in this page</td><td><ul><li><a class="extiw wb-entity-link external" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1166232">Dark Souls</a></li><ul><li>Statement: P577</li><li>Label: en</li><li>Title</li><li>Statement (with qualifiers and references): P444</li></ul><li><a class="extiw wb-entity-link external" href="https://www.wikidata.org/wiki/Special:EntityPage/Q150248">Metacritic</a></li><ul><li>Label: en</li></ul><li><a class="extiw wb-entity-link external" href="https://www.wikidata.org/wiki/Special:EntityPage/Q20112508">Dark Souls III</a></li><ul><li>Statement: P577</li><li>Label: en</li><li>Title</li><li>Statement (with qualifiers and references): P444</li></ul><li><a class="extiw wb-entity-link external" href="https://www.wikidata.org/wiki/Special:EntityPage/Q3702740">Dark Souls II</a></li><ul><li>Statement: P577</li><li>Label: en</li><li>Title</li><li>Statement (with qualifiers and references): P444</li></ul><li><a class="extiw wb-entity-link external" href="https://www.wikidata.org/wiki/Special:EntityPage/Q5009253">Paramount Streaming</a></li><ul><li>Label: en</li></ul><li><a class="extiw wb-entity-link external" href="https://www.wikidata.org/wiki/Special:EntityPage/Q55728812">Dark Souls: Remastered</a></li><ul><li>Statement: P577</li><li>Label: en</li><li>Title</li><li>Statement (with qualifiers and references): P444</li></ul><li><a class="extiw wb-entity-link external" href="https://www.wikidata.org/wiki/Special:EntityPage/Q99431276">Dark Souls</a></li><ul><li>Sitelink</li><li>Title</li><li>Description: en</li><li>Statement: P527</li></ul></ul></td></tr>
+</table>
+<h2 id="Lint_errors"><span id="mw-pageinfo-linter"></span>Lint errors</h2>
+<table class="wikitable mw-page-info">
+<tr id="mw-linter-category-duplicate-ids" style="vertical-align: top;"><td>Duplicate IDs</td><td>3</td></tr>
+</table>
+<a href="/w/index.php?title=Special:LintErrors&amp;wpNamespaceRestrictions=0&amp;titlesearch=Dark+Souls&amp;exactmatch=1" title="Special:LintErrors">View detailed information on the lint errors.</a>
+<div class="mw-heading mw-heading2"><h2 id="External_tools">External tools</h2></div>
+<ul><li><a rel="nofollow" class="external text" href="http://wikipedia.ramselehof.de/wikiblame.php?lang=en&amp;article=Dark_Souls">Revision history search</a></li>
+<li><a rel="nofollow" class="external text" href="https://xtools.wmflabs.org/articleinfo/?article=Dark_Souls&amp;project=en.wikipedia.org">Revision history statistics</a></li>
+<li><a rel="nofollow" class="external text" href="https://xtools.wmflabs.org/topedits/en.wikipedia.org?page=Dark_Souls&amp;namespace=0">Edits by user</a></li>
+<li><a rel="nofollow" class="external text" href="https://pageviews.wmcloud.org?pages=Dark_Souls&amp;project=en.wikipedia.org">Page view statistics</a></li>
+<li><a rel="nofollow" class="external text" href="http://en.wikichecker.com/article/?a=Dark_Souls">WikiChecker</a></li></ul><noscript><img src="https://en.wikipedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&amp;type=1x1&amp;usesul3=1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/wiki/Dark_Souls">https://en.wikipedia.org/wiki/Dark_Souls</a>"</div></div>
+					<div id="catlinks" class="catlinks catlinks-allhidden" data-mw-interface=""></div>
 				</div>
 			</main>
 			
@@ -637,21 +658,19 @@ Post‐processing cache key nowiki:postproc‐parsoid‐pcache:2088345:|#|:idhas
 			
 <footer id="footer" class="mw-footer" >
 	<ul id="footer-info">
-	<li id="footer-info-lastmod"> Denne siden ble sist redigert 7. des. 2025 kl. 05:36.</li>
-	<li id="footer-info-renderedwith">Siden ble gjengitt med <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Parsoid" class="extiw" title="mw:Special:MyLanguage/Parsoid">Parsoid</a>.</li>
-	<li id="footer-info-copyright">Innholdet er tilgjengelig under <a rel="nofollow" class="external text" href="https://creativecommons.org/licenses/by-sa/4.0/deed.no">Creative Commons-lisensen Navngivelse-DelPåSammeVilkår</a>, men ytterligere betingelser kan gjelde. Se <a class="external text" href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use">bruksvilkårene</a> for detaljer.</li>
 </ul>
 
 	<ul id="footer-places">
-	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">Personvern</a></li>
-	<li id="footer-places-about"><a href="/wiki/Wikipedia:Om">Om Wikipedia</a></li>
-	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:Generelle_forbehold">Forbehold</a></li>
-	<li id="footer-places-legal-safety-contacts"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Wikimedia_Foundation_Legal_and_Safety_Contact_Information">Juridisk og sikkerhetsrelatert kontakt</a></li>
-	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">Atferdskodeks</a></li>
-	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Utviklere</a></li>
-	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/no.wikipedia.org">Statistikk</a></li>
-	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Erklæring om informasjonskapsler</a></li>
-	<li id="footer-places-mobileview"><a href="//no.wikipedia.org/w/index.php?title=Dark_Souls&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobilvisning</a></li>
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:General_disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-legal-safety-contacts"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Wikimedia_Foundation_Legal_and_Safety_Contact_Information">Legal &amp; safety contacts</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">Code of Conduct</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookie statement</a></li>
+	<li id="footer-places-mobileview"><a href="//en.wikipedia.org/w/index.php?title=Dark_Souls&amp;action=info&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
 </ul>
 
 	<ul id="footer-icons" class="noprint">
@@ -670,7 +689,7 @@ Post‐processing cache key nowiki:postproc‐parsoid‐pcache:2088345:|#|:idhas
 			<div class="vector-sticky-header-icon-start vector-button-flush-left" aria-hidden="true">
 				<button class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-sticky-header-search-toggle" tabindex="-1" data-event-name="ui.vector-sticky-search-form.icon"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
 
-<span>Søk</span>
+<span>Search</span>
 			</button>
 		</div>
 			
@@ -683,24 +702,24 @@ Post‐processing cache key nowiki:postproc‐parsoid‐pcache:2088345:|#|:idhas
 								<input
 									class="cdx-text-input__input mw-searchInput" autocomplete="off"
 									
-									type="search" name="search" placeholder="Søk i Wikipedia">
+									type="search" name="search" placeholder="Search Wikipedia">
 								<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
 							</div>
-							<input type="hidden" name="title" value="Spesial:Søk">
+							<input type="hidden" name="title" value="Special:Search">
 						</div>
-						<button class="cdx-button cdx-search-input__end-button">Søk</button>
+						<button class="cdx-button cdx-search-input__end-button">Search</button>
 					</form>
 				</div>
 			</div>
 		</div>
 		<div class="vector-sticky-header-context-bar">
-				<nav aria-label="Innhold" class="vector-toc-landmark">
+				<nav aria-label="Contents" class="vector-toc-landmark">
 						
 					<div id="vector-sticky-header-toc" class="vector-dropdown mw-portlet mw-portlet-sticky-header-toc vector-sticky-header-toc vector-button-flush-left"  >
-						<input type="checkbox" id="vector-sticky-header-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-sticky-header-toc" class="vector-dropdown-checkbox "  aria-label="Vis/skjul innholdsfortegnelsen"  >
+						<input type="checkbox" id="vector-sticky-header-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-sticky-header-toc" class="vector-dropdown-checkbox "  aria-label="Toggle the table of contents"  >
 						<label id="vector-sticky-header-toc-label" for="vector-sticky-header-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
 
-<span class="vector-dropdown-label-text">Vis/skjul innholdsfortegnelsen</span>
+<span class="vector-dropdown-label-text">Toggle the table of contents</span>
 						</label>
 						<div class="vector-dropdown-content">
 					
@@ -710,7 +729,7 @@ Post‐processing cache key nowiki:postproc‐parsoid‐pcache:2088345:|#|:idhas
 						</div>
 					</div>
 			</nav>
-				<div class="vector-sticky-header-context-bar-primary" aria-hidden="true" ><i>Dark Souls</i></div>
+				<div class="vector-sticky-header-context-bar-primary" aria-hidden="true" >Information for "Dark Souls"</div>
 			</div>
 		</div>
 		<div class="vector-sticky-header-end" aria-hidden="true">
@@ -731,11 +750,11 @@ Post‐processing cache key nowiki:postproc‐parsoid‐pcache:2088345:|#|:idhas
 
 <span></span>
 			</a>
-			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-ve-edit-sticky-header" tabindex="-1" data-event-name="ve-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-edit mw-ui-icon-wikimedia-wikimedia-edit"></span>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-edit-sticky-header" tabindex="-1" data-event-name="wikitext-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-wikiText mw-ui-icon-wikimedia-wikimedia-wikiText"></span>
 
 <span></span>
 			</a>
-			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-edit-sticky-header" tabindex="-1" data-event-name="wikitext-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-wikiText mw-ui-icon-wikimedia-wikimedia-wikiText"></span>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-ve-edit-sticky-header" tabindex="-1" data-event-name="ve-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-edit mw-ui-icon-wikimedia-wikimedia-edit"></span>
 
 <span></span>
 			</a>
@@ -747,11 +766,11 @@ Post‐processing cache key nowiki:postproc‐parsoid‐pcache:2088345:|#|:idhas
 			<div class="vector-sticky-header-buttons">
 				<button class="cdx-button cdx-button--weight-quiet mw-interlanguage-selector" id="p-lang-btn-sticky-header" tabindex="-1" data-event-name="ui.dropdown-p-lang-btn-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-language mw-ui-icon-wikimedia-wikimedia-language"></span>
 
-<span>13 språk</span>
+<span>Add languages</span>
 			</button>
 			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive" id="ca-addsection-sticky-header" tabindex="-1" data-event-name="addsection-sticky-header"><span class="vector-icon mw-ui-icon-speechBubbleAdd-progressive mw-ui-icon-wikimedia-speechBubbleAdd-progressive"></span>
 
-<span>Nytt emne</span>
+<span>Add topic</span>
 			</a>
 		</div>
 			<div class="vector-sticky-header-icon-end">
@@ -766,7 +785,6 @@ Post‐processing cache key nowiki:postproc‐parsoid‐pcache:2088345:|#|:idhas
 		
 	</ul>
 </div>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-7f5cfbd5b7-tqn7b","wgBackendResponseTime":170,"wgPageParseReport":{"limitreport":{"cputime":"0.404","walltime":"0.523","ppvisitednodes":{"value":1774,"limit":1000000},"revisionsize":{"value":1890,"limit":2097152},"postexpandincludesize":{"value":18042,"limit":2097152},"templateargumentsize":{"value":1090,"limit":2097152},"expansiondepth":{"value":11,"limit":100},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":7745,"limit":5000000},"entityaccesscount":{"value":4,"limit":500},"timingprofile":["100.00%  476.987      1 -total"," 49.49%  236.076      1 Mal:Infoboks_videospillserie"," 40.84%  194.810     27 Mal:Infoboks_rad"," 28.52%  136.026     17 Mal:Wikidata-norsk"," 12.59%   60.062      5 Mal:Kilde_www","  6.79%   32.401      1 Mal:Autoritetsdata","  5.96%   28.410     11 Mal:Wikidata","  5.12%   24.441      1 Mal:Navboks","  5.02%   23.951      1 Mal:Offisielle_lenker","  4.55%   21.709      1 Mal:Navbox"]},"scribunto":{"limitreport-timeusage":{"value":"0.186","limit":"10.000"},"limitreport-memusage":{"value":6090030,"limit":52428800}},"cachereport":{"origin":"mw-web.codfw.main-5b6648677c-fcnz6","timestamp":"20260408080141","ttl":57506,"transientcontent":true,"expiry-source":"Modul:Wd-norsk (os.date(!%Y-%m-%d))"}}});});</script>
-<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Dark Souls","url":"https:\/\/no.wikipedia.org\/wiki\/Dark_Souls","sameAs":"http:\/\/www.wikidata.org\/entity\/Q99431276","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q99431276","author":{"@type":"Organization","name":"Bidragsytere til Wikimedia-prosjektene"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2023-01-19T03:14:03Z","dateModified":"2025-12-07T03:36:31Z","headline":"videospillserie"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-54bc494f66-td97r","wgBackendResponseTime":355});});</script>
 </body>
 </html>

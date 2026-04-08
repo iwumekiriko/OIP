@@ -67,7 +67,7 @@ class Crawler:
         for link in soup.find_all("a", href = True):
             full_url = urljoin(url, link["href"])
 
-            if full_url not in self.visited:
+            if self.is_valid_url(full_url) and full_url not in self.visited:
                 self.queue.append(full_url)
 
     def is_valid_url(self, url: str):
