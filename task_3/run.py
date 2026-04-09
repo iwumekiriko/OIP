@@ -7,6 +7,7 @@ from task_2.tokenizer import Tokenizer
 from config import *
 from inv_index import InvertedIndex
 from query_parser import QueryParser
+from search import Search
 
 if __name__ == "__main__":
     tokenizer = Tokenizer()
@@ -18,7 +19,7 @@ if __name__ == "__main__":
     print("Index ready!")
 
     parser = QueryParser()
-
+    search = Search(inv_index)
 
     while True:
         query = input("Enter query (or '\\q'): ")
@@ -31,3 +32,8 @@ if __name__ == "__main__":
 
         print(tokens)
         print(rpn)
+
+        result = search.evaluate(rpn)
+        print("Result documents:", sorted(result))
+        print()
+
