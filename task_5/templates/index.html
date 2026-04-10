@@ -5,23 +5,125 @@
 </head>
 <body>
 
-<h1>Vector Search</h1>
+<div class="container">
+    <form method="post" class="form-container">
+        <input type="text" name="query" placeholder="Enter query..." required>
+        <button type="submit">Search</button>
+    </form>
 
-<form method="post">
-    <input type="text" name="query" placeholder="Enter query..." required>
-    <button type="submit">Search</button>
-</form>
+    <hr>
 
-<hr>
-
-{% if results %}
-<h2>Top 10 results:</h2>
-<ul>
-    {% for doc_id, score in results %}
-        <li>Document {{ doc_id }} — {{ "%.4f"|format(score) }}</li>
+    {% if results %}
+    <h2>Top 10 results:</h2>
+    <ul>
+    {% for item in results %}
+        <li>
+            <a href="{{ item.url }}" target="_blank">
+                {{ item.url }}
+            </a>
+            — {{ "%.4f"|format(item.score) }}
+        </li>
     {% endfor %}
-</ul>
-{% endif %}
+    </ul>
+    {% endif %}
+</div>
+
+
 
 </body>
+<style>
+    body {
+        background: linear-gradient(135deg, #f5f7fa, #e4ecf5);
+        font-family: Arial, sans-serif;
+        margin: 0;
+    }
+
+    .container {
+        height: 100vh;
+        margin: auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        padding: 20px;
+    }
+
+    .form-container {
+        display: flex;
+        gap: 12px;
+        width: 100%;
+        max-width: 700px;
+        margin-bottom: 20px;
+    }
+
+    input[type="text"] {
+        flex: 1;
+        padding: 16px 18px;
+        font-size: 18px;
+        border: 1px solid #d0d7de;
+        border-radius: 12px;
+        outline: none;
+        transition: 0.2s;
+        box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+    }
+
+    input[type="text"]:focus {
+        border-color: #4a90e2;
+        box-shadow: 0 0 0 3px rgba(74,144,226,0.2);
+    }
+
+    button {
+        padding: 16px 24px;
+        font-size: 16px;
+        border: none;
+        border-radius: 12px;
+        background: #4a90e2;
+        color: white;
+        cursor: pointer;
+        transition: 0.2s;
+        white-space: nowrap;
+        box-shadow: 0 2px 8px rgba(74,144,226,0.3);
+    }
+
+    button:hover {
+        background: #357bd8;
+        transform: translateY(-1px);
+    }
+
+    button:active {
+        transform: translateY(0);
+    }
+
+    hr {
+        width: 100%;
+        max-width: 700px;
+        border: none;
+        border-top: 1px solid #ddd;
+        margin: 10px 0 20px;
+    }
+
+    ul {
+        width: 100%;
+        max-width: 700px;
+        padding: 0;
+        list-style: none;
+    }
+
+    li {
+        background: white;
+        padding: 12px 14px;
+        margin-bottom: 10px;
+        border-radius: 10px;
+        box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+    }
+
+    a {
+        color: #2b6cb0;
+        text-decoration: none;
+    }
+
+    a:hover {
+        text-decoration: underline;
+    }
+</style>
 </html>
