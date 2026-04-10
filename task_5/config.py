@@ -1,0 +1,1 @@
+TFIDF_DIR = "../task_4/tfidf_tokens"
