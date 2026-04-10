@@ -22,7 +22,7 @@ class TFIDFPipeline:
         self.token_writer = ResultWriter(TOKENS_OUT)
         self.lemma_writer = ResultWriter(LEMMAS_OUT)
 
-    def run(self):
+    def run(self) -> None:
         documents_tokens = {}
         documents_lemmas = {}
 
