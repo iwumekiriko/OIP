@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Search Engine</title>
+</head>
+<body>
+
+<h1>Vector Search</h1>
+
+<form method="post">
+    <input type="text" name="query" placeholder="Enter query..." required>
+    <button type="submit">Search</button>
+</form>
+
+<hr>
+
+{% if results %}
+<h2>Top 10 results:</h2>
+<ul>
+    {% for doc_id, score in results %}
+        <li>Document {{ doc_id }} — {{ "%.4f"|format(score) }}</li>
+    {% endfor %}
+</ul>
+{% endif %}
+
+</body>
+</html>
